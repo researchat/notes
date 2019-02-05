@@ -1,1 +1,1 @@
-researchat.fm収録のためのメモ帳
+http://researchat.fm/ 収録のためのメモ帳
