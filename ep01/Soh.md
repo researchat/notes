@@ -1,4 +1,7 @@
 ## ネタ
-- CasX, Nature Doudna lab 2019
-- hoge
+- 電気コーヒーケトル ハリオ V60
+  - コーヒー淹れるときの温度をコントロールする
+- iPad Pro 12-inch + Apple pencilを買った
+  - ペーパーレスで論文は本当に読めるのか？
+  - PDFの書き込み
 
