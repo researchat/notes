@@ -16,4 +16,8 @@
 - 10x GenomicsがSpatial Transcriptomicsを買収。
   - Single-cellレベルで遺伝子発現と空間情報のマッピングへ (Sequencing+FISHが融合しつつある)
   - https://www.10xgenomics.com/news/10x-genomics-acquires-spatial-transcriptomics/
-  
+- Benchlingはまじで便利。これがないとプラスミドのコンストラクションできない。MITのstartup。
+- CRISPRを使って本当に細胞系譜を再構成することってできるのか？
+  - 派手な実験的な手法が先行したこの2年間であったが、理論的なアプローチが登場してきた。
+  - [Theoretical modeling on CRISPR-coded cell lineages: efficient encoding and optimal reconstruction](https://www.biorxiv.org/content/10.1101/538488v1)
+  - [Is it possible to reconstruct an accurate cell lineage using CRISPR recorders?](https://www.biorxiv.org/content/10.1101/538488v1)
