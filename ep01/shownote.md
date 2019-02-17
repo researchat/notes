@@ -1,4 +1,4 @@
-## Title: TBA
+## Title: Hoarding spectrum in everyone
 
 Reseerchat.fm ep01は、アメリカで見つかった珍しいザリガニ、染色体と個体サイズの関係、ハッカソン、強迫的ホーディングと片付け、ドラゴンボール、la la landなどについて話しました。
 
