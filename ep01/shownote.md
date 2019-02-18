@@ -10,3 +10,5 @@ Researchat.fm ep01は、アメリカで見つかった珍しいザリガニ、�
 - [Tidying Up with Marie Kondo (Netflix)](https://www.netflix.com/jp/title/80209379)
 - [Damien Chazelle](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%9F%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%81%E3%83%A3%E3%82%BC%E3%83%AB)
 - [Aquaman](http://wwws.warnerbros.co.jp/aquaman/)
+- [Dragon Ball Broly](https://www.boxofficemojo.com/movies/?page=main&id=dragonballzbroly.htm)
+- [Animation Ranking in US](https://www.boxofficemojo.com/genres/chart/?id=anime.htm)
