@@ -1,6 +1,6 @@
 ## Title: Hoarding spectrum in everyone
 
-Researchat.fm ep01は、アメリカで見つかった珍しいザリガニ、染色体と個体サイズの関係、ハッカソン、強迫的ホーディングと片付け、ドラゴンボール、la la landなどについて話しました。
+Researchat.fm ep01は、アメリカで見つかった珍しいザリガニ、染色体数や生物個体のサイズ、ハッカソン、強迫的ホーディングと片付け、ドラゴンボール、la la landなどについて話しました。
 
 ## Show Notes
 - [今日からはじめる「技術Podcast」完全入門](https://tatsu-zine.com/books/yatteiki-podcast)
