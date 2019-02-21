@@ -4,10 +4,15 @@
 
 ### 話したいこと
 - EVO Japan2019の鉄拳トーナメントにおいて、パキスタン勢のAshがまさかの優勝。
+ 
   -鉄拳魔界トーナメント編突入
+  
   -ビザ問題について
+  
   -コミュニティー文化の重要性
+  
   -まだみぬ強豪論
+  
   -神奈川高校野球を見る理由
   
 - なぜ、ボストンの普通の酒屋に獺祭が置いてあるのか
@@ -18,7 +23,8 @@
 
 - [110M years前に死んだクモの目はまだ光る](https://www.sciencealert.com/researchers-find-10-new-fossil-spider-species-one-whose-eye-s-still-glow-after-110-million-years)
 
-
+  - 下村脩と蛍光タンパク質
+  
 - 効率厨とやりこみ厨
 
 - ジャーナルクラブの運営方法
