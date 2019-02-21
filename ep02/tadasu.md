@@ -16,8 +16,7 @@
 
 - 若手研究者4人でBoston choromatin clubを立ち上げた経緯と世代間闘争
 
-- 110M years前に死んだクモの目はまだ光る
-　https://www.sciencealert.com/researchers-find-10-new-fossil-spider-species-one-whose-eye-s-still-glow-after-110-million-years
+- [110M years前に死んだクモの目はまだ光る](https://www.sciencealert.com/researchers-find-10-new-fossil-spider-species-one-whose-eye-s-still-glow-after-110-million-years)
 
 
 - 効率厨とやりこみ厨
