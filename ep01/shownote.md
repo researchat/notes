@@ -12,3 +12,4 @@ Researchat.fm ep01は、アメリカで見つかった珍しいザリガニ、�
 - [Aquaman](http://wwws.warnerbros.co.jp/aquaman/)
 - [Dragon Ball Broly](https://www.boxofficemojo.com/movies/?page=main&id=dragonballzbroly.htm)
 - [Animation Ranking in US](https://www.boxofficemojo.com/genres/chart/?id=anime.htm)
+- [Crayfish and chromosomes (2n=376)](https://ci.nii.ac.jp/naid/110003352729/)
