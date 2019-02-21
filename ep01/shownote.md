@@ -1,4 +1,4 @@
-## Title: 600 tabs in your browser
+## Title: 600 tabs in your browser (not finalized yet)
 
 Researchat.fm ep01は、アメリカで見つかった珍しいザリガニ、染色体数や生物個体のサイズ、ハッカソン、強迫的ホーディングと片付け、ドラゴンボール、la la landなどについて話しました。
 
