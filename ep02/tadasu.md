@@ -15,6 +15,11 @@
   
   - 神奈川高校野球を見る理由
   
+  - 現在のスポーツは本当に続くか？
+   
+   -人間がジャッジする時点でクソゲー byまちゃぼー
+   
+  
 - なぜ、ボストンの普通の酒屋に獺祭が置いてあるのか
 
 - NatureにAndrew Murray研から出た、酵母をガンのモデルとして使う発想
@@ -23,7 +28,7 @@
 
 - [110M years前に死んだクモの目はまだ光る](https://www.sciencealert.com/researchers-find-10-new-fossil-spider-species-one-whose-eye-s-still-glow-after-110-million-years)
 
-  - 下村脩と蛍光タンパク質
+  -  これは蛍光タンパク質じゃなくて構造色だったっぽい。
   
 - 効率厨とやりこみ厨
 
