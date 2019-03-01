@@ -19,3 +19,7 @@
 ### Meeting
 - シニアのSpeakerたちの殆どは何個もベンチャーを掛け持ちしていた。10個くらい関わっている人もいた。
 - すぐに起業する文化（？）が根付いているのか？
+
+## CRISPR Base editorのoff-target問題
+- http://science.sciencemag.org/content/early/2019/02/27/science.aav9973
+- http://science.sciencemag.org/content/early/2019/02/27/science.aaw7166
