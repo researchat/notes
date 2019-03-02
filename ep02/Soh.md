@@ -21,5 +21,16 @@
 - すぐに起業する文化（？）が根付いているのか？
 
 ## CRISPR Base editorのoff-target問題
-- http://science.sciencemag.org/content/early/2019/02/27/science.aav9973
-- http://science.sciencemag.org/content/early/2019/02/27/science.aaw7166
+- Cas9のoff-targetはhigh-fidelity mutantによって解決されつつある (eCas9, HF-Cas9)。
+- Deaminaseは普通に発現させるだけで、ゲノムの色々なところ、とくに転写がactiveなところにたくさんC-to-Tを入れる。。
+- 今週のサイエンスにalertする報告が2つ
+  - http://science.sciencemag.org/content/early/2019/02/27/science.aav9973
+  - http://science.sciencemag.org/content/early/2019/02/27/science.aaw7166
+- Q: これ解決できるの？
+  - A: 今のところむり。
+  - 人類にとって一塩基ゲノム編集の道のりは未だ遠いのであった・・・
+
+## Addgene
+- Plasmid DNAのレポジトリ、管理、分与を行うNPO
+- 2004年にHarvardの学生3人が立ち上げ、世界中で使われている。
+- BlogやProtocolも面白く、便利な情報が集まっているのでおすすめ。https://blog.addgene.org/
