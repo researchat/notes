@@ -23,8 +23,10 @@
 ## CRISPR Base editorのoff-target問題
 - Cas9のoff-targetはhigh-fidelity mutantによって解決されつつある (eCas9, HF-Cas9)。
 - Deaminaseは普通に発現させるだけで、ゲノムの色々なところ、とくに転写がactiveなところにたくさんC-to-Tを入れる。。
-- 今週のサイエンスにalartする報告が2つ
+- 今週のサイエンスにalertする報告が2つ
   - http://science.sciencemag.org/content/early/2019/02/27/science.aav9973
   - http://science.sciencemag.org/content/early/2019/02/27/science.aaw7166
 - Q: これ解決できるの？
-  - A: 今のところむり。人類の一塩基ゲノム編集の道のりは未だ遠いのであった・・・
+  - A: 今のところむり。
+  - 人類にとって一塩基ゲノム編集の道のりは未だ遠いのであった・・・
+
