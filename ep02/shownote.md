@@ -20,5 +20,5 @@
 - [The picture of Vortex Championship S2 from Twitter](https://twitter.com/PrinceNovaPTC/status/1099692215578869761)
 - [Green Arcade in South Korea](https://jp.ign.com/arcade/30121/feature/green-arcade21)
 - [MCZ Unveiled 2013 Daigo Umehara vs Infiltration](https://www.youtube.com/watch?v=VKxNHooO5Mk)
-- [Commentary by Daigo Umehara](https://www.youtube.com/watch?v=1XV-BG-0njE&t=120s)
+- [Commentary by Daigo Umehara: Daigo Umehara vs Infiltration](https://www.youtube.com/watch?v=1XV-BG-0njE&t=120s)
 - [狼の口ヴォルフスムント](https://www.amazon.co.jp/dp/B0097286GW)
