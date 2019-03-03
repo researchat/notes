@@ -1,3 +1,3 @@
 ## Recordingの設定
 
-![hoge](https://previews.dropbox.com/p/thumb/AAVeOjl6t3F6JSr31JpUdfoJ7gw0P4oIjCcXDqyLB7BQPOt1gQfKUYQk7HllVeCepSZmJxHSEzEs7Os2IuOEtZagsuBDfQ6RKNuTWBzZ6NYAqbZGUih15IXuWiMu7Fp_tYL_zp05gAuP9l6yd9GkbM9fV1O2xCd3-oAQFXgW9i_6QDi4r19_OqanofJCWeV9ReRTzlH1hPx5GXtgDDhHAtEqIDipEZ7FeTI7RdCy3aX_su2JefurXnHxg5xuENf4IBJLptWAezTdEvDxfj6cCYo1PAFqnDBSr_gnUJHfrgI61XZ1ZJUhm2n6JD4iKQGs9ik9LIxz9xPDrYSSo7bkR1H7/p.png)
+![](https://user-images.githubusercontent.com/1855860/53690691-c9c33f80-3db2-11e9-82e0-ce8afde73ba8.png)
