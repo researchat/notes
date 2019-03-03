@@ -8,7 +8,16 @@
 - [Naturally Occurring Off-Switches for CRISPR-Cas9. Pawluk et al., Cell 2016](https://www.cell.com/fulltext/S0092-8674(16)31589-6)
 
 ## Ep03
-### Title
+### Title: Here comes a new challenger (仮)
 
 ### Show notes
+- [Arslan Ash: twitter](https://twitter.com/arslanash95)
+- [Arslan Ash vs AK EVO Japan Grand Final](https://www.youtube.com/watch?v=Ll14eOaz9aw)
+- [eFight Pass](https://www.efightpass.org/)
+- [Arslan Ashとは (ファミ通AppVS)](https://appvs.famitsu.com/20190220_20616/)
+- [EVO 2019](http://evo.shoryuken.com/)
+- [Vortex Championship S2](https://challonge.com/vcs2)
+- [Green Arcade in South Korea](https://jp.ign.com/arcade/30121/feature/green-arcade21)
+- [MCZ Unveiled 2013 Daigo Umehara vs Infiltration](https://www.youtube.com/watch?v=VKxNHooO5Mk)
+- [Commentary by Daigo Umehara](https://www.youtube.com/watch?v=1XV-BG-0njE&t=120s)
 - [狼の口ヴォルフスムント](https://www.amazon.co.jp/dp/B0097286GW)
