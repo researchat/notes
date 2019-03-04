@@ -14,7 +14,7 @@ tadasu、soh、coelaの3人でCRISPR-Cas9使ったゲノム編集の歴史、Cas
 
 ## Ep03
 ### Title: Here comes a new challenger (仮)
-
+tadasu、soh、coelaの3人でEVO JAPAN 2019、パキスタン勢とArslan Ash、e-sportsと渡航ビザ問題、格ゲー動画勢の楽しみ方、ウメハラの攻略法、サムライスピリッツ、狼のロヴォルフスムントについて話しました。
 ### Show notes
 - [Arslan Ash: twitter](https://twitter.com/arslanash95)
 - [Arslan Ash vs AK: EVO Japan 2019 Tekken 7 Grand Final](https://www.youtube.com/watch?v=Ll14eOaz9aw)
