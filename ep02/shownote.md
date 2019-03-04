@@ -26,4 +26,5 @@ tadasu、soh、coelaの3人でCRISPR-Cas9使ったゲノム編集の歴史、Cas
 - [Green Arcade in South Korea](https://jp.ign.com/arcade/30121/feature/green-arcade21)
 - [MCZ Unveiled 2013 Daigo Umehara vs Infiltration](https://www.youtube.com/watch?v=VKxNHooO5Mk)
 - [Commentary by Daigo Umehara: Daigo Umehara vs Infiltration](https://www.youtube.com/watch?v=1XV-BG-0njE&t=120s)
+- [SAMURAI SPIRITS / SAMURAI SHODOWN - Teaser Trailer](https://www.youtube.com/watch?v=HHxLYLwwQVY)
 - [狼の口ヴォルフスムント](https://www.amazon.co.jp/dp/B0097286GW)
