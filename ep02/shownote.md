@@ -5,6 +5,9 @@
 - [Multiplex Genome Engineering Using CRISPR/Cas Systems. Cong et al., Science 2012](http://science.sciencemag.org/content/339/6121/819.long)
 - [RNA-Guided Human Genome Engineering via Cas9. Mali et al., Science 2012](http://science.sciencemag.org/content/339/6121/823.long)
 - [Rationally engineered Cas9 nucleases with improved specificity. Slaymaker et al., Science 2016](http://science.sciencemag.org/content/351/6268/84.long)
+- [Ethics aside, does the CRISPR baby experiment make scientific sense?](https://www.sciencemag.org/news/2018/11/ethics-aside-does-crispr-baby-experiment-make-scientific-sense)
+- [声明：ゲノム編集を実施したヒト受精卵から女児を誕生させたとの発表に対する懸念, 日本ゲノム編集学会](http://jsgedit.jp/news/info1/856.html)
+- [Guidelines for base editing in mammalian cells](https://benchling.com/pub/liu-base-editor)
 - [Naturally Occurring Off-Switches for CRISPR-Cas9. Pawluk et al., Cell 2016](https://www.cell.com/fulltext/S0092-8674(16)31589-6)
 
 ## Ep03
