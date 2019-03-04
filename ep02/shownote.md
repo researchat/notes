@@ -1,10 +1,12 @@
 ## Ep02
 ### Title: Too early to be safe (仮)
+tadasu、soh、coelaの3人でCRISPR-Cas9使ったゲノム編集の歴史、Cas9タンパク質のエンジニアリング、Off-target問題、Anti-CRISPRタンパクなどについて話しました。
 
 ### Show notes
 - [Multiplex Genome Engineering Using CRISPR/Cas Systems. Cong et al., Science 2012](http://science.sciencemag.org/content/339/6121/819.long)
 - [RNA-Guided Human Genome Engineering via Cas9. Mali et al., Science 2012](http://science.sciencemag.org/content/339/6121/823.long)
 - [Rationally engineered Cas9 nucleases with improved specificity. Slaymaker et al., Science 2016](http://science.sciencemag.org/content/351/6268/84.long)
+- [High-fidelity CRISPR-Cas9 nucleases with no detectable genome-wide off-target effects. Kleinstiver et al., 2016 Nature](https://www.nature.com/articles/nature16526)
 - [Ethics aside, does the CRISPR baby experiment make scientific sense?](https://www.sciencemag.org/news/2018/11/ethics-aside-does-crispr-baby-experiment-make-scientific-sense)
 - [声明：ゲノム編集を実施したヒト受精卵から女児を誕生させたとの発表に対する懸念, 日本ゲノム編集学会](http://jsgedit.jp/news/info1/856.html)
 - [Guidelines for base editing in mammalian cells](https://benchling.com/pub/liu-base-editor)
