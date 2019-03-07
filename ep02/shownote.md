@@ -16,7 +16,7 @@ tadasu、soh、coelaの3人でCRISPR-Cas9使ったゲノム編集の歴史、Off
 
 ## Ep03
 ### Title: Here comes a new challenger (仮)
-tadasu、soh、coelaの3人でeスポーツ、EVO JAPAN 2019、パキスタン勢とArslan Ash、eスポーツと渡航ビザ問題、格ゲー動画勢の楽しみ方、ウメハラの攻略法、サムライスピリッツ、おすすめのマンガ情報について話しました。
+tadasu、soh、coelaの3人でeスポーツ、EVO JAPAN 2019、パキスタン勢とArslan Ash、eスポーツと渡航ビザ問題、格ゲー動画勢の楽しみ方、eスポーツの解説とサイエンスコミュニケーション、ウメハラの攻略法、サムライスピリッツ、おすすめのマンガ情報について話しました。
 ### Show notes
 - [エレクトロニック・スポーツ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84)
 - [Arslan Ash (Twitter)](https://twitter.com/arslanash95)
