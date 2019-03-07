@@ -29,5 +29,9 @@ tadasu、soh、coelaの3人でeスポーツ、EVO JAPAN 2019、パキスタン�
 - [Green Arcade in South Korea](https://jp.ign.com/arcade/30121/feature/green-arcade21)
 - [MCZ Unveiled 2013 Daigo Umehara vs Infiltration](https://www.youtube.com/watch?v=VKxNHooO5Mk)
 - [Commentary by Daigo Umehara: Daigo Umehara vs Infiltration](https://www.youtube.com/watch?v=1XV-BG-0njE&t=120s)
+- [将棋電王戦 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B0%86%E6%A3%8B%E9%9B%BB%E7%8E%8B%E6%88%A6)
+- [渡辺光ブログ](https://blog.goo.ne.jp/kishi-akira)
+- [テキサス・ホールデム (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%83%A0)
 - [SAMURAI SPIRITS / SAMURAI SHODOWN - Teaser Trailer](https://www.youtube.com/watch?v=HHxLYLwwQVY)
 - [狼の口ヴォルフスムント](https://www.amazon.co.jp/dp/B0097286GW)
+
