@@ -33,5 +33,5 @@ tadasu、soh、coelaの3人でeスポーツ、EVO JAPAN 2019、パキスタン�
 - [渡辺光ブログ](https://blog.goo.ne.jp/kishi-akira)
 - [テキサス・ホールデム (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%83%A0)
 - [SAMURAI SPIRITS / SAMURAI SHODOWN - Teaser Trailer](https://www.youtube.com/watch?v=HHxLYLwwQVY)
-- [狼の口ヴォルフスムント](https://www.amazon.co.jp/dp/B0097286GW)
+- [狼の口 ヴォルフスムント](https://www.amazon.co.jp/dp/B0097286GW)
 
