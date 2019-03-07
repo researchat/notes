@@ -11,6 +11,7 @@ tadasu、soh、coelaの3人でCRISPR-Cas9使ったゲノム編集の歴史、Off
 - [声明：ゲノム編集を実施したヒト受精卵から女児を誕生させたとの発表に対する懸念, 日本ゲノム編集学会](http://jsgedit.jp/news/info1/856.html)
 - [Guidelines for base editing in mammalian cells](https://benchling.com/pub/liu-base-editor)
 - [CRISPR-Cas encoding of a digital movie into the genomes of a population of living bacteria. Shipman et al., 2017 Nature](https://www.nature.com/articles/nature23017)
+- [ウェットなデータストレージメディアとしてのDNA. 実験医学2019年1月号](https://www.yodosha.co.jp/jikkenigaku/book/9784758125154/index.html)
 - [Naturally Occurring Off-Switches for CRISPR-Cas9. Pawluk et al., Cell 2016](https://www.cell.com/fulltext/S0092-8674(16)31589-6)
 
 ## Ep03
