@@ -16,7 +16,7 @@ tadasu、soh、coelaの3人でCRISPR-Cas9使ったゲノム編集の歴史、Off
 
 ## Ep03
 ### Title: Here comes a new challenger (仮)
-tadasu、soh、coelaの3人でeスポーツ、EVO JAPAN 2019、パキスタン勢とArslan Ash、e-sportsと渡航ビザ問題、格ゲー動画勢の楽しみ方、ウメハラの攻略法、サムライスピリッツ、狼のロヴォルフスムントについて話しました。
+tadasu、soh、coelaの3人でeスポーツ、EVO JAPAN 2019、パキスタン勢とArslan Ash、e-sportsと渡航ビザ問題、格ゲー動画勢の楽しみ方、ウメハラの攻略法、サムライスピリッツ、おすすめのマンガについて話しました。
 ### Show notes
 - [エレクトロニック・スポーツ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84)
 - [Arslan Ash (Twitter)](https://twitter.com/arslanash95)
@@ -33,5 +33,5 @@ tadasu、soh、coelaの3人でeスポーツ、EVO JAPAN 2019、パキスタン�
 - [渡辺光ブログ](https://blog.goo.ne.jp/kishi-akira)
 - [テキサス・ホールデム (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AD%E3%82%B5%E3%82%B9%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%83%A0)
 - [SAMURAI SPIRITS / SAMURAI SHODOWN - Teaser Trailer](https://www.youtube.com/watch?v=HHxLYLwwQVY)
-- [狼の口 ヴォルフスムント](https://www.amazon.co.jp/dp/B0097286GW)
+- [狼の口 ヴォルフスムント (マンガ)](https://www.amazon.co.jp/dp/B0097286GW)
 
