@@ -19,7 +19,7 @@ tadasu、soh、coelaの3人でCRISPR-Cas9使ったゲノム編集の歴史、Off
 tadasu、soh、coelaの3人でeスポーツ、EVO JAPAN 2019、パキスタン勢とArslan Ash、e-sportsと渡航ビザ問題、格ゲー動画勢の楽しみ方、ウメハラの攻略法、サムライスピリッツ、狼のロヴォルフスムントについて話しました。
 ### Show notes
 - [エレクトロニック・スポーツ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84)
-- [Arslan Ash: twitter](https://twitter.com/arslanash95)
+- [Arslan Ash (Twitter)](https://twitter.com/arslanash95)
 - [Arslan Ash vs AK: EVO Japan 2019 Tekken 7 Grand Final](https://www.youtube.com/watch?v=Ll14eOaz9aw)
 - [eFight Pass](https://www.efightpass.org/)
 - [Arslan Ashとは (ファミ通AppVS)](https://appvs.famitsu.com/20190220_20616/)
