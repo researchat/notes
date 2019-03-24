@@ -23,4 +23,5 @@ tadasu、soh、coelaの3人で について話しました。
 - [Feedly](http://feedly.com)
 - [Digg Reader (no longer available)](http://digg.com/reader)
 - [Nature (Twitter)](https://twitter.com/nature), [Science (Twitter)](https://twitter.com/sciencemagazine), [Cell (Twitter)](https://twitter.com/cellcellpress)
+- [JOURNAL OF NEGATIVE RESULTS](http://www.jnr-eeb.org/index.php/jnr)
 - [In defence of passion, Andrew Murray. 1997. Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(06)00127-8)
