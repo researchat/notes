@@ -1,6 +1,6 @@
 ## Title: Optimization of timeline in Twitter
 
-tadasu、soh、coelaの3人で について話しました。
+tadasu、soh、coelaの3人でiPad ProのCapsLock問題、エルゴノミクスキーボード、エディタ、データ解析のためのプログラミング言語と環境、研究のための情報収集、最新論文の収集技術について話しました。
 
 ## Shownotes
 - [ERGODOX EZ](https://ergodox-ez.com/)
@@ -17,4 +17,4 @@ tadasu、soh、coelaの3人で について話しました。
 - [In defence of passion, Andrew Murray. 1997. Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(06)00127-8)
 - [ANDREW MURRAY](https://www.mcb.harvard.edu/directory/andrew-murray/)
 - [ミステリと言う勿れ (マンガ)](https://www.amazon.co.jp/dp/B078N4MK5D)
-- [LIVE A LIVE](https://www.jp.square-enix.com/game/detail/livealive/)
+- [チョットデキル](https://twitter.com/ito_yusaku/status/1042604780718157824?s=20)
