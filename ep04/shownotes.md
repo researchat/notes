@@ -12,9 +12,7 @@ tadasu、soh、coelaの3人で について話しました。
 ## Tadasu
 
 
-- [Nature (Twitter)](https://twitter.com/nature)
-- [Science (Twitter)](https://twitter.com/sciencemagazine)
-- [Cell (Twitter)](https://twitter.com/cellcellpress)
+
 - [ERGODOX EZ](https://ergodox-ez.com/)
 - [Kinesis keyboard](https://www.edikun.co.jp/kinesis/)
 - [デュアルキーボードでさまざまなことが解決しました。すごすぎます。勝間和代 Official web site](http://kazuyomugi.cocolog-nifty.com/private/2014/11/post-dd95.html)
@@ -22,4 +20,7 @@ tadasu、soh、coelaの3人で について話しました。
 - [The Julia Programming Language](https://julialang.org/)
 - [Feedly](http://feedly.com)
 - [Digg Reader (no longer available)](http://digg.com/reader)
+- [Nature (Twitter)](https://twitter.com/nature)
+- [Science (Twitter)](https://twitter.com/sciencemagazine)
+- [Cell (Twitter)](https://twitter.com/cellcellpress)
 - [In defence of passion, Andrew Murray. 1997. Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(06)00127-8)
