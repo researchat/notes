@@ -2,6 +2,7 @@
 
 tadasu、soh、coelaの3人で について話しました。
 
+## Shownotes
 - [ERGODOX EZ](https://ergodox-ez.com/)
 - [Kinesis keyboard](https://www.edikun.co.jp/kinesis/)
 - [デュアルキーボードでさまざまなことが解決しました。すごすぎます。勝間和代 Official web site](http://kazuyomugi.cocolog-nifty.com/private/2014/11/post-dd95.html)
@@ -15,4 +16,4 @@ tadasu、soh、coelaの3人で について話しました。
 - [JOURNAL OF NEGATIVE RESULTS](http://www.jnr-eeb.org/index.php/jnr)
 - [In defence of passion, Andrew Murray. 1997. Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(06)00127-8)
 - [ANDREW MURRAY](https://www.mcb.harvard.edu/directory/andrew-murray/)
-- [ミステリと言う勿れ](https://www.amazon.co.jp/dp/B078N4MK5D)
+- [ミステリと言う勿れ (マンガ)](https://www.amazon.co.jp/dp/B078N4MK5D)
