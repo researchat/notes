@@ -17,4 +17,4 @@ tadasu、soh、coelaの3人で について話しました。
 - [In defence of passion, Andrew Murray. 1997. Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(06)00127-8)
 - [ANDREW MURRAY](https://www.mcb.harvard.edu/directory/andrew-murray/)
 - [ミステリと言う勿れ (マンガ)](https://www.amazon.co.jp/dp/B078N4MK5D)
-- [チョットデキル](https://twitter.com/ito_yusaku/status/1042604780718157824?s=20)
+- [LIVE A LIVE](https://www.jp.square-enix.com/game/detail/livealive/)
