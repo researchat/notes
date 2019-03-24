@@ -3,10 +3,12 @@
 tadasu、soh、coelaの3人で について話しました。
 
 ## Coela
-
 - [ミステリと言う勿れ](https://www.amazon.co.jp/dp/B078N4MK5D)
-- [Kinesis](https://www.edikun.co.jp/kinesis/)
-  
+- [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/index.html)
+- [Julia](https://julialang.org)
+- [Google reader](https://ja.m.wikipedia.org/wiki/Googleリーダー)
+- [Digg Reader](https://en.m.wikipedia.org/wiki/Digg_Reader)
+
 ## Soh
 
 ## Tadasu
