@@ -1,4 +1,4 @@
-## Title: Muscle solves everything you worry about (仮)
+## Title: Muscle solves everything
 
 ## Show notes
 - [Oculus GO (VR)](https://www.oculus.com/go/)
@@ -7,7 +7,7 @@
 - [Rebuild.fm](http://rebuild.fm)
 - [Turing Complete FM](https://turingcomplete.fm/)
 - [Yahoo!ジオシティーズ サービス終了のお知らせ](https://info-geocities.yahoo.co.jp/close/index.html)
-- [画像で見る　#インターネット老人会](https://togetter.com/li/840220)
+- [画像で見る #インターネット老人会](https://togetter.com/li/840220)
 - [“握力の強さ”で日本一に 「ウェブ魚拓」創業者はいかにして肉体派プログラマーになったか](https://orcarl.com/gyotaku2/)
 - [あまりに優美だった昭和の「おせち料理」](https://myjitsu.jp/archives/39953)
 - [株式会社 虎屋](https://www.toraya-group.co.jp/)
