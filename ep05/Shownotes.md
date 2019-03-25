@@ -2,6 +2,7 @@
 - Muscle solves everything
 - Natto is soy sauce 
 
+tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、八ツ橋と生八ツ橋の違いについて話しました。
 ## Show notes
 - [Oculus GO (VR)](https://www.oculus.com/go/)
 - [米シックスフラッグス、ジェットコースターとVRを組み合わせた新アトラクションお披露目](http://ar-bito.com/2017/04/06/%E7%B1%B3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B9%E3%80%81%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A8vr%E3%82%92/)
@@ -15,4 +16,5 @@
 - [株式会社 虎屋](https://www.toraya-group.co.jp/)
 - [19年前のとらやの羊羹を食べてみました！](https://blog-mareeba.com/2018/04/21/yo-kan/)
 - [東京新橋 切腹最中の新正堂](http://www.shinshodoh.co.jp/)
-- [羊羹](https://ja.wikipedia.org/wiki/%E7%BE%8A%E7%BE%B9)
+- [羊羹 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%BE%8A%E7%BE%B9)
+- [阿闍梨餅本舗 京菓子司 -満月-](http://www.ajyarimochi.com/)
