@@ -23,3 +23,4 @@ tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット�
 - [情熱大陸 大西益央[ラーメン店主]](https://www.mbs.jp/jounetsu/2019/02_24.shtml)
 - [Tsurumen Davis, Blog](https://snk-u.tumblr.com/post/183155751311/tsurumen-davis)
 - [Yume Wo Katare (Boston, MA)](https://www.yumewokatare.com/)
+- [URBAN AXES: Boston](https://urbanaxes.com/boston/)
