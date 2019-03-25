@@ -3,7 +3,7 @@
 - Natto is soy sauce
 - Eating ramen without drinking water
 
-tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、八ツ橋と生八ツ橋の違い、コーヒーに合うお菓子、について話しました。
+tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、八ツ橋と生八ツ橋の違い、定食を食べる順番、ビールを飲みながら白米を食べるのか問題、ボストンのラーメン屋、について話しました。
 
 ## Show notes
 - [Oculus GO (VR)](https://www.oculus.com/go/)
@@ -20,3 +20,7 @@ tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット�
 - [東京新橋 切腹最中の新正堂](http://www.shinshodoh.co.jp/)
 - [羊羹 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%BE%8A%E7%BE%B9)
 - [阿闍梨餅本舗 京菓子司 -満月-](http://www.ajyarimochi.com/)
+- [松下製麺所 (香川県高松市中野町)](https://tabelog.com/kagawa/A3703/A370302/37000128/)
+- [情熱大陸 大西益央[ラーメン店主]](https://www.mbs.jp/jounetsu/2019/02_24.shtml)
+- [Tsurumen Davis, Blog](https://snk-u.tumblr.com/post/183155751311/tsurumen-davis)
+- []
