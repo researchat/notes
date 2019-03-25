@@ -1,8 +1,10 @@
 ## Title: 
 - Muscle solves everything
-- Natto is soy sauce 
+- Natto is soy sauce
+- Eating ramen without drinking water
 
-tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、八ツ橋と生八ツ橋の違いについて話しました。
+tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、八ツ橋と生八ツ橋の違い、コーヒーに合うお菓子、について話しました。
+
 ## Show notes
 - [Oculus GO (VR)](https://www.oculus.com/go/)
 - [米シックスフラッグス、ジェットコースターとVRを組み合わせた新アトラクションお披露目](http://ar-bito.com/2017/04/06/%E7%B1%B3%E3%82%B7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0%E3%82%B9%E3%80%81%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%82%B3%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%A8vr%E3%82%92/)
