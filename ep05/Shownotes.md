@@ -1,4 +1,6 @@
-## Title: Muscle solves everything
+## Title: 
+- Muscle solves everything
+- Natto is soy sauce 
 
 ## Show notes
 - [Oculus GO (VR)](https://www.oculus.com/go/)
@@ -13,3 +15,4 @@
 - [株式会社 虎屋](https://www.toraya-group.co.jp/)
 - [19年前のとらやの羊羹を食べてみました！](https://blog-mareeba.com/2018/04/21/yo-kan/)
 - [東京新橋 切腹最中の新正堂](http://www.shinshodoh.co.jp/)
+- [羊羹](https://ja.wikipedia.org/wiki/%E7%BE%8A%E7%BE%B9)
