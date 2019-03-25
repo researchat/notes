@@ -24,3 +24,6 @@ tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット�
 - [Tsurumen Davis, Blog](https://snk-u.tumblr.com/post/183155751311/tsurumen-davis)
 - [Yume Wo Katare (Boston, MA)](https://www.yumewokatare.com/)
 - [URBAN AXES: Boston](https://urbanaxes.com/boston/)
+- [美味しんぼ (マンガ)](https://www.amazon.co.jp/dp/B00AQRC8XE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [めしにしましょう (マンガ)](https://www.amazon.co.jp/dp/B01N8Q8DA7/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [マージナル・オペレーション (マンガ)](https://www.amazon.co.jp/%E3%83%9E%E3%83%BC%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%88%EF%BC%91%EF%BC%89-%E3%82%A2%E3%83%95%E3%82%BF%E3%83%8C%E3%83%BC%E3%83%B3%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E8%8A%9D%E6%9D%91%E8%A3%95%E5%90%8F-ebook/dp/B00HD9J0ZW)
