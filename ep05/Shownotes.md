@@ -2,7 +2,7 @@
 - Muscle solves everything
 - Natto is soy sauce
 
-tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、八ツ橋と生八ツ橋の違い、定食を何から食べるか問題、ビールを飲みながら白米を食べるのか問題、1000日だけ営業するボストンのラーメン屋、について話しました。
+tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、定食を何から食べるか問題、ビールを飲みながら白米を食べるのか問題、ボストン周辺のラーメン屋事情、について話しました。
 
 ## Show notes
 - [Oculus GO (VR)](https://www.oculus.com/go/)
