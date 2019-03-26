@@ -2,7 +2,7 @@
 - Muscle solves everything
 - Natto is soy sauce
 
-tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、定食を何から食べるか問題、ビールを飲みながら白米を食べるのか問題、ボストン周辺のラーメン屋事情、について話しました。
+Tadasu、Soh、Coelaの3人で、ポッドキャスト、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、定食を何から食べるのか問題、ビールを飲みながら白米を食べるのか問題、ボストン周辺のラーメン事情、マンガについて話しました。
 
 ## Show notes
 - [Oculus GO (VR)](https://www.oculus.com/go/)
@@ -17,11 +17,12 @@ tadasu、soh、coelaの3人で、podcast、日本の昔のインターネット�
 - [株式会社 虎屋](https://www.toraya-group.co.jp/)
 - [19年前のとらやの羊羹を食べてみました！](https://blog-mareeba.com/2018/04/21/yo-kan/)
 - [東京新橋 切腹最中の新正堂](http://www.shinshodoh.co.jp/)
+- [漫画やアニメで見た「戸棚から皿に乗せられた羊羹を取り出すシーン」を不思議に思っていたのだが、公式にこういう食べ方がある事を知る](https://togetter.com/li/1302555)
 - [羊羹 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%BE%8A%E7%BE%B9)
 - [阿闍梨餅本舗 京菓子司 -満月-](http://www.ajyarimochi.com/)
 - [松下製麺所 (香川県高松市中野町)](https://tabelog.com/kagawa/A3703/A370302/37000128/)
-- [情熱大陸 大西益央[ラーメン店主]](https://www.mbs.jp/jounetsu/2019/02_24.shtml)
-- [Tsurumen Davis, Blog](https://snk-u.tumblr.com/post/183155751311/tsurumen-davis)
+- [情熱大陸 大西益央 [ラーメン店主]](https://www.mbs.jp/jounetsu/2019/02_24.shtml)
+- [Tsurumen Davis, tadasu's blog](https://snk-u.tumblr.com/post/183155751311/tsurumen-davis)
 - [Yume Wo Katare (Boston, MA)](https://www.yumewokatare.com/)
 - [URBAN AXES: Boston](https://urbanaxes.com/boston/)
 - [美味しんぼ (マンガ)](https://www.amazon.co.jp/dp/B00AQRC8XE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
