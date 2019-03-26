@@ -2,6 +2,7 @@
 - Muscle solves everything
 - Natto is soy sauce
 - All you need is 羊羹
+- No Yokan, No Life
 
 Tadasu、Soh、Coelaの3人で、ポッドキャスト、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、定食を何から食べるのか問題、ビールを飲みながら白米を食べるのか問題、ボストン周辺のラーメン事情、マンガについて話しました。
 
@@ -21,10 +22,11 @@ Tadasu、Soh、Coelaの3人で、ポッドキャスト、日本の昔のイン�
 - [漫画やアニメで見た「戸棚から皿に乗せられた羊羹を取り出すシーン」を不思議に思っていたのだが、公式にこういう食べ方がある事を知る](https://togetter.com/li/1302555)
 - [羊羹 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%BE%8A%E7%BE%B9)
 - [阿闍梨餅本舗 京菓子司 -満月-](http://www.ajyarimochi.com/)
-- [松下製麺所 (香川県高松市中野町)](https://tabelog.com/kagawa/A3703/A370302/37000128/)
+- [松下製麺所 (香川県高松市)](https://tabelog.com/kagawa/A3703/A370302/37000128/)
 - [情熱大陸 大西益央 [ラーメン店主]](https://www.mbs.jp/jounetsu/2019/02_24.shtml)
 - [Tsurumen Davis, tadasu's blog](https://snk-u.tumblr.com/post/183155751311/tsurumen-davis)
 - [Yume Wo Katare (Boston, MA)](https://www.yumewokatare.com/)
+- [A yearlong Yume Wo Katare ticket leads a healthy life by Hoshii T](https://drive.google.com/file/d/1A2Odd9QrlXGpfVKmaZ-iXTyuSdlVfGNX/view?fbclid=IwAR3uNdCcW79PrKorfoFq7m4_sQkwXwguz5yEyuWx6vhwQx9UX64wu7eMfoA)
 - [URBAN AXES: Boston](https://urbanaxes.com/boston/)
 - [美味しんぼ (マンガ)](https://www.amazon.co.jp/dp/B00AQRC8XE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [めしにしましょう (マンガ)](https://www.amazon.co.jp/dp/B01N8Q8DA7/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
