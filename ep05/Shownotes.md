@@ -1,6 +1,7 @@
 ## Title: 
 - Muscle solves everything
 - Natto is soy sauce
+- All you need is 羊羹
 
 Tadasu、Soh、Coelaの3人で、ポッドキャスト、日本の昔のインターネット、納豆と醤油の違い、羊羹と赤福の魅力、定食を何から食べるのか問題、ビールを飲みながら白米を食べるのか問題、ボストン周辺のラーメン事情、マンガについて話しました。
 
