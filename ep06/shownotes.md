@@ -5,6 +5,8 @@ Tadasu、Coela、Sohの三人で、すあまってなんですか？、かまぼ
 ## Show notes
 - [清水屋のところてん](https://www.yasoba.jp/html/page1.html)
 - [八幡巻き](https://ja.wikipedia.org/wiki/%E5%85%AB%E5%B9%A1%E5%B7%BB)
+- [東京ポッド許可局](https://www.tbsradio.jp/tokyopod/)
+- [関西人「かまぼこ？」。関東外では謎の菓子「すあま」とは](https://macaro-ni.jp/32926)
 - [北北西に曇と往け (マンガ)](https://www.amazon.co.jp/dp/B0761LTJML/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [ブルーラグーン](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3)
 - [ジャガイモ飢饉](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%AC%E3%82%A4%E3%83%A2%E9%A3%A2%E9%A5%89)
