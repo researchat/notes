@@ -1,4 +1,4 @@
-Title: A senior who pretends to be a beginner (TBA)
+## Title: A senior who pretends to be a beginner (TBA)
 
 Tadasu、Coela、Sohの三人で、すあまってなんですか？、かまぼことすあまの違い、ところてんの食べ方、讃岐うどん原理主義、エンジョイ勢とガチ勢、物ごとにのめり込んでいくプロセスについて、研究をする上での同僚の存在、研究におけるチームプレイ、老害と認知バイアス、人生における再現可能性な部分について話しました。
 
