@@ -1,5 +1,7 @@
 Sydney Brenner Tribute:細胞系譜->論文紹介
 
+DNAバーコードおよびゲノム編集を用いた細胞系譜の一斉追跡技術: https://www.dropbox.com/s/0uh6jphayarkiii/%E9%87%91%E5%8E%9F%20%E7%94%9F%E4%BD%93%E3%81%AE%E7%A7%91%E5%AD%A6%20manuscript_NY4.pdf?dl=0
+これを土台にする？？
 
 ### Soh
 - 時事ネタ
