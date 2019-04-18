@@ -18,7 +18,7 @@ DNAバーコードおよびゲノム編集を用いた細胞系譜の一斉追�
   - Kazunori Akiyama[https://www.sciencenews.org/article/event-horizon-telescope-scientist-first-black-hole-image]
   - "5Pバイト = 研究チームのメンバーである米アリゾナ大学のダン・マローン氏は、「5ペタバイトのデータは途方もない大きさです」と言う。「MP3ファイルなら5000年分の音声データに相当します。私が読んだ文献によれば、4万人が生涯に撮影する自撮りコレクションが5ペタバイトになるそうです」"  
 
--赤外線が見えるマウス[https://www.sciencedirect.com/science/article/pii/S0092867419301011]
+- 赤外線が見えるマウス[https://www.sciencedirect.com/science/article/pii/S0092867419301011]
 
   
 
