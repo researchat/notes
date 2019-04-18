@@ -11,14 +11,14 @@ DNAバーコードおよびゲノム編集を用いた細胞系譜の一斉追�
 
 ### tadasu
 - 時事ネタ(ブラックホール)
-  - ブラックホールにおける女性問題[https://www.theregister.co.uk/2019/04/12/astronomer_schools_sexists/]
+  - ブラックホールにおける女性問題 (https://www.theregister.co.uk/2019/04/12/astronomer_schools_sexists/)
     - ブラックホールの初の画像が描かれた件でアルゴリズムを開発したKatie Bowmanが注目されたが、Redditのバカ共がGitのコミットの行数がAndrew Chaelのほうが多いと文句を並べた。これに対しChael自身が誰の貢献も重要、女性差別のために自分を祝福するなら人生でするべき事を考えなおせと諭した。
     - 女性の物理進学率[https://www.aps.org/programs/education/statistics/fraction-phd.cfm]
   - ブラックホールは黒いことがわかった。->人が勝手に色付けしただけ。
-  - Kazunori Akiyama[https://www.sciencenews.org/article/event-horizon-telescope-scientist-first-black-hole-image]
+  - Kazunori Akiyama (https://www.sciencenews.org/article/event-horizon-telescope-scientist-first-black-hole-image)
   - "5Pバイト = 研究チームのメンバーである米アリゾナ大学のダン・マローン氏は、「5ペタバイトのデータは途方もない大きさです」と言う。「MP3ファイルなら5000年分の音声データに相当します。私が読んだ文献によれば、4万人が生涯に撮影する自撮りコレクションが5ペタバイトになるそうです」"  
 
-- 赤外線が見えるマウス[https://www.sciencedirect.com/science/article/pii/S0092867419301011]
+- 赤外線が見えるマウス (https://www.sciencedirect.com/science/article/pii/S0092867419301011)
 
   
 
