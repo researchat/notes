@@ -14,6 +14,7 @@ title: 7.
 ## Title: 
 - 
 - The magnesium! It’s the magnesium!
+
 Tadasu、Soh、Coelaの3人で、ポッドキャスト、について話しました。
 
 ## Show Notes
