@@ -11,6 +11,10 @@ duration: "00:00:00"
 layout: article
 title: 7.
 ---
+## Title: 
+- 
+- The magnesium! It’s the magnesium!
+Tadasu、Soh、Coelaの3人で、ポッドキャスト、について話しました。
 
 ## Show Notes
 - [Sydney Brenner (Microsoft Academic)](https://academic.microsoft.com/author/2116579473/publication/search?q=Sydney%20Brenner&qe=Composite(AA.AuId%3D2116579473)&f=&orderBy=2&skip=40&take=10)
@@ -27,6 +31,7 @@ title: 7.
 - [Mattew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson)
 - [Marshall Nirenberg](https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg)
 - [A Most “Elegant” Experiment: Sydney Brenner, Francois Jacob, Mathew Meselson, and the Discovery of Messenger RNA](https://norkinvirology.wordpress.com/2016/10/06/a-most-elegant-experiment-sydney-brenner-frjacob-mathew-meselson-and-the-discovery-of-messenger-rna/)
+- [Astronomer slams sexists trying to tear down black hole researcher's rep](https://www.theregister.co.uk/2019/04/12/astronomer_schools_sexists/)
 - [ポール・チャールズ・ザメクニック](http://www.kazusa.or.jp/dnaftb/21/bio.html)
 - [マーロン・ホーグランド](http://www.kazusa.or.jp/dnaftb/21/bio-2.html)
 - [T4ファージを用いた遺伝解析](https://www.kazusa.or.jp/j/information/pdf/Attachment_T4Phage.pdf)
