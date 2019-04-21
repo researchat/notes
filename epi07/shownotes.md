@@ -29,6 +29,6 @@ title: 7.
 - [A Most “Elegant” Experiment: Sydney Brenner, Francois Jacob, Mathew Meselson, and the Discovery of Messenger RNA](https://norkinvirology.wordpress.com/2016/10/06/a-most-elegant-experiment-sydney-brenner-frjacob-mathew-meselson-and-the-discovery-of-messenger-rna/)
 - [ポール・チャールズ・ザメクニック](http://www.kazusa.or.jp/dnaftb/21/bio.html)
 - [マーロン・ホーグランド](http://www.kazusa.or.jp/dnaftb/21/bio-2.html)
-- [T4ファージを用いた遺伝解析]https://www.kazusa.or.jp/j/information/pdf/Attachment_T4Phage.pdf)
+- [T4ファージを用いた遺伝解析](https://www.kazusa.or.jp/j/information/pdf/Attachment_T4Phage.pdf)
 - [惑星のさみだれ（マンガ）](https://www.amazon.co.jp/dp/B00MXNBMAO/?tag=researchat-22)
 - [路地恋花（マンガ）](https://www.amazon.co.jp/dp/B009YDLEU4/?tag=researchat-22)
