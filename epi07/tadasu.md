@@ -3,6 +3,9 @@ Sydney Brenner Tribute:細胞系譜->論文紹介
 DNAバーコードおよびゲノム編集を用いた細胞系譜の一斉追跡技術: https://www.dropbox.com/s/0uh6jphayarkiii/%E9%87%91%E5%8E%9F%20%E7%94%9F%E4%BD%93%E3%81%AE%E7%A7%91%E5%AD%A6%20manuscript_NY4.pdf?dl=0
 これを土台にする？？
 
+John Sulston, ケンブリッジ(MRC)で学位をとってソークでポスドクをしていた。このとき、シドニーブレナーがMRCに戻ってくれと説得して、MRCに戻った。で、線虫を使った全細胞系譜追跡を成功させた。あとは線虫のゲノム解析に基礎を築き、1998年、complete genomeが解読された最初の生物になった。
+(The embryonic cell lineage of the nematode Caenorhabditis elegans)[https://www.ncbi.nlm.nih.gov/pubmed/6684600]
+
 ### Soh
 - 時事ネタ
   - ブラックホールを観測するためには地球よりでかい望遠鏡が必要... [Katie Bouman, What does a black hole look like (TED talk)](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)
