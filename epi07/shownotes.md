@@ -1,3 +1,18 @@
+---
+actor_ids:
+  - tadasu
+  - soh
+  - coela
+audio_file_path: /audio/7.mp3
+audio_file_size: 
+date: 2019-04-27 00:00:00 +0900
+description: tadasu、soh、coelaの3人で、
+duration: "00:00:00"
+layout: article
+title: 7.
+---
+
+## Show Notes
 - [Sydney Brenner (Microsoft Academic)](https://academic.microsoft.com/author/2116579473/publication/search?q=Sydney%20Brenner&qe=Composite(AA.AuId%3D2116579473)&f=&orderBy=2&skip=40&take=10)
 - [Writing my own computing language for Trac](https://www.webofstories.com/play/sydney.brenner/160)
 - [TRAC (programming language)](https://en.wikipedia.org/wiki/TRAC_(programming_language))
