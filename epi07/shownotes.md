@@ -27,7 +27,7 @@ Tadasu、Soh、Coelaの3人で、ポッドキャスト、について話しま�
 - [A speculation on the origin of protein synthesis.](https://www.ncbi.nlm.nih.gov/pubmed/1023138)
 - [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides.](https://www.ncbi.nlm.nih.gov/pubmed/14479932)
 - [An unstable intermediate carrying information from genes to ribosomes for protein synthesis.](https://www.ncbi.nlm.nih.gov/pubmed/20446365)
-- [The most wrong ideas in science](http://www.chemistry-blog.com/2012/08/16/the-most-beautiful-wrong-ideas-in-science/)
+- [The most beautiful wrong ideas in science](http://www.chemistry-blog.com/2012/08/16/the-most-beautiful-wrong-ideas-in-science/)
 - [Possible Relation between Deoxyribonucleic Acid and Protein Structures](https://www.nature.com/articles/173318a0)
 - [Mattew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson)
 - [Marshall Nirenberg](https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg)
