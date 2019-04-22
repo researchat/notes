@@ -15,6 +15,7 @@ title: 7.
 ## Title:
 - The magnesium! It’s the magnesium! (Tadasu)
 - Do or die; or don't try. (Tadasu)
+- Redundancy is key. (Tadasu)
 - In the golden age of molecular biology (Soh)
 - The 3 letters word (Soh)
 - The impossible hypothesis (Soh)
