@@ -19,6 +19,8 @@ title: 7.
 - In the golden age of molecular biology (Soh)
 - The 3 letters word (Soh)
 - The impossible hypothesis (Soh)
+- I think one of the things about creativity is not to be afraid of saying the wrong thing. (coela)
+- Innovation comes only from an assault on the unknown. (coela)
 
 
 
