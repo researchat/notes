@@ -26,7 +26,7 @@ title: 7.
 - [Katie Bouman, What does a black hole look like (TED talk)](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)... 当時MITの博士学生であったBoumanがブラックホールの観測と画像の再構成についてわかりやすく解説している。
 - [Black hole picture captured for first time in space breakthrough (The Guardian)](https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough)... 南極の氷が春になって溶けないとハードディスクを船で輸送できない問題について。
 - [Sydney Brenner (Microsoft Academic)](https://academic.microsoft.com/author/2116579473/publication/search?q=Sydney%20Brenner&qe=Composite(AA.AuId%3D2116579473)&f=&orderBy=2&skip=40&take=10)... シドニー・ブレナー博士の業績一覧
-- [RNA Tie Club](https://en.wikipedia.org/wiki/RNA_Tie_Club)... RNAネクタイクラブでは、DNA上の情報を元にタンパク質が作られる仕組みを解明しようとした。構成メンバー数はアミノ酸の数にならい20人。メンバーは二重らせん柄のネクタイを締めアミノ酸由来のコードネームを持っていた。ガモフ: アラニン クリック: チロシン　ワトソン:プロリン　ブレナー：バリン　8/20がノーベル賞を受賞。mottoは "do or die; or don't try"
+- [RNA Tie Club](https://en.wikipedia.org/wiki/RNA_Tie_Club)... RNAネクタイクラブでは、DNA上の情報を元にタンパク質が作られる仕組みを解明しようとした。構成メンバー数はアミノ酸の数にならい20人。メンバーは二重らせん柄のネクタイを締めアミノ酸由来のコードネームを持っていた。ガモフ: アラニン　クリック: チロシン　ワトソン:プロリン　ブレナー：バリン　8/20がノーベル賞を受賞。mottoは "do or die; or don't try"
 - [Writing my own computing language for Trac](https://www.webofstories.com/play/sydney.brenner/160)
 - [TRAC (プログラミング言語)](https://en.wikipedia.org/wiki/TRAC_(programming_language))... ブレナーはこのTRACのインタプリタを書いたことがあるらしい。
 - [On the impossibility of all overlapping triplet codes in information transfer from nucleic acid to proteins](https://www.ncbi.nlm.nih.gov/pubmed/16590069)... ブレナーが3文字からなるオーバーラップコドン仮説を否定した論文。当時既知であったアミノ酸配列を用いて、簡単な計算からとても美しい回答を出した。付録にあるアミノ酸配列一覧は必見。
