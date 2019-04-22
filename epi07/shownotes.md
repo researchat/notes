@@ -14,6 +14,7 @@ title: 7.
 
 ## Title:
 - The magnesium! It’s the magnesium! (Tadasu)
+- Do or die; or don't try. (Tadasu)
 - In the golden age of molecular biology (Soh)
 - The 3 letters word (Soh)
 - The impossible hypothesis (Soh)
@@ -22,18 +23,25 @@ Tadasu、Soh、Coelaの3人で、ポッドキャスト、について話しま�
 
 ## Show Notes
 - [Sydney Brenner (Microsoft Academic)](https://academic.microsoft.com/author/2116579473/publication/search?q=Sydney%20Brenner&qe=Composite(AA.AuId%3D2116579473)&f=&orderBy=2&skip=40&take=10)
+  - シドニー・ブレナー博士の業績一覧
 - [Writing my own computing language for Trac](https://www.webofstories.com/play/sydney.brenner/160)
 - [RNA Tie Club](https://en.wikipedia.org/wiki/RNA_Tie_Club)
+  - RNAネクタイクラブについて。DNA上の情報を元にタンパク質が作られる仕組みを解明しようとした。構成メンバー数はアミノ酸の数にならい、20人。メンバーは二重らせん柄のネクタイを締め、アミノ酸由来のコードネームを持っていた。
 - [TRAC (programming language)](https://en.wikipedia.org/wiki/TRAC_(programming_language))
 - [ON THE IMPOSSIBILITY OF ALL OVERLAPPING TRIPLET CODES IN INFORMATION TRANSFER FROM NUCLEIC ACID TO PROTEINS](https://www.ncbi.nlm.nih.gov/pubmed/16590069)
+  - ブレナー博士が、tripletのオーバーラップコドン仮説を否定した論文。当時既知であったアミノ酸配列を用いて、簡単な計算からとても美しい回答を出した。Appendixの使用したアミノ酸配列一覧は必見。
 - [General nature of the genetic code for proteins.](https://www.ncbi.nlm.nih.gov/pubmed/13882203) 
 - [A speculation on the origin of protein synthesis.](https://www.ncbi.nlm.nih.gov/pubmed/1023138)
 - [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides.](https://www.ncbi.nlm.nih.gov/pubmed/14479932)
+  - ニーレンバーグとマッシーがUUUがフェニルアラニンをコードしていることを示した論文。ニーレンバーグはRNAネクタイクラブのメンバーではなかったが、コドンとアミノ酸の対応を最初に解明した。57/64はニーレンバーグが解き明かした。
 - [An unstable intermediate carrying information from genes to ribosomes for protein synthesis.](https://www.ncbi.nlm.nih.gov/pubmed/20446365)
 - [The most beautiful wrong ideas in science](http://www.chemistry-blog.com/2012/08/16/the-most-beautiful-wrong-ideas-in-science/)
+  - ガモフのダイアモンド仮説について、当時の状況や考察が書かれている。タイトルが秀逸。
 - [Possible Relation between Deoxyribonucleic Acid and Protein Structures](https://www.nature.com/articles/173318a0)
 - [Mattew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson)
+  - メセルソンはDNAの半保存的複製をisotopeを用いる事で証明した後、mRNAの証明にBrennerとJacobとともに取り掛かった。BrennerとJacobはノーベル賞を取ったが、メセルソンは受賞できていない。
 - [Marshall Nirenberg](https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg)
+  - ニーレンバーグはgeneticsやmolecular biologyのバックグラウンドがなかったが、思い切って新分野に挑戦した。まず彼が取り掛かったのが、論文を読むために速読をマスターすること、ということは興味深い。
 - [A Most “Elegant” Experiment: Sydney Brenner, Francois Jacob, Mathew Meselson, and the Discovery of Messenger RNA](https://norkinvirology.wordpress.com/2016/10/06/a-most-elegant-experiment-sydney-brenner-frjacob-mathew-meselson-and-the-discovery-of-messenger-rna/)
 - [Astronomer slams sexists trying to tear down black hole researcher's rep](https://www.theregister.co.uk/2019/04/12/astronomer_schools_sexists/)
 - [ポール・チャールズ・ザメクニック](http://www.kazusa.or.jp/dnaftb/21/bio.html)
