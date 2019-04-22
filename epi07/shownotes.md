@@ -6,10 +6,10 @@ actor_ids:
 audio_file_path: /audio/7.mp3
 audio_file_size: 
 date: 2019-04-27 00:00:00 +0900
-description: tadasu、soh、coelaの3人で、初めてのブラックホールの観測、RNAタイクラブ、シドニー・ブレナーによる遺伝暗号の解明、ガモフの仮説、コドンとアミノ酸の対応関係、T4ファージを用いた遺伝学について、1950~60年初頭に出版された当時の原著論文を紹介し、分子生物学の黎明期における美しい実験や大胆な仮説と発見のドラマについて話しました。
+description: tadasu、soh、coelaの3人で、初めてのブラックホールの観測、RNAタイクラブ、シドニー・ブレナーによる遺伝暗号の解明、ガモフの仮説、コドンとアミノ酸の対応関係、ファージを用いた遺伝学について、1950~60年初頭に出版された当時の原著論文を紹介し、分子生物学の黎明期における美しい実験や大胆な仮説と発見のドラマについて話しました。
 duration: "00:00:00"
 layout: article
-title: 7.
+title: 7. In the golden age of molecular biology
 ---
 
 ## Title:
@@ -31,7 +31,7 @@ title: 7.
 - [Writing my own computing language for Trac](https://www.webofstories.com/play/sydney.brenner/160)
 - [TRAC (プログラミング言語)](https://en.wikipedia.org/wiki/TRAC_(programming_language))... ブレナーはこのTRACのインタプリタを書いたことがあるらしい。
 - [On the impossibility of all overlapping triplet codes in information transfer from nucleic acid to proteins](https://www.ncbi.nlm.nih.gov/pubmed/16590069)... ブレナーが3文字からなるオーバーラップコドン仮説を否定した論文。当時既知であったアミノ酸配列を用いて、簡単な計算からとても美しい回答を出した。付録にあるアミノ酸配列一覧は必見。
-- [General nature of the genetic code for proteins. (Crick, barnett, brenner, watts-tobin. Nature, 1961.)](https://www.ncbi.nlm.nih.gov/pubmed/13882203)
+- [General nature of the genetic code for proteins. (Crick, Barnett, Brenner, Watts-tobin. Nature, 1961.)](https://www.ncbi.nlm.nih.gov/pubmed/13882203)
 - [A speculation on the origin of protein synthesis. (Crick, Brenner, Klug, Pieczenik. Origns of Life, 1976.)](https://www.ncbi.nlm.nih.gov/pubmed/1023138)
 - [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides.](https://www.ncbi.nlm.nih.gov/pubmed/14479932)... ニーレンバーグとマッシーがUUUがフェニルアラニンをコードしていることを示した論文。ニーレンバーグはRNAネクタイクラブのメンバーではなかったが、コドンとアミノ酸の対応を最初に解明し、最終的に64個のコドンのうち57個は彼らによって解明された。
 - [An unstable intermediate carrying information from genes to ribosomes for protein synthesis.](https://www.ncbi.nlm.nih.gov/pubmed/20446365)
