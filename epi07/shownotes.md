@@ -41,8 +41,8 @@ title: 7. In the golden age of molecular biology
 - [A speculation on the origin of protein synthesis. (Crick, Brenner, Klug, Pieczenik. Origns of Life, 1976.)](https://www.ncbi.nlm.nih.gov/pubmed/1023138)
 - [Marshall Nirenberg](https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg)... ニーレンバーグは遺伝学や分子生物学のバックグラウンドを持たなかったが、思い切って新分野に挑戦した。まず彼が取り掛かったのは、論文を読むために速読をマスターすること、ということは興味深い。
 - [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides.](https://www.ncbi.nlm.nih.gov/pubmed/14479932)... ニーレンバーグとマッシーがUUUがフェニルアラニンをコードしていることを示した論文。ニーレンバーグはRNAネクタイクラブのメンバーではなかったが、コドンとアミノ酸の対応を最初に解明し、最終的に64個のコドンのうち57個は彼らによって解明された。
-- [Writing my own computing language for Trac](https://www.webofstories.com/play/sydney.brenner/160)
-- [TRAC (プログラミング言語)](https://en.wikipedia.org/wiki/TRAC_(programming_language))... ブレナーはこのTRACのインタプリタを書いたことがあるらしい。
+- [TRAC (プログラミング言語)](https://en.wikipedia.org/wiki/TRAC_(programming_language))
+- [Writing my own computing language for Trac](https://www.webofstories.com/play/sydney.brenner/160)... ブレナーはこのTRACのインタプリタを書いたことがあるらしい。
 
 ## 補足資料
 - [T4ファージを用いた遺伝解析](https://www.kazusa.or.jp/j/information/pdf/Attachment_T4Phage.pdf)... このpodcastをやる前にしっかりこの資料を読んでおくべきだった。遺伝学やT4ファージの実験についての理解が低いため、クリックとブレナーの1961年の論文の説明に関してはDNA組み換えの観点から説明するべきだった。すばらしい資料。
