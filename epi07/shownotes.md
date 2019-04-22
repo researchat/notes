@@ -23,7 +23,7 @@ title: 7.
 Tadasu、Soh、Coelaの3人で、ポッドキャスト、について話しました。
 
 ## Show Notes
-- [Katie Bouman, What does a black hole look like (TED talk)](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)
+- [Katie Bouman, What does a black hole look like (TED talk)](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)... 当時MITの博士学生であったBoumanがブラックホールの観測と画像の再構成についてわかりやすく解説している。
 - [Black hole picture captured for first time in space breakthrough](https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough)... 南極の氷が春になって溶けないとハードディスクを船で輸送できない問題について。
 - [Sydney Brenner (Microsoft Academic)](https://academic.microsoft.com/author/2116579473/publication/search?q=Sydney%20Brenner&qe=Composite(AA.AuId%3D2116579473)&f=&orderBy=2&skip=40&take=10)... シドニー・ブレナー博士の業績一覧
 - [Writing my own computing language for Trac](https://www.webofstories.com/play/sydney.brenner/160)
