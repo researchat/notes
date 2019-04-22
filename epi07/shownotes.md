@@ -11,9 +11,12 @@ duration: "00:00:00"
 layout: article
 title: 7.
 ---
-## Title: 
-- 
-- The magnesium! It’s the magnesium!
+
+## Title:
+- The magnesium! It’s the magnesium! (Tadasu)
+- In the golden age of molecular biology (Soh)
+- The 3 letters word (Soh)
+- The impossible hypothesis (Soh)
 
 Tadasu、Soh、Coelaの3人で、ポッドキャスト、について話しました。
 
