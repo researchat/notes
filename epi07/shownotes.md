@@ -23,30 +23,25 @@ title: 7.
 Tadasu、Soh、Coelaの3人で、ポッドキャスト、について話しました。
 
 ## Show Notes
-- [Sydney Brenner (Microsoft Academic)](https://academic.microsoft.com/author/2116579473/publication/search?q=Sydney%20Brenner&qe=Composite(AA.AuId%3D2116579473)&f=&orderBy=2&skip=40&take=10)
-  - シドニー・ブレナー博士の業績一覧
+- [Katie Bouman, What does a black hole look like (TED talk)](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)
+- [Black hole picture captured for first time in space breakthrough](https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough)... 南極の氷が春になって溶けないとハードディスクを船で輸送できない問題について。
+- [Sydney Brenner (Microsoft Academic)](https://academic.microsoft.com/author/2116579473/publication/search?q=Sydney%20Brenner&qe=Composite(AA.AuId%3D2116579473)&f=&orderBy=2&skip=40&take=10)... シドニー・ブレナー博士の業績一覧
 - [Writing my own computing language for Trac](https://www.webofstories.com/play/sydney.brenner/160)
-- [RNA Tie Club](https://en.wikipedia.org/wiki/RNA_Tie_Club)
-  - RNAネクタイクラブについて。DNA上の情報を元にタンパク質が作られる仕組みを解明しようとした。構成メンバー数はアミノ酸の数にならい、20人。メンバーは二重らせん柄のネクタイを締め、アミノ酸由来のコードネームを持っていた。
-- [TRAC (programming language)](https://en.wikipedia.org/wiki/TRAC_(programming_language))
-- [ON THE IMPOSSIBILITY OF ALL OVERLAPPING TRIPLET CODES IN INFORMATION TRANSFER FROM NUCLEIC ACID TO PROTEINS](https://www.ncbi.nlm.nih.gov/pubmed/16590069)
-  - ブレナー博士が、tripletのオーバーラップコドン仮説を否定した論文。当時既知であったアミノ酸配列を用いて、簡単な計算からとても美しい回答を出した。Appendixの使用したアミノ酸配列一覧は必見。
+- [RNA Tie Club](https://en.wikipedia.org/wiki/RNA_Tie_Club)... RNAネクタイクラブでは、DNA上の情報を元にタンパク質が作られる仕組みを解明しようとした。構成メンバー数はアミノ酸の数にならい20人。メンバーは二重らせん柄のネクタイを締めアミノ酸由来のコードネームを持っていた。
+- [TRAC (プログラミング言語)](https://en.wikipedia.org/wiki/TRAC_(programming_language))... ブレナーはこのTRACのインタプリタを書いたことがあるらしい。
+- [On the impossibility of all overlapping triplet codes in information transfer from nucleic acid to proteins](https://www.ncbi.nlm.nih.gov/pubmed/16590069)... ブレナーが3文字からなるオーバーラップコドン仮説を否定した論文。当時既知であったアミノ酸配列を用いて、簡単な計算からとても美しい回答を出した。付録にあるアミノ酸配列一覧は必見。
 - [General nature of the genetic code for proteins.](https://www.ncbi.nlm.nih.gov/pubmed/13882203) 
 - [A speculation on the origin of protein synthesis.](https://www.ncbi.nlm.nih.gov/pubmed/1023138)
-- [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides.](https://www.ncbi.nlm.nih.gov/pubmed/14479932)
-  - ニーレンバーグとマッシーがUUUがフェニルアラニンをコードしていることを示した論文。ニーレンバーグはRNAネクタイクラブのメンバーではなかったが、コドンとアミノ酸の対応を最初に解明した。57/64はニーレンバーグが解き明かした。
+- [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides.](https://www.ncbi.nlm.nih.gov/pubmed/14479932)... ニーレンバーグとマッシーがUUUがフェニルアラニンをコードしていることを示した論文。ニーレンバーグはRNAネクタイクラブのメンバーではなかったが、コドンとアミノ酸の対応を最初に解明し、最終的に64個のコドンのうち57個は彼らによって解明された。
 - [An unstable intermediate carrying information from genes to ribosomes for protein synthesis.](https://www.ncbi.nlm.nih.gov/pubmed/20446365)
-- [The most beautiful wrong ideas in science](http://www.chemistry-blog.com/2012/08/16/the-most-beautiful-wrong-ideas-in-science/)
-  - ガモフのダイアモンド仮説について、当時の状況や考察が書かれている。タイトルが秀逸。
+- [The most beautiful wrong ideas in science](http://www.chemistry-blog.com/2012/08/16/the-most-beautiful-wrong-ideas-in-science/)... ガモフのダイアモンド仮説について、当時の状況や考察が書かれている。タイトルが秀逸。
 - [Possible Relation between Deoxyribonucleic Acid and Protein Structures](https://www.nature.com/articles/173318a0)
-- [Mattew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson)
-  - メセルソンはDNAの半保存的複製をisotopeを用いる事で証明した後、mRNAの証明にBrennerとJacobとともに取り掛かった。BrennerとJacobはノーベル賞を取ったが、メセルソンは受賞できていない。
+- [Mattew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson)... メセルソンはDNAの半保存的複製を放射性同位体標識を用いることで証明した後、mRNAの証明にブレナーとヤコブとともに取り組んだ。ブレナーとヤコブやノーベル賞を受賞したがメセルソンは受賞できていない。
 - [Marshall Nirenberg](https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg)
-  - ニーレンバーグはgeneticsやmolecular biologyのバックグラウンドがなかったが、思い切って新分野に挑戦した。まず彼が取り掛かったのが、論文を読むために速読をマスターすること、ということは興味深い。
+  - ニーレンバーグは遺伝学や分子生物学のバックグラウンドを持たなかったが、思い切って新分野に挑戦した。まず彼が取り掛かったのは、論文を読むために速読をマスターすること、ということは興味深い。
 - [A Most “Elegant” Experiment: Sydney Brenner, Francois Jacob, Mathew Meselson, and the Discovery of Messenger RNA](https://norkinvirology.wordpress.com/2016/10/06/a-most-elegant-experiment-sydney-brenner-frjacob-mathew-meselson-and-the-discovery-of-messenger-rna/)
 - [Astronomer slams sexists trying to tear down black hole researcher's rep](https://www.theregister.co.uk/2019/04/12/astronomer_schools_sexists/)
 - [ポール・チャールズ・ザメクニック](http://www.kazusa.or.jp/dnaftb/21/bio.html)
 - [マーロン・ホーグランド](http://www.kazusa.or.jp/dnaftb/21/bio-2.html)
 - [T4ファージを用いた遺伝解析](https://www.kazusa.or.jp/j/information/pdf/Attachment_T4Phage.pdf)
 - [惑星のさみだれ（マンガ）](https://www.amazon.co.jp/dp/B00MXNBMAO/?tag=researchat-22)
-- [路地恋花（マンガ）](https://www.amazon.co.jp/dp/B009YDLEU4/?tag=researchat-22)
