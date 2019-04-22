@@ -46,3 +46,4 @@ title: 7.
 - [マーロン・ホーグランド](http://www.kazusa.or.jp/dnaftb/21/bio-2.html)
 - [T4ファージを用いた遺伝解析](https://www.kazusa.or.jp/j/information/pdf/Attachment_T4Phage.pdf)... このpodcastをやる前にしっかりこの資料を読んでおくべきだった。遺伝学やT4ファージの実験についての理解が低いため、CrickとBrennerの1961の論文の説明に関しては組換えの観点から説明するべきだった。すばらしい資料。
 - [惑星のさみだれ（マンガ）](https://www.amazon.co.jp/dp/B00MXNBMAO/?tag=researchat-22)
+- [＜走馬灯の逆廻しエッセイ＞ 第18話 「ゲノムコードの解読」Nirenberg](https://www.rnaj.org/newsletters/item/695-furuichi-18)... mRNAキャップを発見された古市先生によるニーレンバーグ論文の解説。なぜ、彼らだけがこの実験を行えたのか、なぜpoly Uだったのか、など素晴らしい解説が盛りだくさんである。他の記事も非常におもしろく、podcast放送後であるが勉強させていただいた。
