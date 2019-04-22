@@ -47,3 +47,16 @@ title: 7. In the golden age of molecular biology
 ## 補足資料
 - [T4ファージを用いた遺伝解析](https://www.kazusa.or.jp/j/information/pdf/Attachment_T4Phage.pdf)... このpodcastをやる前にしっかりこの資料を読んでおくべきだった。遺伝学やT4ファージの実験についての理解が低いため、クリックとブレナーの1961年の論文の説明に関してはDNA組み換えの観点から説明するべきだった。すばらしい資料。
 - [＜走馬灯の逆廻しエッセイ＞ 第18話 「ゲノムコードの解読」Nirenberg](https://www.rnaj.org/newsletters/item/695-furuichi-18)... mRNAキャップを発見された古市先生によるニーレンバーグ論文の解説。なぜ、彼らだけがこの実験を行えたのか、なぜpoly(U)配列だったのか、など素晴らしい解説が盛りだくさんである。他の記事も非常におもしろく、podcast放送後であるが勉強させていただいた。
+
+## Chapter
+- 00:00:00 Introduction
+- 00:02:38 雑談：ブラックホール観測について
+- 00:28:47 フランクリン・ロザリンド
+- 00:32:23 Introduction of シドニー・ブレナー
+- 00:36:46 RNA tie Club
+- 00:47:25 ガモフのダイヤモンド仮説とそれを否定したブレナーの論文 (1957 PNAS)
+- 01:08:53 遺伝子上の突然変異がアミノ酸を変える証明(1957 Nature)
+- 01:15:00 仲介物としてのmRNA存在の証明(1961 Nature)
+- 01:32:21 General nature of the genetic code for proteins (1961 Nature)
+- 01:46:47 ニーレンバーグによる最初の遺伝暗号の発見
+- 02:01:29 Concluding 前半
