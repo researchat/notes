@@ -20,7 +20,7 @@ title: 7.
 - The 3 letters word (Soh)
 - The impossible hypothesis (Soh)
 
-Tadasu、Soh、Coelaの3人で、ポッドキャスト、について話しました。
+Tadasu、Soh、Coelaの3人で、初めてのブラックホールの観測、RNAタイクラブ、シドニー・ブレナーによる遺伝暗号の解明、ガモフの仮説、コドンのアミノ酸の対応関係、T4ファージを用いた遺伝学について、1950~60年初頭に出版された当時の原著論文を紹介し、分子生物学の黎明期における美しい実験や大胆な仮説と発見のドラマについて話しました。
 
 ## Show Notes
 - [Katie Bouman, What does a black hole look like (TED talk)](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)... 当時MITの博士学生であったBoumanがブラックホールの観測と画像の再構成についてわかりやすく解説している。
