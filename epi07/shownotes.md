@@ -24,7 +24,7 @@ title: 7.
 
 ## Show Notes
 - [Katie Bouman, What does a black hole look like (TED talk)](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)... 当時MITの博士学生であったBoumanがブラックホールの観測と画像の再構成についてわかりやすく解説している。
-- [本間希樹先生 (天文学者、TBS 情熱大陸)][https://www.mbs.jp/jounetsu/2019/04_14.shtml]
+- [本間希樹先生 (天文学者、TBS 情熱大陸)](https://www.mbs.jp/jounetsu/2019/04_14.shtml)
 - [Black hole picture captured for first time in space breakthrough (The Guardian)](https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough)... 南極の氷が春になって溶けないとハードディスクを船で輸送できない問題について。
 - [Sydney Brenner (Microsoft Academic)](https://academic.microsoft.com/author/2116579473/publication/search?q=Sydney%20Brenner&qe=Composite(AA.AuId%3D2116579473)&f=&orderBy=2&skip=40&take=10)... シドニー・ブレナー博士の業績一覧
 - [RNA Tie Club](https://en.wikipedia.org/wiki/RNA_Tie_Club)... RNAタイクラブでは、DNA上の情報を元にタンパク質が作られる仕組みを解明しようとした。構成メンバー数はアミノ酸の数にならい20人。メンバーは二重らせん柄のネクタイを締めアミノ酸由来のコードネームを持っていた。ガモフ: アラニン、クリック: チロシン、ワトソン:プロリン、ブレナー：バリン。20人中8人がノーベル賞を受賞した。モットーは"do or die; or don't try"だった。
