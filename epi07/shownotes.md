@@ -4,9 +4,9 @@ actor_ids:
   - soh
   - coela
 audio_file_path: /audio/7.mp3
-audio_file_size: 125122058
+audio_file_size: 96258767
 date: 2019-04-25 00:00:00 +0900
-description: tadasu、soh、coelaの3人によるシドニー・ブレナー特集回（前半）。RNAタイクラブ、シドニー・ブレナーによる遺伝暗号の解明、ガモフの仮説、コドンとアミノ酸の対応関係、ファージを用いた遺伝学について、1950~60年初頭に出版された当時の原著論文を紹介し、分子生物学の黎明期における美しい実験や大胆な仮説と発見のドラマについて話しました。
+description: tadasu、soh、coelaの3人によるシドニー・ブレナー特集回（前半）。RNAタイクラブ、シドニー・ブレナーによる遺伝暗号解明へのアプローチ、ガモフの仮説、コドンとアミノ酸の対応関係、ファージを用いた遺伝学について、1950~60年初頭に出版された当時の原著論文を紹介し、分子生物学の黎明期における美しい実験や大胆な仮説と発見のドラマについて話しました。
 duration: "01:40:16"
 layout: article
 title: 7. In the golden age of molecular biology
