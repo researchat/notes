@@ -23,10 +23,6 @@ title: 7. In the golden age of molecular biology
 - Innovation comes only from an assault on the unknown. (coela)
 
 ## Show Notes
-- [Katie Bouman, What does a black hole look like (TED talk)](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)... 当時MITの博士学生であったBoumanがブラックホールの観測と画像の再構成についてわかりやすく解説している。
-- [本間希樹先生 (天文学者、TBS 情熱大陸)](https://www.mbs.jp/jounetsu/2019/04_14.shtml)
-- [Black hole picture captured for first time in space breakthrough (The Guardian)](https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough)... 南極の氷が春になって溶けないとハードディスクを船で輸送できない問題について。
-- [Astronomer slams sexists trying to tear down black hole researcher's rep](https://www.theregister.co.uk/2019/04/12/astronomer_schools_sexists/)... ブラックホールの画像解析アルゴリズムを作成したKatie Boumanを巡る女性差別主義者たちの主張とその否定に関する記事。
 - [Sydney Brenner (Microsoft Academic)](https://academic.microsoft.com/author/2116579473/publication/search?q=Sydney%20Brenner&qe=Composite(AA.AuId%3D2116579473)&f=&orderBy=2&skip=40&take=10)... シドニー・ブレナー博士の業績一覧
 - [RNA Tie Club](https://en.wikipedia.org/wiki/RNA_Tie_Club)... RNAタイクラブでは、DNA上の情報を元にタンパク質が作られる仕組みを解明しようとした。構成メンバー数はアミノ酸の数にならい20人。メンバーは二重らせん柄のネクタイを締めアミノ酸由来のコードネームを持っていた。ガモフ: アラニン、クリック: チロシン、ワトソン:プロリン、ブレナー：バリン。20人中8人がノーベル賞を受賞した。モットーは"do or die; or don't try"だった。
 - [The most beautiful wrong ideas in science](http://www.chemistry-blog.com/2012/08/16/the-most-beautiful-wrong-ideas-in-science/)... ガモフのダイアモンド仮説について、当時の状況や考察が書かれている。タイトルが秀逸。
@@ -60,3 +56,10 @@ title: 7. In the golden age of molecular biology
 - 01:32:21 General nature of the genetic code for proteins (1961 Nature)
 - 01:46:47 ニーレンバーグによる最初の遺伝暗号の発見
 - 02:01:29 Concluding 前半
+
+ep08
+- [Katie Bouman, What does a black hole look like (TED talk)](https://www.ted.com/talks/katie_bouman_what_does_a_black_hole_look_like)... 当時MITの博士学生であったBoumanがブラックホールの観測と画像の再構成についてわかりやすく解説している。
+- [本間希樹先生 (天文学者、TBS 情熱大陸)](https://www.mbs.jp/jounetsu/2019/04_14.shtml)
+- [Black hole picture captured for first time in space breakthrough (The Guardian)](https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough)... 南極の氷が春になって溶けないとハードディスクを船で輸送できない問題について。
+- [Astronomer slams sexists trying to tear down black hole researcher's rep](https://www.theregister.co.uk/2019/04/12/astronomer_schools_sexists/)... ブラックホールの画像解析アルゴリズムを作成したKatie Boumanを巡る女性差別主義者たちの主張とその否定に関する記事。
+
