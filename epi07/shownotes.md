@@ -33,20 +33,20 @@ title: 7. In the golden age of molecular biology
 - [On the impossibility of all overlapping triplet codes in information transfer from nucleic acid to proteins. (Brenner. PNAS,  1967.)](https://www.ncbi.nlm.nih.gov/pubmed/16590069)... ブレナーが3文字からなるオーバーラップコドン仮説を否定した論文。当時既知であったアミノ酸配列を用いて、簡単な計算からとても美しい回答を出した。付録にあるアミノ酸配列一覧は必見。
 - [General nature of the genetic code for proteins. (Crick, Barnett, Brenner, Watts-tobin. Nature, 1961.)](https://www.ncbi.nlm.nih.gov/pubmed/13882203)... ファージを用いた実験によって、塩基が欠質するごとにフレームシフトが起きることを示し、また3塩基の欠質によって復活する部分があることを示した。これによりコドンの3塩基性(もしくは3の倍数)、コドンがオーバラップしていない、カンマになるような部分はない(comma-free model)、一つのアミノ酸が複数のコドンによってコードされる、ことが示された(示唆された)。
 - [Possible Relation between Deoxyribonucleic Acid and Protein Structures](https://www.nature.com/articles/173318a0)
-- [Mattew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson)... メセルソンはDNAの半保存的複製を放射性同位体標識を用いることで証明した後、mRNAの証明にブレナーとヤコブとともに取り組んだ。ブレナーとヤコブはそれぞれ、線虫の研究とオペロンの研究でノーベル賞を受賞したが、メセルソンは未だ受賞できていない。
+- [Mattew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson)... メセルソンはDNAの半保存的複製を同位体標識を用いることで証明した後、mRNAの証明にブレナーとヤコブとともに取り組んだ。ブレナーとヤコブはそれぞれ、線虫の研究とオペロンの研究でノーベル賞を受賞したが、メセルソンは未だ受賞できていない。
 - [An unstable intermediate carrying information from genes to ribosomes for protein synthesis.](https://www.ncbi.nlm.nih.gov/pubmed/20446365)
 - [A Most “Elegant” Experiment: Sydney Brenner, Francois Jacob, Mathew Meselson, and the Discovery of Messenger RNA](https://norkinvirology.wordpress.com/2016/10/06/a-most-elegant-experiment-sydney-brenner-frjacob-mathew-meselson-and-the-discovery-of-messenger-rna/)... 当時のヤコブ目線でmRNA発見時のエピソードが色々と書かれている。リボソームの分離がうまくいかなくて苦しんでいたが、マグネシウムを大量にいれることで解決した。
 - [ポール・チャールズ・ザメクニック](http://www.kazusa.or.jp/dnaftb/21/bio.html)
 - [マーロン・ホーグランド](http://www.kazusa.or.jp/dnaftb/21/bio-2.html)
 - [A speculation on the origin of protein synthesis. (Crick, Brenner, Klug, Pieczenik. Origns of Life, 1976.)](https://www.ncbi.nlm.nih.gov/pubmed/1023138)
 - [Marshall Nirenberg](https://en.wikipedia.org/wiki/Marshall_Warren_Nirenberg)... ニーレンバーグは遺伝学や分子生物学のバックグラウンドを持たなかったが、思い切って新分野に挑戦した。まず彼が取り掛かったのは、論文を読むために速読をマスターすること、ということは興味深い。
-- [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides. (Nirenberg and Matthaei. PNAS, 1961.)](https://www.ncbi.nlm.nih.gov/pubmed/14479932)... ニーレンバーグとマッシー(マタエイのほうが一般的？)によって、UUUがフェニルアラニンをコードしていることを示した論文。ニーレンバーグはRNAネクタイクラブのメンバーではなかったが、コドンとアミノ酸の対応を最初に解明し、最終的に64個のコドンのうち57個は彼のグループによって解明された。
+- [The dependence of cell-free protein synthesis in E. coli upon naturally occurring or synthetic polyribonucleotides. (Nirenberg and Matthaei. PNAS, 1961.)](https://www.ncbi.nlm.nih.gov/pubmed/14479932)... ニーレンバーグとマッシー(マタエイのほうが一般的？)によって、UUUがフェニルアラニンをコードしていることを示した論文。ニーレンバーグはRNAネクタイクラブのメンバーではなかったが、コドンとアミノ酸の対応を最初に解明し、最終的に64個のコドンのうち50以上のコドンは彼のグループによって解明された。
 - [TRAC (プログラミング言語)](https://en.wikipedia.org/wiki/TRAC_(programming_language))
 - [Writing my own computing language for Trac](https://www.webofstories.com/play/sydney.brenner/160)... ブレナーはこのTRACのインタプリタを書いたことがあるらしい。
 
 ## 補足資料
 - [T4ファージを用いた遺伝解析](https://www.kazusa.or.jp/j/information/pdf/Attachment_T4Phage.pdf)... このpodcastをやる前にしっかりこの資料を読んでおくべきだった。遺伝学やT4ファージの実験についての理解が低いため、クリックとブレナーの1961年の論文の説明に関してはDNA組み換えの観点から説明するべきだった。すばらしい資料。
-- [＜走馬灯の逆廻しエッセイ＞ 第18話 「ゲノムコードの解読」Nirenberg](https://www.rnaj.org/newsletters/item/695-furuichi-18)... mRNAキャップを発見された古市先生によるニーレンバーグ論文の解説。なぜ、彼らだけがこの実験を行えたのか、なぜpoly(U)配列だったのか、など素晴らしい解説が盛りだくさんである。他の記事も非常におもしろく、podcast放送後であるが勉強させていただいた。
+- [＜走馬灯の逆廻しエッセイ＞ 第18話 「ゲノムコードの解読」Nirenberg](https://www.rnaj.org/newsletters/item/695-furuichi-18)... mRNAキャップを発見された古市先生によるニーレンバーグ論文の解説。なぜ、彼らだけがこの実験を行えたのか、なぜpoly(U)配列だったのか、など素晴らしい解説が盛りだくさんである。他の記事も非常におもしろく、podcast放送後に勉強させていただいた。
 
 ## Chapter
 - 00:00:00 Introduction
