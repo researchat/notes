@@ -2,10 +2,11 @@
 - The first image of a black hole
 - From invisible to visible
 
-Event Holizon Telescopeによる人類初のブラックホールの観測、天文学者の仕事、科学における観測技術の重要性、若手研究者の活躍、マンガについて話しました。(出演者: tadasu、soh、coela)
+Event Holizon Telescopeによる人類初のブラックホールの観測とその盛り上がり、天文学者の仕事、科学における観測技術の重要性、若手研究者の活躍、マンガについて話しました。(出演者: tadasu、soh、coela)
 
 ## Show notes
 - [The Event Horizon Telescope (EHT)](https://eventhorizontelescope.org/)... EHTの公式サイト
+- [史上初、ブラックホールの撮影に成功 ― 地球サイズの電波望遠鏡で、楕円銀河M87に潜む巨大ブラックホールに迫る (アルマ顕微鏡)](https://alma-telescope.jp/news/press/eht-201904)
 - [本間希樹先生 (天文学者、TBS 情熱大陸)](https://www.mbs.jp/jounetsu/2019/04_14.shtml)... 初めてブラックホールを観測した瞬間が映像に残されている
 - [Black hole picture captured for first time in space breakthrough (The Guardian)](https://www.theguardian.com/science/2019/apr/10/black-hole-picture-captured-for-first-time-in-space-breakthrough)
 - [Astronomer slams sexists trying to tear down black hole researcher's rep](https://www.theregister.co.uk/2019/04/12/astronomer_schools_sexists/)... ブラックホールの画像解析アルゴリズムを作成したKatie Boumanを巡る女性差別主義者たちの主張とその否定に関する記事
