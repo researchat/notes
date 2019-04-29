@@ -2,7 +2,7 @@
 - The first image of a black hole
 - From invisible to visible
 
-Event Holizon Telescopeによる人類初のブラックホールの観測とその盛り上がり、天文学者の仕事、科学における観測技術の重要性、若手研究者の活躍、マンガについて話しました。(出演者: tadasu、soh、coela)
+ep7前に収録したウォームアップ収録。Event Holizon Telescopeによる人類初のブラックホールの観測とその盛り上がり、天文学者の仕事、科学における観測技術の重要性、若手研究者の活躍、マンガについて話しました。(出演者: tadasu、soh、coela)
 
 ## Show notes
 - [The Event Horizon Telescope (EHT)](https://eventhorizontelescope.org/)... EHTの公式サイト
