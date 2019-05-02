@@ -20,8 +20,8 @@
 - Connectome
 - Rabis virus
 - DNA microscopy
-- [Comprehensive mapping of long-range interactions reveals folding principles of the human genome.Lieberman-Aiden et al. 2009, Science.: Hi-Cのオリジナル論文](https://www.ncbi.nlm.nih.gov/pubmed/19815776)
-- [Capturing chromosome conformation. Dekker et al. 2002, Science: Hi-Cの基礎となった3Cの論文](https://www.ncbi.nlm.nih.gov/pubmed/11847345)
+- [Comprehensive mapping of long-range interactions reveals folding principles of the human genome.Lieberman-Aiden et al. 2009, Science.](https://www.ncbi.nlm.nih.gov/pubmed/19815776)- Hi-Cのオリジナル論文
+- [Capturing chromosome conformation. Dekker et al. 2002, Science](https://www.ncbi.nlm.nih.gov/pubmed/11847345)- Hi-Cの基礎となった3Cの論文
 - Hi-CによるBeyond imaging
 - [Turning point: Job Dekker](https://www.nature.com/nature/journal/v475/n7354/full/nj7354-131a.html)- Job Dekkerのポスドク回顧録
 - 空間情報をシーケンサーで得る
