@@ -25,6 +25,7 @@
 - Hi-CによるBeyond imaging
 - [Turning point: Job Dekker](https://www.nature.com/nature/journal/v475/n7354/full/nj7354-131a.html)- Job Dekkerのポスドク回顧録
 - 空間情報をシーケンサーで得る
+- [DNA microscopy: Optics-free spatio-genetic imaging by a stand-alone chemical reaction](https://www.biorxiv.org/content/10.1101/471219v1)
 - Nanopore sequencing
 - ブレナ- 仕分け OISTの理事長 民主党政権下
 - [low-input, high-throughput, no-output biology](https://www.nature.com/articles/nrm2320)
