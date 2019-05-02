@@ -20,11 +20,11 @@
 - Connectome
 - Rabis virus
 - DNA microscopy
-- Hi-Cのオリジナル論文(https://www.ncbi.nlm.nih.gov/pubmed/19815776)
-- Hi-Cの基礎となった3Cの論文(https://www.ncbi.nlm.nih.gov/pubmed/11847345)
+- [Hi-Cのオリジナル論文](https://www.ncbi.nlm.nih.gov/pubmed/19815776)
+- [Hi-Cの基礎となった3Cの論文](https://www.ncbi.nlm.nih.gov/pubmed/11847345)
 - Hi-CによるBeyond imaging
 - 空間情報をシーケンサーで得る
 - Nanopore sequencing
 - ブレナ- 仕分け OISTの理事長 民主党政権下
-- low-input, high-throughput, no-output biology(https://www.nature.com/articles/nrm2320)
+- [low-input, high-throughput, no-output biology](https://www.nature.com/articles/nrm2320)
 - Progress in science depends on new techniques, new discoveries and new ideas, probably in that order. Sydney Brenner 
