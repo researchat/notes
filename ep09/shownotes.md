@@ -20,8 +20,8 @@
 - Connectome
 - Rabis virus
 - DNA microscopy
-- [Hi-Cのオリジナル論文](https://www.ncbi.nlm.nih.gov/pubmed/19815776)
-- [Hi-Cの基礎となった3Cの論文](https://www.ncbi.nlm.nih.gov/pubmed/11847345)
+- [Comprehensive mapping of long-range interactions reveals folding principles of the human genome.Lieberman-Aiden et al. 2009, Science.: Hi-Cのオリジナル論文](https://www.ncbi.nlm.nih.gov/pubmed/19815776)
+- [Capturing chromosome conformation. Dekker et al. 2002, Science: Hi-Cの基礎となった3Cの論文](https://www.ncbi.nlm.nih.gov/pubmed/11847345)
 - Hi-CによるBeyond imaging
 - 空間情報をシーケンサーで得る
 - Nanopore sequencing
