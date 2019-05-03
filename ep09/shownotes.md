@@ -15,12 +15,12 @@
 - MEMOIR, Nature 
 - Organoid -> scWGS -> lineage
 - Drosophila -> scRNA-seq Science
-- light-sheet microscopy
+- [light sheet fluorescence microscopy](https://en.wikipedia.org/wiki/Light_sheet_fluorescence_microscopy) -そもそもlight sheet fluorescence microscopyのアイデア自体は古く、100年近く遡る。最近の光学系とカメラ、制御系の発展により、大きな分野となりつつある。
 - [Transgenic strategies for combinatorial expression of fluorescent proteins in the nervous system. Livet et al. 2007, Nature](https://www.ncbi.nlm.nih.gov/pubmed/17972876)- Braibowのオリジナル論文。Cre-Loxpシステムと複数の蛍光タンパク質をコードする遺伝子領域を組み合わせることで、多色の細胞を作り出すことができ、その結果、その細胞をトラックすることが可能となる。
-- 空間情報をシーケンサーで得る　-本podcastでは光学系を用いない空間情報の取得について、いくつかの研究の紹介を行なった。以下に列挙する。
+- 空間情報をシーケンサーで得る。- 本podcastでは光学系を用いない空間情報の取得について、いくつかの研究の紹介を行なった。以下に列挙する。
 - Rabis virus
 - Connectome
-- [Sequencing the connectome. Zador et al. 2012, PLos Biol.](https://www.ncbi.nlm.nih.gov/pubmed/23109909)
+- [Sequencing the connectome. Zador et al. 2012, PLos Biol.](https://www.ncbi.nlm.nih.gov/pubmed/23109909)- Zadorらによる、DNAバーコードを用いたコネクトームのアイデア。空間情報をいかにシーケンシングによって明らかにするかという全く新しい発想である。
 - Hi-C
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome.Lieberman-Aiden et al. 2009, Science.](https://www.ncbi.nlm.nih.gov/pubmed/19815776)- Hi-Cのオリジナル論文。この論文を起点として、クロマチン構造解析が爆発的に進むようになった。
 - [Capturing chromosome conformation. Dekker et al. 2002, Science](https://www.ncbi.nlm.nih.gov/pubmed/11847345)- Hi-Cの基礎となった3Cの論文。ホルムアルデヒドによる固定、制限酵素による切断、ligation、PCRと、分子細胞生物学に必須ないくつかの基本的なテクニックを組み合わせることで、Job Dekkerはこの天才的なアイデアを生み出した。3Cの発明は分子細胞生物学、ゲノミクス研究の歴史において特異点的な偉業である。Job Dekkerはこの方法論にたどり着いた理由についてい、彼自身が博士時代にNMRの研究を行なっていたこと、分子生物学の実験でPCRだけはうまくできたこと、実験初期にすぐにうまくいったこと、をtadasuに語ってくれた。しかしその特異さゆえ、2009年のHi-C論文が世に出るまでは中々評価されることはなかった。
