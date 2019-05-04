@@ -86,6 +86,8 @@ https://buzzap.jp/news/20150930-paralysis-walk-with-bluetooth/
 
 体内マイクロチップ
 https://gigazine.net/news/20180201-practical-guide-microchip-implants/
+https://www.bbc.com/japanese/video-40810320
+https://www.bbc.com/japanese/features-and-analysis-46503483
 
 ブレインマシンインターフェイス
 https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9
