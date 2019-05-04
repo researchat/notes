@@ -8,8 +8,8 @@
 
 ## Show notes
 - [The embryonic cell lineage of the nematode Caenorhabditis elegans. Developmental Biology, 1983](https://www.ncbi.nlm.nih.gov/pubmed/6684600)...Sulstonらによって線虫の全細胞における細胞系譜が初めて明らかにされた記念碑的な論文。Sulstonは4時間に及ぶ顕微鏡観察を毎日2回繰り返すことを何年も繰り返すことによって、959個の細胞系譜を明らかにした。
-- [Jey Shendre](https://shendure-web.gs.washington.edu/)...HarvardのChurch labで博士課程の学生だった頃、一発の実験で細胞系譜を一斉に追跡できるテクノロジーを作れ、と言われて取り組んだがうまく行かなかった。独立後、CRISPR-Cas9によるゲノム編集を用いることで当時は不可能だったアイデアを実現させ、GESTALT法が誕生した。
-- [Whole-organism lineage tracing by combinatorial and cumulative genome editing. Science 2016](https://www.ncbi.nlm.nih.gov/pubmed/27229144)...CRISPR-Cas9によるゲノム編集を人工的な配列に引き起こすことにより、生体内で変異パタンを生成させ、このパタンの系統樹を描くことにより細胞系譜を追跡するGESTALT法。ゼブラフィッシュにおける複雑な細胞系譜がシーケンシングによって再構成できることを世界で初めて示した。このアイデアに多くの研究者らが触発され、多くの関連技術群が開発されることになった。
+- [Jey Shendre](https://shendure-web.gs.washington.edu/)...HarvardのChurch labで博士課程の学生だった頃、一発の実験で細胞系譜を一斉に追跡できるテクノロジーを作れ、と言われて取り組んだがうまく行かなかった。独立後、CRISPR-Cas9によるゲノム編集を用いることで当時は不可能だったアイデアを実現させ、GESTALT法を生み出した。
+- [Whole-organism lineage tracing by combinatorial and cumulative genome editing. Science 2016](https://www.ncbi.nlm.nih.gov/pubmed/27229144)...Jey Shendreによる全く新しい細胞系譜の追跡方法。CRISPR-Cas9によるゲノム編集を人工的な配列に引き起こすことにより、生体内で変異パタンを生成させ、このパタンの系統樹を描くことにより細胞系譜を追跡するGESTALT法。ゼブラフィッシュにおける複雑な細胞系譜が顕微鏡を使わず、一度のシーケンシングによって再構成できることを世界で初めて示した。このアイデアに多くの研究者らが触発され、多くの関連技術群が開発されることになった。
 - [Synthetic recording and in situ readout of lineage information in single cells. Nature 2016](https://www.ncbi.nlm.nih.gov/pubmed/27869821)...Long CaiとMichael ElowitzらによるCRISPR-Cas9と一分子RNA FISH法を組み合わせた細胞系譜の追跡技術、MEMOIR法。人工的な配列が時間経過とともにゲノム編集によって破壊され、一分子RNA FISHの蛍光が減弱するパタンを利用して、細胞系譜を追跡することができる。
 - [light sheet fluorescence microscopy](https://en.wikipedia.org/wiki/Light_sheet_fluorescence_microscopy)...Light sheet fluorescence microscopyのアイデア自体は古く、100年近く遡る。最近の光学系とカメラ、制御系の発展により、大きな分野となりつつある。
 - [Transgenic strategies for combinatorial expression of fluorescent proteins in the nervous system. Livet et al. 2007, Nature](https://www.ncbi.nlm.nih.gov/pubmed/17972876)...Braibowのオリジナル論文。Cre-LoxPによるDNA組み換え酵素によって複数の蛍光タンパク質をランダムに発現させ、その多色のパタンによってクローンを標識・追跡が可能となる。
