@@ -13,10 +13,7 @@
 - [Synthetic recording and in situ readout of lineage information in single cells. Nature 2016](https://www.ncbi.nlm.nih.gov/pubmed/27869821)...Long CaiとMichael ElowitzらによるCRISPR-Cas9と一分子RNA FISH法を組み合わせた細胞系譜の追跡技術、MEMOIR法。人工的な配列が時間経過とともにゲノム編集によって破壊され、一分子RNA FISHの蛍光が減弱するパタンを利用して、細胞系譜を追跡することができる。
 - [light sheet fluorescence microscopy](https://en.wikipedia.org/wiki/Light_sheet_fluorescence_microscopy)...Light sheet fluorescence microscopyのアイデア自体は古く、100年近く遡る。最近の光学系とカメラ、制御系の発展により、大きな分野となりつつある。
 - [Transgenic strategies for combinatorial expression of fluorescent proteins in the nervous system. Livet et al. 2007, Nature](https://www.ncbi.nlm.nih.gov/pubmed/17972876)...Braibowのオリジナル論文。Cre-LoxPによるDNA組み換え酵素によって複数の蛍光タンパク質をランダムに発現させ、その多色のパタンによってクローンを標識・追跡が可能となる。
-- 空間情報をシーケンサーで得る。- 本podcastでは光学系を用いない空間情報の取得について、いくつかの研究の紹介を行なった。以下に列挙する。
-- Rabis virus
-- Connectome
-- [Sequencing the connectome. Zador et al. 2012, PLos Biol.](https://www.ncbi.nlm.nih.gov/pubmed/23109909)- ZadorらによるDNAバーコードを用いたコネクトーム計測のアイデア論文。大規模な空間情報を顕微鏡を使わずにいかにシーケンシングによって明らかにするか？という全く新しい発想を提示した一方、このアイデアがどのように実現できるのか、この当時はまだ自明でなかった。
+- [Sequencing the connectome. Zador et al. 2012, PLos Biol.](https://www.ncbi.nlm.nih.gov/pubmed/23109909)- ZadorらによるDNAバーコードを用いたコネクトーム計測のアイデア論文。大規模な空間情報を顕微鏡を使わずにいかにシーケンシングによって明らかにするか？という全く新しい発想を提示した一方、このアイデアがどのように実現できるのか、この当時はまだ自明でなかった（今も）。
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome. Lieberman-Aiden et al. 2009, Science.](https://www.ncbi.nlm.nih.gov/pubmed/19815776)...Hi-C法のオリジナル論文。この論文を起点として、核内における染色体高次構造、クロマチン構造解析が爆発的に進むようになった。
 - [Capturing chromosome conformation. Dekker et al. 2002, Science](https://www.ncbi.nlm.nih.gov/pubmed/11847345)...Hi-C法の基礎となった3C法のオリジナル論文。ホルムアルデヒドによる固定、制限酵素による切断、ライゲーション、PCR増幅という分子細胞生物学に必須ないくつかの基本的なテクニックを組み合わせることで、Job Dekkerはこの天才的なアイデアを生み出した。3C法の発明は分子細胞生物学、ゲノミクス研究の歴史において特異点的な偉業である。Job Dekkerはこの方法論にたどり着いた理由について、彼自身が博士時代にNMRの研究を行なっていたこと、分子生物学の実験でPCRだけはうまくできたこと、実験初期にすぐにうまくいったことだと、以前tadasuに語ってくれた。しかしその特異さゆえ、2009年のHi-C論文が世に出るまではなかなか評価されることはなかった。
 - [Turning point: Job Dekker](https://www.nature.com/nature/journal/v475/n7354/full/nj7354-131a.html)...Job Dekkerのポスドク回顧録。
