@@ -70,6 +70,9 @@ iPad 2のスマートカバー｢風呂のフタ｣にはすごく警戒して�
 
 https://gizmodo.com/i-have-a-magnet-implant-in-my-finger-5895555
 
+Grinder
+https://en.wikipedia.org/wiki/Grinder_(biohacking)
+
 脳へのインプラント
 人体改造
 美容整形から男性のメイクまで
