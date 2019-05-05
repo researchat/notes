@@ -1,5 +1,6 @@
 ## Title
 Intelligence requires a body.
+Post-human.
 
 ## Soh
 
@@ -8,6 +9,9 @@ Intelligence requires a body.
 人間の拡張可能性について、近赤外線が"見える"様に改造されたマウスの論文を始点とし、身体改造、バイオハッキング(biohacking)、グラインダー(grinder)、信州と非侵襲について議論した。
 非侵襲と侵襲型 服用型についても 身体改造 (body modification)、身体拡張、脳内改造、長期、短期
 Grinder (biohacking)
+
+知性と肉体は切り離すことができないということを考えさせられた回であった。タイトルには、Rolf Pfeifer博士の言葉を引用した。
+- [Embodied Artificial Intelligence -On the role of morphology and materials in the emergence of cognition-. Pfeifer. 2002.]
 
 - [Mammalian Near-Infrared Image Vision through Injectable and Self-Powered Retinal Nanoantennae. Ma et al., Cell, 2019.](https://www.ncbi.nlm.nih.gov/pubmed/30827682) - 哺乳類は750nm以上の波長を持つ赤外線域の光を見ることはできない。本論文では、985nm周辺の近赤外線により励起し、580nm周辺の緑の光を放出するナノ粒子を、マウスの光受容体、桿体細胞のouter segment上に外科手術によって注入することで、赤外線を緑色光としてマウスが知覚できる様になったことを示した。ゲノム配列の変化を伴わない、侵襲性生体デバイスのこれからの発展を匂わせる論文である。
 - [Long-term in vivo glucose monitoring using fluorescent hydrogel fibers. Heo et al., PNAS, 2011.](https://www.pnas.org/content/108/33/13399) - 東大の竹内研から発表された論文。マウスの耳に血糖値に応じて光の強度が変化するハイドロゲルを埋め込み、ライブで血糖値の変化を測定することに成功した。これもこれからの侵襲性生体デバイスの開発を期待させる、とても面白い論文となっている。
