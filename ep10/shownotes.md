@@ -9,7 +9,7 @@ date: 2019-05-05 00:00:00 +0900
 description: 記念すべき第10回のエピソードは、キーボードを自作する楽しみ、研究における道具や技術を自作するか問題、ゲームコントローラーの改造、超解像顕微鏡の設計と組み立て、マンガについて話しました。（出演者：tadasu, soh, colea）
 duration: "X:X:X"
 layout: article
-title: 10. The endogame keyboard
+title: 10. The endgame keyboard
 ---
 
 ## Show notes
