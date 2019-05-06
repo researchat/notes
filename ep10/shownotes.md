@@ -1,4 +1,4 @@
-## Title: The endgame
+## Title: The endgame keyboard
 ## Show notes
 - 輝けデーモン・コアくん	
 - 親指シフト
