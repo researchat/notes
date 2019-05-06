@@ -10,7 +10,7 @@ Post-human.
 非侵襲と侵襲型 服用型についても 身体改造 (body modification)、身体拡張、脳内改造、長期、短期
 Grinder (biohacking)
 
-知性と肉体は切り離すことができないということを考えさせられた回であった。タイトルには、Rolf Pfeifer博士の言葉を引用した。バイオハッキングによる肉体の変容は人間の「知性」をどのように変容させるのか。それを追求していく先駆者としてグラインダーたちは、自由に自己の肉体をハッキングしている。
+知性と肉体の不可分性について考えさせられた回であった。タイトルには、Rolf Pfeifer博士の言葉を引用した。バイオハッキングによる肉体の変容は人間の「知性」をどのように変容させるのか。それを追求していく先駆者としてグラインダーたちは、自己の肉体を自由にハッキングしている。
 - [Embodied Artificial Intelligence -On the role of morphology and materials in the emergence of cognition-. Pfeifer. 2002](https://www.informatics.indiana.edu/rocha/publications/embrob/pfeifer.html)...Inteligence requires a body.
 - [Mammalian Near-Infrared Image Vision through Injectable and Self-Powered Retinal Nanoantennae. Ma et al., Cell, 2019](https://www.ncbi.nlm.nih.gov/pubmed/30827682)...哺乳類は750nm以上の波長を持つ赤外線域の光を見ることはできない。本論文では、985nm周辺の近赤外線により励起し、580nm周辺の緑の光を放出するナノ粒子を、マウスの光受容体、桿体細胞のouter segment上に外科手術によって注入することで、赤外線を緑色光としてマウスが知覚できる様になったことを示した。ゲノム配列の変化を伴わない、侵襲性生体デバイスのこれからの発展を匂わせる論文である。
 - [ロドプシン](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%89%E3%83%97%E3%82%B7%E3%83%B3)... ヒトの「観える」という機能を支えるタンパク質。最近は光によって様々な操作を細胞内で行う光遺伝学においてもっとも重要な位置を占めるタンパク質である。
