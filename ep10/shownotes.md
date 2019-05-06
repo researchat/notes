@@ -4,7 +4,8 @@
 
 ## Show notes
 - [輝け!!デーモン・コアくん (Youtube)](https://www.youtube.com/watch?v=6ZIjbX1gj88)
-- [Happy Hacking Keyboard, HHKB](https://www.pfu.fujitsu.com/hhkeyboard/)
+- [遊舎工房 | 自作キーボード＆レーザーカット＆UVプリント](https://yushakobo.jp/)...Coelaは今回ここを利用して自作のキーボードを作った。
+- [Happy Hacking Keyboard, HHKB](https://www.pfu.fujitsu.com/hhkeyboard/)...Tadasu, Soh, Coelaは3人ともにこのHHKBを普段の仕事に使っている。
 - [親指シフト (Wikipedia)](https://ja.wikipedia.org/wiki/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88)
 - [Kinesisキーボード](https://www.edikun.co.jp/kinesis/)
 - [東プレ Realforce](http://www.realforce.co.jp/)
