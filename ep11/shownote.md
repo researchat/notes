@@ -20,7 +20,7 @@ Grinder (biohacking)
 - [シックスパック、ミケランジェロ](https://www.takasu.co.jp/operation/diet/michelangelo004.html)...おそらく日本の身体改造のトップランカーである高須院長の見事なシックスパックは必見である。
 - [Grinder(biohacking): グラインダー(バイオハッキング)](https://en.wikipedia.org/wiki/Grinder_(biohacking))...DIYの精神で、身体をサイバネティックなデバイスによって改善する、もしくは化学物質を体内に注入することで身体を変化させたり、体の機能性を強化させる人たちのことをグラインダーと呼ぶ。ハッカー文化の一つとして考えられている。本ポッドキャストは、彼らの動向に注視していく必要があるだろう。
 - [I Have a Magnet Implant In My Finger](https://gizmodo.com/i-have-a-magnet-implant-in-my-finger-5895555)...磁石を指の先にいれてどのように生活が変わっていったのか、Grinderの体験記。触覚の一部としての"磁覚"が目覚め始める。
-- 3-square market
+- [three square market](https://www.cnbc.com/2017/08/11/three-square-market-ceo-explains-its-employee-microchip-implant.html) - 従業員にマイクロチップを導入する事で軽食などの購入をマイクロチップ経由で可能にしようとした。
 - 耳をヘッドフォン化する改造
 - [The Most Extreme Body Hacks That Actually Change Your Physical Abilities](https://gizmodo.com/the-most-extreme-body-hacks-that-actually-change-your-p-1704056851)...暗視目薬の自作から、大きな生体デバイス(テキストを発信することが可能)、そしてポッドキャスト内では触れなかったアレの切断まで、Grinderたちの挑戦についてまとめられた記事。
 - 自由意志とは？
@@ -30,9 +30,9 @@ Grinder (biohacking)
 - [サナダムシをお腹の中で飼っていた藤田紘一郎先生](https://gendai.ismedia.jp/articles/-/45546)
 - [スケルトニクス](https://skeletonics.com/)
 - [The Thrid Thumb Project: 6本目の指](https://vimeo.com/220291411)
-- 東大稲見研究室
-- 未踏プロジェクト
-- カムイ外伝
+- [東京大学稲見・檜山研究室](https://star.rcast.u-tokyo.ac.jp/)
+- [未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/portal_index.html)
+- [忍風カムイ外伝 5話「五ツ」](https://blogs.yahoo.co.jp/baikindaddy/37498294.html) - 名張の五ツは、カムイ外伝に登場する胸から3本目の腕が生えている最強の忍者の一人。両手両足に胸からの腕を含めて五ツ。
 - [Neurohacking](https://en.wikipedia.org/wiki/Neurohacking)...カフェインやアルコールに始まり、スマートドラッグなどを用いたニューロハッキングについての記事。本ポッドキャストでは話すことができなかったが、スマドラ後進国の我々としては、諸外国の動向は気になる。
 - [スマートドラッグ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0)...ヌートロピックやメモリエンハンサー、ニューロエンハンサー、コグニティブエンハンサー、インテリジェンスエンハンサーと、様々な呼び名を持つ、スマートドラッグ(通称スマドラ)。ADHDやナルコレプシーの治療薬などが用いられるが、日本では覚せい剤認定されていたり、医療以外での利用が難しいケースが多い。また諸外国でもスマドラの常用、乱用が非常に大きな問題となっている。ダメ！絶対！
 - [mixi](https://mixi.jp/show_friend.pl?id=1)...昔、インターネットにはmixiという大国があった。我々の青春は間違いなくmixiと共にあった。しかし、その残り香を楽しめる時間も、もう長くないかもしれない。mixiは加入した順番でidが振られている。id=1はmixiという大国を作った創造神の証である。id=2は初代社長と続いていく。mixiのコミュニティは素晴らしいインターネット上の社交場だったと思うが、現在、代替するものは存在していない。
