@@ -16,7 +16,8 @@ Grinder (biohacking)
 - [Long-term in vivo glucose monitoring using fluorescent hydrogel fibers. Heo et al., PNAS, 2011](https://www.pnas.org/content/108/33/13399)...東大の竹内研から発表された論文。マウスの耳に血糖値に応じて光の強度が変化するハイドロゲルを埋め込み、ライブで血糖値の変化を測定することに成功した。これもこれからの侵襲性生体デバイスの開発を期待させる、とても面白い論文となっている。
 - [ピット器官](https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%88%E5%99%A8%E5%AE%98)...ニシキヘビや、ガラガラヘビ、マムシはピット器官を通して、赤外線を感じることができる。
 - [ロレンチーニ器官](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%AC%E3%83%B3%E3%83%81%E3%83%BC%E3%83%8B%E5%99%A8%E5%AE%98)...サメの頭部に存在する小さな穴の器官のこと。プロトン伝達体であるゼリー状の物質が詰まっており、100万分の1ボルトという極小の電位差を感知することができる。
-- [身体改造(body modification)](https://ja.wikipedia.org/wiki/%E8%BA%AB%E4%BD%93%E6%94%B9%E9%80%A0)
+- [身体改造(body modification)](https://ja.wikipedia.org/wiki/%E8%BA%AB%E4%BD%93%E6%94%B9%E9%80%A0)... タトゥー、スカリフィケーション、ピアス・肉体穿孔、インプラント、セイリーン・インフュージョン、ボディ・サスペンション、纏足、宦官、トレパネーションなど。伸長・狭窄・切開・切断・縫合・焼灼などの手段を用い、人間の肉体に意図的に、また多くの場合は恒久的に変形を施すことで装飾する行為である。
+- [カストラート](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%88%E3%83%A9%E3%83%BC%E3%83%88)... 本ポッドキャストでは触れなかったが、男性ホルモンの分泌による第二次性徴期における変声期を飛ばすために施された去勢のことを指す。これにより、ボーイ・ソプラノ時の声質や音域をできうる限り持続させようとした。今は人道的な理由から廃れた。
 - [シックスパック、ミケランジェロ](https://www.takasu.co.jp/operation/diet/michelangelo004.html)...日本の身体改造業界における先駆者である高須院長の見事なシックスパックは必見である。
 - [Grinder(biohacking): グラインダー(バイオハッキング)](https://en.wikipedia.org/wiki/Grinder_(biohacking))...DIYの精神で、身体をサイバネティックなデバイスによって改良する、もしくは化学物質を体内に注入することで身体を変化させたり、体の機能性を強化させたりする人たちのことをグラインダーと呼ぶ。ハッカー文化の一つとして考えられている。本ポッドキャストは、彼らの動向に注視していく必要があるだろう。
 - [I Have a Magnet Implant In My Finger](https://gizmodo.com/i-have-a-magnet-implant-in-my-finger-5895555)...磁石を指の先にいれてどのように生活が変わっていったのか、Grinderの体験記。触覚の一部としての"磁覚"が目覚め始める。
