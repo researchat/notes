@@ -1,6 +1,16 @@
-## Title: The endgame keyboard
-
-## Description
+---
+actor_ids:
+  - tadasu
+  - soh
+  - coela
+audio_file_path: /audio/10.mp3
+audio_file_size: 999999
+date: 2019-05-05 00:00:00 +0900
+description: 記念すべき第10回のエピソードは、キーボードを自作する楽しみ、研究における道具や技術を自作するか問題、ゲームコントローラーの改造、超解像顕微鏡の設計と組み立て、マンガについて話しました。（出演者：tadasu, soh, colea）
+duration: "X:X:X"
+layout: article
+title: 10. The endogame keyboard
+---
 
 ## Show notes
 - [輝け!!デーモン・コアくん (Youtube)](https://www.youtube.com/watch?v=6ZIjbX1gj88)
