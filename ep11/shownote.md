@@ -16,7 +16,7 @@ Grinder (biohacking)
 - [ピット器官](https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%88%E5%99%A8%E5%AE%98)...ニシキヘビや、ガラガラヘビ、マムシはピット器官を通して、赤外線を感じることができる。
 - [ロレンチーニ器官](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%AC%E3%83%B3%E3%83%81%E3%83%BC%E3%83%8B%E5%99%A8%E5%AE%98)...サメの頭部に存在する小さな穴の器官のこと。プロトン伝達体であるゼリー状の物質が詰まっており、100万分の1ボルトという極小の電位差を感知することができる。
 - [身体改造(body modification)](https://ja.wikipedia.org/wiki/%E8%BA%AB%E4%BD%93%E6%94%B9%E9%80%A0)
-- [シックスパック、ミケランジェロ](https://www.takasu.co.jp/operation/diet/michelangelo004.html)...おそらく日本の身体改造のトップランナーである高須院長の見事なシックスパックは必見である。
+- [シックスパック、ミケランジェロ](https://www.takasu.co.jp/operation/diet/michelangelo004.html)...おそらく日本の身体改造のトップランカーである高須院長の見事なシックスパックは必見である。
 - [Grinder(biohacking): グラインダー(バイオハッキング)](https://en.wikipedia.org/wiki/Grinder_(biohacking))...DIYの精神で、身体をサイバネティックなデバイスによって改善する、もしくは化学物質を体内に注入することで身体を変化させたり、体の機能性を強化させる人たちのことをグラインダーと呼ぶ。ハッカー文化の一つとして考えられている。本ポッドキャストは、彼らの動向に注視していく必要があるだろう。
 - [I Have a Magnet Implant In My Finger](https://gizmodo.com/i-have-a-magnet-implant-in-my-finger-5895555)...磁石を指の先にいれてどのように生活が変わっていったのか、Grinderの体験記。触覚の一部としての"磁覚"が目覚め始める。
 - 3-square market
