@@ -27,10 +27,11 @@ Grinder (biohacking)
 - 耳をヘッドフォン化する改造
 - [The Most Extreme Body Hacks That Actually Change Your Physical Abilities](https://gizmodo.com/the-most-extreme-body-hacks-that-actually-change-your-p-1704056851)...暗視目薬の自作から、大きな生体デバイス(テキストを発信することが可能)、そしてポッドキャスト内では触れなかったアレの切断まで、Grinderたちの挑戦についてまとめられた記事。
 - 自由意志とは？
+- 玉木さんのやつ
 - [Google Xの血中ナノマシンプロジェクト](https://www.popularmechanics.com/science/health/a11445/google-cancer-detecting-nanoparticles-17366603/)...Google Xが開発しているとされている血中ナノマシンについての記事。最近はあまり話を聞かない。
 - [Autologous Induced Stem-Cell–Derived Retinal Cells for Macular Degeneration. Mandai et al. N Engl J Med, 2017](https://www.nejm.org/doi/10.1056/NEJMoa1608368)...加齢黄斑変性の患者の網膜に対して、患者自身のiPS細胞に由来する網膜色素上皮シートを移植した論文。
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A)
-- [サナダムシをお腹の中で飼っていた藤田紘一郎先生](https://gendai.ismedia.jp/articles/-/45546)
+- [サナダムシをお腹の中で飼っていた藤田紘一郎先生](https://gendai.ismedia.jp/articles/-/45546) - サナダムシを自分の体内で飼っていたエピソード。何かを体に寄生させるという設定はフィクションの世界でも幅広く使われており、幽遊白書の北神が用いた装具や家畜人ヤプーのエンジン虫などを想起する方もいるだろう。今回は、抜けてしまっていた領域なので、このような形での身体拡張の世界も調査する必要がある。
 - [スケルトニクス](https://skeletonics.com/)
 - [The Thrid Thumb Project: 6本目の指](https://vimeo.com/220291411)
 - [東京大学稲見・檜山研究室](https://star.rcast.u-tokyo.ac.jp/)
@@ -38,7 +39,7 @@ Grinder (biohacking)
 - [忍風カムイ外伝 5話「五ツ」](https://blogs.yahoo.co.jp/baikindaddy/37498294.html)... 名張の五ツは、カムイ外伝に登場する胸から3本目の腕が生えている最強の忍者の一人。両手両足に胸からの腕を含めて五ツ。
 - [Neurohacking](https://en.wikipedia.org/wiki/Neurohacking)...カフェインやアルコールに始まり、スマートドラッグなどを用いたニューロハッキングについての記事。本ポッドキャストでは話すことができなかったが、スマドラ後進国日本の我々としては、諸外国の動向は気になるというのが正直なところであろう。
 - [スマートドラッグ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0)...ヌートロピックやメモリエンハンサー、ニューロエンハンサー、コグニティブエンハンサー、インテリジェンスエンハンサーと、様々な呼び名を持つ、スマートドラッグ(通称スマドラ)。ADHDやナルコレプシーの治療薬などが用いられるが、日本では覚せい剤認定されていたり、医療以外での利用が難しいケースがほとんどである。また諸外国でもスマドラの常用、乱用が非常に大きな問題となっている。ダメ！絶対！
-- [mixi](https://mixi.jp/show_friend.pl?id=1)...昔、インターネットにはmixiという大国があった！！！我々の青春は間違いなくmixiと共にあったが、今や兵どもが夢の跡状態である。そして、その残り香を楽しめる時間も、もう長くないかもしれない。アカウントを持っている方は、インターネットにひっそりと佇む古代帝国mixiを徘徊してみていただきたい。mixiは加入した順番でidが振られているので、id=1はmixiという大国を作った創造神の証である。id=2は初代社長。mixiのコミュニティは素晴らしいインターネット上の社交場だったと思うが、現在、代替するものは存在していない。
+- [mixi](https://mixi.jp/show_friend.pl?id=1)...昔、インターネットにはmixiという大国があった！！！我々の青春は間違いなくmixiと共にあったが、今や兵どもが夢の跡状態である。そして、その残り香を楽しめる時間も、もう長くないかもしれない。アカウントを持っている方は、インターネットの辺境にひっそりと佇む古代帝国mixiを徘徊してみていただきたい。mixiは加入した順番でidが振られているので、id=1はmixiという大国を作った創造神の証である。id=2は初代社長。mixiのコミュニティは素晴らしいインターネット上の社交場だったと思うが、現在、代替するものは存在していない。
 - ジオシティーの閉鎖
 - 銃夢（マンガ）
 - 人形の国（マンガ）
