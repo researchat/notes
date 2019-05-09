@@ -4,11 +4,7 @@ Intelligence requires a body.
 Post-human.
 
 ## Tadasu
-技術は人間を拡張可能か？
-人間の拡張可能性について、近赤外線が"見える"様に改造されたマウスの論文を始点とし、身体改造、バイオハッキング(biohacking)、グラインダー(grinder)、侵襲
-と非侵襲生体デバイスについて議論した。
-非侵襲と侵襲型 服用型についても 身体改造 (body modification)、身体拡張、脳内改造、長期、短期
-Grinder (biohacking)
+近赤外線が"見える"様にナノ粒子を網膜に打ち込まれたマウスの論文から始まり、身体改造、身体拡張、バイオハッキング(biohacking)、グラインダー(grinder)、自由意志、侵襲性・非侵襲性生体デバイスについて、議論しました。
 
 知性と肉体の不可分性について考えさせられた回であった。タイトルには、Rolf Pfeifer博士の言葉を引用した。バイオハッキングによる肉体の変容は人間の「知性」をどのように変容させるのか。それを追求していく先駆者としてグラインダーたちは、自己の肉体を自由にハッキングしている。
 - [Embodied Artificial Intelligence -On the role of morphology and materials in the emergence of cognition-. Pfeifer. 2002](https://www.informatics.indiana.edu/rocha/publications/embrob/pfeifer.html)...Inteligence requires a body.
