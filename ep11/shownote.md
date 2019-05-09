@@ -23,19 +23,20 @@ Grinder (biohacking)
 - [シックスパック、ミケランジェロ](https://www.takasu.co.jp/operation/diet/michelangelo004.html)...日本の身体改造業界における先駆者である高須院長の見事なシックスパックは必見である。
 - [Grinder(biohacking): グラインダー(バイオハッキング)](https://en.wikipedia.org/wiki/Grinder_(biohacking))...DIYの精神で、身体をサイバネティックなデバイスによって改良する、もしくは化学物質を体内に注入することで身体を変化させたり、体の機能性を強化させたりする人たちのことをグラインダーと呼ぶ。ハッカー文化の一つとして考えられている。本ポッドキャストは、彼らの動向に注視していく必要があるだろう。
 - [I Have a Magnet Implant In My Finger](https://gizmodo.com/i-have-a-magnet-implant-in-my-finger-5895555)...磁石を指の先にいれてどのように生活が変わっていったのか、Grinderの体験記。触覚の一部としての"磁覚"が目覚め始める。
-- [three square market](https://www.cnbc.com/2017/08/11/three-square-market-ceo-explains-its-employee-microchip-implant.html) - 従業員にマイクロチップを導入する事で軽食などの購入をマイクロチップ経由で可能にしようとした。
-- 耳をヘッドフォン化する改造
+- [Why most of Three Square Market's employees jumped at the chance to wear a microchip](https://www.cnbc.com/2017/08/11/three-square-market-ceo-explains-its-employee-microchip-implant.html) - 従業員にマイクロチップを導入する事で軽食などの購入をマイクロチップ経由で可能にしようとした。
+- [耳にヘッドフォンを埋め込みガチで「No Music No Life」を達成した男](https://buzzap.jp/news/20130703-implant-headphone/)... 耳をヘッドフォン化したグラインダー
 - [The Most Extreme Body Hacks That Actually Change Your Physical Abilities](https://gizmodo.com/the-most-extreme-body-hacks-that-actually-change-your-p-1704056851)...暗視目薬の自作から、大きな生体デバイス(テキストを発信することが可能)、そしてポッドキャスト内では触れなかったアレの切断まで、Grinderたちの挑戦についてまとめられた記事。
 - 自由意志とは？
-- [機能的電気刺激による動作を、自分自身の能力でタスク遂行したと誤解させる研究(稲見先生のツイート)](https://twitter.com/drinami/status/1124218114562973696?s=21) - 機能的電気刺激で、本来の動作より速く正確にに手指を制御。しかし本人は自分自身の能力でタスクを遂行できたと誤解。
+- [機能的電気刺激による動作を、自分自身の能力でタスク遂行したと誤解させる研究(稲見先生のツイート)](https://twitter.com/drinami/status/1124218114562973696?s=21)... 機能的電気刺激で、本来の動作より速く正確にに手指を制御。しかし本人は自分自身の能力でタスクを遂行できたと誤解。
 - [Google Xの血中ナノマシンプロジェクト](https://www.popularmechanics.com/science/health/a11445/google-cancer-detecting-nanoparticles-17366603/)...Google Xが開発しているとされている血中ナノマシンについての記事。最近はあまり話を聞かない。
 - [Autologous Induced Stem-Cell–Derived Retinal Cells for Macular Degeneration. Mandai et al. N Engl J Med, 2017](https://www.nejm.org/doi/10.1056/NEJMoa1608368)...加齢黄斑変性の患者の網膜に対して、患者自身のiPS細胞に由来する網膜色素上皮シートを移植した論文。
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A)
 - [サナダムシをお腹の中で飼っていた藤田紘一郎先生](https://gendai.ismedia.jp/articles/-/45546) - サナダムシを自分の体内で飼っていたエピソード。何かを体に寄生させるという設定はフィクションの世界でも幅広く使われており、幽遊白書の北神が用いた装具や家畜人ヤプーのエンジン虫などを想起する方もいるだろう。今回は、抜けてしまっていた領域なので、このような形での身体拡張の世界も調査する必要がある。
-- [スケルトニクス](https://skeletonics.com/)
-- [The Thrid Thumb Project: 6本目の指](https://vimeo.com/220291411)
+- [スケルトニクス](https://skeletonics.com/) - とりあえずかっこいい。
+- [The Thrid Thumb Project: 6本目の指](https://vimeo.com/220291411)... 原題は3本目の親指。小指の横に装着され、フットペダルによって操作する。
 - [東京大学稲見・檜山研究室](https://star.rcast.u-tokyo.ac.jp/)
 - [未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/portal_index.html)
+- [MetaLimbs](https://www.youtube.com/watch?v=sKjAp0iZ7dc)... 4本腕について。動作原理は6本目の指と似ている。
 - [忍風カムイ外伝 5話「五ツ」](https://blogs.yahoo.co.jp/baikindaddy/37498294.html)... 名張の五ツは、カムイ外伝に登場する胸から3本目の腕が生えている最強の忍者の一人。両手両足に胸からの腕を含めて五ツ。
 - [Neurohacking](https://en.wikipedia.org/wiki/Neurohacking)...カフェインやアルコールに始まり、スマートドラッグなどを用いたニューロハッキングについての記事。本ポッドキャストでは話すことができなかったが、スマドラ後進国日本の我々としては、諸外国の動向は気になるというのが正直なところであろう。
 - [スマートドラッグ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0)...ヌートロピックやメモリエンハンサー、ニューロエンハンサー、コグニティブエンハンサー、インテリジェンスエンハンサーと、様々な呼び名を持つ、スマートドラッグ(通称スマドラ)。ADHDやナルコレプシーの治療薬などが用いられるが、日本では覚せい剤認定されていたり、医療以外での利用が難しいケースがほとんどである。また諸外国でもスマドラの常用、乱用が非常に大きな問題となっている。ダメ！絶対！
