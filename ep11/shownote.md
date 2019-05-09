@@ -4,9 +4,8 @@ Intelligence requires a body.
 Post-human.
 
 ## Tadasu
-近赤外線が"見える"様にナノ粒子を網膜に打ち込まれたマウスの論文から始まり、身体改造、身体拡張、バイオハッキング(biohacking)、グラインダー(grinder)、自由意志、侵襲性・非侵襲性生体デバイスについて、議論しました。
+身体改造・拡張特集回では、近赤外線が"見える"様にナノ粒子を網膜に打ち込まれたマウスの論文から始まり、超能力、バイオハッキング(biohacking)、グラインダー(grinder)、侵襲性・非侵襲性デバイス、自由意志、ニューロハッキングについて話しました。
 
-知性と肉体の不可分性について考えさせられた回であった。タイトルには、Rolf Pfeifer博士の言葉を引用した。バイオハッキングによる肉体の変容は人間の「知性」をどのように変容させるのか。それを追求していく先駆者としてグラインダーたちは、自己の肉体を自由にハッキングしている。
 - [Embodied Artificial Intelligence -On the role of morphology and materials in the emergence of cognition-. Pfeifer. 2002](https://www.informatics.indiana.edu/rocha/publications/embrob/pfeifer.html)...Inteligence requires a body.
 - [Mammalian Near-Infrared Image Vision through Injectable and Self-Powered Retinal Nanoantennae. Ma et al., Cell, 2019](https://www.ncbi.nlm.nih.gov/pubmed/30827682)...哺乳類は750nm以上の波長を持つ赤外線域の光を見ることはできない。本論文では、985nm周辺の近赤外線により励起し、580nm周辺の緑の光を放出するナノ粒子を、マウスの光受容体、桿体細胞のouter segment上に外科手術によって注入することで、赤外線を緑色光としてマウスが知覚できる様になったことを示した。ゲノム配列の変化を伴わない、侵襲性生体デバイスのこれからの発展を匂わせる論文である。
 - [ロドプシン](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%89%E3%83%97%E3%82%B7%E3%83%B3)... ヒトの「観える」という機能を支えるタンパク質。最近は光によって様々な操作を細胞内で行う光遺伝学においてもっとも重要な位置を占めるタンパク質である。
@@ -18,6 +17,7 @@ Post-human.
 - [カストラート](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%88%E3%83%A9%E3%83%BC%E3%83%88)... 本ポッドキャストでは触れなかったが、男性ホルモンの分泌による第二次性徴期における変声期を飛ばすために施された去勢のことを指す。これにより、ボーイ・ソプラノ時の声質や音域をできうる限り持続させようとした。今は人道的な理由から廃れた。
 - [シックスパック、ミケランジェロ](https://www.takasu.co.jp/operation/diet/michelangelo004.html)...日本の身体改造業界における先駆者である高須院長の見事なシックスパックは必見である。
 - [Grinder(biohacking): グラインダー(バイオハッキング)](https://en.wikipedia.org/wiki/Grinder_(biohacking))...DIYの精神で、身体をサイバネティックなデバイスによって改良する、もしくは化学物質を体内に注入することで身体を変化させたり、体の機能性を強化させたりする人たちのことをグラインダーと呼ぶ。ハッカー文化の一つとして考えられている。本ポッドキャストは、彼らの動向に注視していく必要があるだろう。
+- [CRISPRを自分の体に打ち込んだ男](https://gigazine.net/news/20171225-diy-gene-therapy/)
 - [I Have a Magnet Implant In My Finger](https://gizmodo.com/i-have-a-magnet-implant-in-my-finger-5895555)...磁石を指の先にいれてどのように生活が変わっていったのか、Grinderの体験記。触覚の一部としての"磁覚"が目覚め始める。
 - [Why most of Three Square Market's employees jumped at the chance to wear a microchip](https://www.cnbc.com/2017/08/11/three-square-market-ceo-explains-its-employee-microchip-implant.html) - 従業員にマイクロチップを導入する事で軽食などの購入をマイクロチップ経由で可能にしようとした。
 - [耳にヘッドフォンを埋め込みガチで「No Music No Life」を達成した男](https://buzzap.jp/news/20130703-implant-headphone/)... 耳をヘッドフォン化したグラインダー
@@ -40,4 +40,8 @@ Post-human.
 - ジオシティーの閉鎖
 - 銃夢（マンガ）
 - 人形の国（マンガ）
+
+
+## 感想戦
+知性と肉体の不可分性について考えさせられた回であった。タイトルには、Rolf Pfeifer博士の言葉を引用した。バイオハッキングによる肉体の変容は、人間の「知性」をどのように変容させるのか。自己の肉体を自由にハッキングしているグラインダーという先駆者の存在を知った。彼らの文化や実験をこれからも追跡していきたい。(興味はあるが、今の所自分が施す勇気はない。)(tadasu)
 
