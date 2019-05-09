@@ -27,7 +27,7 @@ Grinder (biohacking)
 - 耳をヘッドフォン化する改造
 - [The Most Extreme Body Hacks That Actually Change Your Physical Abilities](https://gizmodo.com/the-most-extreme-body-hacks-that-actually-change-your-p-1704056851)...暗視目薬の自作から、大きな生体デバイス(テキストを発信することが可能)、そしてポッドキャスト内では触れなかったアレの切断まで、Grinderたちの挑戦についてまとめられた記事。
 - 自由意志とは？
-- 玉木さんのやつ
+- [機能的電気刺激による動作を、自分自身の能力でタスク遂行したと誤解させる研究(稲見先生のツイート)](https://twitter.com/drinami/status/1124218114562973696?s=21) - 機能的電気刺激で、本来の動作より速く正確にに手指を制御。しかし本人は自分自身の能力でタスクを遂行できたと誤解。
 - [Google Xの血中ナノマシンプロジェクト](https://www.popularmechanics.com/science/health/a11445/google-cancer-detecting-nanoparticles-17366603/)...Google Xが開発しているとされている血中ナノマシンについての記事。最近はあまり話を聞かない。
 - [Autologous Induced Stem-Cell–Derived Retinal Cells for Macular Degeneration. Mandai et al. N Engl J Med, 2017](https://www.nejm.org/doi/10.1056/NEJMoa1608368)...加齢黄斑変性の患者の網膜に対して、患者自身のiPS細胞に由来する網膜色素上皮シートを移植した論文。
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A)
