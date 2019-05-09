@@ -4,7 +4,7 @@ Intelligence requires a body.
 Post-human.
 
 ## Tadasu
-身体改造・拡張特集回では、近赤外線が"見える"様にナノ粒子を網膜に打ち込まれたマウスの論文から始まり、超能力、バイオハッキング(biohacking)、グラインダー(grinder)、侵襲性・非侵襲性デバイス、自由意志、ニューロハッキングについて話しました。
+身体改造・拡張特集回では、ナノ粒子を網膜に打ち込むことで、近赤外線が"見える"ように改造されたマウスの論文から始まり、超能力、バイオハッキング(biohacking)、グラインダー(grinder)、侵襲性・非侵襲性デバイス、自由意志、ニューロハッキングについて話しました。
 
 - [Embodied Artificial Intelligence -On the role of morphology and materials in the emergence of cognition-. Pfeifer. 2002](https://www.informatics.indiana.edu/rocha/publications/embrob/pfeifer.html)...Inteligence requires a body.
 - [Mammalian Near-Infrared Image Vision through Injectable and Self-Powered Retinal Nanoantennae. Ma et al., Cell, 2019](https://www.ncbi.nlm.nih.gov/pubmed/30827682)...哺乳類は750nm以上の波長を持つ赤外線域の光を見ることはできない。本論文では、985nm周辺の近赤外線により励起し、580nm周辺の緑の光を放出するナノ粒子を、マウスの光受容体、桿体細胞のouter segment上に外科手術によって注入することで、赤外線を緑色光としてマウスが知覚できる様になったことを示した。ゲノム配列の変化を伴わない、侵襲性生体デバイスのこれからの発展を匂わせる論文である。
