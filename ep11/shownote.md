@@ -27,7 +27,7 @@
 - [Autologous Induced Stem-Cell–Derived Retinal Cells for Macular Degeneration. Mandai et al. N Engl J Med, 2017](https://www.nejm.org/doi/10.1056/NEJMoa1608368)...加齢黄斑変性の患者の網膜に対して、患者自身のiPS細胞に由来する網膜色素上皮シートを移植した論文。
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A)
 - [サナダムシをお腹の中で飼っていた藤田紘一郎先生](https://gendai.ismedia.jp/articles/-/45546)...サナダムシを自分の体内で飼っていたエピソード。何かを体に寄生させるという設定はフィクションの世界でも幅広く使われており、幽遊白書の北神が用いた装具や家畜人ヤプーのエンジン虫などを想起する方もいるだろう。今回は、抜けてしまっていた領域なので、このような形での身体拡張の世界も調査する必要がある。
-- [スケルトニクス](https://skeletonics.com/) - とりあえずかっこいい。
+- [スケルトニクス](https://skeletonics.com/)...とりあえずかっこいい。
 - [The Thrid Thumb Project: 6本目の指](https://vimeo.com/220291411)...原題は3本目の親指。小指の横に装着され、フットペダルによって操作する。
 - [東京大学稲見・檜山研究室](https://star.rcast.u-tokyo.ac.jp/)
 - [未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/portal_index.html)
