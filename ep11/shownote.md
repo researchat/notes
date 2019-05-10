@@ -19,7 +19,7 @@
 - [CRISPRを自分の体に打ち込んだ男](https://gigazine.net/news/20171225-diy-gene-therapy/)
 - [I Have a Magnet Implant In My Finger](https://gizmodo.com/i-have-a-magnet-implant-in-my-finger-5895555)...磁石を指の先にいれてどのように生活が変わっていったのか、Grinderの体験記。触覚の一部としての"磁覚"が目覚め始める。
 - [Why most of Three Square Market's employees jumped at the chance to wear a microchip](https://www.cnbc.com/2017/08/11/three-square-market-ceo-explains-its-employee-microchip-implant.html) - 従業員にマイクロチップを導入する事で軽食などの購入をマイクロチップ経由で可能にしようとした。
-- [耳にヘッドフォンを埋め込みガチで「No Music No Life」を達成した男](https://buzzap.jp/news/20130703-implant-headphone/)... 耳をヘッドフォン化したグラインダー
+- [耳にヘッドフォンを埋め込みガチで「No Music No Life」を達成した男](https://buzzap.jp/news/20130703-implant-headphone/)...耳をヘッドフォン化したグラインダー
 - [The Most Extreme Body Hacks That Actually Change Your Physical Abilities](https://gizmodo.com/the-most-extreme-body-hacks-that-actually-change-your-p-1704056851)...暗視目薬の自作から、大きな生体デバイス(テキストを発信することが可能)、そしてポッドキャスト内では触れなかったアレの切断まで、Grinderたちの挑戦についてまとめられた記事。
 - [自由意志](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97)
 - [機能的電気刺激による動作を、自分自身の能力でタスク遂行したと誤解させる研究(稲見先生のツイート)](https://twitter.com/drinami/status/1124218114562973696?s=21)... 機能的電気刺激で、本来の動作より速く正確にに手指を制御。しかし本人は自分自身の能力でタスクを遂行できたと誤解。
@@ -32,7 +32,7 @@
 - [東京大学稲見・檜山研究室](https://star.rcast.u-tokyo.ac.jp/)
 - [未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/portal_index.html)
 - [MetaLimbs](https://www.youtube.com/watch?v=sKjAp0iZ7dc)...4本腕について。動作原理は6本目の指と似ている。
-- [忍風カムイ外伝 5話「五ツ」](https://blogs.yahoo.co.jp/baikindaddy/37498294.html)... 名張の五ツは、カムイ外伝に登場する胸から3本目の腕が生えている忍者の一人。両手両足に胸からの腕を含めて五ツ。
+- [忍風カムイ外伝 5話「五ツ」](https://blogs.yahoo.co.jp/baikindaddy/37498294.html)...名張の五ツは、カムイ外伝に登場する胸から3本目の腕が生えている忍者の一人。両手両足に胸からの腕を含めて五ツ。
 - [Neurohacking](https://en.wikipedia.org/wiki/Neurohacking)...カフェインやアルコールに始まり、スマートドラッグなどを用いたニューロハッキングについての記事。本ポッドキャストでは話すことができなかったが、スマドラ後進国日本の我々としては、諸外国の動向は気になるというのが正直なところであろう。
 - [スマートドラッグ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0)...ヌートロピックやメモリエンハンサー、ニューロエンハンサー、コグニティブエンハンサー、インテリジェンスエンハンサーと、様々な呼び名を持つ、スマートドラッグ(通称スマドラ)。ADHDやナルコレプシーの治療薬などが用いられるが、日本では覚せい剤認定されていたり、医療以外での利用が難しいケースがほとんどである。また諸外国でもスマドラの常用、乱用が非常に大きな問題となっている。ダメ！絶対！
 - [mixi](https://mixi.jp/show_friend.pl?id=1)...昔、インターネットにはmixiという大国があった！！！我々の青春は間違いなくmixiと共にあったが、今や兵どもが夢の跡状態である。そして、その残り香を楽しめる時間も、もう長くないかもしれない。アカウントを持っている方は、インターネットの辺境にひっそりと佇む古代帝国mixiを徘徊してみていただきたい。mixiは加入した順番でidが振られているので、id=1はmixiという大国を作った創造神の証である。id=2は初代社長。mixiのコミュニティは素晴らしいインターネット上の社交場だったと思うが、現在、代替するものは存在していない。
