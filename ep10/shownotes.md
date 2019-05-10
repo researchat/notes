@@ -37,7 +37,7 @@ title: 10. The endgame keyboard
 - [Hitbox (格ゲー用ゲームコントローラー)](https://www.4gamer.net/games/000/G000000/20111225003/)
 - [SFV Shortcut Guide](https://www.hitboxarcade.com/blogs/how-to-hit-box/street-fighter-v-shortcut-guide)...hitbox公式のストリートファイターVにおける操作方法説明。歩き昇竜、しゃがみ昇竜、一回転入力などについて動画付きで解説されている。
 - [自作ヒットボックス製作過程、全部見せます！！](https://www.youtube.com/watch?v=1op22EfN938)... ガフロ選手によるHitbox自作動画
-- [三次元Hitbox](https://twitter.com/tksuiken/status/1126174421893300225)... 左手が手の形状に合わせるように立体的にボタン配置されている。
+- [三次元Hitbox](https://twitter.com/tksuiken/status/1126174421893300225)... 左側のボタンが手の形状に合わせるように立体的なボタン配置がなされている。
 
 ## その他
 - [自作の顕微鏡 (超解像顕微鏡、一分子顕微鏡)の組み立て動画](https://sites.bmb.colostate.edu/stasevichlab/videos/Days1-5.mp4)...超解像顕微鏡や一分子顕微鏡は、自作顕微鏡の作成により、市販のものと比べかなり安い値段で自分たちで組み立てることができる。The Stasevich lab in Colorado State University, Tatsuya Morisaki先生の組み立て風景の早回し動画。
