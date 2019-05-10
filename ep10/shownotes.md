@@ -12,7 +12,7 @@ layout: article
 title: 10. The endgame keyboard
 ---
 
-# Show note
+## Show note
 ### Introduction
 - [輝け!!デーモン・コアくん (Youtube)](https://www.youtube.com/watch?v=6ZIjbX1gj88)
 
