@@ -35,6 +35,7 @@ title: 10. The endgame keyboard
 - [Thorlabs, Inc.](https://www.thorlabs.com/)... Thorlabsさんなどで、顕微鏡のパーツを揃えることができる。
 - [細胞生物学ワークショップ蛍光顕微鏡トレーニングコース](http://www.fbs.osaka-u.ac.jp/jpn/seminar/workshop/workshop-20180806/)...大阪大学で開催されているサマーワークショップ。このワークショップから顕微鏡の世界に入っていく研究者は多い。自作顕微鏡 (for molecular and cellular biology)のためのワークショップが日本ではよく行われているので、顕微鏡を始めたいひとはそこに参加するのが第一歩になると思う。市販の顕微鏡と比べ、かなり安価に顕微鏡を組むことができ、かつ自由度が高いため、様々なアプリケーションが期待できる。
 - [E-Gel Precast Agarose Gels](https://www.thermofisher.com/jp/ja/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/e-gel-electrophoresis-system/e-gel-pre-cast-agarose-gels/e-gel-precast-agarose-gels.html)
+- [竹刀及び剣道具等の安全性・公平性に関するパブリックコメントの結果について(全日本剣道連盟)](https://www.kendo.or.jp/information/20190130-2/)... 小手布団の長さについて。"Q: 小手の長さについて、「1/2以上」でなくてもよいのではないでしょうか。また、えぐりの深さは特に規制は必要ないのではないでしょうか。（同様の意見複数あり）A: 安全を担保するため1/2以上としました。えぐりについては、深くすることにより、打突部位を小さくしている小手もみられるため、公平性の面から規定が必要であると考えます。"
 - [いんよう！(Podcast番組)](https://anchor.fm/inntoyoh)
 - [異世界おじさん (マンガ)](https://comic-walker.com/contents/detail/KDCW_MF00000079010000_68/)
 
