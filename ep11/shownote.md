@@ -4,7 +4,7 @@ Intelligence requires a body.
 Post-human.
 
 ## Tadasu
-身体改造・拡張特集回では、ナノ粒子を網膜に打ち込むことで、近赤外線が"見える"ように改造されたマウスの論文から始まり、超能力、バイオハッキング(biohacking)、グラインダー(grinder)、侵襲性・非侵襲性デバイス、自由意志、ニューロハッキングについて話しました。
+身体改造・拡張特集回では、ナノ粒子を網膜に打ち込むことで、近赤外線が"見える"ように改造されたマウスの論文 (Ma et al., Cell)から始まり、超能力、バイオハッキング (biohacking)、グラインダー (grinder)、侵襲性・非侵襲性デバイス、自由意志、ニューロハッキングについて話しました。出演者：tadasu, soh, coela)
 
 - [Embodied Artificial Intelligence -On the role of morphology and materials in the emergence of cognition-. Pfeifer. 2002](https://www.informatics.indiana.edu/rocha/publications/embrob/pfeifer.html)...Inteligence requires a body.
 - [Mammalian Near-Infrared Image Vision through Injectable and Self-Powered Retinal Nanoantennae. Ma et al., Cell, 2019](https://www.ncbi.nlm.nih.gov/pubmed/30827682)...哺乳類は750nm以上の波長を持つ赤外線域の光を見ることはできない。本論文では、985nm周辺の近赤外線により励起し、580nm周辺の緑の光を放出するナノ粒子を、マウスの光受容体、桿体細胞のouter segment上に外科手術によって注入することで、赤外線を緑色光としてマウスが知覚できる様になったことを示した。ゲノム配列の変化を伴わない、侵襲性生体デバイスのこれからの発展を匂わせる論文である。
@@ -22,7 +22,7 @@ Post-human.
 - [Why most of Three Square Market's employees jumped at the chance to wear a microchip](https://www.cnbc.com/2017/08/11/three-square-market-ceo-explains-its-employee-microchip-implant.html) - 従業員にマイクロチップを導入する事で軽食などの購入をマイクロチップ経由で可能にしようとした。
 - [耳にヘッドフォンを埋め込みガチで「No Music No Life」を達成した男](https://buzzap.jp/news/20130703-implant-headphone/)... 耳をヘッドフォン化したグラインダー
 - [The Most Extreme Body Hacks That Actually Change Your Physical Abilities](https://gizmodo.com/the-most-extreme-body-hacks-that-actually-change-your-p-1704056851)...暗視目薬の自作から、大きな生体デバイス(テキストを発信することが可能)、そしてポッドキャスト内では触れなかったアレの切断まで、Grinderたちの挑戦についてまとめられた記事。
-- 自由意志とは？
+- [自由意志](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97)
 - [機能的電気刺激による動作を、自分自身の能力でタスク遂行したと誤解させる研究(稲見先生のツイート)](https://twitter.com/drinami/status/1124218114562973696?s=21)... 機能的電気刺激で、本来の動作より速く正確にに手指を制御。しかし本人は自分自身の能力でタスクを遂行できたと誤解。
 - [Google Xの血中ナノマシンプロジェクト](https://www.popularmechanics.com/science/health/a11445/google-cancer-detecting-nanoparticles-17366603/)...Google Xが開発しているとされている血中ナノマシンについての記事。最近はあまり話を聞かない。
 - [Autologous Induced Stem-Cell–Derived Retinal Cells for Macular Degeneration. Mandai et al. N Engl J Med, 2017](https://www.nejm.org/doi/10.1056/NEJMoa1608368)...加齢黄斑変性の患者の網膜に対して、患者自身のiPS細胞に由来する網膜色素上皮シートを移植した論文。
@@ -37,10 +37,8 @@ Post-human.
 - [Neurohacking](https://en.wikipedia.org/wiki/Neurohacking)...カフェインやアルコールに始まり、スマートドラッグなどを用いたニューロハッキングについての記事。本ポッドキャストでは話すことができなかったが、スマドラ後進国日本の我々としては、諸外国の動向は気になるというのが正直なところであろう。
 - [スマートドラッグ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0)...ヌートロピックやメモリエンハンサー、ニューロエンハンサー、コグニティブエンハンサー、インテリジェンスエンハンサーと、様々な呼び名を持つ、スマートドラッグ(通称スマドラ)。ADHDやナルコレプシーの治療薬などが用いられるが、日本では覚せい剤認定されていたり、医療以外での利用が難しいケースがほとんどである。また諸外国でもスマドラの常用、乱用が非常に大きな問題となっている。ダメ！絶対！
 - [mixi](https://mixi.jp/show_friend.pl?id=1)...昔、インターネットにはmixiという大国があった！！！我々の青春は間違いなくmixiと共にあったが、今や兵どもが夢の跡状態である。そして、その残り香を楽しめる時間も、もう長くないかもしれない。アカウントを持っている方は、インターネットの辺境にひっそりと佇む古代帝国mixiを徘徊してみていただきたい。mixiは加入した順番でidが振られているので、id=1はmixiという大国を作った創造神の証である。id=2は初代社長。mixiのコミュニティは素晴らしいインターネット上の社交場だったと思うが、現在、代替するものは存在していない。
-- ジオシティーの閉鎖
-- 銃夢（マンガ）
-- 人形の国（マンガ）
-
+- [銃夢（マンガ）](https://www.amazon.co.jp/%E9%8A%83%E5%A4%A2%EF%BC%88%EF%BC%91%EF%BC%89-%E6%9C%A8%E5%9F%8E%E3%82%86%E3%81%8D%E3%81%A8-ebook/dp/B00HK700AQ)
+- [人形の国（マンガ）](https://www.amazon.co.jp/%E4%BA%BA%E5%BD%A2%E3%81%AE%E5%9B%BD%EF%BC%88%EF%BC%91%EF%BC%89-%E3%82%B7%E3%83%AA%E3%82%A6%E3%82%B9%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%BC%90%E7%93%B6%E5%8B%89-ebook/dp/B072P16JH6/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&keywords=%E4%BA%BA%E5%BD%A2%E3%81%AE%E5%9B%BD&qid=1557452304&s=digital-text&sr=1-3)
 
 ## 感想戦
 知性と肉体の不可分性について考えさせられた回であった。タイトルには、Rolf Pfeifer博士の言葉を引用した。バイオハッキングによる肉体の変容は、人間の「知性」をどのように変容させるのか。自己の肉体を自由にハッキングしているグラインダーという先駆者の存在を知った。彼らの文化や実験をこれからも追跡していきたい。(興味はあるが、今の所自分が施す勇気はない。)(tadasu)
