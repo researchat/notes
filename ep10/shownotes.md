@@ -12,9 +12,8 @@ layout: article
 title: 10. The endgame keyboard
 ---
 
-
-## Show notes
 - [輝け!!デーモン・コアくん (Youtube)](https://www.youtube.com/watch?v=6ZIjbX1gj88)
+- [快適なPC環境を求めて。僕が魅了された「自作キーボード」の世界](https://srdk.rakuten.jp/entry/2019/03/26/103000)...自作キーボードの世界についてのわかりやすい解説。
 - [遊舎工房 | 自作キーボード＆レーザーカット＆UVプリント](https://yushakobo.jp/)...Coelaは今回ここを利用して自作のキーボードを作った。
 - [Happy Hacking Keyboard, HHKB](https://www.pfu.fujitsu.com/hhkeyboard/)...Tadasu, Soh, Coelaは3人ともにこのHHKBを普段の仕事に使っている。
 - [親指シフト (Wikipedia)](https://ja.wikipedia.org/wiki/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88)
@@ -22,10 +21,9 @@ title: 10. The endgame keyboard
 - [東プレ Realforce](http://www.realforce.co.jp/)
 - [LEOPOLD Keyboard](https://www.archisite.co.jp/products/leopold_keyboard/)
 - [meishiキーボード](https://yushakobo.jp/shop/meishi/)...coelaが最初に作った自作キーボードのキット
-- [Corne Cherry](https://yushakobo.jp/shop/corne-cherry/)...coelaが二個目に作った自作キーボード。通常のキーボードの40%程のキーしかないコンパクトさ、左右分割、親指で使えるキーが多い、などの特徴がある。LEDの半田付けを除けば初心者のcoelaでも動作するところまで組むことができた(LEDは後に追加することも可)。
+-  [Corne Cherry](https://yushakobo.jp/shop/corne-cherry/)...coelaが二個目に作った自作キーボード。通常のキーボードの40%程のキーしかないコンパクトさ、左右分割、親指で使えるキーが多い、などの特徴がある。LEDの半田付けを除けば初心者のcoelaでも動作するところまで組むことができた(LEDは後に追加することも可)。
 - [メカニカルキーボードをオススメしたい！](https://k-tai.watch.impress.co.jp/docs/column/stapa/1141039.html)...メンブレン・メカニカル・静電容量無接点の三種類のキースイッチの解説。Cherry MX（メカニカルキースイッチ）についての解説もあり。
 -  [オリジナルのキーキャップを作る](http://kou014.hateblo.jp/entry/2017/10/09/004130)...昇華インクとアイロンをつかって自宅で好きな見た目のキーキャップを作る方法を紹介している。昇華インクでオリジナルの絵柄を印刷してくれる業者さんへのリンクもあり。
-- [三次元自作キーボード](https://srdk.rakuten.jp/entry/2019/03/26/103000)
 - [キーキャップの湯の誘い](https://salicylic-acid3.hatenablog.com/entry/2018/12/06/キーキャップの湯のお誘い)キーキャップの素材、プロファイル、印字方法などについて詳しくかかれた記事。他にも色々勉強になる記事がたくさんある。
 - [3D 形状のキーキャップを作った話、あるいは自作 3D キーボードのすヽめ](https://qiita.com/zk_phi/items/5680607118516413a0ba)...キーキャップ を3Dプリンター使って自作している方もいる。
 - [三次元ヒットボックス](https://twitter.com/tksuiken/status/1126174421893300225)
