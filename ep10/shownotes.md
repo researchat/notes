@@ -13,10 +13,10 @@ title: 10. The endgame keyboard
 ---
 
 ## Show note
-## Introduction
+### Introduction
 - [輝け!!デーモン・コアくん (Youtube)](https://www.youtube.com/watch?v=6ZIjbX1gj88)
 
-## 自作キーボードについて
+### 自作キーボードについて
 - [快適なPC環境を求めて。僕が魅了された「自作キーボード」の世界](https://srdk.rakuten.jp/entry/2019/03/26/103000)...自作キーボードの世界についてのわかりやすい解説。
 - [遊舎工房 | 自作キーボード＆レーザーカット＆UVプリント](https://yushakobo.jp/)...coelaは今回ここを利用して自作のキーボードを作った。
 - [Happy Hacking Keyboard, HHKB](https://www.pfu.fujitsu.com/hhkeyboard/)...tadasu, soh, coelaは3人ともにこのHHKBを普段の仕事に使っている。
@@ -35,14 +35,14 @@ title: 10. The endgame keyboard
 - [天下一キーボードわいわい会 Vol.2](https://tenkey.connpass.com/event/126481/)
 - [自作キーボードを作るために必要なもの](https://salicylic-acid3.hatenablog.com/entry/2018/11/24/自作キーボードを作るために必要なもの)
 
-## 自作アケコンとHitboxについて
+### 自作アケコンとHitboxについて
 - [「隼」レバーはなぜ斜め上に入りにくいのか。HORI「ファイティングエッジ」開発陣とプロゲーマー・sako氏に聞く，アーケードスティックの最前線](https://www.4gamer.net/games/281/G028173/20150622087/)...インタビューの最後にときど選手がエキシビションマッチでもちいた改造アケコン（いわゆる「情熱ボタン」）についての言及と、sako選手がEVO2014で使用した通常よりボタンが多いhori製アケコンの写真あり。
 - [Hitbox (格ゲー用ゲームコントローラー)](https://www.4gamer.net/games/000/G000000/20111225003/)
 - [SFV Shortcut Guide](https://www.hitboxarcade.com/blogs/how-to-hit-box/street-fighter-v-shortcut-guide)...hitbox公式のストリートファイターVにおける操作方法説明。歩き昇竜、しゃがみ昇竜、一回転入力などについて動画付きで解説されている。
 - [自作ヒットボックス製作過程、全部見せます！！](https://www.youtube.com/watch?v=1op22EfN938)... ガフロ選手によるHitbox自作動画
 - [三次元Hitbox](https://twitter.com/tksuiken/status/1126174421893300225)... 左側のボタンが手の形状に合わせるように立体的なボタン配置がなされている。
 
-## その他
+### その他
 - [自作の顕微鏡 (超解像顕微鏡、一分子顕微鏡)の組み立て動画](https://sites.bmb.colostate.edu/stasevichlab/videos/Days1-5.mp4)...超解像顕微鏡や一分子顕微鏡は、自作顕微鏡の作成により、市販のものと比べかなり安い値段で自分たちで組み立てることができる。The Stasevich lab in Colorado State University, Tatsuya Morisaki先生の組み立て風景の早回し動画。
 - [Thorlabs, Inc.](https://www.thorlabs.com/)... Thorlabsさんなどで、顕微鏡のパーツを揃えることができる。
 - [細胞生物学ワークショップ蛍光顕微鏡トレーニングコース](http://www.fbs.osaka-u.ac.jp/jpn/seminar/workshop/workshop-20180806/)...大阪大学で開催されているサマーワークショップ。このワークショップから顕微鏡の世界に入っていく研究者は多い。自作顕微鏡 (for molecular and cellular biology)のためのワークショップが日本ではよく行われているので、顕微鏡を始めたいひとはそこに参加するのが第一歩になると思う。市販の顕微鏡と比べ、かなり安価に顕微鏡を組むことができ、かつ自由度が高いため、様々なアプリケーションが期待できる。
@@ -50,7 +50,7 @@ title: 10. The endgame keyboard
 - [竹刀及び剣道具等の安全性・公平性に関するパブリックコメントの結果について(全日本剣道連盟)](https://www.kendo.or.jp/information/20190130-2/)... 小手布団の長さについて。"Q: 小手の長さについて、「1/2以上」でなくてもよいのではないでしょうか。また、えぐりの深さは特に規制は必要ないのではないでしょうか。（同様の意見複数あり）A: 安全を担保するため1/2以上としました。えぐりについては、深くすることにより、打突部位を小さくしている小手もみられるため、公平性の面から規定が必要であると考えます。"
 - [いんよう！(Podcast番組)](https://anchor.fm/inntoyoh)
 
-## マンガ
+### マンガ
 - [異世界おじさん (マンガ)](https://comic-walker.com/contents/detail/KDCW_MF00000079010000_68/)
 
 ## Editorial notes
