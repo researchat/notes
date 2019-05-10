@@ -1,11 +1,10 @@
-## Title
-Intelligence requires a body.
+## Title: Intelligence requires a body
+- Post-human (仮)
 
-Post-human.
+## Description
+身体改造・拡張特集回では、ナノ粒子を網膜に打ち込むことで、近赤外線が"見える"ように改造されたマウスの論文から始まり、超能力、バイオハッキング (biohacking)、グラインダー (grinder)、侵襲性・非侵襲性デバイス、自由意志、ニューロハッキングについて話しました。出演者：tadasu, soh, coela)
 
-## Tadasu
-身体改造・拡張特集回では、ナノ粒子を網膜に打ち込むことで、近赤外線が"見える"ように改造されたマウスの論文 (Ma et al., Cell)から始まり、超能力、バイオハッキング (biohacking)、グラインダー (grinder)、侵襲性・非侵襲性デバイス、自由意志、ニューロハッキングについて話しました。出演者：tadasu, soh, coela)
-
+## Show notes
 - [Embodied Artificial Intelligence -On the role of morphology and materials in the emergence of cognition-. Pfeifer. 2002](https://www.informatics.indiana.edu/rocha/publications/embrob/pfeifer.html)...Inteligence requires a body.
 - [Mammalian Near-Infrared Image Vision through Injectable and Self-Powered Retinal Nanoantennae. Ma et al., Cell, 2019](https://www.ncbi.nlm.nih.gov/pubmed/30827682)...哺乳類は750nm以上の波長を持つ赤外線域の光を見ることはできない。本論文では、985nm周辺の近赤外線により励起し、580nm周辺の緑の光を放出するナノ粒子を、マウスの光受容体、桿体細胞のouter segment上に外科手術によって注入することで、赤外線を緑色光としてマウスが知覚できる様になったことを示した。ゲノム配列の変化を伴わない、侵襲性生体デバイスのこれからの発展を匂わせる論文である。
 - [ロドプシン](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%89%E3%83%97%E3%82%B7%E3%83%B3)... ヒトの「観える」という機能を支えるタンパク質。最近は光によって様々な操作を細胞内で行う光遺伝学においてもっとも重要な位置を占めるタンパク質である。
@@ -27,12 +26,12 @@ Post-human.
 - [Google Xの血中ナノマシンプロジェクト](https://www.popularmechanics.com/science/health/a11445/google-cancer-detecting-nanoparticles-17366603/)...Google Xが開発しているとされている血中ナノマシンについての記事。最近はあまり話を聞かない。
 - [Autologous Induced Stem-Cell–Derived Retinal Cells for Macular Degeneration. Mandai et al. N Engl J Med, 2017](https://www.nejm.org/doi/10.1056/NEJMoa1608368)...加齢黄斑変性の患者の網膜に対して、患者自身のiPS細胞に由来する網膜色素上皮シートを移植した論文。
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A)
-- [サナダムシをお腹の中で飼っていた藤田紘一郎先生](https://gendai.ismedia.jp/articles/-/45546) - サナダムシを自分の体内で飼っていたエピソード。何かを体に寄生させるという設定はフィクションの世界でも幅広く使われており、幽遊白書の北神が用いた装具や家畜人ヤプーのエンジン虫などを想起する方もいるだろう。今回は、抜けてしまっていた領域なので、このような形での身体拡張の世界も調査する必要がある。
+- [サナダムシをお腹の中で飼っていた藤田紘一郎先生](https://gendai.ismedia.jp/articles/-/45546)...サナダムシを自分の体内で飼っていたエピソード。何かを体に寄生させるという設定はフィクションの世界でも幅広く使われており、幽遊白書の北神が用いた装具や家畜人ヤプーのエンジン虫などを想起する方もいるだろう。今回は、抜けてしまっていた領域なので、このような形での身体拡張の世界も調査する必要がある。
 - [スケルトニクス](https://skeletonics.com/) - とりあえずかっこいい。
-- [The Thrid Thumb Project: 6本目の指](https://vimeo.com/220291411)... 原題は3本目の親指。小指の横に装着され、フットペダルによって操作する。
+- [The Thrid Thumb Project: 6本目の指](https://vimeo.com/220291411)...原題は3本目の親指。小指の横に装着され、フットペダルによって操作する。
 - [東京大学稲見・檜山研究室](https://star.rcast.u-tokyo.ac.jp/)
 - [未踏プロジェクト](https://www.ipa.go.jp/jinzai/mitou/portal_index.html)
-- [MetaLimbs](https://www.youtube.com/watch?v=sKjAp0iZ7dc)... 4本腕について。動作原理は6本目の指と似ている。
+- [MetaLimbs](https://www.youtube.com/watch?v=sKjAp0iZ7dc)...4本腕について。動作原理は6本目の指と似ている。
 - [忍風カムイ外伝 5話「五ツ」](https://blogs.yahoo.co.jp/baikindaddy/37498294.html)... 名張の五ツは、カムイ外伝に登場する胸から3本目の腕が生えている最強の忍者の一人。両手両足に胸からの腕を含めて五ツ。
 - [Neurohacking](https://en.wikipedia.org/wiki/Neurohacking)...カフェインやアルコールに始まり、スマートドラッグなどを用いたニューロハッキングについての記事。本ポッドキャストでは話すことができなかったが、スマドラ後進国日本の我々としては、諸外国の動向は気になるというのが正直なところであろう。
 - [スマートドラッグ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%89%E3%83%A9%E3%83%83%E3%82%B0)...ヌートロピックやメモリエンハンサー、ニューロエンハンサー、コグニティブエンハンサー、インテリジェンスエンハンサーと、様々な呼び名を持つ、スマートドラッグ(通称スマドラ)。ADHDやナルコレプシーの治療薬などが用いられるが、日本では覚せい剤認定されていたり、医療以外での利用が難しいケースがほとんどである。また諸外国でもスマドラの常用、乱用が非常に大きな問題となっている。ダメ！絶対！
