@@ -26,14 +26,14 @@ title: 10. The endgame keyboard
 -  [オリジナルのキーキャップを作る](http://kou014.hateblo.jp/entry/2017/10/09/004130)...昇華インクとアイロンをつかって自宅で好きな見た目のキーキャップを作る方法を紹介している。昇華インクでオリジナルの絵柄を印刷してくれる業者さんへのリンクもあり。
 - [キーキャップの湯の誘い](https://salicylic-acid3.hatenablog.com/entry/2018/12/06/キーキャップの湯のお誘い)キーキャップの素材、プロファイル、印字方法などについて詳しくかかれた記事。他にも色々勉強になる記事がたくさんある。
 - [3D 形状のキーキャップを作った話、あるいは自作 3D キーボードのすヽめ](https://qiita.com/zk_phi/items/5680607118516413a0ba)...キーキャップ を3Dプリンター使って自作している方もいる。
-- [三次元ヒットボックス](https://twitter.com/tksuiken/status/1126174421893300225)
-- [自作の顕微鏡 (超解像顕微鏡、一分子顕微鏡)の組み立て動画](https://sites.bmb.colostate.edu/stasevichlab/videos/Days1-5.mp4)...超解像顕微鏡や一分子顕微鏡は、自作顕微鏡の作成により、市販のものと比べかなり安い値段で自分たちで組み立てることができる。The Stasevich lab in Colorado State University, Tatsuya Morisaki先生の組み立て風景の早回し動画。
-- [Thorlabs, Inc.](https://www.thorlabs.com/)- Thorlabsさんなどで、顕微鏡のパーツを揃えることができる。
-- [細胞生物学ワークショップ蛍光顕微鏡トレーニングコース](http://www.fbs.osaka-u.ac.jp/jpn/seminar/workshop/workshop-20180806/)...大阪大学で開催されているサマーワークショップ。このワークショップから顕微鏡の世界に入っていく研究者は多い。自作顕微鏡 (for molecular and cellular biology)のためのワークショップが日本ではよく行われているので、顕微鏡を始めたいひとはそこに参加するのが第一歩になると思う。市販の顕微鏡と比べ、かなり安価に顕微鏡を組むことができ、かつ自由度が高いため、様々なアプリケーションが期待できる。
 - [「隼」レバーはなぜ斜め上に入りにくいのか。HORI「ファイティングエッジ」開発陣とプロゲーマー・sako氏に聞く，アーケードスティックの最前線](https://www.4gamer.net/games/281/G028173/20150622087/)...インタビューの最後にときど選手がエキシビションマッチでもちいた改造アケコン（いわゆる「情熱ボタン」）についての言及と、sako選手がEVO2014で使用した通常よりボタンが多いhori製アケコンの写真あり。
 - [Hitbox (格ゲー用ゲームコントローラー)](https://www.4gamer.net/games/000/G000000/20111225003/)
 - [SFV Shortcut Guide](https://www.hitboxarcade.com/blogs/how-to-hit-box/street-fighter-v-shortcut-guide)...hitbox公式のストリートファイターVにおける操作方法説明。歩き昇竜、しゃがみ昇竜、一回転入力などについて動画付きで解説されている。
-- [自作ヒットボックス製作過程、全部見せます！！](https://www.youtube.com/watch?v=1op22EfN938) - ガフロ選手によるHitbox自作動画
+- [自作ヒットボックス製作過程、全部見せます！！](https://www.youtube.com/watch?v=1op22EfN938)... ガフロ選手によるHitbox自作動画
+- [三次元Hitbox](https://twitter.com/tksuiken/status/1126174421893300225)... 左手が手の形状に合わせるように立体的にボタン配置されている。
+- [自作の顕微鏡 (超解像顕微鏡、一分子顕微鏡)の組み立て動画](https://sites.bmb.colostate.edu/stasevichlab/videos/Days1-5.mp4)...超解像顕微鏡や一分子顕微鏡は、自作顕微鏡の作成により、市販のものと比べかなり安い値段で自分たちで組み立てることができる。The Stasevich lab in Colorado State University, Tatsuya Morisaki先生の組み立て風景の早回し動画。
+- [Thorlabs, Inc.](https://www.thorlabs.com/)... Thorlabsさんなどで、顕微鏡のパーツを揃えることができる。
+- [細胞生物学ワークショップ蛍光顕微鏡トレーニングコース](http://www.fbs.osaka-u.ac.jp/jpn/seminar/workshop/workshop-20180806/)...大阪大学で開催されているサマーワークショップ。このワークショップから顕微鏡の世界に入っていく研究者は多い。自作顕微鏡 (for molecular and cellular biology)のためのワークショップが日本ではよく行われているので、顕微鏡を始めたいひとはそこに参加するのが第一歩になると思う。市販の顕微鏡と比べ、かなり安価に顕微鏡を組むことができ、かつ自由度が高いため、様々なアプリケーションが期待できる。
 - [E-Gel Precast Agarose Gels](https://www.thermofisher.com/jp/ja/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/e-gel-electrophoresis-system/e-gel-pre-cast-agarose-gels/e-gel-precast-agarose-gels.html)
 - [いんよう！(Podcast番組)](https://anchor.fm/inntoyoh)
 - [異世界おじさん (マンガ)](https://comic-walker.com/contents/detail/KDCW_MF00000079010000_68/)
