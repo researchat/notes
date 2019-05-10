@@ -20,6 +20,8 @@ title: 10. The endgame keyboard
 - [Kinesisキーボード](https://www.edikun.co.jp/kinesis/)
 - [東プレ Realforce](http://www.realforce.co.jp/)
 - [LEOPOLD Keyboard](https://www.archisite.co.jp/products/leopold_keyboard/)
+- [三次元自作キーボード](https://srdk.rakuten.jp/entry/2019/03/26/103000)
+- [三次元ヒットボックス](https://twitter.com/tksuiken/status/1126174421893300225)
 - [自作の顕微鏡 (超解像顕微鏡、一分子顕微鏡)の組み立て動画](https://sites.bmb.colostate.edu/stasevichlab/videos/Days1-5.mp4)...超解像顕微鏡や一分子顕微鏡は、自作顕微鏡の作成により、市販のものと比べかなり安い値段で自分たちで組み立てることができる。The Stasevich lab in Colorado State University, Tatsuya Morisaki先生の組み立て風景の早回し動画。
 - [Thorlabs, Inc.](https://www.thorlabs.com/)- Thorlabsさんなどで、顕微鏡のパーツを揃えることができる。
 - [細胞生物学ワークショップ蛍光顕微鏡トレーニングコース](http://www.fbs.osaka-u.ac.jp/jpn/seminar/workshop/workshop-20180806/)...大阪大学で開催されているサマーワークショップ。このワークショップから顕微鏡の世界に入っていく研究者は多い。自作顕微鏡 (for molecular and cellular biology)のためのワークショップが日本ではよく行われているので、顕微鏡を始めたいひとはそこに参加するのが第一歩になると思う。市販の顕微鏡と比べ、かなり安価に顕微鏡を組むことができ、かつ自由度が高いため、様々なアプリケーションが期待できる。
@@ -28,4 +30,5 @@ title: 10. The endgame keyboard
 - [E-Gel Precast Agarose Gels](https://www.thermofisher.com/jp/ja/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/e-gel-electrophoresis-system/e-gel-pre-cast-agarose-gels/e-gel-precast-agarose-gels.html)
 - [異世界おじさん (マンガ)](https://comic-walker.com/contents/detail/KDCW_MF00000079010000_68/)
 
-## 感想戦
+## Editorial notes
+- 子供の頃から、あまり文房具やキーボード、剣道部の竹刀などにこだわりは無く、自分が道具に合わせていくという「弘法筆を選ばず」のスタイルでやってきたが、今回の自作キーボードやヒットボックスについては「機能を向上させる」という点から興味深かった。あまり意識していなかったが、coelaさんの指摘通り、顕微鏡の自作などもこの範疇に入るといるということに気づかされた。「自作すればいい」と考えると色々な可能性が拡がるので、意識していきたい。(tadasu)
