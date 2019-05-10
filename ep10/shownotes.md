@@ -27,3 +27,5 @@ title: 10. The endgame keyboard
 - [自作ヒットボックス製作過程、全部見せます！！](https://www.youtube.com/watch?v=1op22EfN938) - ガフロ選手によるHitbox自作動画
 - [E-Gel Precast Agarose Gels](https://www.thermofisher.com/jp/ja/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/e-gel-electrophoresis-system/e-gel-pre-cast-agarose-gels/e-gel-precast-agarose-gels.html)
 - [異世界おじさん (マンガ)](https://comic-walker.com/contents/detail/KDCW_MF00000079010000_68/)
+
+## 感想戦
