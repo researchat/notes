@@ -22,6 +22,7 @@
 - [Why most of Three Square Market's employees jumped at the chance to wear a microchip](https://www.cnbc.com/2017/08/11/three-square-market-ceo-explains-its-employee-microchip-implant.html) - 従業員にマイクロチップを導入する事で軽食などの購入をマイクロチップ経由で可能にしようとした。
 - [耳にヘッドフォンを埋め込みガチで「No Music No Life」を達成した男](https://buzzap.jp/news/20130703-implant-headphone/)...耳をヘッドフォン化したグラインダー
 - [The Most Extreme Body Hacks That Actually Change Your Physical Abilities](https://gizmodo.com/the-most-extreme-body-hacks-that-actually-change-your-p-1704056851)...暗視目薬の自作から、大きな生体デバイス(テキストを発信することが可能)、そしてポッドキャスト内では触れなかったアレの切断まで、Grinderたちの挑戦についてまとめられた記事。
+- [Bluetoothによって脳波を飛ばすことで、下半身麻痺状態の男性の歩行をコントロールする](https://laughingsquid.com/researchers-help-a-paralyzed-man-walk-by-controlling-his-legs-with-his-own-brain-through-a-bluetooth-connection/)
 - [自由意志](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97)
 - [機能的電気刺激による動作を、自分自身の能力でタスク遂行したと誤解させる研究(稲見先生のツイート)](https://twitter.com/drinami/status/1124218114562973696?s=21)... 機能的電気刺激で、本来の動作より速く正確にに手指を制御。しかし本人は自分自身の能力でタスクを遂行できたと誤解。
 - [Google Xの血中ナノマシンプロジェクト](https://www.popularmechanics.com/science/health/a11445/google-cancer-detecting-nanoparticles-17366603/)...Google Xが開発しているとされている血中ナノマシンについての記事。最近はあまり話を聞かない。
