@@ -14,3 +14,4 @@
   - そのあと再びreviewされてNatureに出版。
 - EurofinとFASMACのオリゴ合成がストップした問題
 - CRISPR Base editorのRNA editing問題 (KeithらのNature論文)
+- ゲノム編集学会。特許周りなど。
