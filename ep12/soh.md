@@ -13,3 +13,4 @@
   - しかし、簡単なエラーではなくretraction。で、authorは解析をやり直してresubmittした。
   - そのあと再びreviewされてNatureに出版。
 - EurofinとFASMACのオリゴ合成がストップした問題
+- CRISPR Base editorのRNA editing問題 (KeithらのNature論文)
