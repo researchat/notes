@@ -10,7 +10,7 @@
 - Natureでretractionされた論文が再びNatureに掲載された: https://twitter.com/MWClimateSci/status/1133790007519522819
   - Asia’s glaciers are a regionally important buffer against drought. https://www.nature.com/articles/nature22062
   - 解析にエラーがあり、Editorial Expression of Concernが出た
-  - しかし、簡単なエラーではなくretraction。で、authorは解析をやり直してresubmittした。
+  - しかし、簡単なエラーではなくretraction。で、authorは解析をやり直してresubmitした。
   - そのあと再びreviewされてNatureに出版。
 - EurofinとFASMACのオリゴ合成がストップした問題
 - CRISPR Base editorのRNA editing問題 (KeithらのNature論文)
