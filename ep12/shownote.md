@@ -23,6 +23,7 @@ title: 12. Open Source Cola (仮)
 - [メルビル　白鯨](https://ja.wikipedia.org/wiki/%E7%99%BD%E9%AF%A8_(%E6%98%A0%E7%94%BB))
 - [竜涎香](https://ja.wikipedia.org/wiki/%E9%BE%8D%E6%B6%8E%E9%A6%99)
 - 偽ダイヤモンドの見分け方　ナショジオ？
+- [デビアスの人工ダイヤ、1カラット$800](https://www.cnn.co.jp/business/35120043.html)
 - [地球温暖化問題と21世紀の気候変動予測 東工大 丸山茂徳](https://www.jstage.jst.go.jp/article/jjrsm/8/2/8_2_113/_pdf/-char/ja)
 - [巨大火山噴火が気候・生態系へ及ぼす影響 地球システムモデルによる予測](http://kankyorenrakukai.org/symposium_12/pdf/koen_3.pdf)... ピナツボ火山によって地球の平均気温が低下したことなど、空気中のエアロゾルの生成が大きな原因であることを概説している発表スライド。
 - [Behind Kyoto University's Research. Vol. 2., サバクトビバッタを追って 前野ウルド浩太郎](http://research.kyoto-u.ac.jp/documentary/maeno/01/)
