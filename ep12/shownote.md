@@ -1,8 +1,16 @@
-## Title: 
--  Open Source Cola
-
-## Description
-ボストンのコーヒー事情、コーヒーのこだわり、希少性の高い食品や物の価値、地球温暖化の原因、お便り機能の実装、おすすめの本紹介、書店や図書館の魅力、科学研究におけるデータ共有の難しさ、オープンソース化されたコーラの作り方などについて話しました。(出演者：tadasu, soh, coela)
+---
+actor_ids:
+  - tadasu
+  - soh
+  - coela
+audio_file_path: /audio/12.mp3
+audio_file_size: 85244800
+date: 2019-06-10 00:00:00 +0900
+description: ボストンのコーヒー事情、コーヒーのこだわり、希少性の高い食品や物の価値、地球温暖化の原因、お便り機能の実装、おすすめの本紹介、書店や図書館の魅力、科学研究におけるデータ共有の難しさ、オープンソース化されたコーラの作り方などについて話しました。(出演者：tadasu, soh, coela)
+duration: "01:28:44"
+layout: article
+title: 12. Open Source Cola (仮)
+---
 
 ## Show notes
 - [コルネチェリー (自作キーボード)](https://yushakobo.jp/shop/corne-cherry/)
