@@ -60,6 +60,6 @@ title: 12. Open Source Cola (仮)
 ## Editorial notes
 - 真に自由なコーラを求め、自作コーラの旅に出たい....(soh)
 - (coela)
-- 全てをフリーに、オープンに。(tadasu)
+- 全てをフリーに、オープンに。不自由なコーラは飲めないという境地に達したい。(tadasu)
 
 
