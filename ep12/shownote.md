@@ -39,7 +39,7 @@ title: 12. Open Source Cola (仮)
 - [植物Q&A, 植物生理学会](https://jspp.org/hiroba/q_and_a/)... 上記の本の元になったQ&Aサイト。これを見るだけで非常に楽しい。植物の魅力満載。
 - [ブルーバックス](http://bookclub.kodansha.co.jp/product_list?code=bluebacks)... 科学をあなたのポケットに。いつかは書きたいブルーバックス。
 - [岡田節人](https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E7%AF%80%E4%BA%BA)... 日本の発生生物学者。
-- [ルイセンコの時代があった(岡田節人)](http://brh.co.jp/s_library/interview/30/)
+- [ルイセンコの時代があった(岡田節人)](http://brh.co.jp/s_library/interview/30/)... 岡田節人先生の回顧録。"私はそこでの2年間何を学んだか？ゆったりとティーをすする風景であり、個々の研究結果などよりも、ウォディントンの語る『源氏物語』と『失われし時を求めて』の比較をいかに面白い話題として楽しむかということであった。これは科学の歴史の古い国に許される贅沢だったのだろう。"
 - [からだの設計図―プラナリアからヒトまで (Amazon)](https://www.amazon.co.jp/%E3%81%8B%E3%82%89%E3%81%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E2%80%95%E3%83%97%E3%83%A9%E3%83%8A%E3%83%AA%E3%82%A2%E3%81%8B%E3%82%89%E3%83%92%E3%83%88%E3%81%BE%E3%81%A7-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E5%B2%A1%E7%94%B0-%E7%AF%80%E4%BA%BA/dp/4004303583)... 本編では紹介しなかったが、岡田節人先生の名著。岡田先生の語り口が非常に心地よい。他の新書も非常によみやすい。
 - [国立遺伝学研究所](https://www.nig.ac.jp/nig/ja/)... 日本の遺伝学研究の拠点。1949年設立。通称遺伝研(地元の人は遺伝学)。この研究所の図書についてはep13でも言及。
 - [ISMB2019](https://www.iscb.org/ismbeccb2019)
@@ -55,7 +55,7 @@ title: 12. Open Source Cola (仮)
 - [OpenCola Soft Drink FormulaVersion 1.1.3](https://upload.wikimedia.org/wikipedia/commons/b/bf/OpenCola_soft_drink_recipe.pdf)
 - [GNUライセンス](https://ja.wikipedia.org/wiki/GNU_General_Public_License)
 - [ドクターペッパー](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%A9_(%E9%A3%B2%E6%96%99))
-- [Fortan](https://en.wikipedia.org/wiki/Fortran)
+- [Fortran](https://en.wikipedia.org/wiki/Fortran)
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
 - [大勝軒のレシピ](http://2chnote.blogspot.com/2011/09/blog-post_12.html)... テレビに映ってしまったレシピの画像。
 - [自由および不自由なソフトウェアの分類 (GNU公式ページ)](https://www.gnu.org/philosophy/categories.ja.html)
