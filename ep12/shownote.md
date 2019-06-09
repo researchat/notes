@@ -20,10 +20,10 @@
 - 全球凍結
 - ピナツボ火山
 - バッタ大発生
-- 人類が知っていることの短い歴史
-- [ネアンデルタールは私たちと交配した](https://www.amazon.co.jp/dp/B00Y9HETV6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [紹介した本その2: 人類が知っていることの短い歴史 (Amazon)](https://www.amazon.co.jp/%E4%BA%BA%E9%A1%9E%E3%81%8C%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E7%9F%AD%E3%81%84%E6%AD%B4%E5%8F%B2-%E4%B8%8A-%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB-%E3%83%93%E3%83%AB-%E3%83%96%E3%83%A9%E3%82%A4%E3%82%BD%E3%83%B3/dp/4102186212)
+- [紹介した本その1: ネアンデルタールは私たちと交配した (Amazon)](https://www.amazon.co.jp/dp/B00Y9HETV6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [TED talk: DNA clues to our inner neanderthal (日本語字幕あり)](https://www.ted.com/talks/svante_paeaebo_dna_clues_to_our_inner_neanderthal?language=ja)
-- これでわかる植物の謎
+- [紹介した本その3: これでナットク！植物の謎 植木屋さんも知らないたくましいその生き方 (Amazon)](https://www.amazon.co.jp/dp/B01851E3OY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - 岡田節人
 - 遺伝研
 - ISMB2019
