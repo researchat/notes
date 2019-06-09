@@ -35,6 +35,7 @@ title: 12. Open Source Cola (仮)
 - [紹介した本その3: これでナットク！植物の謎 植木屋さんも知らないたくましいその生き方 (Amazon)](https://www.amazon.co.jp/dp/B01851E3OY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [植物Q&A, 植物生理学会](https://jspp.org/hiroba/q_and_a/)
 - [岡田節人](https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E7%AF%80%E4%BA%BA)
+- [からだの設計図―プラナリアからヒトまで](https://www.amazon.co.jp/%E3%81%8B%E3%82%89%E3%81%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E2%80%95%E3%83%97%E3%83%A9%E3%83%8A%E3%83%AA%E3%82%A2%E3%81%8B%E3%82%89%E3%83%92%E3%83%88%E3%81%BE%E3%81%A7-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E5%B2%A1%E7%94%B0-%E7%AF%80%E4%BA%BA/dp/4004303583)
 - [国立遺伝学研究所](https://www.nig.ac.jp/nig/ja/)
 - [ISMB2019](https://www.iscb.org/ismbeccb2019)
 - [大英博物館マンガ展](https://www.britishmuseum.org/whats_on/exhibitions/manga.aspx)
@@ -43,16 +44,17 @@ title: 12. Open Source Cola (仮)
 - [家二郎のプロトコル](https://dailyportalz.jp/kiji/141020165435)
 - [OpenCola](https://en.wikipedia.org/wiki/OpenCola_(drink))
 - GNUライセンス
-- ドクターペッパー
-- Fortan lisp
-- 大勝軒のレシピ
+- [ドクターペッパー](https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC)
+- [Fortan](https://en.wikipedia.org/wiki/Fortran)
+- [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+- [大勝軒のレシピ](http://2chnote.blogspot.com/2011/09/blog-post_12.html)
 - [自由および不自由なソフトウェアの分類 (GNU公式ページ)](https://www.gnu.org/philosophy/categories.ja.html)
 - [本の虫: 不自由なソフトウェアの時代は終わった](https://cpplover.blogspot.com/2012/03/blog-post_28.html)
 - [id774.net: 我々はなぜ自由なソフトウェアを使うのか](https://blog.id774.net/entry/2013/01/15/345/)
 
 ## Editorial notes
-- 真に自由なコーラを求め、自作コーラの旅に出たい....(Soh)
-- (Coela)
-- (Tadasu)
+- 真に自由なコーラを求め、自作コーラの旅に出たい....(soh)
+- (coela)
+- 全てをフリーに、オープンに。(tadasu)
 
 
