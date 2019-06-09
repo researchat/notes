@@ -36,8 +36,9 @@ title: 12. Open Source Cola (仮)
 - [紹介した本その3: これでナットク！植物の謎 植木屋さんも知らないたくましいその生き方 (Amazon)](https://www.amazon.co.jp/dp/B01851E3OY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [植物Q&A, 植物生理学会](https://jspp.org/hiroba/q_and_a/)... 上記の本の元になったQ&Aサイト。これを見るだけで非常に楽しい。植物の魅力満載。
 - [ブルーバックス](http://bookclub.kodansha.co.jp/product_list?code=bluebacks)... 科学をあなたのポケットに。いつかは書きたいブルーバックス。
-- [岡田節人](https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E7%AF%80%E4%BA%BA)
-- [からだの設計図―プラナリアからヒトまで (Amazon)](https://www.amazon.co.jp/%E3%81%8B%E3%82%89%E3%81%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E2%80%95%E3%83%97%E3%83%A9%E3%83%8A%E3%83%AA%E3%82%A2%E3%81%8B%E3%82%89%E3%83%92%E3%83%88%E3%81%BE%E3%81%A7-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E5%B2%A1%E7%94%B0-%E7%AF%80%E4%BA%BA/dp/4004303583)... 本編では紹介しなかったが、岡田節人先生の名著。岡田先生の他の新書も非常によみやすい。
+- [岡田節人](https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E7%AF%80%E4%BA%BA)... 日本の発生生物学者。
+- [ルイセンコの時代があった(岡田節人)](http://brh.co.jp/s_library/interview/30/)
+- [からだの設計図―プラナリアからヒトまで (Amazon)](https://www.amazon.co.jp/%E3%81%8B%E3%82%89%E3%81%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E2%80%95%E3%83%97%E3%83%A9%E3%83%8A%E3%83%AA%E3%82%A2%E3%81%8B%E3%82%89%E3%83%92%E3%83%88%E3%81%BE%E3%81%A7-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E5%B2%A1%E7%94%B0-%E7%AF%80%E4%BA%BA/dp/4004303583)... 本編では紹介しなかったが、岡田節人先生の名著。岡田先生の語り口が非常に心地よい。他の新書も非常によみやすい。
 - [国立遺伝学研究所](https://www.nig.ac.jp/nig/ja/)... 日本の遺伝学研究の拠点。1949年設立。通称遺伝研(地元の人は遺伝学)。この研究所の図書についてはep13でも言及。
 - [ISMB2019](https://www.iscb.org/ismbeccb2019)
 - [大英博物館マンガ展](https://www.britishmuseum.org/whats_on/exhibitions/manga.aspx)
