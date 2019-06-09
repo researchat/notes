@@ -5,30 +5,24 @@
 ボストンのコーヒー事情、コーヒーのこだわり、希少性の高い食品や物の価値、地球温暖化の原因、お便り機能の実装、おすすめの本紹介、書店や図書館の魅力、科学研究におけるデータ共有の難しさ、オープンソース化されたコーラの作り方などについて話しました。(出演者：tadasu, soh, coela)
 
 ## Show notes
-- コルネチェリー
-- TSUTAYAのスタバ
-- Blue bottle coffee
-- Dunkin donuts
-- コーヒーの産地、農園の木
-- サードウェーブコーヒー
-- セカンドウェーブコーヒー
-- 温度が変えられる電気ケトル
-- クエンチャー
-- すきやばし次郎
-- コピ・ルアック
+- [コルネチェリー (自作キーボード)](https://yushakobo.jp/shop/corne-cherry/)
+- [蔦屋六本木](https://www.roppongihills.com/shops_restaurants/shops/00049.html)
+- [Blue bottle coffee](https://bluebottlecoffee.com/)
+- [Dunkin donuts](https://www.dunkindonuts.com/en)
+- [サードウェーブ、セカンドウェーブコーヒー (Wikipedia)(https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)
+- [すきやばし 次郎](https://tabelog.com/tokyo/A1301/A130101/13002260/)
+- [コピ・ルアック (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%94%E3%83%BB%E3%83%AB%E3%82%A2%E3%82%AF)
 - メルビル　白鯨
-- 竜涎香
-- 人工ダイヤモンド
+- [竜涎香](https://ja.wikipedia.org/wiki/%E9%BE%8D%E6%B6%8E%E9%A6%99)
 - 人工ダイヤモンドの見分け方　ナショジオ
-- 地球温暖化問題
+- [地球温暖化問題と21世紀の気候変動予測 東工大 丸山茂徳](https://www.jstage.jst.go.jp/article/jjrsm/8/2/8_2_113/_pdf/-char/ja)
 - 宇宙放射線
 - 全球凍結
 - ピナツボ火山
 - バッタ大発生
 - 人類が知っていることの短い歴史
-- ネアンデルタールは私たちと交配した
-- ペーポ
-- TED talk
+- [ネアンデルタールは私たちと交配した](https://www.amazon.co.jp/dp/B00Y9HETV6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [TED talk: DNA clues to our inner neanderthal (日本語字幕あり)](https://www.ted.com/talks/svante_paeaebo_dna_clues_to_our_inner_neanderthal?language=ja)
 - これでわかる植物の謎
 - 岡田節人
 - 遺伝研
