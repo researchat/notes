@@ -45,7 +45,7 @@ title: 12. Open Source Cola (仮)
 - [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html)
 - [家二郎のプロトコル](https://dailyportalz.jp/kiji/141020165435)
 - [OpenCola](https://en.wikipedia.org/wiki/OpenCola_(drink))
-- GNUライセンス
+- [GNUライセンス](https://ja.wikipedia.org/wiki/GNU_General_Public_License)
 - [ドクターペッパー](https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%9A%E3%83%83%E3%83%91%E3%83%BC)
 - [Fortan](https://en.wikipedia.org/wiki/Fortran)
 - [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language))
