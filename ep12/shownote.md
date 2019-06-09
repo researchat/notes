@@ -44,6 +44,9 @@
 - 不自由なソフトウェア
 
 ## Editorial notes
+- 真に自由なコーラを求め、自作コーラの旅に出たい....(Soh)
+- (Coela)
+- (Tadasu)
 
 ## Chapter memo
 - 自作キーボード　0’00
