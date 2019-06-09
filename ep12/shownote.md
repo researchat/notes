@@ -38,7 +38,7 @@ title: 12. Open Source Cola (仮)
 - [ブルーバックス](http://bookclub.kodansha.co.jp/product_list?code=bluebacks)... 科学をあなたのポケットに。いつかは書きたいブルーバックス。
 - [岡田節人](https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E7%AF%80%E4%BA%BA)
 - [からだの設計図―プラナリアからヒトまで (Amazon)](https://www.amazon.co.jp/%E3%81%8B%E3%82%89%E3%81%A0%E3%81%AE%E8%A8%AD%E8%A8%88%E5%9B%B3%E2%80%95%E3%83%97%E3%83%A9%E3%83%8A%E3%83%AA%E3%82%A2%E3%81%8B%E3%82%89%E3%83%92%E3%83%88%E3%81%BE%E3%81%A7-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E5%B2%A1%E7%94%B0-%E7%AF%80%E4%BA%BA/dp/4004303583)... 本編では紹介しなかったが、岡田節人先生の名著。岡田先生の他の新書も非常によみやすい。
-- [国立遺伝学研究所](https://www.nig.ac.jp/nig/ja/)... ここの図書についてはep13でも言及。
+- [国立遺伝学研究所](https://www.nig.ac.jp/nig/ja/)... 日本の遺伝学研究の拠点。1949年設立。通称遺伝研(地元の人は遺伝学)。この研究所の図書についてはep13でも言及。
 - [ISMB2019](https://www.iscb.org/ismbeccb2019)
 - [大英博物館マンガ展](https://www.britishmuseum.org/whats_on/exhibitions/manga.aspx)
 - [Cell Press, STAR methods](https://www.cell.com/star-methods)
