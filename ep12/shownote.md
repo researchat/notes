@@ -16,7 +16,7 @@ title: 12. Open Source Cola (仮)
 - [コルネチェリー (自作キーボード)](https://yushakobo.jp/shop/corne-cherry/)
 - [蔦屋 六本木](https://www.roppongihills.com/shops_restaurants/shops/00049.html)
 - [Blue bottle coffee](https://bluebottlecoffee.com/)
-- [Dunkin donuts](https://www.dunkindonuts.com/en)
+- [Dunkin'](https://www.dunkindonuts.com/en)
 - [サードウェーブ、セカンドウェーブコーヒー (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)
 - [すきやばし 次郎](https://tabelog.com/tokyo/A1301/A130101/13002260/)... いつか行ってみたい。豊洲の次郎の昼はお手頃価格らしいです。
 - [コピ・ルアック (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%94%E3%83%BB%E3%83%AB%E3%82%A2%E3%82%AF)
@@ -33,13 +33,15 @@ title: 12. Open Source Cola (仮)
 - [紹介した本その2: ネアンデルタールは私たちと交配した (Amazon)](https://www.amazon.co.jp/dp/B00Y9HETV6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [TED talk: DNA clues to our inner neanderthal (日本語字幕あり)](https://www.ted.com/talks/svante_paeaebo_dna_clues_to_our_inner_neanderthal?language=ja)
 - [紹介した本その3: これでナットク！植物の謎 植木屋さんも知らないたくましいその生き方 (Amazon)](https://www.amazon.co.jp/dp/B01851E3OY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [植物Q&A, 植物生理学会](https://jspp.org/hiroba/q_and_a/)
 - [岡田節人](https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E7%AF%80%E4%BA%BA)
 - [国立遺伝学研究所](https://www.nig.ac.jp/nig/ja/)
-- ISMB2019
+- [ISMB2019](https://www.iscb.org/ismbeccb2019)
+- [大英博物館マンガ展](https://www.britishmuseum.org/whats_on/exhibitions/manga.aspx)
 - [Cell Press, STAR methods](https://www.cell.com/star-methods)
 - NCBI, EBI, DDBJ
-- 家二郎のプロトコル
-- Open Cola
+- [家二郎のプロトコル](https://dailyportalz.jp/kiji/141020165435)
+- [OpenCola](https://en.wikipedia.org/wiki/OpenCola_(drink))
 - GNUライセンス
 - ドクターペッパー
 - Fortan lisp
