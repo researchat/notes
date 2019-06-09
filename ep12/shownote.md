@@ -59,7 +59,7 @@ title: 12. Open Source Cola (仮)
 - [自由および不自由なソフトウェアの分類 (GNU公式ページ)](https://www.gnu.org/philosophy/categories.ja.html)
 - [本の虫: 不自由なソフトウェアの時代は終わった](https://cpplover.blogspot.com/2012/03/blog-post_28.html)
 - [id774.net: 我々はなぜ自由なソフトウェアを使うのか](https://blog.id774.net/entry/2013/01/15/345/)
-
+- [月刊少女野崎くん](https://www.ganganonline.com/contents/nozaki/)...1話と最新話が読めます
 ## Editorial notes
 - 真に自由なコーラを求め、自作コーラの旅に出たい....(soh)
 - (coela)
