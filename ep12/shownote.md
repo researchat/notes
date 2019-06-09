@@ -9,7 +9,7 @@
 - [蔦屋六本木](https://www.roppongihills.com/shops_restaurants/shops/00049.html)
 - [Blue bottle coffee](https://bluebottlecoffee.com/)
 - [Dunkin donuts](https://www.dunkindonuts.com/en)
-- [サードウェーブ、セカンドウェーブコーヒー (Wikipedia)(https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)
+- [サードウェーブ、セカンドウェーブコーヒー (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC)
 - [すきやばし 次郎](https://tabelog.com/tokyo/A1301/A130101/13002260/)
 - [コピ・ルアック (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%94%E3%83%BB%E3%83%AB%E3%82%A2%E3%82%AF)
 - メルビル　白鯨
