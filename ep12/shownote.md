@@ -23,7 +23,7 @@ title: 12. Open Source Cola (仮)
 - [メルビル　白鯨](https://ja.wikipedia.org/wiki/%E7%99%BD%E9%AF%A8_(%E6%98%A0%E7%94%BB))
 - [竜涎香](https://ja.wikipedia.org/wiki/%E9%BE%8D%E6%B6%8E%E9%A6%99)
 - [偽ダイヤモンドの見分け方](https://twitter.com/natgeotv_jp/status/1129929667350339585)
-- [デビアスの人工ダイヤ、1カラット$800](https://www.cnn.co.jp/business/35120043.html)
+- [デビアスの人工ダイヤ](https://www.cnn.co.jp/business/35120043.html)... 天然ダイヤ大手のデビアスが手がける人工ダイヤ。1カラット$800！！！
 - [地球温暖化問題と21世紀の気候変動予測 東工大 丸山茂徳](https://www.jstage.jst.go.jp/article/jjrsm/8/2/8_2_113/_pdf/-char/ja)
 - [巨大火山噴火が気候・生態系へ及ぼす影響 地球システムモデルによる予測](http://kankyorenrakukai.org/symposium_12/pdf/koen_3.pdf)... ピナツボ火山によって地球の平均気温が低下したことなど、空気中のエアロゾルの生成が大きな原因であることを概説している発表スライド。
 - [Behind Kyoto University's Research. Vol. 2., サバクトビバッタを追って 前野ウルド浩太郎](http://research.kyoto-u.ac.jp/documentary/maeno/01/)
@@ -40,7 +40,9 @@ title: 12. Open Source Cola (仮)
 - [ISMB2019](https://www.iscb.org/ismbeccb2019)
 - [大英博物館マンガ展](https://www.britishmuseum.org/whats_on/exhibitions/manga.aspx)
 - [Cell Press, STAR methods](https://www.cell.com/star-methods)
-- NCBI, EBI, DDBJ
+- [NCBI](https://www.ncbi.nlm.nih.gov/)
+- [EBI](https://www.ebi.ac.uk/)
+- [DDBJ](https://www.ddbj.nig.ac.jp/index-e.html)
 - [家二郎のプロトコル](https://dailyportalz.jp/kiji/141020165435)
 - [OpenCola](https://en.wikipedia.org/wiki/OpenCola_(drink))
 - GNUライセンス
