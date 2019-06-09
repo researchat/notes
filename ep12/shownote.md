@@ -13,7 +13,7 @@ title: 12. Open Source Cola (仮)
 ---
 
 ## Show notes
-- [コルネチェリー (自作キーボード)](https://yushakobo.jp/shop/corne-cherry/)
+- [Corne CHerry (自作キーボード)](https://yushakobo.jp/shop/corne-cherry/)
 - [蔦屋 六本木](https://www.roppongihills.com/shops_restaurants/shops/00049.html)
 - [Blue bottle coffee](https://bluebottlecoffee.com/)
 - [Dunkin'](https://www.dunkindonuts.com/en)
@@ -24,6 +24,8 @@ title: 12. Open Source Cola (仮)
 - [竜涎香](https://ja.wikipedia.org/wiki/%E9%BE%8D%E6%B6%8E%E9%A6%99)
 - [偽ダイヤモンドの見分け方](https://twitter.com/natgeotv_jp/status/1129929667350339585)
 - [デビアスの人工ダイヤ](https://www.cnn.co.jp/business/35120043.html)... 天然ダイヤ大手のデビアスが手がける人工ダイヤ。1カラット$800 (約88000円)！！！なんと天然ダイヤの1/10の値段です！
+- [How much gold has been mined?](https://www.gold.org/about-gold/gold-supply/gold-mining/how-much-gold)...人類が掘り起こした金の総量。ちなみに話題に出てたゲームはペルソナ5です。
+- [Energy and Policy Considerations for Deep Learning in NLP](https://twitter.com/strubell/status/1129408199478661120)...NLP,Deep LearningとCO2排気量
 - [地球温暖化問題と21世紀の気候変動予測 東工大 丸山茂徳](https://www.jstage.jst.go.jp/article/jjrsm/8/2/8_2_113/_pdf/-char/ja)
 - [巨大火山噴火が気候・生態系へ及ぼす影響 地球システムモデルによる予測](http://kankyorenrakukai.org/symposium_12/pdf/koen_3.pdf)... ピナツボ火山によって地球の平均気温が低下したことなど、空気中のエアロゾルの生成が大きな原因であることを概説している発表スライド。
 - [Behind Kyoto University's Research. Vol. 2., サバクトビバッタを追って 前野ウルド浩太郎](http://research.kyoto-u.ac.jp/documentary/maeno/01/)
