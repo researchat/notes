@@ -7,7 +7,7 @@
 ## Show notes
 - [Nature誌でretractionされた論文が再びNatureに掲載されたときのエディターのツイート](https://twitter.com/MWClimateSci/status/1133790007519522819)
 - [Asia’s glaciers are a regionally important buffer against drought. Nature 2018](https://www.nature.com/articles/nature22062)
-- [シンソール](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB)... 美容やボディビルの目的のために使われる合成油脂。使い過ぎると危険なので注意が必要。シンソールにちょって、ポパイのようないびつな筋肉を作る人たちが最近は存在する。ポッドキャスト内では、表現などに少し配慮が足りなかったと反省しております。画像検索するとシンソールユーザーがの画像がヒットしますが、閲覧要注意です。
+- [シンソール](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB)... 美容やボディビルの目的のために使われる合成油脂。使い過ぎると危険なので注意が必要。シンソールにより、ポパイのようないびつな筋肉を作る人たちが最近は存在する。ポッドキャスト内では、表現などに少し配慮が足りなかったと反省しております。画像検索するとシンソールユーザーがの画像がヒットしますが、閲覧要注意です。
 - [Arnold Strongman Classic](https://www.arnoldsportsfestival.com/sports-and-events/strength-sports/arnold-strongman-classic/)... シュワちゃんが開催している最強の男を決めるコンテスト。
 - [2019 Arnold Strongman Classic | Rogue Wheel of Pain](https://www.youtube.com/watch?v=0yF-74QBdMo)... シュワちゃんが初主演したコナン・ザ・グレートに登場するWheel of Painを再現したもの。総重量9000kg。 
 - [マッドマックス怒りのデス・ロード](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%89%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9_%E6%80%92%E3%82%8A%E3%81%AE%E3%83%87%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89)... coelaとtadasuにとって最高の映画。
