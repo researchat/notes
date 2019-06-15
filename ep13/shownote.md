@@ -1,5 +1,5 @@
 ## Title: 
-- A thing that cannot be seen with life time的な感じ
+- The nineth drop fell (仮)
 
 ## Description
 撤回された論文の再掲載、おすすめのアメコミ映画、テトリス、植物など長期に及ぶ観察や研究の難しさ、実験室での進化実験、種の起源、マンガについて話しました。(出演者：tadasu, soh, coela)
