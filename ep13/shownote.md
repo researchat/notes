@@ -11,6 +11,32 @@
 - [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
 - [The dynamics of molecular evolution over 60,000 generations. Nature 2017.](https://www.nature.com/articles/nature24287)...大腸菌の実験室進化 (Long-term evolution experiment, LTEE)のLenskiたちの論文
 - [Multi-omic measurements of heterogeneity in HeLa cells across laboratories. Nature Biotechnology, 2019](https://www.nature.com/articles/s41587-019-0037-y)...HeLa細胞の研究室間での不均質性についての最新の報告
+- natureのディトラクション
+- シンソール
+- アーノルドストロングマンコンテスト
+- wheel of pain
+- MCU
+- マーベル
+- DC
+- マッドマックス怒りのデスロード
+- 東映スパイダーマン
+- テトリス
+- ひょうたんつぎ
+- スパイダーバース
+- スパイダーハム
+- リュウゼツラン
+- 竹
+- ピッチドロップ
+- 暗黒バエ
+- レンスキー(大腸菌)
+- HeLa細胞
+- 家具になる木
+- ワシントンエルム
+- バオバブ
+- ゴルトシュミット文庫
+- ウォディントン
+- epigenetic
+
 
 ## Editorial notes
 
