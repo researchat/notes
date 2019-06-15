@@ -33,6 +33,8 @@
 - [植物の時間](https://snk-u.tumblr.com/post/185364708696/%E6%A4%8D%E7%89%A9%E3%81%AE%E6%99%82%E9%96%93)
 - [バオバブバー](https://matome.naver.jp/odai/2139348699884464901)
 - [サンランドバオバブ]()
+- [種の起源](https://ja.wikipedia.org/wiki/%E7%A8%AE%E3%81%AE%E8%B5%B7%E6%BA%90)
+- [種の起源初版(お宝鑑定団)](https://www.tv-tokyo.co.jp/kantei/kaiun_db/otakara/20161227/06.html)
 - [ゴルトシュミット文庫](https://www.nig.ac.jp/nig/ja/research/seminer-ja?id=268)
 - [リチャード・ゴルトシュミット](https://kotobank.jp/word/%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BBB.%20%E3%82%B4%E3%83%AB%E3%83%88%E3%82%B7%E3%83%A5%E3%83%9F%E3%83%83%E3%83%88-1622455)
 - [コンラッド・ウォディントン](https://kotobank.jp/word/%E3%82%B3%E3%83%B3%E3%83%A9%E3%83%83%E3%83%89%E3%83%BB%E3%83%8F%E3%83%AB%20%E3%82%A6%E3%82%A9%E3%83%87%E3%82%A3%E3%83%B3%E3%83%88%E3%83%B3-1618718)
