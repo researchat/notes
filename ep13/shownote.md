@@ -5,6 +5,11 @@
 (出演者：tadasu, soh, coela)
 
 ## Show notes
+- [Nature誌でretractionされた論文が再びNatureに掲載されたときのエディターのツイート](https://twitter.com/MWClimateSci/status/1133790007519522819)
+- [Asia’s glaciers are a regionally important buffer against drought](https://www.nature.com/articles/nature22062)
+- [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
+- [The dynamics of molecular evolution over 60,000 generations. Nature 2017.](https://www.nature.com/articles/nature24287)
+- [Multi-omic measurements of heterogeneity in HeLa cells across laboratories. Nature Biotechnology, 2019](https://www.nature.com/articles/s41587-019-0037-y)
 
 ## Editorial notes
 
