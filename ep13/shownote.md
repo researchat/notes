@@ -1,5 +1,5 @@
 ## Title: 
--  (仮)
+- A thing that cannot be seen with life time的な感じ
 
 ## Description
 (出演者：tadasu, soh, coela)
