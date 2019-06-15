@@ -16,10 +16,11 @@
 - [MCU:マーベル・シネマティック・ユニバース](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9)
 - [ダークナイト(映画)](https://www.amazon.co.jp/dp/B001CUUMGE)
 - [東映スパイダーマン](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3_(%E6%9D%B1%E6%98%A0))
-- [ヒョウタンツギ](https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A7%E3%82%A6%E3%82%BF%E3%83%B3%E3%83%84%E3%82%AE)
+- [ヒョウタンツギ](https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A7%E3%82%A6%E3%82%BF%E3%83%B3%E3%83%84%E3%82%AE)... 手塚治虫先生のスターシステムとして登場するキャラクターといえばヒョウタンツギ。
+- [ヒョウタンツギファミリー](http://www.scn-net.ne.jp/~yato/hyoutan/other/other.htm)... スパイダー、ブタナギ、ロロールル、ママー、ブクツギキュ。見たことあるような、ないような。
 - [スパイダーマン:スパイダーバース](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3:_%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B9)
-- [スパイダーハム(Spider Ham)](https://en.wikipedia.org/wiki/Spider-Ham)
-- [Tetris In 140 Bytes](https://developers.slashdot.org/story/12/02/19/1351213/tetris-in-140-bytes)
+- [スパイダーハム(Spider Ham)](https://en.wikipedia.org/wiki/Spider-Ham)... 心なしかヒョウタンツギに酷似している気がする。
+- [Tetris In 140 Bytes](https://developers.slashdot.org/story/12/02/19/1351213/tetris-in-140-bytes)... Tetrisをone-linerで書く！
 - [テトリス in メガドライブミニ](https://game.watch.impress.co.jp/docs/news/1188382.html)
 - [マインクラフトがテトリスを抜く](https://www.techspot.com/news/80187-minecraft-may-have-passed-tetris-best-selling-game.html)... ポッドキャスト内で、テトリスが売り上げ一位と言いましたが、最近マイクラフトが抜いていました。訂正しておきます。
 - [リュウゼツラン](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%BC%E3%83%84%E3%83%A9%E3%83%B3%E5%B1%9E)... 開花は数十年に一回と言われている。
@@ -34,8 +35,8 @@
 - [家具になる木](https://www.epochtimes.jp/2017/01/26599.html)... 成長する木を曲げていくことにより、椅子などの家具を作成する。だいたい5-10年かかる。
 - [Washington Elm](https://en.wikipedia.org/wiki/Washington_Elm)... ジョージワシントンが独立戦争時に初めて指揮をとったとされるニレの木。元々公式な文書は存在せず、木自体も現存しない (別のニレの木が植えられている。)
 - [植物の時間](https://snk-u.tumblr.com/post/185364708696/%E6%A4%8D%E7%89%A9%E3%81%AE%E6%99%82%E9%96%93)
-- [バオバブバー](https://matome.naver.jp/odai/2139348699884464901)
-- [サンランドバオバブ]()
+- [バオバブにあるバー](https://matome.naver.jp/odai/2139348699884464901)... 南アフリカ共和国に存在する樹齢6000年のバオバブに作られたバー。通称Pub tree。この記事では樹齢6000年のバオバブにつくられたバーとなっている。他の記事でも樹齢6000年という記述が見つかる。
+- [Sunland Baobab: サンランドバオバブ](https://en.wikipedia.org/wiki/Sunland_Baobab)... 
 - [種の起源](https://ja.wikipedia.org/wiki/%E7%A8%AE%E3%81%AE%E8%B5%B7%E6%BA%90)... チャールズ・ダーウィンが初めて進化について言及した書物。
 - [種の起源初版(お宝鑑定団)](https://www.tv-tokyo.co.jp/kantei/kaiun_db/otakara/20161227/06.html)...  国立遺伝学研究所に所蔵されている種の起源初版本。毎年4月に行われるお花見兼見学会に参加すると展示されている。
 - [ゴルトシュミット文庫](https://www.nig.ac.jp/nig/ja/research/seminer-ja?id=268)... ゴルトシュミットが遺伝研に寄付した蔵書のこと。
