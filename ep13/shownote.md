@@ -2,7 +2,7 @@
 - A thing that cannot be seen with life time的な感じ
 
 ## Description
-(出演者：tadasu, soh, coela)
+撤回された論文の再掲載、おすすめのアメコミ映画、テトリス、植物など長期に及ぶ観察や研究の難しさ、実験室での進化実験、種の起源、マンガについて話しました。(出演者：tadasu, soh, coela)
 
 ## Show notes
 - [Nature誌でretractionされた論文が再びNatureに掲載されたときのエディターのツイート](https://twitter.com/MWClimateSci/status/1133790007519522819)
