@@ -7,6 +7,8 @@
 ## Show notes
 - [Nature誌でretractionされた論文が再びNatureに掲載されたときのエディターのツイート](https://twitter.com/MWClimateSci/status/1133790007519522819)
 - [Asia’s glaciers are a regionally important buffer against drought. Nature 2018](https://www.nature.com/articles/nature22062)
+- [Arnold Strongman Classic](https://www.arnoldsportsfestival.com/sports-and-events/strength-sports/arnold-strongman-classic/)
+- [2019 Arnold Strongman Classic | Rogue Wheel of Pain](https://www.youtube.com/watch?v=0yF-74QBdMo)
 - [ピッチドロップ実験](https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%81%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E5%AE%9F%E9%A8%93)
 - [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
 - [The dynamics of molecular evolution over 60,000 generations. Nature 2017.](https://www.nature.com/articles/nature24287)...大腸菌の実験室進化 (Long-term evolution experiment, LTEE)のLenskiたちの論文
@@ -14,7 +16,7 @@
 - natureのディトラクション
 - シンソール
 - アーノルドストロングマンコンテスト
-- wheel of pain
+
 - MCU
 - マーベル
 - DC
