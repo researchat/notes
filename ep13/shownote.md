@@ -35,8 +35,9 @@
 - [家具になる木](https://www.epochtimes.jp/2017/01/26599.html)... 成長する木を曲げていくことにより、椅子などの家具を作成する。だいたい5-10年かかる。
 - [Washington Elm](https://en.wikipedia.org/wiki/Washington_Elm)... ジョージワシントンが独立戦争時に初めて指揮をとったとされるニレの木。元々公式な文書は存在せず、木自体も現存しない (別のニレの木が植えられている。)
 - [植物の時間](https://snk-u.tumblr.com/post/185364708696/%E6%A4%8D%E7%89%A9%E3%81%AE%E6%99%82%E9%96%93)
-- [バオバブにあるバー](https://matome.naver.jp/odai/2139348699884464901)... 南アフリカ共和国に存在する樹齢6000年のバオバブに作られたバー。通称Pub tree。この記事では樹齢6000年のバオバブにつくられたバーとなっている。他の記事でも樹齢6000年という記述が見つかる。
-- [Sunland Baobab: サンランドバオバブ](https://en.wikipedia.org/wiki/Sunland_Baobab)... 
+- [バオバブにあるバー](https://matome.naver.jp/odai/2139348699884464901)... 南アフリカ共和国に存在する樹齢6000年のバオバブに作られたバー。通称Pub tree。この記事では樹齢6000年のバオバブにつくられたバーとなっている。
+- [Sunland Baobab: サンランドバオバブ](https://en.wikipedia.org/wiki/Sunland_Baobab)... このバーが存在していたバオバブの木。現在、既に木は大破してしまい、このバーは存在していない。2016年と2017年に大破してしまったらしい。
+- [Age determination of large live trees with inner cavities: radiocarbon dating of Platland tree, a giant African baobab](https://link.springer.com/article/10.1007%2Fs13595-011-0107-x)... サンランドバオバブの年齢を放射年代測定によって推定した論文。1060歳+-75歳とされている。
 - [種の起源](https://ja.wikipedia.org/wiki/%E7%A8%AE%E3%81%AE%E8%B5%B7%E6%BA%90)... チャールズ・ダーウィンが初めて進化について言及した書物。
 - [種の起源初版(お宝鑑定団)](https://www.tv-tokyo.co.jp/kantei/kaiun_db/otakara/20161227/06.html)...  国立遺伝学研究所に所蔵されている種の起源初版本。毎年4月に行われるお花見兼見学会に参加すると展示されている。
 - [ゴルトシュミット文庫](https://www.nig.ac.jp/nig/ja/research/seminer-ja?id=268)... ゴルトシュミットが遺伝研に寄付した蔵書のこと。
@@ -52,7 +53,7 @@
 
 ## Editorial notes
 - 収録後に知ったんですけど、[ホークアイの単独ドラマシリーズ](https://jp.ign.com/hawkeye-1/34712/news/disney)が作られてるんですね！！！やったー！！(coela)
-- 樹齢6000年のバオバブにつくられたバーに関しての話について色々と調べてみると既にバーは閉店しており、バオバブが大量に枯れていることがわかった。そして、樹齢も炭素同定によると1000年程度とのことで、色々と植物は難しい。まだまだ植物の研究には早かったということで一つ...(tadasu)
+- バオバブにつくられたバーに関しての話について色々と調べてみると、サンランドバオバブは既に大破しており、バーもは閉店していることがわかった。そして、樹齢も6000年と書かれていたが、最新の放射同定を用いた研究によると1000年程度とのことで、色々と植物は難しい。まだまだ植物の研究には早かったということで一つ...(tadasu)
 ## Chapter
 ```
 0:00 ep12などの収録について
