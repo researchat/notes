@@ -25,7 +25,7 @@
 - [マインクラフトがテトリスを抜く](https://www.techspot.com/news/80187-minecraft-may-have-passed-tetris-best-selling-game.html)... ポッドキャスト内で、テトリスが売り上げ一位と言いましたが、最近マイクラフトが抜いていました。訂正しておきます。
 - [リュウゼツラン](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%BC%E3%83%84%E3%83%A9%E3%83%B3%E5%B1%9E)... 開花は数十年に一回と言われている。
 - [竹の花](https://tenki.jp/suppl/usagida/2017/05/16/22741.html)... 開花は120年に一回と言われている。
-- [ピッチドロップ実験](https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%81%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E5%AE%9F%E9%A8%93)
+- [ピッチドロップ実験](https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%81%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E5%AE%9F%E9%A8%93)... 1927年に開始された実験。今の所、9滴目までが落下した。
 - [The Pitch Drop Experiment on Livestream](https://livestream.com/accounts/4931571/events/5369913/videos/127412432)...ピッチドロップ実験のライブストリーミング。落ちる瞬間が見れるかも（？）
 - [暗黒バエ](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%92%E3%83%90%E3%82%A8)... 京都大学において、1954年に始められた実験。恒常暗黒下においてショウジョウバエを飼育することでどのように「進化」が起きるかを検証しようとした実験。実験から60年以上が経過し、現在約1500世代目に達している。
 - [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
