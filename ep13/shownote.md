@@ -6,7 +6,7 @@
 
 ## Show notes
 - [Nature誌でretractionされた論文が再びNatureに掲載されたときのエディターのツイート](https://twitter.com/MWClimateSci/status/1133790007519522819)
-- [Asia’s glaciers are a regionally important buffer against drought](https://www.nature.com/articles/nature22062)
+- [Asia’s glaciers are a regionally important buffer against drought. Nature 2018](https://www.nature.com/articles/nature22062)
 - [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
 - [The dynamics of molecular evolution over 60,000 generations. Nature 2017.](https://www.nature.com/articles/nature24287)...大腸菌の実験室進化 (Long-term evolution experiment, LTEE)のLenskiたちの論文
 - [Multi-omic measurements of heterogeneity in HeLa cells across laboratories. Nature Biotechnology, 2019](https://www.nature.com/articles/s41587-019-0037-y)...HeLa細胞の研究室間での不均質性についての最新の報告
