@@ -14,15 +14,18 @@
 - [マーベル・コミック](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF)
 - [DCコミックス](https://ja.wikipedia.org/wiki/DC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9)
 - [MCU:マーベル・シネマティック・ユニバース](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9)
+- [ダークナイト(映画)](https://www.amazon.co.jp/dp/B001CUUMGE)
 - [東映スパイダーマン](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3_(%E6%9D%B1%E6%98%A0))
 - [ヒョウタンツギ](https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A7%E3%82%A6%E3%82%BF%E3%83%B3%E3%83%84%E3%82%AE)
 - [スパイダーマン:スパイダーバース](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3:_%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B9)
 - [スパイダーハム(Spider Ham)](https://en.wikipedia.org/wiki/Spider-Ham)
 - [Tetris In 140 Bytes](https://developers.slashdot.org/story/12/02/19/1351213/tetris-in-140-bytes)
+- [テトリス in メガドライブミニ](https://game.watch.impress.co.jp/docs/news/1188382.html)
 - [マインクラフトがテトリスを抜く](https://www.techspot.com/news/80187-minecraft-may-have-passed-tetris-best-selling-game.html)
 - [リュウゼツラン](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%BC%E3%83%84%E3%83%A9%E3%83%B3%E5%B1%9E)
 - [竹の花](https://tenki.jp/suppl/usagida/2017/05/16/22741.html)
 - [ピッチドロップ実験](https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%81%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E5%AE%9F%E9%A8%93)
+- [The Pitch Drop Experiment on Livestream](https://livestream.com/accounts/4931571/events/5369913/videos/127412432)...ピッチドロップ実験のライブストリーミング。落ちる瞬間が見れるかも（？）
 - [暗黒バエ](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%92%E3%83%90%E3%82%A8)
 - [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
 - [The dynamics of molecular evolution over 60,000 generations. Nature 2017.](https://www.nature.com/articles/nature24287)...大腸菌の実験室進化 (Long-term evolution experiment, LTEE)のLenskiたちの論文
@@ -47,7 +50,7 @@
 - [飯降山(いぶり山)](https://www.youtube.com/watch?v=VzueLQeGm6E)... いがらしみきおが担当したアニメ日本昔ばなしの回。現在のところ、アニメ日本昔ばなしの最終新作となっている。
 
 ## Editorial notes
-
+- 収録後に知ったんですけど、[ホークアイの単独ドラマシリーズ](https://jp.ign.com/hawkeye-1/34712/news/disney)が作られてるんですね！！！やったー！！(coela)
 ## Chapter
 ```
 0:00 ep12などの収録について
