@@ -1,6 +1,6 @@
 ## Title: 
 - The nineth drop fell (仮)
-
+- 100-years-old experiment
 ## Description
 撤回された論文の再掲載、おすすめのアメコミ映画、テトリス、植物など長期に及ぶ観察や研究の難しさ、実験室での進化実験、種の起源、マンガについて話しました。(出演者：tadasu, soh, coela)
 
@@ -13,10 +13,7 @@
 - [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
 - [The dynamics of molecular evolution over 60,000 generations. Nature 2017.](https://www.nature.com/articles/nature24287)...大腸菌の実験室進化 (Long-term evolution experiment, LTEE)のLenskiたちの論文
 - [Multi-omic measurements of heterogeneity in HeLa cells across laboratories. Nature Biotechnology, 2019](https://www.nature.com/articles/s41587-019-0037-y)...HeLa細胞の研究室間での不均質性についての最新の報告
-- natureのディトラクション
 - シンソール
-- アーノルドストロングマンコンテスト
-
 - MCU
 - マーベル
 - DC
