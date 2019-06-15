@@ -19,6 +19,7 @@
 - [スパイダーマン:スパイダーバース](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3:_%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B9)
 - [スパイダーハム(Spider Ham)](https://en.wikipedia.org/wiki/Spider-Ham)
 - [Tetris In 140 Bytes](https://developers.slashdot.org/story/12/02/19/1351213/tetris-in-140-bytes)
+- [マインクラフトがテトリスを抜く](https://www.techspot.com/news/80187-minecraft-may-have-passed-tetris-best-selling-game.html)
 - [リュウゼツラン](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%BC%E3%83%84%E3%83%A9%E3%83%B3%E5%B1%9E)
 - [竹の花](https://tenki.jp/suppl/usagida/2017/05/16/22741.html)
 - [ピッチドロップ実験](https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%81%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E5%AE%9F%E9%A8%93)
