@@ -14,9 +14,10 @@
 - [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
 - [The dynamics of molecular evolution over 60,000 generations. Nature 2017.](https://www.nature.com/articles/nature24287)...大腸菌の実験室進化 (Long-term evolution experiment, LTEE)のLenskiたちの論文
 - [Multi-omic measurements of heterogeneity in HeLa cells across laboratories. Nature Biotechnology, 2019](https://www.nature.com/articles/s41587-019-0037-y)...HeLa細胞の研究室間での不均質性についての最新の報告
+- [いがらしみきお](https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%8C%E3%82%89%E3%81%97%E3%81%BF%E3%81%8D%E3%81%8A)
 - [ネ暗トピア](https://www.amazon.co.jp/dp/B00G36N1W4/)
-- [sink]()
-- []
+- [Sink](https://www.amazon.co.jp/dp/B01FHPVC22/)
+- [ガンジョリ―いがらしみきおモダンホラー傑作選](https://www.amazon.co.jp/%E3%82%AC%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%AA%E2%80%95%E3%81%84%E3%81%8C%E3%82%89%E3%81%97%E3%81%BF%E3%81%8D%E3%81%8A%E3%83%A2%E3%83%80%E3%83%B3%E3%83%9B%E3%83%A9%E3%83%BC%E5%82%91%E4%BD%9C%E9%81%B8-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB-%E3%81%84%E3%81%8C%E3%82%89%E3%81%97-%E3%81%BF%E3%81%8D%E3%81%8A/dp/4091816657)... みんなサイボーが収録されている。
 - [飯降山](https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%99%8D%E5%B1%B1)
 - [飯降山(いぶり山)](https://www.youtube.com/watch?v=VzueLQeGm6E)
 
