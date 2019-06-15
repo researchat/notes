@@ -43,8 +43,6 @@
 - [飯降山](https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%99%8D%E5%B1%B1)... 実際の山
 - [飯降山(いぶり山)](https://www.youtube.com/watch?v=VzueLQeGm6E)... いがらしみきおが担当したアニメ日本昔ばなしの回。現在のところ、アニメ日本昔ばなしの最終新作となっている。
 
-- epigenetic
--
 ## Editorial notes
 
 ## Chapter
