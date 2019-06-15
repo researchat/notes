@@ -7,8 +7,14 @@
 ## Show notes
 - [Nature誌でretractionされた論文が再びNatureに掲載されたときのエディターのツイート](https://twitter.com/MWClimateSci/status/1133790007519522819)
 - [Asia’s glaciers are a regionally important buffer against drought. Nature 2018](https://www.nature.com/articles/nature22062)
+- [シンソール](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB)
 - [Arnold Strongman Classic](https://www.arnoldsportsfestival.com/sports-and-events/strength-sports/arnold-strongman-classic/)
 - [2019 Arnold Strongman Classic | Rogue Wheel of Pain](https://www.youtube.com/watch?v=0yF-74QBdMo)
+- [マッドマックス怒りのデス・ロード](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%83%89%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9_%E6%80%92%E3%82%8A%E3%81%AE%E3%83%87%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89)
+- [マーベル・コミック](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF)
+- [DCコミックス](https://ja.wikipedia.org/wiki/DC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9)
+- [MCU:マーベル・シネマティック・ユニバース](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB%E3%83%BB%E3%82%B7%E3%83%8D%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A6%E3%83%8B%E3%83%90%E3%83%BC%E3%82%B9)
+- [東映スパイダーマン](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC%E3%83%9E%E3%83%B3_(%E6%9D%B1%E6%98%A0)
 - [Tetris In 140 Bytes](https://developers.slashdot.org/story/12/02/19/1351213/tetris-in-140-bytes)
 - [ピッチドロップ実験](https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%83%E3%83%81%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E5%AE%9F%E9%A8%93)
 - [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
@@ -21,7 +27,7 @@
 - [飯降山](https://ja.wikipedia.org/wiki/%E9%A3%AF%E9%99%8D%E5%B1%B1)
 - [飯降山(いぶり山)](https://www.youtube.com/watch?v=VzueLQeGm6E)
 
-- シンソール
+
 - MCU
 - マーベル
 - DC
