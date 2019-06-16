@@ -1,10 +1,21 @@
+---
+actor_ids:
+  - tadasu
+  - soh
+  - coela
+audio_file_path: /audio/13.mp3
+audio_file_size: 76376498
+date: 2019-06-16 11:36:00 +0900
+description: 撤回された論文の再掲載、おすすめのアメコミ映画、テトリス、植物など長期に及ぶ観察や研究の難しさ、実験室での進化実験、種の起源、マンガについて話しました。(出演者：tadasu, soh, coela)
+duration: "01:19:30"
+layout: article
+title: 13. TBA
+---
+
 ## Title: 
 - The nineth drop fell (仮)
 - 100-years-old experiment
 - Three rice balls fallen from the sky
-
-## Description
-撤回された論文の再掲載、おすすめのアメコミ映画、テトリス、植物など長期に及ぶ観察や研究の難しさ、実験室での進化実験、種の起源、マンガについて話しました。(出演者：tadasu, soh, coela)
 
 ## Show notes
 - [Nature誌でretractionされた論文が再びNatureに掲載されたときのエディターのツイート](https://twitter.com/MWClimateSci/status/1133790007519522819)
