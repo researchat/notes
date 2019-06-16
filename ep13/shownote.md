@@ -13,7 +13,9 @@ title: 13. TBA
 ---
 
 ## Title: 
-- The nineth drop fell (仮)
+- The nineth drop fell
+- Once in a lifetime
+- It will never happen again
 - 100-years-old experiment
 - Three rice balls fallen from the sky
 
