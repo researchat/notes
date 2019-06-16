@@ -42,7 +42,7 @@ title: 13. TBA
 - [The Pitch Drop Experiment on Livestream](https://livestream.com/accounts/4931571/events/5369913/videos/127412432)...ピッチドロップ実験のライブストリーミング。落ちる瞬間が見れるかも（？）
 - [暗黒バエ (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%92%E3%83%90%E3%82%A8)... 京都大学において、1954年に始められた実験。恒常暗黒下においてショウジョウバエを飼育することでどのように「進化」が起きるかを検証しようとした実験。実験から60年以上が経過し、現在約1,500世代目に達している。
 - [リチャード・レンスキーラボのウェブサイト](http://myxo.css.msu.edu/)
-- [The dynamics of molecular evolution over 60,000 generations. Nature 2017.](https://www.nature.com/articles/nature24287)...大腸菌の実験室進化 (Long-term evolution experiment, LTEE)のLenskiたちの論文。6000万世代の継代で見られたゲノムの変化などを報告しており、実験はまだ続いている。
+- [The dynamics of molecular evolution over 60,000 generations. Nature 2017.](https://www.nature.com/articles/nature24287)...大腸菌の実験室進化 (Long-term evolution experiment, LTEE)のLenskiたちの論文。なんと60,000世代の継代で見られた大腸菌ゲノムの変化を報告しており、実験はまだ続いている。
 - [HeLa細胞 (Wikipedia)](https://ja.wikipedia.org/wiki/HeLa%E7%B4%B0%E8%83%9E)... 世界中のラボで、ヒト培養細胞として使われている細胞。元々は、ヘンリエッタ・ラックスさんの子宮頸がんに由来する細胞。HeLaS3, HeLa Kyoto, Biken HeLaなど、様々なHeLa細胞株が存在する。
 - [Multi-omic measurements of heterogeneity in HeLa cells across laboratories. Nature Biotechnology, 2019](https://www.nature.com/articles/s41587-019-0037-y)...HeLa細胞の研究室間での不均質性についての最新の報告
 - [家具になる木](https://www.epochtimes.jp/2017/01/26599.html)... 成長する木を曲げていくことにより、椅子などの家具を作成する。だいたい5-10年かかる。
