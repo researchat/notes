@@ -9,7 +9,7 @@ date: 2019-06-16 11:36:00 +0900
 description: 撤回された論文の再掲載、おすすめのアメコミ映画、テトリス、植物など長期に及ぶ観察や研究の難しさ、実験室での進化実験、種の起源、マンガについて話しました。(出演者：tadasu, soh, coela)
 duration: "01:19:30"
 layout: article
-title: 13. TBA
+title: 13. Once in a lifetime
 ---
 
 ## Title: 
