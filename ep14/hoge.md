@@ -6,6 +6,10 @@
   - https://www.biorxiv.org/content/10.1101/631721v1.full Keithたち。
 - [Ab-initio discovery of tumoricidal oligonucleotides in a DNA sequencing machine
 ](https://www.biorxiv.org/content/10.1101/630830v2)...illuminaのフローセルに細胞を貼り付けて細胞のなかのオリゴを読む! 
+- DNA microscopy is published in Cell, Theory section!
+  - RNA分子の近接性を利用した光学系によらない全く新しいコンセプトの「顕微鏡」技術。見ずに見る、というもの、天才ですね。
+  - New York Timesの記事: https://www.nytimes.com/2019/06/20/science/microscopes-cell-biology-dna.html?smid=tw-nytimesscience&smtyp=cur
+  - 論文: https://www.cell.com/cell/fulltext/S0092-8674(19)30547-1
 
 ## kyonちゃんゲスト回　ぱちぱちぱち〜
 - 0 玉木さんによる趣旨説明
