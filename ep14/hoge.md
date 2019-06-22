@@ -1,3 +1,10 @@
+## Soh
+- [Programmable RNA-Guided RNA Effector Proteins Built from Human Parts, Cell 2019](https://www.cell.com/cell/fulltext/S0092-8674(19)30620-8)
+- CRISPR Base editor induced RNA off-target effects. hotなCRISPRのニュース。ざっくりまとめて紹介。
+  - https://www.nature.com/articles/s41586-019-1314-0 Hui Yang lab
+  - https://www.nature.com/articles/s41586-019-1161-z Keithたち
+  - https://www.biorxiv.org/content/10.1101/631721v1.full Keithたち。
+
 kyonちゃんゲスト回　ぱちぱちぱち〜
 - 0 玉木さんによる趣旨説明
 - 1 自己紹介
