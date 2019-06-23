@@ -32,6 +32,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [2-body problem](https://en.wikipedia.org/wiki/Two-body_problem_(career))...夫婦などのパートナーがともに科学者としてのキャリアを形成する際、同じ場所（大学や研究所など）でともに職を得るが非常に難しい場合が往々にしてあり、これを2-body problemと呼ぶ。日本ではほとんど聞かないが、北米などでは夫婦でアプライできるPIポジションなどがある。
 - [制限酵素の自動販売機](http://www.dcscience.net/montreal-08/slides/sigworth-yale-restriction-vending-machine-120508.html)...写真のように酵素が自販機で買えるの羨ましい。
 - [やなか珈琲](https://www.yanaka-coffeeten.com/)...今日はここの[エチオピア シダモ・アラングァディ](https://www.yanaka-coffeeten.com/straight.htm)の浅煎り (ミディアムロースト) と深煎り (フレンチロースト) の豆を頂いた。次回にレビューします。
+- [コーヒーの保存法](https://www.thecoffeeshop.jp/theshortissue/how-to-save-coffee-beans-4/)
 - [藤本健二](https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9C%AC%E5%81%A5%E4%BA%8C)...北朝鮮の最高指導者・金正日の元・専属料理人。今はピョンヤンに日本料理屋があるらしい...
 - [フィッシャーの正確確率検定](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%81%AE%E6%AD%A3%E7%A2%BA%E7%A2%BA%E7%8E%87%E6%A4%9C%E5%AE%9A)
 - [ゴールデンハムスター](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC)
