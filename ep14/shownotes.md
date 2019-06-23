@@ -62,6 +62,7 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [今日ヤバいやつにあった (Youtube)](https://www.youtube.com/channel/UCQ3Kgx1G1NkELoJ8tJ3uelg)
 - [Constructing and Screening a Recombinant DNA Library. MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=BIIWlZqWxKg)... Eric Lander先生による超楽しいベーシックなMIT分子生物学の学部の授業。板書の美しさ、英語の聞き取りやすさ、ジョーク、小さな実験からライブラリを用いた大規模実験までを一気通貫で説明するストーリー、どれをとっても素晴らしいのでぜひ見てほしいです。
 - [Basic Mechanisms of Cloning, excerpt 1, MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=CdAgzk5tQhs)... こちらはクローニングの基礎編。制限酵素やライゲースの説明。おなじみのNEBのカタログも登場する。こんな授業を受けたかったなー。
+- [Eric Lander](https://en.wikipedia.org/wiki/Eric_Lander)
 - [NEBのカタログ](https://www.neb-online.de/en/neb-download/)...素晴らしいリソース。NEBが売り出している酵素やそのスペックを眺めているだけで楽しいし、知らない酵素や何気なく使っているバッファーに詳しくなれるし、新しい実験を思いつくヒントになるかもしれない。
 
 ## Editorial notes
