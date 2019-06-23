@@ -55,7 +55,7 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [免疫沈降法](https://ja.wikipedia.org/wiki/%E5%85%8D%E7%96%AB%E6%B2%88%E9%99%8D%E6%B3%95)
 - [イエロールーム](https://tecdlab.com/2017/06/26/dictionary-%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0/)
 - [フリーザ](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B6)
-- [Liquid-Liquid Phase Separation in Biology](https://www.annualreviews.org/doi/abs/10.1146/annurev-cellbio-100913-013325)... 最近流行りの細胞内におけるphase separation (相分離)について
+- [Liquid-Liquid Phase Separation in Biology](https://www.annualreviews.org/doi/abs/10.1146/annurev-cellbio-100913-013325)... 最近流行りの細胞内におけるphase separation (相分離)について。
 - [不完全性周期](https://guides.lib.kyushu-u.ac.jp/c.php?g=775132&p=5558113) ...マウスは４～５日の短い性周期をもつため不完全性周期動物に分類されます。一方、ヒトは３～４週の長い周期のため完全性周期動物に分類されます。ハムスターは4日です。
 - [ウェスタンブロット法](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%AD%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
 - [今日ヤバいやつにあった (Youtube)](https://www.youtube.com/channel/UCQ3Kgx1G1NkELoJ8tJ3uelg)
