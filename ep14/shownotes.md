@@ -58,7 +58,7 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [Liquid-Liquid Phase Separation in Biology](https://www.annualreviews.org/doi/abs/10.1146/annurev-cellbio-100913-013325)... 最近流行りの細胞内におけるphase separation (相分離)について。
 - [不完全性周期](https://guides.lib.kyushu-u.ac.jp/c.php?g=775132&p=5558113) ...マウスは４～５日の短い性周期をもつため不完全性周期動物に分類されます。一方、ヒトは３～４週の長い周期のため完全性周期動物に分類されます。ハムスターは4日です。
 - [ウェスタンブロット法](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%AD%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
-- [MAX鈴木]... 大食い系最強YouTuber
+- [MAX鈴木](https://ja.wikipedia.org/wiki/MAX%E9%88%B4%E6%9C%A8)... 大食い系最強YouTuber、フードファイター。
 - [今日ヤバいやつにあった (Youtube)](https://www.youtube.com/channel/UCQ3Kgx1G1NkELoJ8tJ3uelg)
 - [Constructing and Screening a Recombinant DNA Library. MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=BIIWlZqWxKg)... Eric Lander先生による超楽しいベーシックなMIT分子生物学の学部の授業。板書の美しさ、英語の聞き取りやすさ、ジョーク、小さな実験からライブラリを用いた大規模実験までを一気通貫で説明するストーリー、どれをとっても素晴らしいのでぜひ見てほしいです。
 - [Basic Mechanisms of Cloning, excerpt 1, MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=CdAgzk5tQhs)... こちらはクローニングの基礎編。制限酵素やライゲースの説明。おなじみのNEBのカタログも登場する。こんな授業を受けたかったなー。
