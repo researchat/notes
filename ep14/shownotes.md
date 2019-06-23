@@ -61,7 +61,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - ウェスタンブロット法
 - 今日ヤバいやつにあった
 - [Constructing and Screening a Recombinant DNA Library. MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=BIIWlZqWxKg)... Eric Lander先生による超楽しいベーシックな分子生物学の授業。板書の美しさ、英語の聞き取りやすさ、ジョーク、小さな実験からライブラリを用いた大規模実験までを一気通貫で説明するストーリー、どれをとっても素晴らしいのでぜひ見てほしいです。
-- [Basic Mechanisms of Cloning, excerpt 1, MIT 7.01SC Fundamentals of Biology.　Eric Lander (Youtube)](https://www.youtube.com/watch?v=CdAgzk5tQhs)... こちらはクローニングの基礎編。制限酵素やライゲースの説明。おなじみのNEBのカタログも登場する。
+- [Basic Mechanisms of Cloning, excerpt 1, MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=CdAgzk5tQhs)... こちらはクローニングの基礎編。制限酵素やライゲースの説明。おなじみのNEBのカタログも登場する。
 - NEBのカタログ
 
 
