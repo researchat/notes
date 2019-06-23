@@ -14,8 +14,9 @@ title: 14. TBA
 ---
 
 ## Title (仮)
-- The hart-warming beans
+- The heart-warming beans
 - Don't use AI
+- Hamtaro also has Piwi proteins
 
 ## Description
 kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
