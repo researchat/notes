@@ -45,7 +45,7 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - RNAサイレンシング ...小さなRNA (20-30塩基) とArgonauteタンパク質から成る複合体 (RISC) が中核となって起こる遺伝子発現制御機構
 - miRNA
 - [トランスポゾン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
-- [バーバラ・マクリントック](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88%E3%83%83%E3%82%AF)
+- [バーバラ・マクリントック](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88%E3%83%83%E3%82%AF)... トランスポゾンの発見で1983年にノーベル賞受賞。染色体・遺伝学研究における女性研究者としての草分け的存在。
 - [ヘテロクロマチン](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%86%E3%83%AD%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%81%E3%83%B3)
 - [ヒストンの修飾](http://ruo.mbl.co.jp/bio/product/epigenome/article/histone-modification.html) 
 - [Crystal Structure of Silkworm PIWI-Clade Argonaute Siwi Bound to piRNA. Cell 2016](https://www.cell.com/cell/fulltext/S0092-8674(16)31230-2)
