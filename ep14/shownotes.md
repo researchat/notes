@@ -26,17 +26,16 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - 倒立フォーク
 - SUZUKI DRZ400SM
 - YAMAHA Virago250
-- 生涯学習
-- Harvard extension school
+- [生涯学習](https://ja.wikipedia.org/wiki/%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92)
+- [Harvard extension school](https://www.extension.harvard.edu/)...  生涯学習向けのハーバードの講座。様々なレベルの授業が用意されている。多くの授業がオンラインで受けられる。
 - [アメリカのChild careの価格](https://www.blog.crn.or.jp/report/09/75.html)... これはボストン周辺の価格であり、他の都市では異なる。例えば2-3歳児については週5日、フルタイムで預けると月$2,135、23万円程度である。
 - [2-body problem](https://en.wikipedia.org/wiki/Two-body_problem_(career))...夫婦などのパートナーがともに科学者としてのキャリアを形成する際、同じ場所（大学や研究所など）でともに職を得るが非常に難しい場合が往々にしてあり、これを2-body problemと呼ぶ。日本ではほとんど聞かないが、北米などでは夫婦でアプライできるPIポジションなどがある。
 - [制限酵素の自動販売機](http://www.dcscience.net/montreal-08/slides/sigworth-yale-restriction-vending-machine-120508.html)...写真のように酵素が自販機で買えるの羨ましい。
 - [やなか珈琲](https://www.yanaka-coffeeten.com/)...今日はここの[エチオピア シダモ・アラングァディ](https://www.yanaka-coffeeten.com/straight.htm)の浅煎り (ミディアムロースト) と深煎り (フレンチロースト) の豆を頂いた。次回にレビューします。
 - [藤本健二](https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9C%AC%E5%81%A5%E4%BA%8C)...北朝鮮の最高指導者・金正日の元・専属料理人。今はピョンヤンに日本料理屋があるらしい...
-- フィッシャーの正確確立検定
-- ゴールデンハムスター
-- ハム太郎
-- キンクマ
+- [フィッシャーの正確確率検定](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%81%AE%E6%AD%A3%E7%A2%BA%E7%A2%BA%E7%8E%87%E6%A4%9C%E5%AE%9A)
+- [ゴールデンハムスター](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC)
+- [ハム太郎](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1))
 - 哺乳類のPIWIタンパク質
 - PIWI ...ちなみにPiwi遺伝子を人工的に欠損させると不妊の表現型を示す。
 - piRNA ...昔はrasiRNA (Repeat associated small interfering RNA) と呼ばれていた。2001年にハエの生殖細胞でトランスポゾンをRNAサイレンシングする因子として最初に見つかった。[Double-stranded RNA-mediated silencing of genomic tandem repeats and transposable elements in the D. melanogaster germline. Current Biology 2001](https://www.sciencedirect.com/science/article/pii/S0960982201002998?via%3Dihub)
@@ -51,7 +50,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [ハイブリドーマ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%89%E3%83%BC%E3%83%9E)...Kyonはこのハイブリドーマ(細胞)からモノクローナル抗体を産生させ、精製することで実験に使用することができた。
 - [免疫沈降法](https://ja.wikipedia.org/wiki/%E5%85%8D%E7%96%AB%E6%B2%88%E9%99%8D%E6%B3%95)
 - フリーザー第二形態
-- Phase transition
+- [Liquid-Liquid Phase Separation in Biology](https://www.annualreviews.org/doi/abs/10.1146/annurev-cellbio-100913-013325)... 最近流行りの細胞内におけるphase separation (相分離)について
 - [不完全性周期](https://guides.lib.kyushu-u.ac.jp/c.php?g=775132&p=5558113) ...マウスは４～５日の短い性周期をもつため不完全性周期動物に分類されます。一方、ヒトは３～４週の長い周期のため完全性周期動物に分類されます。ハムスターは4日です。
 - [ウェスタンブロット法](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%AD%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
 - [今日ヤバいやつにあった (Youtube)](https://www.youtube.com/channel/UCQ3Kgx1G1NkELoJ8tJ3uelg)
