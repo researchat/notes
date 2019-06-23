@@ -33,9 +33,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - Harvard extension school
 - アメリカのChild careの価格
 - 2-body problem
-- 制限酵素の自動販売機
-  - https://www.flickr.com/photos/jseita/3544470121
-  - http://www.dcscience.net/montreal-08/slides/sigworth-yale-restriction-vending-machine-120508.html
+- [制限酵素の自動販売機](http://www.dcscience.net/montreal-08/slides/sigworth-yale-restriction-vending-machine-120508.html)...写真のように酵素が自販機で買えるの羨ましい。
 - 谷中コーヒー
 - シングルオリジンコーヒー
 - 北朝鮮　藤本さん　料理番
@@ -52,17 +50,15 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - ヒストンのメチル化
 - [Crystal Structure of Silkworm PIWI-Clade Argonaute Siwi Bound to piRNA. Cell 2016](https://www.cell.com/cell/fulltext/S0092-8674(16)31230-2)
 - ハエOSC細胞
-- モノクローナル抗体
+- [モノクローナル抗体 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%8A%E3%83%AB%E6%8A%97%E4%BD%93)
 - ハイブリドーマ
 - RNA-IP 免疫沈降法
 - フリーザー第二形態
 - Phase transition
 - 性周期、不完全周期
 - ウェスタンブロット法
-- 今日ヤバいやつにあった
-- [Constructing and Screening a Recombinant DNA Library. MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=BIIWlZqWxKg)... Eric Lander先生による超楽しいベーシックな分子生物学の授業。板書の美しさ、英語の聞き取りやすさ、ジョーク、小さな実験からライブラリを用いた大規模実験までを一気通貫で説明するストーリー、どれをとっても素晴らしいのでぜひ見てほしいです。
-- [Basic Mechanisms of Cloning, excerpt 1, MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=CdAgzk5tQhs)... こちらはクローニングの基礎編。制限酵素やライゲースの説明。おなじみのNEBのカタログも登場する。
-- NEBのカタログ
-
-
+- [今日ヤバいやつにあった](https://www.youtube.com/channel/UCQ3Kgx1G1NkELoJ8tJ3uelg)
+- [Constructing and Screening a Recombinant DNA Library. MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=BIIWlZqWxKg)... Eric Lander先生による超楽しいベーシックなMIT分子生物学の学部の授業。板書の美しさ、英語の聞き取りやすさ、ジョーク、小さな実験からライブラリを用いた大規模実験までを一気通貫で説明するストーリー、どれをとっても素晴らしいのでぜひ見てほしいです。
+- [Basic Mechanisms of Cloning, excerpt 1, MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=CdAgzk5tQhs)... こちらはクローニングの基礎編。制限酵素やライゲースの説明。おなじみのNEBのカタログも登場する。こんな授業を受けたかったなー。
+- [NEBのカタログ](https://www.neb-online.de/en/neb-download/)...素晴らしいリソース。NEBが売り出している酵素やそのスペックを眺めているだけで楽しいし、知らない酵素や何気なく使っているバッファーに詳しくなれるし、新しい実験を思いつくヒントになるかもしれない。
 
