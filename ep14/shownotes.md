@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/14.mp3
 audio_file_size: 95756041
 date: 2019-06-14 9:00:00 +0900
-description: kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
+description: Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
 duration: "01:39:44"
 layout: article
 title: 14. TBA
@@ -21,16 +21,14 @@ title: 14. TBA
 Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
 
 ## Show notes
-- チャイニーズハムスター
-- 頚椎脱臼骨折
 - MIT ハムスターゲノムのシーケンス論文？
-- HCO細胞
+- [CHO細胞](http://www.saibou.jp/service/pickup/cho-k1)...Chinese Hamster Ovary (CHO)細胞はタンパク質の発現などで頻繁に用いられる細胞株の一つ。
 - 倒立フォーク
 - Suzuki DRZ400SM
 - 生涯学習
 - Harvard extension school
 - アメリカのChild careの価格
-- 2-body problem
+- [2-body problem](https://en.wikipedia.org/wiki/Two-body_problem_(career))...夫婦などのパートナーがともに科学者としてのキャリアを形成する際、同じ場所（大学や研究所など）でともに職を得るが非常に難しい場合が往々にしてあり、これを2-body problemと呼ぶ。日本ではほとんど聞かないが、北米などでは夫婦でアプライできるPIポジションなどがある。
 - [制限酵素の自動販売機](http://www.dcscience.net/montreal-08/slides/sigworth-yale-restriction-vending-machine-120508.html)...写真のように酵素が自販機で買えるの羨ましい。
 - 谷中コーヒー
 - シングルオリジンコーヒー
@@ -61,7 +59,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [NEBのカタログ](https://www.neb-online.de/en/neb-download/)...素晴らしいリソース。NEBが売り出している酵素やそのスペックを眺めているだけで楽しいし、知らない酵素や何気なく使っているバッファーに詳しくなれるし、新しい実験を思いつくヒントになるかもしれない。
 
 ## Editorial notes
-- kyon
+- tadasu
 - ゲスト回も楽しく収録できてよかったのと二人以上で収録する際、オーディオのルーティングの知見が溜まってよかった (soh)。
 - colea
-- tadasu
+- kyon
