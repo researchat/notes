@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/14.mp3
 audio_file_size: 95756041
 date: 2019-06-14 9:00:00 +0900
-description: Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
+description: kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
 duration: "01:39:44"
 layout: article
 title: 14. TBA
@@ -61,7 +61,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [NEBのカタログ](https://www.neb-online.de/en/neb-download/)...素晴らしいリソース。NEBが売り出している酵素やそのスペックを眺めているだけで楽しいし、知らない酵素や何気なく使っているバッファーに詳しくなれるし、新しい実験を思いつくヒントになるかもしれない。
 
 ## Editorial notes
-- tadasu
+- kyon
 - ゲスト回も楽しく収録できてよかったのと二人以上で収録する際、オーディオのルーティングの知見が溜まってよかった (soh)。
 - colea
-- kyon
+- tadasu
