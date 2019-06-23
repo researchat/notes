@@ -25,7 +25,7 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [ハムスターゲノム](http://software.broadinstitute.org/allpaths-lg/blog/?p=654)... MIT (Broad institute) でシークエンス、アセンブルされたゲノム情報。結構高品質に繋がっているが、約20%がギャップ (N) であるため解析には向いていない。kyonは共同研究を通してゲノムを決め直している。
 - [CHO細胞](http://www.saibou.jp/service/pickup/cho-k1)...Chinese Hamster Ovary (CHO)細胞はタンパク質の発現などで頻繁に用いられる細胞株の一つ。
 - 倒立フォーク
-- SUZUKI DRZ400SM
+- [SUZUKI DRZ400SM](http://www.suzukicycles.com/Product%20Lines/Cycles/Products/DR-Z400/2019/DRZ400SM)
 - YAMAHA Virago250
 - [生涯学習](https://ja.wikipedia.org/wiki/%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92)
 - [Harvard extension school](https://www.extension.harvard.edu/)...  生涯学習向けのハーバードの講座。様々なレベルの授業が用意されている。多くの授業がオンラインで受けられる。
@@ -44,9 +44,10 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - piRNA ...昔はrasiRNA (Repeat associated small interfering RNA) と呼ばれていた。2001年にハエの生殖細胞でトランスポゾンをRNAサイレンシングする因子として最初に見つかった。[Double-stranded RNA-mediated silencing of genomic tandem repeats and transposable elements in the D. melanogaster germline. Current Biology 2001](https://www.sciencedirect.com/science/article/pii/S0960982201002998?via%3Dihub)
 - RNAサイレンシング ...小さなRNA (20-30塩基) とArgonauteタンパク質から成る複合体 (RISC) が中核となって起こる遺伝子発現制御機構
 - miRNA
-- トランスポゾン
-- ヘテロクロマチン
-- ヒストンのメチル化
+- [トランスポゾン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
+- [バーバラ・マクリントック](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88%E3%83%83%E3%82%AF)
+- [ヘテロクロマチン](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%86%E3%83%AD%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%81%E3%83%B3)
+- [ヒストンの修飾](http://ruo.mbl.co.jp/bio/product/epigenome/article/histone-modification.html) 
 - [Crystal Structure of Silkworm PIWI-Clade Argonaute Siwi Bound to piRNA. Cell 2016](https://www.cell.com/cell/fulltext/S0092-8674(16)31230-2)
 - ハエOSC細胞 (Ovarian Somatic Cells)[Saito et al., Nature 2009](https://www.nature.com/articles/nature08501)
 - [モノクローナル抗体 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%8A%E3%83%AB%E6%8A%97%E4%BD%93)
