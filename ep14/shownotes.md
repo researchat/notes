@@ -47,7 +47,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [Crystal Structure of Silkworm PIWI-Clade Argonaute Siwi Bound to piRNA. Cell 2016](https://www.cell.com/cell/fulltext/S0092-8674(16)31230-2)
 - ハエOSC細胞 (Ovarian Somatic Cells)[Saito et al., Nature 2009](https://www.nature.com/articles/nature08501)
 - [モノクローナル抗体 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%8A%E3%83%AB%E6%8A%97%E4%BD%93)
-- [ハイブリドーマ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%89%E3%83%BC%E3%83%9E)...Kyonはこのハイブリドーマ(細胞)を作ることによって、モノクローナル抗体を産生させ精製、実験に使用することができた。
+- [ハイブリドーマ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%89%E3%83%BC%E3%83%9E)...Kyonはこのハイブリドーマ(細胞)からモノクローナル抗体を産生させ、精製することで実験に使用することができた。
 - [免疫沈降法](https://ja.wikipedia.org/wiki/%E5%85%8D%E7%96%AB%E6%B2%88%E9%99%8D%E6%B3%95)
 - フリーザー第二形態
 - Phase transition
