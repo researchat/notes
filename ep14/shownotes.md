@@ -36,6 +36,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [藤本健二](https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9C%AC%E5%81%A5%E4%BA%8C)...北朝鮮の最高指導者・金正日の元・専属料理人。今はピョンヤンに日本料理屋があるらしい...
 - [フィッシャーの正確確率検定](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%81%AE%E6%AD%A3%E7%A2%BA%E7%A2%BA%E7%8E%87%E6%A4%9C%E5%AE%9A)
 - [ゴールデンハムスター](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC)
+- [ジャンガリアン](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AC%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC)
 - [ハム太郎](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1))
 - 哺乳類のPIWIタンパク質
 - PIWI ...ちなみにPiwi遺伝子を人工的に欠損させると不妊の表現型を示す。
