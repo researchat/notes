@@ -26,7 +26,7 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [CHO細胞](http://www.saibou.jp/service/pickup/cho-k1)...Chinese Hamster Ovary (CHO)細胞はタンパク質の発現などで頻繁に用いられる細胞株の一つ。
 - 倒立フォーク
 - [SUZUKI DRZ400SM](http://www.suzukicycles.com/Product%20Lines/Cycles/Products/DR-Z400/2019/DRZ400SM)
-- YAMAHA Virago250
+- [ヤマハ・ビラーゴ/YAMAHA Virago250](https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8F%E3%83%BB%E3%83%93%E3%83%A9%E3%83%BC%E3%82%B4)
 - [生涯学習](https://ja.wikipedia.org/wiki/%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92)
 - [Harvard extension school](https://www.extension.harvard.edu/)...  生涯学習向けのハーバードの講座。様々なレベルの授業が用意されている。多くの授業がオンラインで受けられる。
 - [アメリカのChild careの価格](https://www.blog.crn.or.jp/report/09/75.html)... これはボストン周辺の価格であり、他の都市では異なる。例えば2-3歳児については週5日、フルタイムで預けると月$2,135、23万円程度である。
