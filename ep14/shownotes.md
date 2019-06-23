@@ -35,7 +35,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - トランスポゾン
 - ヘテロクロマチン
 - ヒストンのメチル化
-- PIWIの立体構造解析論文（西増さんのやつ？）
+- [Crystal Structure of Silkworm PIWI-Clade Argonaute Siwi Bound to piRNA. Cell 2016](https://www.cell.com/cell/fulltext/S0092-8674(16)31230-2)
 - ハエOSC細胞
 - モノクローナル抗体
 - ハイブリドーマ
