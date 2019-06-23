@@ -38,8 +38,9 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - ハム太郎
 - キンクマ
 - 哺乳類のPIWIタンパク質
-- piRNA
-- RNAサイレンシング
+- PIWI ...ちなみにPiwi遺伝子を人工的に欠損させると不妊の表現型を示す。
+- piRNA ...昔はrasiRNAと呼ばれていた。2001年にハエの生殖細胞でトランスポゾンをRNAサイレンシングする因子として最初に見つかった。[Double-stranded RNA-mediated silencing of genomic tandem repeats and transposable elements in the D. melanogaster germline. Current Biology 2001](https://www.sciencedirect.com/science/article/pii/S0960982201002998?via%3Dihub)
+- RNAサイレンシング ...小さなRNA (20-30塩基) とArgonauteタンパク質から成る複合体 (RISC) が中核となって起こる遺伝子発現制御機構
 - miRNA
 - トランスポゾン
 - ヘテロクロマチン
