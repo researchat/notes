@@ -27,7 +27,7 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - Suzuki DRZ400SM
 - 生涯学習
 - Harvard extension school
-- アメリカのChild careの価格
+- [アメリカのChild careの価格](https://www.blog.crn.or.jp/report/09/75.html)... これはボストンの価格であり、他の都市では異なる。例えば2-3歳児については週5日、フルタイムで預けると月$2,135、23万円程度である。
 - [2-body problem](https://en.wikipedia.org/wiki/Two-body_problem_(career))...夫婦などのパートナーがともに科学者としてのキャリアを形成する際、同じ場所（大学や研究所など）でともに職を得るが非常に難しい場合が往々にしてあり、これを2-body problemと呼ぶ。日本ではほとんど聞かないが、北米などでは夫婦でアプライできるPIポジションなどがある。
 - [制限酵素の自動販売機](http://www.dcscience.net/montreal-08/slides/sigworth-yale-restriction-vending-machine-120508.html)...写真のように酵素が自販機で買えるの羨ましい。
 - 谷中コーヒー
