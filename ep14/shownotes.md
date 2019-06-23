@@ -1,3 +1,18 @@
+---
+actor_ids:
+  - tadasu
+  - soh
+  - coela
+  - kyon
+audio_file_path: /audio/14.mp3
+audio_file_size: 95756041
+date: 2019-06-14 9:00:00 +0900
+description: Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
+duration: "01:39:44"
+layout: article
+title: 14. TBA
+---
+
 
 ## Title (仮)
 - The hart-warming beans
@@ -45,7 +60,8 @@ Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - 性周期、不完全周期
 - ウェスタンブロット法
 - 今日ヤバいやつにあった
-- Eric Landerの授業
+- [Constructing and Screening a Recombinant DNA Library. MIT 7.01SC Fundamentals of Biology. Eric Lander (Youtube)](https://www.youtube.com/watch?v=BIIWlZqWxKg)... Eric Lander先生による超楽しいベーシックな分子生物学の授業。板書の美しさ、英語の聞き取りやすさ、ジョーク、小さな実験からライブラリを用いた大規模実験までを一気通貫で説明するストーリー、どれをとっても素晴らしいのでぜひ見てほしいです。
+- [Basic Mechanisms of Cloning, excerpt 1, MIT 7.01SC Fundamentals of Biology.　Eric Lander (Youtube)](https://www.youtube.com/watch?v=CdAgzk5tQhs)... こちらはクローニングの基礎編。制限酵素やライゲースの説明。おなじみのNEBのカタログも登場する。
 - NEBのカタログ
 
 
