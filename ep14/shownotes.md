@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/14.mp3
 audio_file_size: 95756041
 date: 2019-06-14 9:00:00 +0900
-description: Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
+description: kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
 duration: "01:39:44"
 layout: article
 title: 14. TBA
@@ -18,7 +18,7 @@ title: 14. TBA
 - Don't use AI
 
 ## Description
-Kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
+kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
 
 ## Show notes
 - [ハムスターゲノム](http://software.broadinstitute.org/allpaths-lg/blog/?p=654)... MIT (Broad institute) でシークエンス、アセンブルされたゲノム情報。結構高品質に繋がっているが、約20%がギャップ (N) であるため解析には向いていない。kyonは共同研究を通してゲノムを決め直している。
