@@ -51,8 +51,9 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [Crystal Structure of Silkworm PIWI-Clade Argonaute Siwi Bound to piRNA. Cell 2016](https://www.cell.com/cell/fulltext/S0092-8674(16)31230-2)
 - ハエOSC細胞 (Ovarian Somatic Cells)[Saito et al., Nature 2009](https://www.nature.com/articles/nature08501)
 - [モノクローナル抗体 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8E%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%8A%E3%83%AB%E6%8A%97%E4%BD%93)
-- [ハイブリドーマ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%89%E3%83%BC%E3%83%9E)...Kyonはこのハイブリドーマ(細胞)からモノクローナル抗体を産生させ、精製することで実験に使用することができた。
+- [ハイブリドーマ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%96%E3%83%AA%E3%83%89%E3%83%BC%E3%83%9E)...kyonはこのハイブリドーマ(細胞)からモノクローナル抗体を産生させ、精製することで実験に使用することができた。
 - [免疫沈降法](https://ja.wikipedia.org/wiki/%E5%85%8D%E7%96%AB%E6%B2%88%E9%99%8D%E6%B3%95)
+- [イエロールーム](https://tecdlab.com/2017/06/26/dictionary-%E3%82%A4%E3%82%A8%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0/)
 - [フリーザ](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B6)
 - [Liquid-Liquid Phase Separation in Biology](https://www.annualreviews.org/doi/abs/10.1146/annurev-cellbio-100913-013325)... 最近流行りの細胞内におけるphase separation (相分離)について
 - [不完全性周期](https://guides.lib.kyushu-u.ac.jp/c.php?g=775132&p=5558113) ...マウスは４～５日の短い性周期をもつため不完全性周期動物に分類されます。一方、ヒトは３～４週の長い周期のため完全性周期動物に分類されます。ハムスターは4日です。
