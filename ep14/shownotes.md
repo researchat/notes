@@ -14,7 +14,7 @@ title: 14. TBA
 ---
 
 ## Title (仮)
-- The heart-warming beans
+- The heartwarming beans
 - Don't use AI
 - Hamtaro also has Piwi proteins
 
