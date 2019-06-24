@@ -17,7 +17,7 @@ title: 14. TBA
 - The heartwarming beans
 - Don't use AI
 - Hamtaro also has Piwi proteins
-- Popte-"Piwi"-c
+- Popte-"piwi"-c
 
 ## Show notes
 - [The ALLPATHS-LG assembly of Golden Hamster (Mesocricetus auratus) (ハムスターゲノム)](http://software.broadinstitute.org/allpaths-lg/blog/?p=654)... MIT (Broad institute) でシークエンス、アセンブルされたゲノム情報。結構高品質に繋がっているが、約20%がギャップ (N) であるため解析には向いていない。kyonは共同研究を通してゲノムを決め直している。
