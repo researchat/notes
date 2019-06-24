@@ -41,7 +41,8 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [ハム太郎](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1))
 - 哺乳類のPIWIタンパク質
 - PIWI ...生殖細胞特異的に発現し、piRNAとpiRISC複合体を形成してRNAサイレンシングに寄与する。主な標的はトランスポゾン。ちなみにPiwi遺伝子を人工的に欠損させると不妊の表現型を示す。
-- piRNA ...昔はrasiRNA (Repeat associated small interfering RNA) と呼ばれていた。2001年にハエの生殖細胞でトランスポゾンをRNAサイレンシングする因子として最初に見つかった。[Double-stranded RNA-mediated silencing of genomic tandem repeats and transposable elements in the D. melanogaster germline. Current Biology 2001](https://www.sciencedirect.com/science/article/pii/S0960982201002998?via%3Dihub)
+- piRNA ...昔はrasiRNA (Repeat associated small interfering RNA) と呼ばれていた。2001年にハエの生殖細胞でトランスポゾンをRNAサイレンシングする因子として最初に見つかった。
+- [Double-stranded RNA-mediated silencing of genomic tandem repeats and transposable elements in the D. melanogaster germline. Current Biology 2001](https://www.sciencedirect.com/science/article/pii/S0960982201002998?via%3Dihub)
 - RNAサイレンシング ...小さなRNA (20-30塩基) とArgonauteタンパク質から成る複合体 (RISC) が中核となって起こる遺伝子発現制御機構
 - [PIWI-Interacting RNA: Its Biogenesis and Functions. Annual Review of Biochemistry 2015](https://www.annualreviews.org/doi/full/10.1146/annurev-biochem-060614-034258)
 - [miRNA](https://ja.wikipedia.org/wiki/MiRNA)
