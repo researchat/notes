@@ -40,10 +40,11 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [ジャンガリアン](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AC%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC)
 - [ハム太郎](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1))
 - 哺乳類のPIWIタンパク質
-- PIWI ...ちなみにPiwi遺伝子を人工的に欠損させると不妊の表現型を示す。
+- PIWI ...生殖細胞特異的に発現し、piRNAとpiRISC複合体を形成してRNAサイレンシングに寄与する。主な標的はトランスポゾン。ちなみにPiwi遺伝子を人工的に欠損させると不妊の表現型を示す。
 - piRNA ...昔はrasiRNA (Repeat associated small interfering RNA) と呼ばれていた。2001年にハエの生殖細胞でトランスポゾンをRNAサイレンシングする因子として最初に見つかった。[Double-stranded RNA-mediated silencing of genomic tandem repeats and transposable elements in the D. melanogaster germline. Current Biology 2001](https://www.sciencedirect.com/science/article/pii/S0960982201002998?via%3Dihub)
 - RNAサイレンシング ...小さなRNA (20-30塩基) とArgonauteタンパク質から成る複合体 (RISC) が中核となって起こる遺伝子発現制御機構
-- miRNA
+- [PIWI-Interacting RNA: Its Biogenesis and Functions. Annual Review of Biochemistry 2015](https://www.annualreviews.org/doi/full/10.1146/annurev-biochem-060614-034258)
+- [miRNA](https://ja.wikipedia.org/wiki/MiRNA)
 - [トランスポゾン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
 - [バーバラ・マクリントック](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88%E3%83%83%E3%82%AF)... トランスポゾンの発見で1983年にノーベル賞受賞。染色体・遺伝学研究における女性研究者としての草分け的存在。
 - [ヘテロクロマチン](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%86%E3%83%AD%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%81%E3%83%B3)
@@ -68,6 +69,6 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 ## Editorial notes
 - お声掛けいただいてありがとうございました。初めてのゲスト出演、しかもトップバッター。とっても嬉しかったです！身構えてカンペ作ったけど、皆さんが話題を広げてくれて助かりました。ちなみにちょうど来週、学位審査の中間発表があるのでとても良い練習になりましたｗ (kyon)
 - ゲスト回も楽しく収録できてよかったのと二人以上で収録する際、オーディオのルーティングの知見が溜まってよかった (soh)。
-- colea
+- coela
 - 初期ドラえもんは尻尾を引っ張ると透明になっていたことを思い出しました。(tadasu)
 
