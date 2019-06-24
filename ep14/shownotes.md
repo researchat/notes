@@ -47,7 +47,7 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [PIWI-Interacting RNA: Its Biogenesis and Functions. Annual Review of Biochemistry 2015](https://www.annualreviews.org/doi/full/10.1146/annurev-biochem-060614-034258)
 - [miRNA](https://ja.wikipedia.org/wiki/MiRNA)
 - [トランスポゾン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
-- [バーバラ・マクリントック](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88%E3%83%83%E3%82%AF)... トランスポゾンの発見で1983年にノーベル賞受賞。染色体・遺伝学研究における女性研究者としての草分け的存在。
+- [バーバラ・マクリントック](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88%E3%83%83%E3%82%AF)... トランスポゾンの発見で1983年にノーベル賞受賞。染色体・遺伝学分野における女性研究者の草分け的存在。
 - [ヘテロクロマチン](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%86%E3%83%AD%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%81%E3%83%B3)
 - [ヒストンの修飾](http://ruo.mbl.co.jp/bio/product/epigenome/article/histone-modification.html) 
 - [Crystal Structure of Silkworm PIWI-Clade Argonaute Siwi Bound to piRNA. Cell 2016](https://www.cell.com/cell/fulltext/S0092-8674(16)31230-2)
@@ -71,5 +71,5 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - お声掛けいただいてありがとうございました。初めてのゲスト出演、しかもトップバッター。とっても嬉しかったです！身構えてカンペ作ったけど、皆さんが話題を広げてくれて助かりました。ちなみにちょうど来週、学位審査の中間発表があるのでとても良い練習になりましたｗ (kyon)
 - ゲスト回も楽しく収録できてよかったのと二人以上で収録する際、オーディオのルーティングの知見が溜まってよかった (soh)。
 - coela
-- 初期ドラえもんは尻尾を引っ張ると透明になっていたことを思い出しました。(tadasu)
+- 初期ドラえもんは尻尾を引っ張ると透明になっていたことを思い出しました。そしてcoelaさんがいきなりマウスのシメ方を話し始めて本当にサイコパスだと思いました(tadasu)
 
