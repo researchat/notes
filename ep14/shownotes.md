@@ -28,9 +28,9 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [SUZUKI DRZ400SM](http://www.suzukicycles.com/Product%20Lines/Cycles/Products/DR-Z400/2019/DRZ400SM)
 - [ヤマハ・ビラーゴ/YAMAHA Virago250](https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8F%E3%83%BB%E3%83%93%E3%83%A9%E3%83%BC%E3%82%B4)
 - [生涯学習](https://ja.wikipedia.org/wiki/%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92)
-- [Harvard extension school](https://www.extension.harvard.edu/)...  生涯学習向けのハーバードの講座。様々なレベルの授業が用意されている。多くの授業がオンラインで受けられる。
-- [アメリカのChild careの価格](https://www.blog.crn.or.jp/report/09/75.html)... これはボストン周辺の価格であり、他の都市では異なる。例えば2-3歳児については週5日、フルタイムで預けると月$2,135、23万円程度である。
-- [2-body problem](https://en.wikipedia.org/wiki/Two-body_problem_(career))...夫婦などのパートナーがともに科学者としてのキャリアを形成する際、同じ場所（大学や研究所など）でともに職を得るが非常に難しい場合が往々にしてあり、これを2-body problemと呼ぶ。日本ではほとんど聞かないが、北米などでは夫婦でアプライできるPIポジションなどがある。
+- [Harvard extension school](https://www.extension.harvard.edu/)... 生涯学習向けのハーバードの講座。様々なレベルの授業が用意されている。多くの授業がオンラインで受けられる。
+- [アメリカのChild careの価格](https://www.blog.crn.or.jp/report/09/75.html)...これはボストン周辺の価格であり、他の都市では異なる。例えば2-3歳児については週5日、フルタイムで預けると月$2,135、23万円程度である。
+- [2-body problem](https://en.wikipedia.org/wiki/Two-body_problem_(career))...夫婦などのパートナーがともに科学者としてのキャリアを形成する際、同じ場所（大学や研究所など）でともに職を得ることが非常に難しい場合が往々にしてあり、これを2-body problemと呼ぶ。日本ではほとんど聞かないが、北米などでは夫婦でアプライできるPIポジションなどがある。
 - [制限酵素の自動販売機](http://www.dcscience.net/montreal-08/slides/sigworth-yale-restriction-vending-machine-120508.html)...写真のように酵素が自販機で買えるの羨ましい。
 - [やなか珈琲](https://www.yanaka-coffeeten.com/)...今日はここの[エチオピア シダモ・アラングァディ](https://www.yanaka-coffeeten.com/straight.htm)の浅煎り (ミディアムロースト) と深煎り (フレンチロースト) の豆を頂いた。次回にレビューします。
 - [コーヒーの保存法](https://www.thecoffeeshop.jp/theshortissue/how-to-save-coffee-beans-4/)
@@ -39,11 +39,9 @@ kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制�
 - [ゴールデンハムスター](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC)... ハム太郎はゴールデンハムスター。
 - [ジャンガリアン](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AC%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8F%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%BC)
 - [ハム太郎](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%A3%E3%81%A8%E3%81%93%E3%83%8F%E3%83%A0%E5%A4%AA%E9%83%8E_(%E3%82%A2%E3%83%8B%E3%83%A1))
-- 哺乳類のPIWIタンパク質
-- PIWI ...生殖細胞特異的に発現し、piRNAとpiRISC複合体を形成してRNAサイレンシングに寄与する。主な標的はトランスポゾン。ちなみにPiwi遺伝子を人工的に欠損させると不妊の表現型を示す。
-- piRNA ...昔はrasiRNA (Repeat associated small interfering RNA) と呼ばれていた。2001年にハエの生殖細胞でトランスポゾンをRNAサイレンシングする因子として最初に見つかった。
-- [Double-stranded RNA-mediated silencing of genomic tandem repeats and transposable elements in the D. melanogaster germline. Current Biology 2001](https://www.sciencedirect.com/science/article/pii/S0960982201002998?via%3Dihub)
-- RNAサイレンシング ...小さなRNA (20-30塩基) とArgonauteタンパク質から成る複合体 (RISC) が中核となって起こる遺伝子発現制御機構
+- PIWIタンパク質...生殖細胞特異的に発現し、piRNAとpiRISC複合体を形成してRNAサイレンシングに寄与する。主な標的はトランスポゾン。ちなみにPiwi遺伝子を人工的に欠損させると不妊の表現型を示す。
+- PiRNA...昔はrasiRNA (Repeat associated small interfering RNA) と呼ばれていた。2001年にハエの生殖細胞でトランスポゾンをRNAサイレンシングする因子として最初に見つかった。論文: [Double-stranded RNA-mediated silencing of genomic tandem repeats and transposable elements in the D. melanogaster germline. Current Biology 2001](https://www.sciencedirect.com/science/article/pii/S0960982201002998?via%3Dihub)
+- RNAサイレンシングとは...小さなRNA (20-30塩基) とArgonauteタンパク質から成る複合体 (RISC) が中核となって起こる遺伝子発現制御機構
 - [PIWI-Interacting RNA: Its Biogenesis and Functions. Annual Review of Biochemistry 2015](https://www.annualreviews.org/doi/full/10.1146/annurev-biochem-060614-034258)
 - [miRNA](https://ja.wikipedia.org/wiki/MiRNA)
 - [トランスポゾン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
