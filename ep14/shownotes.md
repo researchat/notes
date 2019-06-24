@@ -6,7 +6,7 @@ actor_ids:
   - kyon
 audio_file_path: /audio/14.mp3
 audio_file_size: 95756041
-date: 2019-06-14 9:00:00 +0900
+date: 2019-06-25 9:00:00 +0900
 description: kyonさんをゲストに迎え、生涯学習、トランスポゾンを抑制するpiRNA研究の最前線の動向、ハムスターなど動物を用いた研究の醍醐味とその難しさ、コーヒー豆の焙煎、モノクローナル抗体の自作、美しい実験結果を求める姿勢などについて話しました。（出演：tadasu、soh、coela、kyon）
 duration: "01:39:44"
 layout: article
