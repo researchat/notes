@@ -19,7 +19,7 @@ title: 14. TBA
 - Hamtaro also has Piwi proteins
 
 ## Show notes
-- [ハムスターゲノム](http://software.broadinstitute.org/allpaths-lg/blog/?p=654)... MIT (Broad institute) でシークエンス、アセンブルされたゲノム情報。結構高品質に繋がっているが、約20%がギャップ (N) であるため解析には向いていない。kyonは共同研究を通してゲノムを決め直している。
+- [The ALLPATHS-LG assembly of Golden Hamster (Mesocricetus auratus) (ハムスターゲノム)](http://software.broadinstitute.org/allpaths-lg/blog/?p=654)... MIT (Broad institute) でシークエンス、アセンブルされたゲノム情報。結構高品質に繋がっているが、約20%がギャップ (N) であるため解析には向いていない。kyonは共同研究を通してゲノムを決め直している。
 - [CHO細胞](http://www.saibou.jp/service/pickup/cho-k1)...Chinese Hamster Ovary (CHO)細胞はタンパク質の発現などで頻繁に用いられる細胞株の一つ。
 - [SUZUKI DRZ400SM](http://www.suzukicycles.com/Product%20Lines/Cycles/Products/DR-Z400/2019/DRZ400SM)
 - [ヤマハ・ビラーゴ/YAMAHA Virago250](https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%9E%E3%83%8F%E3%83%BB%E3%83%93%E3%83%A9%E3%83%BC%E3%82%B4)
