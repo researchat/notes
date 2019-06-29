@@ -6,3 +6,6 @@ Kyonさんをゲストに迎え、競馬の面白さ、サラブレッドの系�
 
 
 ## Show notes
+- [直島 地中美術館](http://benesse-artsite.jp/art/chichu.html)...tadasuとsohお気に入りのモネの部屋があり、自然光の下でモネの睡蓮を鑑賞することができる。このポッドキャストのウェブサイトのヘッダ画像は、sohが以前に撮ったモネの部屋の床である。直島にはほかにも多くの美術館があり、瀬戸内に囲まれた美しい島の一つである。
+- [ベネッセアートサイト直島](http://benesse-artsite.jp/)
+- [瀬戸内国際芸術祭2019](https://setouchi-artfest.jp/)
