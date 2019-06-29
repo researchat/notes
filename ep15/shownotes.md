@@ -25,7 +25,7 @@ kyonさんをゲストに迎え、競馬の楽しみ方、サラブレッドの�
 - [JRAxポプテピピック](http://jra.jp/news/201904/042403.html)
 - [三大始祖](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A4%A7%E5%A7%8B%E7%A5%96)
 - サラブレッドの全ゲノムシーケンス
-- [馬ゲノム研究の現状と展望](http://www.b-t-c.or.jp/btc_p300/btcn/btcn64/btcn064-02.pdf
+- [馬ゲノム研究の現状と展望](http://www.b-t-c.or.jp/btc_p300/btcn/btcn64/btcn064-02.pdf)
 - [馬ゲノムプロジェクト](http://www.uky.edu/Ag/Horsemap/)
 - SNP解析
 - Broad Instituteにおける競馬
