@@ -1,7 +1,6 @@
 ## Title
 - Fighting against myself (仮)
-- Genetics of thoroughbred
-- Genetics of Racehorses
+- Genetics of Thoroughbred
 
 ## Description
 kyonさんをゲストに迎え、競馬の楽しみ方、サラブレッドの血統と遺伝学、バレエの魅力、サイエンスと芸術の共通点、直島・地中美術館のモネの部屋などについて話しました。
