@@ -10,15 +10,14 @@ kyonさんをゲストに迎え、競馬の楽しみ方、サラブレッドの�
 - [直島 地中美術館](http://benesse-artsite.jp/art/chichu.html)...tadasuとsohお気に入りのモネの部屋があり、自然光の下でモネの睡蓮を鑑賞することができる。このポッドキャストのウェブサイトのヘッダ画像は、sohが以前に撮ったモネの部屋の床である。直島にはほかにも多くの美術館がある。瀬戸内に囲まれた美しい島の一つであり、高松港などからフェリーで行くことができる。
 - [ベネッセアートサイト直島](http://benesse-artsite.jp/)
 - [瀬戸内国際芸術祭2019](https://setouchi-artfest.jp/)
-- [ミニ踏切カンカン特集](https://www.youtube.com/watch?v=W5moIoAZ38I)...遊園地にある小さな踏切ばかりを集めたYouTube。新しい世界が広がっている...
-- 北海道日高町
-- サラブレッド
-- 牧場めぐり
-- JRA中央競馬場
-- JRA地方競馬
-- ばんえい競馬
-- 馬の飛行機
-- 馬のパスポート
+- [日高町(北海道)](https://ja.wikipedia.org/wiki/%E6%97%A5%E9%AB%98%E7%94%BA_(%E5%8C%97%E6%B5%B7%E9%81%93))
+- [サラブレッド](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%96%E3%83%AC%E3%83%83%E3%83%89)
+- [牧場見学ガイド](https://uma-furusato.com/guide/)
+- [中央競馬](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E7%AB%B6%E9%A6%AC)
+- [JRA地方競馬の予定](http://www.keiba.go.jp/ipat/yotei.html)
+- [ばんえい競走](https://ja.wikipedia.org/wiki/%E3%81%B0%E3%82%93%E3%81%88%E3%81%84%E7%AB%B6%E8%B5%B0)
+- [飛行機で馬が運ばれるときは…中の様子はこんな感じ](http://labaq.com/archives/51908050.html)
+- [馬のパスポート](https://ameblo.jp/dakkutchyaan/entry-12068147450.html)
 - 香港競馬
 - シンガポール競馬
 - ドバイ競馬
@@ -76,6 +75,7 @@ kyonさんをゲストに迎え、競馬の楽しみ方、サラブレッドの�
 - 栗林公園
 - 圧倒的不審者の極み
 - カオストレイン
+- [ミニ踏切カンカン特集](https://www.youtube.com/watch?v=W5moIoAZ38I)...遊園地にある小さな踏切ばかりを集めたYouTube。新しい世界が広がっている...
 
 ## Editorial notes
 - (kyon)
