@@ -76,3 +76,9 @@ kyonさんをゲストに迎え、競馬の楽しみ方、サラブレッドの�
 - 栗林公園
 - 圧倒的不審者の極み
 - カオストレイン
+
+## Editorial notes
+- (kyon)
+- (soh)
+- (coela)
+- (tadasu)
