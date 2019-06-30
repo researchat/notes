@@ -18,14 +18,15 @@ title: 15. TBA
 - Genetics of Thoroughbred
 
 ## Show notes
-- [日高町 (北海道)](https://www.town.hidaka.hokkaido.jp/)
 - [サラブレッド (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%96%E3%83%AC%E3%83%83%E3%83%89)
+- [馬のふるさと、日高｜初めての方におすすめの観光スポット10選](https://hokkaido-labo.com/area/tokachi/hidaka-sightseeing) ... kyonは毎年、札幌から日高で牧場めぐりや乗馬や温泉→襟裳岬→帯広でばんえい競馬をドライブしながら楽しんでいる
+- [にいかっぷホロシリ乗馬クラブ](http://horoshiri.jp/) ...kyonは毎年ここでサラブレッドに乗る
 - [牧場見学ガイド (競走馬のふるさと案内所)](https://uma-furusato.com/guide/)
 - [中央競馬](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E7%AB%B6%E9%A6%AC)
-- [JRA地方競馬の予定](http://www.keiba.go.jp/ipat/yotei.html)
+- [地方競馬の予定](http://www.keiba.go.jp/ipat/yotei.html)
 - [ばんえい競走](https://banei-keiba.or.jp/)
 - [飛行機で馬が運ばれるときは...中の様子はこんな感じ (らばQ)](http://labaq.com/archives/51908050.html)
-- [馬のパスポート](https://ameblo.jp/dakkutchyaan/entry-12068147450.html)
+- [馬のパスポート](https://umabi.jp/news/4)
 - [香港の競馬 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E7%AB%B6%E9%A6%AC)
 - [シンガポールの競馬 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%81%AE%E7%AB%B6%E9%A6%AC)
 - [ドバイワールドカップ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97)
