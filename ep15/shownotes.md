@@ -38,7 +38,7 @@ title: 15. TBA
 - [菊次郎の夏](https://www.amazon.co.jp/%E8%8F%8A%E6%AC%A1%E9%83%8E%E3%81%AE%E5%A4%8F-DVD-%E3%83%93%E3%83%BC%E3%83%88%E3%81%9F%E3%81%91%E3%81%97/dp/B00005EDS4)
 - [UMAJO (ウマジョ)](http://umajo.jra.jp/)
 - [ガンダムとJRAのコラボ](https://dengekionline.com/articles/3434/)
-- [ゴッドガンダム](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0)
+- [ゴッドガンダム](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0)…機動武闘伝Gガンダムには風雲再起という馬形の「モビルホース」が出てくる。もちろん操縦は馬がしている。
 - [JRAxポプテピピック](http://jra.jp/news/201904/042403.html)
 - [三大始祖](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A4%A7%E5%A7%8B%E7%A5%96)
 - サラブレッドの全ゲノムシーケンス...論文：[Genome sequence, comparative analysis, and population genetics of the domestic horse. Science 2009](http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=19892987)
