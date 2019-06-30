@@ -37,8 +37,8 @@ title: 15. TBA
 - [ドバイワールドカップ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97)
 - [菊次郎の夏](https://www.amazon.co.jp/%E8%8F%8A%E6%AC%A1%E9%83%8E%E3%81%AE%E5%A4%8F-DVD-%E3%83%93%E3%83%BC%E3%83%88%E3%81%9F%E3%81%91%E3%81%97/dp/B00005EDS4)
 - [UMAJO (ウマジョ)](http://umajo.jra.jp/)
-- [ガンダムとJRAのコラボ](https://dengekionline.com/articles/3434/)
-- [ゴッドガンダム](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0)…機動武闘伝Gガンダムには風雲再起という馬形の「モビルホース」が出てくる。もちろん操縦は馬がしている。
+- [ガンダムとJRAのコラボ](https://dengekionline.com/articles/3434/)...coelaはガンダムエクシアが馬に乗ってる絵が一番シュールで好き。
+- [ゴッドガンダム](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0)…機動武闘伝Gガンダムには風雲再起という「モビルホース」が出てくる。もちろん操縦は馬がしている。
 - [JRAxポプテピピック](http://jra.jp/news/201904/042403.html)
 - [三大始祖](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A4%A7%E5%A7%8B%E7%A5%96)
 - サラブレッドの全ゲノムシーケンス...論文：[Genome sequence, comparative analysis, and population genetics of the domestic horse. Science 2009](http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=19892987)
@@ -81,15 +81,15 @@ title: 15. TBA
 - [ベネッセアートサイト直島](http://benesse-artsite.jp/)
 - [瀬戸内国際芸術祭2019](https://setouchi-artfest.jp/)
 - [クロード・モネ](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A2%E3%83%8D)
-- [オランジュリー美術館](https://www.musee-orangerie.fr/)...coelaおすすめの美術館。パリにある。
+- [オランジュリー美術館](https://www.musee-orangerie.fr/)...coelaおすすめの美術館。パリにある。モネの間は必見。
 - [イサム・ノグチ庭園美術館](http://www.isamunoguchi.or.jp/)...tadasuおすすめの高松の美術館。書簡のやり取りが必要とのこと。
 - [栗林公園](https://www.my-kagawa.jp/ritsuringarden)...高松にある大名庭園。
 - [圧倒的不審者の極み!(Youtubeチャンネル)](https://www.youtube.com/channel/UCg3qsVzHeUt5_cPpcRtoaJQ)...様々なものを溶かして包丁を作るYoutuber...
 - [カオストレイン(Youtubeチャンネル)](https://www.youtube.com/watch?v=lyQVJZ8oTsU)...名古屋の名鉄に徹底的にフォーカスしたYoutubeチャンネル
-- [ミニ踏切カンカン特集(Youtueb)](https://www.youtube.com/watch?v=W5moIoAZ38I)...遊園地にある小さな踏切ばかりを集めたYouTube。新しい世界が広がっている...
+- [ミニ踏切カンカン特集(Youtueチャンネル)](https://www.youtube.com/watch?v=W5moIoAZ38I)...遊園地にある小さな踏切ばかりを集めたYouTube。新しい世界が広がっている...
 
 ## Editorial notes
 - (kyon)
 - (soh)
-- (coela)
+- 三大始祖とかいう名前、ファンタジーでいたら最強クラスのやつ(coela)
 - 天馬行空(tadasu)
