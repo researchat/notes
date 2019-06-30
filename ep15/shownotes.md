@@ -35,7 +35,7 @@ title: 15. TBA
 - [香港の競馬 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E7%AB%B6%E9%A6%AC)
 - [シンガポールの競馬 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%81%AE%E7%AB%B6%E9%A6%AC)
 - [ドバイワールドカップ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97)
-- [菊次郎の夏](https://www.amazon.co.jp/%E8%8F%8A%E6%AC%A1%E9%83%8E%E3%81%AE%E5%A4%8F-DVD-%E3%83%93%E3%83%BC%E3%83%88%E3%81%9F%E3%81%91%E3%81%97/dp/B00005EDS4)
+- [菊次郎の夏(Amazon)](https://www.amazon.co.jp/%E8%8F%8A%E6%AC%A1%E9%83%8E%E3%81%AE%E5%A4%8F-DVD-%E3%83%93%E3%83%BC%E3%83%88%E3%81%9F%E3%81%91%E3%81%97/dp/B00005EDS4/?tag=coela-22)
 - [UMAJO (ウマジョ)](http://umajo.jra.jp/)
 - [ガンダムとJRAのコラボ](https://dengekionline.com/articles/3434/)...coelaはガンダムエクシアが馬に乗ってる絵が一番シュールで好き。
 - [ゴッドガンダム](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0)…機動武闘伝Gガンダムには風雲再起という「モビルホース」が出てくる。もちろん操縦は馬がしている。
@@ -51,9 +51,9 @@ title: 15. TBA
 - [ISAG](https://www.isag.us/index.asp)...The International Society and the International Foundation for Animal Genetics(学会)
 - [日本ウマ科学会](http://jses.equinst.go.jp/)...馬の染色体は2n=64である。
 - [豚の中で臓器作る](https://jp.techcrunch.com/2017/08/11/20170810crisprd-pigs-offer-hope-for-the-human-organ-transplant-shortage/)
-- [ラバ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%90)...馬とロバの掛け合わせ。
+- [ラバ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%90)...馬とロバの掛け合わせ(オスのロバとメスのウマ)。
 - [ケッテイ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%83%E3%83%86%E3%82%A4)...オスのウマとメスのロバの掛け合わせ。
-- [不稔性](https://kotobank.jp/word/%E4%B8%8D%E7%A8%94%E6%80%A7-125575)
+- [不稔性](https://kotobank.jp/word/%E4%B8%8D%E7%A8%94%E6%80%A7-125575)... 植物の場合は不稔性、動物の場合は不妊性ということが多い。
 - [雑種(wikipedia)](https://ja.wikipedia.org/wiki/%E9%9B%91%E7%A8%AE)
 - [ライガー (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%AC%E3%83%BC)...オスのライオンとメスのトラから生まれた掛け合わせ。
 - [ゾース (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%BE%E3%83%BC%E3%82%B9)...シマウマとウマから生まれた掛け合わせ。
@@ -65,7 +65,7 @@ title: 15. TBA
 - [転生したらSpreadsheetだった件 (なろう小説)](https://kakuyomu.jp/works/1177354054887646455)
 - [ハーバー・ボッシュ法 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%BB%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5%E6%B3%95)...効率的なアンモニアの精製方法。1906年、フリッツ・ハーバーとカール・ボッシュが作ったのでこの名前になった。
 - [空気からパンを作る](http://www.tsukuba-sci.com/?column01=%E7%A9%BA%E6%B0%97%E3%81%8B%E3%82%89%E3%83%91%E3%83%B3%E3%82%92%E4%BD%9C%E3%82%8B%E3%80%80%EF%BD%9E%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E3%81%AE%E8%A9%B1%EF%BD%9E)
-- [JIN-仁- (マンガ)](https://www.amazon.co.jp/JIN%E2%80%95%E4%BB%81%E2%80%95-1-%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E6%9D%91%E4%B8%8A%E3%82%82%E3%81%A8%E3%81%8B-ebook/dp/B009GZIRIC)...江戸時代に現代の生物学の知識だけを持ち込んだら何ができるか？を考えさせられるきっかけとなった作品。
+- [JIN-仁- (マンガ)](https://www.amazon.co.jp/JIN%E2%80%95%E4%BB%81%E2%80%95-1-%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E6%9D%91%E4%B8%8A%E3%82%82%E3%81%A8%E3%81%8B-ebook/dp/B009GZIRIC/?tag=coela-22)...江戸時代に現代の生物学の知識だけを持ち込んだら何ができるか？を考えさせられるきっかけとなった作品。
 - [Boston Ballet](https://www.bostonballet.org/home.aspx)
 - [Misa Kuranaga (Instragram)](https://www.instagram.com/misakuranaga/?hl=ja)...現在はサンフランシスコバレエのプリンシパルとして活躍する日本人バレリーナ。倉永美沙さんのinstagramには多くの練習風景がのっている。
 - [ARTIST PROFILE, Principal Dancer Misa Kuranaga](https://www.youtube.com/watch?v=6gnEXTcBojk)...Boston Balletプリンシパルをつとめた倉永美沙さんの動画。
