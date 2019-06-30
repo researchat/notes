@@ -19,8 +19,9 @@ title: 15. TBA
 
 ## Show notes
 - [サラブレッド (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%96%E3%83%AC%E3%83%83%E3%83%89)
-- [馬のふるさと、日高｜初めての方におすすめの観光スポット10選](https://hokkaido-labo.com/area/tokachi/hidaka-sightseeing) ... kyonは毎年、札幌から日高で牧場めぐりや乗馬や温泉→襟裳岬→帯広でばんえい競馬をドライブしながら楽しんでいる
-- [にいかっぷホロシリ乗馬クラブ](http://horoshiri.jp/) ...kyonは毎年ここでサラブレッドに乗る
+- [馬のふるさと、日高｜初めての方におすすめの観光スポット10選](https://hokkaido-labo.com/area/tokachi/hidaka-sightseeing) ... kyonは毎年夏休みに、札幌から日高で牧場めぐりや乗馬や温泉→襟裳岬→帯広でばんえい競馬をドライブしながら楽しんでいる
+- [にいかっぷホロシリ乗馬クラブ](http://horoshiri.jp/) ...kyonは毎年ここでサラブレッドに乗っている
+- [新冠温泉レ・コードの湯『ホテルヒルズ』](https://hotelhills.jp/)...ここの温泉は泉質もよく、オーシャンビューで景色もとてもよい。日帰り入浴も可能なのでオススメ。
 - [牧場見学ガイド (競走馬のふるさと案内所)](https://uma-furusato.com/guide/)
 - [中央競馬](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E7%AB%B6%E9%A6%AC)
 - [地方競馬の予定](http://www.keiba.go.jp/ipat/yotei.html)
