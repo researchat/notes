@@ -21,7 +21,7 @@ title: 15. TBA
 - [サラブレッド (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%83%96%E3%83%AC%E3%83%83%E3%83%89)
 - [馬のふるさと、日高｜初めての方におすすめの観光スポット10選](https://hokkaido-labo.com/area/tokachi/hidaka-sightseeing) ... kyonは毎年夏休みに、札幌から日高で牧場めぐりや乗馬や温泉→襟裳岬→帯広でばんえい競馬をドライブしながら楽しんでいる
 - [にいかっぷホロシリ乗馬クラブ](http://horoshiri.jp/) ...kyonは毎年ここでサラブレッドに乗っている
-- [新冠温泉レ・コードの湯『ホテルヒルズ』](https://hotelhills.jp/)...ここの温泉は泉質もよく、オーシャンビューで景色もとてもよい。日帰り入浴も可能なのでオススメ。
+- [新冠温泉レ・コードの湯](https://hotelhills.jp/)...ここの温泉は泉質もよく、オーシャンビューで景色もとてもよい。日帰り入浴も可能なのでオススメ。
 - [牧場見学ガイド (競走馬のふるさと案内所)](https://uma-furusato.com/guide/)
 - [中央競馬](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E7%AB%B6%E9%A6%AC)
 - [地方競馬](http://www.keiba.go.jp/)
@@ -38,7 +38,7 @@ title: 15. TBA
 - [ゴッドガンダム](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0)
 - [JRAxポプテピピック](http://jra.jp/news/201904/042403.html)
 - [三大始祖](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A4%A7%E5%A7%8B%E7%A5%96)
-- サラブレッドの全ゲノムシーケンス...論文[Genome sequence, comparative analysis, and population genetics of the domestic horse. Science 2009](http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=19892987)
+- サラブレッドの全ゲノムシーケンス...論文：[Genome sequence, comparative analysis, and population genetics of the domestic horse. Science 2009](http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=19892987)
 - [馬ゲノム研究の現状と展望](http://www.b-t-c.or.jp/btc_p300/btcn/btcn64/btcn064-02.pdf)
 - [馬ゲノムプロジェクト](http://www.uky.edu/Ag/Horsemap/)
 - [SNP解析](https://ja.wikipedia.org/wiki/%E4%B8%80%E5%A1%A9%E5%9F%BA%E5%A4%9A%E5%9E%8B)
@@ -50,6 +50,8 @@ title: 15. TBA
 - [豚の中で臓器作る](https://jp.techcrunch.com/2017/08/11/20170810crisprd-pigs-offer-hope-for-the-human-organ-transplant-shortage/)
 - [ラバ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%90)...馬とロバの掛け合わせ。
 - [ケッテイ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%83%E3%83%86%E3%82%A4)...オスのウマとメスのロバの掛け合わせ。
+- [不稔性](https://kotobank.jp/word/%E4%B8%8D%E7%A8%94%E6%80%A7-125575)
+- [雑種(wikipedia)](https://ja.wikipedia.org/wiki/%E9%9B%91%E7%A8%AE)
 - [不稔性](https://kotobank.jp/word/%E4%B8%8D%E7%A8%94%E6%80%A7-125575)
 - [ライガー (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%AC%E3%83%BC)...オスのライオンとメスのトラから生まれた掛け合わせ。
 - [ゾース (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%BE%E3%83%BC%E3%82%B9)...シマウマとウマから生まれた掛け合わせ。
