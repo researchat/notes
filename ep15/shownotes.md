@@ -33,7 +33,7 @@ title: 15. TBA
 - [シンガポールの競馬 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB%E3%81%AE%E7%AB%B6%E9%A6%AC)
 - [ドバイワールドカップ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97)
 - [菊次郎の夏](https://www.amazon.co.jp/%E8%8F%8A%E6%AC%A1%E9%83%8E%E3%81%AE%E5%A4%8F-DVD-%E3%83%93%E3%83%BC%E3%83%88%E3%81%9F%E3%81%91%E3%81%97/dp/B00005EDS4)
-- [ウマジョ](http://umajo.jra.jp/)
+- [UMAJO (ウマジョ)](http://umajo.jra.jp/)
 - [ガンダムとJRAのコラボ](https://dengekionline.com/articles/3434/)
 - [ゴッドガンダム](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0)
 - [JRAxポプテピピック](http://jra.jp/news/201904/042403.html)
