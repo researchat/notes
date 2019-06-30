@@ -71,6 +71,8 @@ title: 15. TBA
 - [ARTIST PROFILE, Principal Dancer Misa Kuranaga](https://www.youtube.com/watch?v=6gnEXTcBojk)...Boston Balletプリンシパルをつとめた倉永美沙さんの動画。
 - [くるみ割り人形 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8B%E3%81%BF%E5%89%B2%E3%82%8A%E4%BA%BA%E5%BD%A2)
 - [バレエ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%82%A8)
+- [Y字バランスからI字バランスへのやり方](https://blog.coruri.info/entry/2017/08/11/003358)
+- [マリー・タリオーニ](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%BF%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%8B)...1832年に世界で初めてトウシューズを履いて踊ったバレリーナ。ラ・シルフィードという妖精が主役の舞台で、妖精が宙を舞うように見せるために履いたのが最初である
 - [ボレロ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AC%E3%83%AD_(%E3%83%80%E3%83%B3%E3%82%B9%E3%83%BB%E9%9F%B3%E6%A5%BD))
 - [オペラ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9A%E3%83%A9)
 - [エドガー・ドガ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%AC%E3%83%BC%E3%83%BB%E3%83%89%E3%82%AC)
