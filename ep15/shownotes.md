@@ -26,7 +26,7 @@ title: 15. TBA
 - [中央競馬](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E7%AB%B6%E9%A6%AC)
 - [地方競馬](http://www.keiba.go.jp/)
 - [「中央競馬」と「地方競馬」の違い](https://www.homemate-research-keiba.com/useful/16205_keiba_006/)
-- [ばんえい競走](https://banei-keiba.or.jp/)
+- [ばんえい競走](https://banei-keiba.or.jp/)...帯広で開催される地方競馬。サラブレッドではなく「ばん馬」が1トン近くあるそりを引いて障害をこえる、全く異なる種類の競馬である。伴走しながら応援できるのも見どころ。
 - [飛行機で馬が運ばれるときは...中の様子はこんな感じ (らばQ)](http://labaq.com/archives/51908050.html)
 - [馬のパスポート](https://umabi.jp/news/4)
 - [香港の競馬 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E3%81%AE%E7%AB%B6%E9%A6%AC)
@@ -38,12 +38,11 @@ title: 15. TBA
 - [ゴッドガンダム](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0)
 - [JRAxポプテピピック](http://jra.jp/news/201904/042403.html)
 - [三大始祖](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A4%A7%E5%A7%8B%E7%A5%96)
-- サラブレッドの全ゲノムシーケンス
+- サラブレッドの全ゲノムシーケンス...論文[Genome sequence, comparative analysis, and population genetics of the domestic horse. Science 2009](http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=19892987)
 - [馬ゲノム研究の現状と展望](http://www.b-t-c.or.jp/btc_p300/btcn/btcn64/btcn064-02.pdf)
 - [馬ゲノムプロジェクト](http://www.uky.edu/Ag/Horsemap/)
-- SNP解析
-- Broad Instituteにおける競馬
-- マイオスチン
+- [SNP解析](https://ja.wikipedia.org/wiki/%E4%B8%80%E5%A1%A9%E5%9F%BA%E5%A4%9A%E5%9E%8B)
+- [マイオスタチン](https://www.jaica.com/products_redox_myostatin_kit_pc.html)...podcast内では"マイオスチン"と言っていましたが、正しくは"マイオスタチン"でした。
 - [Belgian Blue](https://en.wikipedia.org/wiki/Belgian_Blue)... 筋肉モリモリの牛
 - [JRAの研究職について](https://jra-saiyou.jp/2019/jobinfo/doctor.html)
 - [ISAG](https://www.isag.us/index.asp)...The International Society and the International Foundation for Animal Genetics(学会)
@@ -57,6 +56,7 @@ title: 15. TBA
 - [野生の馬 (畜産ZOO鑑)](http://zookan.lin.gr.jp/kototen/uma/u122_2.htm)
 - [ジョアン・モレイラ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%AC%E3%82%A4%E3%83%A9)
 - [人馬一体 (Wikipedia)](https://en.wikipedia.org/wiki/Jinba_ittai)
+- [シマウマの競馬](https://www.youtube.com/watch?v=MzMtgH2Ya_I)
 - [あぶみ (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%90%99)
 - [転生したらSpreadsheetだった件 (なろう小説)](https://kakuyomu.jp/works/1177354054887646455)
 - [ハーバー・ボッシュ法 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%BB%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5%E6%B3%95)...効率的なアンモニアの精製方法。1906年、フリッツ・ハーバーとカール・ボッシュが作ったのでこの名前になった。
