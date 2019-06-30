@@ -24,7 +24,8 @@ title: 15. TBA
 - [新冠温泉レ・コードの湯『ホテルヒルズ』](https://hotelhills.jp/)...ここの温泉は泉質もよく、オーシャンビューで景色もとてもよい。日帰り入浴も可能なのでオススメ。
 - [牧場見学ガイド (競走馬のふるさと案内所)](https://uma-furusato.com/guide/)
 - [中央競馬](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E7%AB%B6%E9%A6%AC)
-- [地方競馬の予定](http://www.keiba.go.jp/ipat/yotei.html)
+- [地方競馬](http://www.keiba.go.jp/)
+- [「中央競馬」と「地方競馬」の違い](https://www.homemate-research-keiba.com/useful/16205_keiba_006/)
 - [ばんえい競走](https://banei-keiba.or.jp/)
 - [飛行機で馬が運ばれるときは...中の様子はこんな感じ (らばQ)](http://labaq.com/archives/51908050.html)
 - [馬のパスポート](https://umabi.jp/news/4)
