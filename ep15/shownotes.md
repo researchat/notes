@@ -55,20 +55,19 @@ title: 15. TBA
 - [ケッテイ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%83%E3%83%86%E3%82%A4)...オスのウマとメスのロバの掛け合わせ。
 - [不稔性](https://kotobank.jp/word/%E4%B8%8D%E7%A8%94%E6%80%A7-125575)
 - [雑種(wikipedia)](https://ja.wikipedia.org/wiki/%E9%9B%91%E7%A8%AE)
-- [不稔性](https://kotobank.jp/word/%E4%B8%8D%E7%A8%94%E6%80%A7-125575)
 - [ライガー (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%AC%E3%83%BC)...オスのライオンとメスのトラから生まれた掛け合わせ。
 - [ゾース (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%BE%E3%83%BC%E3%82%B9)...シマウマとウマから生まれた掛け合わせ。
 - [野生の馬 (畜産ZOO鑑)](http://zookan.lin.gr.jp/kototen/uma/u122_2.htm)
 - [ジョアン・モレイラ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%AC%E3%82%A4%E3%83%A9)
 - [人馬一体 (Wikipedia)](https://en.wikipedia.org/wiki/Jinba_ittai)
-- [シマウマの競馬](https://www.youtube.com/watch?v=MzMtgH2Ya_I)
+- [シマウマの競馬 (Youtube)](https://www.youtube.com/watch?v=MzMtgH2Ya_I)
 - [あぶみ (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%90%99)
 - [転生したらSpreadsheetだった件 (なろう小説)](https://kakuyomu.jp/works/1177354054887646455)
 - [ハーバー・ボッシュ法 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%BB%E3%83%9C%E3%83%83%E3%82%B7%E3%83%A5%E6%B3%95)...効率的なアンモニアの精製方法。1906年、フリッツ・ハーバーとカール・ボッシュが作ったのでこの名前になった。
 - [空気からパンを作る](http://www.tsukuba-sci.com/?column01=%E7%A9%BA%E6%B0%97%E3%81%8B%E3%82%89%E3%83%91%E3%83%B3%E3%82%92%E4%BD%9C%E3%82%8B%E3%80%80%EF%BD%9E%E3%82%A2%E3%83%B3%E3%83%A2%E3%83%8B%E3%82%A2%E3%81%AE%E8%A9%B1%EF%BD%9E)
 - [JIN-仁- (マンガ)](https://www.amazon.co.jp/JIN%E2%80%95%E4%BB%81%E2%80%95-1-%E3%83%A4%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9DIGITAL-%E6%9D%91%E4%B8%8A%E3%82%82%E3%81%A8%E3%81%8B-ebook/dp/B009GZIRIC)...江戸時代に現代の生物学の知識だけを持ち込んだら何ができるか？を考えさせられるきっかけとなった作品。
 - [Boston Ballet](https://www.bostonballet.org/home.aspx)
-- [Misa Kuranaga (Instragram)](https://www.instagram.com/misakuranaga/?hl=ja)...倉永美沙さんのinstagramには多くの練習風景がのっている。
+- [Misa Kuranaga (Instragram)](https://www.instagram.com/misakuranaga/?hl=ja)...現在はサンフランシスコバレエのプリンシパルとして活躍する日本人バレリーナ。倉永美沙さんのinstagramには多くの練習風景がのっている。
 - [ARTIST PROFILE, Principal Dancer Misa Kuranaga](https://www.youtube.com/watch?v=6gnEXTcBojk)...Boston Balletプリンシパルをつとめた倉永美沙さんの動画。
 - [くるみ割り人形 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%81%8F%E3%82%8B%E3%81%BF%E5%89%B2%E3%82%8A%E4%BA%BA%E5%BD%A2)
 - [バレエ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%82%A8)
@@ -83,9 +82,9 @@ title: 15. TBA
 - [オランジュリー美術館](https://www.musee-orangerie.fr/)...coelaおすすめの美術館。パリにある。
 - [イサム・ノグチ庭園美術館](http://www.isamunoguchi.or.jp/)...tadasuおすすめの高松の美術館。書簡のやり取りが必要とのこと。
 - [栗林公園](https://www.my-kagawa.jp/ritsuringarden)...高松にある大名庭園。
-- [圧倒的不審者の極み](https://www.youtube.com/channel/UCg3qsVzHeUt5_cPpcRtoaJQ)...様々なものを溶かして包丁を作るYoutube...
-- [カオストレイン](https://www.youtube.com/watch?v=lyQVJZ8oTsU)...名古屋の名鉄に徹底的にフォーカスしたYoutube
-- [ミニ踏切カンカン特集](https://www.youtube.com/watch?v=W5moIoAZ38I)...遊園地にある小さな踏切ばかりを集めたYouTube。新しい世界が広がっている...
+- [圧倒的不審者の極み!(Youtubeチャンネル)](https://www.youtube.com/channel/UCg3qsVzHeUt5_cPpcRtoaJQ)...様々なものを溶かして包丁を作るYoutuber...
+- [カオストレイン(Youtubeチャンネル)](https://www.youtube.com/watch?v=lyQVJZ8oTsU)...名古屋の名鉄に徹底的にフォーカスしたYoutubeチャンネル
+- [ミニ踏切カンカン特集(Youtueb)](https://www.youtube.com/watch?v=W5moIoAZ38I)...遊園地にある小さな踏切ばかりを集めたYouTube。新しい世界が広がっている...
 
 ## Editorial notes
 - (kyon)
