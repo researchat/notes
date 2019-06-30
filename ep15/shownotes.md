@@ -1,9 +1,21 @@
+---
+actor_ids:
+  - tadasu
+  - soh
+  - coela
+  - kyon
+audio_file_path: /audio/15.mp3
+audio_file_size: 82868687
+date: 2019-07-01 09:00:00 +0900
+description: kyonさんをゲストに迎え、競馬の楽しみ方、サラブレッドの血統と遺伝学、バレエの魅力、サイエンスと芸術の共通点、直島・地中美術館のモネの部屋などについて話しました。（出演：tadasu、soh、coela、kyon）
+duration: "01:26:19"
+layout: article
+title: 15. TBA
+---
+
 ## Title
 - Fighting against myself (仮)
 - Genetics of Thoroughbred
-
-## Description
-kyonさんをゲストに迎え、競馬の楽しみ方、サラブレッドの血統と遺伝学、バレエの魅力、サイエンスと芸術の共通点、直島・地中美術館のモネの部屋などについて話しました。
 
 ## Show notes
 - [日高町 (北海道)](https://www.town.hidaka.hokkaido.jp/)
