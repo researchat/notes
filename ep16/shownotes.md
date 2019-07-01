@@ -1,11 +1,11 @@
 ## Title
--DNA Microscopy
--Beyond imaging(仮)
+- DNA Microscopy
+- Beyond imaging(仮)
 
 ## Show notes
--[DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction](https://www.biorxiv.org/content/10.1101/471219v1)...biorixv(Open Acess)
--[DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction](https://www.sciencedirect.com/science/article/pii/S0092867419305471)...Cell
--[MIA: Joshua Weinstein, Optics-free spatio-genetic imaging with DNA microscopy](https://www.youtube.com/watch?v=hrqU2RP_9rc)
+- [DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction](https://www.biorxiv.org/content/10.1101/471219v1)...biorixv(Open Acess)
+- [DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction](https://www.sciencedirect.com/science/article/pii/S0092867419305471)...Cell
+- [MIA: Joshua Weinstein, Optics-free spatio-genetic imaging with DNA microscopy](https://www.youtube.com/watch?v=hrqU2RP_9rc)
 
 ## Editorial notes
 (soh)
