@@ -47,11 +47,11 @@ title: 15. TBA
 - [SNP解析](https://ja.wikipedia.org/wiki/%E4%B8%80%E5%A1%A9%E5%9F%BA%E5%A4%9A%E5%9E%8B)
 - [マイオスタチン](https://www.jaica.com/products_redox_myostatin_kit_pc.html)...podcast内では"マイオスチン"と言っていましたが、正しくは"マイオスタチン"でした。
 - [Belgian Blue](https://en.wikipedia.org/wiki/Belgian_Blue)...筋肉モリモリの牛
-- [JRAの研究職について](https://jra-saiyou.jp/2019/jobinfo/doctor.html)
+- [JRAの研究職について](https://jra-saiyou.jp/2019/jobinfo/doctor.html)...JRA研究職になるためには獣医でなければならない
 - [ISAG](https://www.isag.us/index.asp)...The International Society and the International Foundation for Animal Genetics(学会)
 - [日本ウマ科学会](http://jses.equinst.go.jp/)...馬の染色体は2n=64である。
 - [豚の中で臓器作る](https://jp.techcrunch.com/2017/08/11/20170810crisprd-pigs-offer-hope-for-the-human-organ-transplant-shortage/)
-- [ラバ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%90)...馬とロバの掛け合わせ(オスのロバとメスのウマ)。
+- [ラバ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%90)...オスのロバとメスのウマの掛け合わせ。
 - [ケッテイ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%83%E3%83%86%E3%82%A4)...オスのウマとメスのロバの掛け合わせ。
 - [不稔性](https://kotobank.jp/word/%E4%B8%8D%E7%A8%94%E6%80%A7-125575)...植物の場合は不稔性、動物の場合は不妊性ということが多い。
 - [雑種(wikipedia)](https://ja.wikipedia.org/wiki/%E9%9B%91%E7%A8%AE)
@@ -89,7 +89,7 @@ title: 15. TBA
 - [ミニ踏切カンカン特集(Youtueチャンネル)](https://www.youtube.com/watch?v=W5moIoAZ38I)...遊園地にある小さな踏切ばかりを集めたYouTube。新しい世界が広がっている...
 
 ## Editorial notes
-- (kyon)
+- ウマの染色体数は必ず聞かれると思ったので、メモっておいてよかった。また呼んでもらえるようにまたネタを蓄積しておきます！(kyon)
 - 競馬、バレエ、芸術、遺伝学と話題の多様性がResearchat.fmらしい回になった (soh)
 - 三大始祖とかいう名前、ファンタジーでいたら最強クラスのやつ (coela)
 - 天馬行空(tadasu)
