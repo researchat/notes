@@ -33,10 +33,8 @@ title: 16. Beyond imaging
 - ガウシアン
 - contact probability
 - Hi-C
-- 蛍光顕微鏡の解像度
-- フォトンの数
-- 解像度の限界
-- 超解像
+- [光学顕微鏡の解像度の限界:回折限界](http://www.microscope.jp/knowledge/01-4.html)
+- [超解像顕微鏡法](https://www.sanken.osaka-u.ac.jp/labs/bse/6912kagaku_nagai-1.pdf)
 - TCR recombination
 - GAPDH, ACTN
 - smFISH
