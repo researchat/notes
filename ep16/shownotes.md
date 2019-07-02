@@ -6,7 +6,7 @@
 - [DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction](https://www.biorxiv.org/content/10.1101/471219v1)...bioRixv (Open Acess) 論文のPDFが入手できます。
 - [DNA Microscopy論文のFigure 1](https://www.biorxiv.org/content/biorxiv/early/2018/11/19/471219/F1.large.jpg)...PodcastではほぼFigure1の説明に終始しているので、これを見ながら...だと理解の助けになるのかもしれない...
 - [DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction](https://www.sciencedirect.com/science/article/pii/S0092867419305471)...Cell Press.
-- [Joshua Weinstein, Optics-free spatio-genetic imaging with DNA microscopy](https://www.youtube.com/watch?v=hrqU2RP_9rc)...1st author Joshua Weinsteinのセミナー動画 (YouTube)
+- [Joshua Weinstein, Optics-free spatio-genetic imaging with DNA microscopy](https://www.youtube.com/watch?v=hrqU2RP_9rc)...1st author Joshua Weinsteinのセミナー動画 (YouTube)。論文には書かれていない背景などが説明されています。
 - In-gel PCR...Four-arm PEG acrylateとHS-PEG-SHというポリエチレングリコール (PEG)をPCR反応液に追加することにより、高温下でも分子の拡散を抑えることができる。この液体の中で、Overlap extension PCRが起き、近接する2つのUMIを持つ分子同士はUEIを受け取りつつ連結される。
 - [Virtual microfluidics for digital quantification and single-cell sequencing. Nature Methods 2016](https://www.nature.com/articles/nmeth.3955)...In-gel PCRの元論文。
 - In situ cDNA synthesis...固定した細胞に対しても逆転写酵素とプライマーなどを用いてcDNA合成を行うことができる。これを利用することで、細胞内でRNA分子の配列をその場でシーケンシングすることがIn situ RNA sequencing (FISSEQ法)で可能になった。
