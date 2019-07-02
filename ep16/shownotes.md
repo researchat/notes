@@ -28,6 +28,23 @@ title: 16. Beyond imaging
 - Illumina sequencing...位置塩基ごとに蛍光標識されたdyeを用いた伸長反応により大量のDNA配列を決定する。[こちらのYoutubeの動画](https://www.youtube.com/watch?v=fCd6B5HRaZ8)が原理を知るにはわかりやすい。
 - [Locally rigid embedding](https://www.pnas.org/content/105/28/9507)
 
+
+- 距離関数
+- ガウシアン
+- contact probability
+- Hi-C
+- 蛍光顕微鏡の解像度
+- フォトンの数
+- 解像度の限界
+- 超解像
+- TCR recombination
+- GAPDH, ACTN
+- smFISH
+- MS2 live cell imaging
+- Github
+- Clality
+
+
 ## Editorial notes
 - Cell誌のTheoryセクションということもあり、日本ではほとんど報道もなく紹介記事も見当たらない中、このDNA microscopyという画期的なコンセプトが伝わればいいと思いますが果たして...(soh)
 - (coela)
