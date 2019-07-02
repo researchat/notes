@@ -21,7 +21,7 @@ title: 16. Beyond imaging
 - [DNA Microscopy論文のFigure 1](https://www.biorxiv.org/content/biorxiv/early/2018/11/19/471219/F1.large.jpg)...PodcastではほぼFigure1の説明に終始しているので、これを見ながら...だと理解の助けになるのかもしれない...
 - [DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction](https://www.sciencedirect.com/science/article/pii/S0092867419305471)...Cell Press.
 - [Joshua Weinsteinのセミナー動画 (YouTube)](https://www.youtube.com/watch?v=hrqU2RP_9rc)...1st author Joshua Weinsteinが論文には書かれていない背景なども含めてDNA microscopyについてBroad研で発表した動画。
-- In-gel PCR...Four-arm PEG acrylateとHS-PEG-SHというポリエチレングリコール (PEG)をPCR反応液に追加することにより、高温下でも分子の拡散を抑えることができる。この液体の中で、Overlap extension PCRが起き、近接する2つのUMIを持つ分子同士はUEIを受け取りつつ連結される。
+- In-gel PCR...Four-arm PEG acrylateとHS-PEG-SHというポリエチレングリコール (PEG)をPCR反応液に追加することにより、高温下でも分子の拡散を抑えることができる。この液体の中で、Overlap extension PCRが起き、それぞれのUMIは新しいタグを持ちながら増幅され、近接する2つのUMIを持つ分子同士はUEIを受け取りつつ連結される。
 - [Virtual microfluidics for digital quantification and single-cell sequencing. Nature Methods 2016](https://www.nature.com/articles/nmeth.3955)...In-gel PCRの元論文。
 - In situ cDNA synthesis...固定した細胞に対しても逆転写酵素とプライマーなどを用いてcDNA合成を行うことができる。これを利用することで、細胞内でRNA分子の配列をその場でシーケンシングすることがIn situ RNA sequencing (FISSEQ法)で可能になった。
 - [Fluorescent In Situ Sequencing (FISSEQ)](https://wyss.harvard.edu/technology/fluorescent-in-situ-sequencing-fisseq/)
@@ -31,7 +31,6 @@ title: 16. Beyond imaging
 
 - 距離関数
 - ガウシアン
-- contact probability
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome. Lieberman-Aiden et al. Science, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19815776)...Hi-C法のオリジナル論文。この論文を起点として、核内における染色体高次構造、クロマチン構造解析が爆発的に進むようになった。この方法も光学系ではなく、シーケンシングによってクロマチン構造を明らかにしようというコンセプトからなる。DNA配列同士の"Contact Probability"を中心にしている。
 - [光学顕微鏡の解像度の限界:回折限界](http://www.microscope.jp/knowledge/01-4.html)... 蛍光顕微鏡を用いる際の回折限界は、波長の大きさとレンズの開口数によって計算することができる。
 - [超解像顕微鏡法](https://www.sanken.osaka-u.ac.jp/labs/bse/6912kagaku_nagai-1.pdf)... 超解像顕微鏡法とは上記した回折限界を超えたスケールでのイメージングである。2014年に超解像顕微鏡法がノーベル賞を受賞したときに書かれた阪大永井先生の総説。PALM, STORM, STED, SIMなど様々な方法が現在用いられている。
