@@ -32,9 +32,9 @@ title: 16. Beyond imaging
 - 距離関数
 - ガウシアン
 - contact probability
-- Hi-C
-- [光学顕微鏡の解像度の限界:回折限界](http://www.microscope.jp/knowledge/01-4.html)
-- [超解像顕微鏡法](https://www.sanken.osaka-u.ac.jp/labs/bse/6912kagaku_nagai-1.pdf)
+- [Comprehensive mapping of long-range interactions reveals folding principles of the human genome. Lieberman-Aiden et al. Science, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19815776)...Hi-C法のオリジナル論文。この論文を起点として、核内における染色体高次構造、クロマチン構造解析が爆発的に進むようになった。この方法も光学系ではなく、シーケンシングによってクロマチン構造を明らかにしようというコンセプトからなる。DNA配列同士の"Contact Probability"を中心にしている。
+- [光学顕微鏡の解像度の限界:回折限界](http://www.microscope.jp/knowledge/01-4.html)... 蛍光顕微鏡を用いる際の回折限界は、波長の大きさとレンズの開口数によって計算することができる。
+- [超解像顕微鏡法](https://www.sanken.osaka-u.ac.jp/labs/bse/6912kagaku_nagai-1.pdf)... 超解像顕微鏡法とは上記した回折限界を超えたスケールでのイメージングである。2014年に超解像顕微鏡法がノーベル賞を受賞したときに書かれた阪大永井先生の総説。PALM, STORM, STED, SIMなど様々な方法が現在用いられている。
 - TCR recombination
 - GAPDH, ACTN
 - smFISH
