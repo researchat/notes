@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/16.mp3
 audio_file_size: 82865670
 date: 2019-07-02 09:00:00 +0900
-description: これまでのイメージング技術とは一線を画するアイディアと実装により、分子間の近接性だけの情報から分子や細胞の位置を再構成するというDNA microscopy法について、原著論文とその周辺技術について詳しく話しました。(出演：tadasu、soh、coela）
+description: これまでのイメージング技術とは一線を画するアイディアと実装により、分子間の近接性の情報から分子や細胞の位置を再構成するというDNA microscopy法について、原著論文とその周辺技術について詳しく話しました。(出演：tadasu、soh、coela）
 duration: "01:26:19"
 layout: article
 title: 16. Beyond imaging
@@ -27,13 +27,12 @@ title: 16. Beyond imaging
 - [Fluorescent In Situ Sequencing (FISSEQ)](https://wyss.harvard.edu/technology/fluorescent-in-situ-sequencing-fisseq/)
 - Illumina sequencing...位置塩基ごとに蛍光標識されたdyeを用いた伸長反応により大量のDNA配列を決定する。[こちらのYoutubeの動画](https://www.youtube.com/watch?v=fCd6B5HRaZ8)が原理を知るにはわかりやすい。
 - [Locally rigid embedding](https://www.pnas.org/content/105/28/9507)
-
-
-- 距離関数
-- ガウシアン
+- [ブラウン運動](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E9%81%8B%E5%8B%95)
+- [距離空間](https://ja.wikipedia.org/wiki/%E8%B7%9D%E9%9B%A2%E7%A9%BA%E9%96%93)
+- [正規分布](https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E5%88%86%E5%B8%83)
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome. Lieberman-Aiden et al. Science, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19815776)...Hi-C法のオリジナル論文。この論文を起点として、核内における染色体高次構造、クロマチン構造解析が爆発的に進むようになった。この方法も光学系ではなく、シーケンシングによってクロマチン構造を明らかにしようというコンセプトからなる。DNA配列同士の"Contact Probability"を中心にしている。
-- [光学顕微鏡の解像度の限界:回折限界](http://www.microscope.jp/knowledge/01-4.html)... 蛍光顕微鏡を用いる際の回折限界は、波長の大きさとレンズの開口数によって計算することができる。
-- [超解像顕微鏡法](https://www.sanken.osaka-u.ac.jp/labs/bse/6912kagaku_nagai-1.pdf)... 超解像顕微鏡法とは上記した回折限界を超えたスケールでのイメージングである。2014年に超解像顕微鏡法がノーベル賞を受賞したときに書かれた阪大永井先生の総説。PALM, STORM, STED, SIMなど様々な方法が現在用いられている。
+- [光学顕微鏡の解像度の限界:回折限界](http://www.microscope.jp/knowledge/01-4.html)...蛍光顕微鏡を用いる際の回折限界は、波長の大きさとレンズの開口数によって計算することができる。
+- [超解像顕微鏡法](https://www.sanken.osaka-u.ac.jp/labs/bse/6912kagaku_nagai-1.pdf)...2014年に超解像顕微鏡法がノーベル賞を受賞したときに書かれた阪大永井先生の総説。超解像顕微鏡法とは回折限界以下で行うことができる蛍光イメージングのことを指す。PALM, STORM, STED, SIMなど様々な方法が現在用いられている。
 - TCR recombination
 - GAPDH, ACTN
 - smFISH
