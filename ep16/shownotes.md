@@ -22,12 +22,13 @@ title: 16. Beyond imaging
 - [DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction](https://www.sciencedirect.com/science/article/pii/S0092867419305471)...Cell Press.
 - [Joshua Weinsteinのセミナー動画 (YouTube)](https://www.youtube.com/watch?v=hrqU2RP_9rc)...1st author Joshua Weinsteinが論文には書かれていない背景なども含めてDNA microscopyについてBroad研で発表した動画。
 - In-gel PCR...Four-arm PEG acrylateとHS-PEG-SHというポリエチレングリコール (PEG)をPCR反応液に追加することにより、高温下でも分子の拡散を抑えることができる。この液体の中で、Overlap extension PCRが起き、それぞれのUMIは新しいタグを持ちながら増幅され、近接する2つのUMIを持つ分子同士はUEIを受け取りつつ連結される。
+- [Overlapping extension PCR](https://en.wikipedia.org/wiki/Overlap_extension_polymerase_chain_reaction)
 - [Virtual microfluidics for digital quantification and single-cell sequencing. Nature Methods 2016](https://www.nature.com/articles/nmeth.3955)...In-gel PCRの元論文。
 - In situ cDNA synthesis...固定した細胞に対しても逆転写酵素とプライマーなどを用いてcDNA合成を行うことができる。これを利用することで、細胞内でRNA分子の配列をその場でシーケンシングすることがIn situ RNA sequencing (FISSEQ法)で可能になった。
 - [Fluorescent In Situ Sequencing (FISSEQ)](https://wyss.harvard.edu/technology/fluorescent-in-situ-sequencing-fisseq/)
 - Illumina sequencing...位置塩基ごとに蛍光標識されたdyeを用いた伸長反応により大量のDNA配列を決定する。[こちらのYoutubeの動画](https://www.youtube.com/watch?v=fCd6B5HRaZ8)が原理を知るにはわかりやすい。
 - [Locally rigid embedding](https://www.pnas.org/content/105/28/9507)
-- [ブラウン運動](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E9%81%8B%E5%8B%95)
+- [ブラウン運動](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E9%81%8B%E5%8B%95)...何故、あるUMIを持つDNAが溶液中を移動して、異なるUMIを持つDNAと出会い、Overlap extension PCRを介して、新たなUEIを形成することができるのか。DNA microsocpyで明らかにしようとしている空間サイズでは、PCRに用いられるような高温にしてしまうと、一瞬でDNA群は均一に混じり合ってしまうことが予想されるが、粘土が高いゲル中でPCR反応を行うことにより、DNA分子の拡散を抑えることができる。これにより、UMI diffusion cloudが形成される。
 - [距離空間](https://ja.wikipedia.org/wiki/%E8%B7%9D%E9%9B%A2%E7%A9%BA%E9%96%93)
 - [正規分布](https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E5%88%86%E5%B8%83)
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome. Lieberman-Aiden et al. Science, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19815776)...Hi-C法のオリジナル論文。この論文を起点として、核内における染色体高次構造、クロマチン構造解析が爆発的に進むようになった。この方法も光学系ではなく、シーケンシングによってクロマチン構造を明らかにしようというコンセプトからなる。DNA配列同士の"Contact Probability"を中心にしている。
