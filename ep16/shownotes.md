@@ -27,9 +27,8 @@ title: 16. Beyond imaging
 - In situ cDNA synthesis...固定した細胞に対しても逆転写酵素とプライマーなどを用いてcDNA合成を行うことができる。これを利用することで、細胞内でRNA分子の配列をその場でシーケンシングすることがIn situ RNA sequencing (FISSEQ法)で可能になった。
 - [Fluorescent In Situ Sequencing (FISSEQ)](https://wyss.harvard.edu/technology/fluorescent-in-situ-sequencing-fisseq/)
 - Illumina sequencing...位置塩基ごとに蛍光標識されたdyeを用いた伸長反応により大量のDNA配列を決定する。[こちらのYoutubeの動画](https://www.youtube.com/watch?v=fCd6B5HRaZ8)が原理を知るにはわかりやすい。
-- [Locally rigid embedding](https://www.pnas.org/content/105/28/9507)
 - [A Theory of Network Localization](https://ieeexplore.ieee.org/document/1717436)
-- [A remark on global positioning from local distances](https://www.pnas.org/content/105/28/9507)
+- [A remark on global positioning from local distances](https://www.pnas.org/content/105/28/9507)... Locally rigid embeddingのオリジナル論文。
 - [ブラウン運動](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E9%81%8B%E5%8B%95)...何故、あるUMIを持つDNAが溶液中を移動して、異なるUMIを持つDNAと出会い、Overlap extension PCRを介して、新たなUEIを形成することができるのか。DNA microsocpyで明らかにしようとしている空間サイズでは、PCRに用いられるような高温にしてしまうと、一瞬でDNA群は均一に混じり合ってしまうことが予想されるが、粘度が高いゲル中でPCR反応を行うことにより、DNA分子の拡散を抑えることができる。これにより、UMI diffusion cloudsが形成される。
 - [距離空間](https://ja.wikipedia.org/wiki/%E8%B7%9D%E9%9B%A2%E7%A9%BA%E9%96%93)
 - [正規分布](https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E5%88%86%E5%B8%83)
