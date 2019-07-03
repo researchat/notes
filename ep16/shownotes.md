@@ -35,9 +35,8 @@ title: 16. Beyond imaging
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome. Lieberman-Aiden et al. Science, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19815776)...Hi-C法のオリジナル論文。この論文を起点として、核内における染色体高次構造、クロマチン構造解析が爆発的に進むようになった。この方法も光学系ではなく、シーケンシングによってクロマチン構造を明らかにしようというコンセプトからなる。DNA配列同士の"Contact Probability"を中心にしている。
 - [光学顕微鏡の解像度の限界:回折限界](http://www.microscope.jp/knowledge/01-4.html)...蛍光顕微鏡を用いる際の回折限界は、波長の大きさとレンズの開口数によって計算することができる。
 - [超解像顕微鏡法](https://www.sanken.osaka-u.ac.jp/labs/bse/6912kagaku_nagai-1.pdf)...2014年に超解像顕微鏡法がノーベル賞を受賞したときに書かれた阪大永井先生の総説。超解像顕微鏡法とは回折限界以下で行うことができる蛍光イメージングのことを指す。PALM, STORM, STED, SIMなど様々な方法が現在用いられている。
-- [ハウスキーピング遺伝子]()
+- [ハウスキーピング遺伝子](https://www.yodosha.co.jp/jikkenigaku/keyword/279.html)...どの細胞においても定常的に多量発現している遺伝子のこと。GAPDH（glyceraldehyde-3-phosphate dehydrogenase),β-アクチンなどが含まれる。
 - TCR recombination
-- GAPDH, ACTN
 - smFISH
 - MS2 live cell imaging
 - Github
