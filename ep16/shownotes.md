@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/16.mp3
 audio_file_size: 82865670
 date: 2019-07-02 09:00:00 +0900
-description: DNA microscopy法と呼ばれる、これまでのイメージング技術とは一線を画するアイディアと実装により、分子や細胞の位置を、分子間の近接性の情報から再構成する方法について、原著論文とその周辺技術を中心に詳しく話しました。(出演：tadasu、soh、coela）
+description: DNA microscopy法という、分子や細胞の位置を、分子間の近接性の情報から再構成する光学系を用いない新しい方法について、原著論文とその周辺技術を中心に詳しく話しました。(出演：tadasu、soh、coela）
 duration: "01:26:19"
 layout: article
 title: 16. Beyond imaging
