@@ -38,7 +38,7 @@ title: 16. Beyond imaging
 - [ハウスキーピング遺伝子](https://www.yodosha.co.jp/jikkenigaku/keyword/279.html)...どの細胞においても定常的に多量発現している遺伝子のこと。GAPDH（glyceraldehyde-3-phosphate dehydrogenase),β-アクチンなどが含まれる。
 - TCR recombination
 - smFISH
-- MS2 live cell imaging
+- [MS2 tagging(Wikipedia)](https://en.wikipedia.org/wiki/MS2_tagging)
 - Github
 - Clality
 
