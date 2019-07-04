@@ -40,7 +40,7 @@ title: 16. Beyond imaging
 - smFISH
 - [MS2 tagging(Wikipedia)](https://en.wikipedia.org/wiki/MS2_tagging)
 - Github
-- Clality
+- [CLARITY(Wikipedia)](https://en.wikipedia.org/wiki/CLARITY)
 
 
 ## Editorial notes
