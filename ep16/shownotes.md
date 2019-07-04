@@ -13,8 +13,8 @@ title: 16. Beyond imaging
 ---
 
 ## Title
-- DNA Microscopy(仮)
-- Beyond imaging
+- Beyond imaging(仮)
+- DNA Microscopy
 
 ## Show notes
 - [DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction](https://www.biorxiv.org/content/10.1101/471219v1)...bioRixv (Open Acess) 論文のPDFが入手できます。
@@ -36,8 +36,8 @@ title: 16. Beyond imaging
 - [光学顕微鏡の解像度の限界:回折限界](http://www.microscope.jp/knowledge/01-4.html)...蛍光顕微鏡を用いる際の回折限界は、波長の大きさとレンズの開口数によって計算することができる。
 - [超解像顕微鏡法](https://www.sanken.osaka-u.ac.jp/labs/bse/6912kagaku_nagai-1.pdf)...2014年に超解像顕微鏡法がノーベル賞を受賞したときに書かれた阪大永井先生の総説。超解像顕微鏡法とは回折限界以下で行うことができる蛍光イメージングのことを指す。PALM, STORM, STED, SIMなど様々な方法が現在用いられている。
 - [ハウスキーピング遺伝子](https://www.yodosha.co.jp/jikkenigaku/keyword/279.html)...どの細胞においても定常的に多量発現している遺伝子のこと。GAPDH（glyceraldehyde-3-phosphate dehydrogenase),β-アクチンなどが含まれる。
-- TCR recombination
-- smFISH
+- [V(D)J recombination(Wikipedia](https://en.wikipedia.org/wiki/V(D)J_recombination)
+- [smFISH](https://bio-protocol.org/e3070)
 - [MS2 tagging(Wikipedia)](https://en.wikipedia.org/wiki/MS2_tagging)
 - Github
 - [CLARITY(Wikipedia)](https://en.wikipedia.org/wiki/CLARITY)
