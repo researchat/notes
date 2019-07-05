@@ -35,15 +35,15 @@ title: 16. Beyond imaging
 - [Comprehensive mapping of long-range interactions reveals folding principles of the human genome. Lieberman-Aiden et al. Science, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19815776)...Hi-C法のオリジナル論文。この論文を起点として、核内における染色体高次構造、クロマチン構造解析が爆発的に進むようになった。この方法も光学系ではなく、シーケンシングによってクロマチン構造を明らかにしようというコンセプトからなる。DNA配列同士の"Contact Probability"を中心にしている。
 - [光学顕微鏡の解像度の限界:回折限界](http://www.microscope.jp/knowledge/01-4.html)...蛍光顕微鏡を用いる際の回折限界は、波長の大きさとレンズの開口数によって計算することができる。
 - [超解像顕微鏡法](https://www.sanken.osaka-u.ac.jp/labs/bse/6912kagaku_nagai-1.pdf)...2014年に超解像顕微鏡法がノーベル賞を受賞したときに書かれた阪大永井先生の総説。超解像顕微鏡法とは回折限界以下で行うことができる蛍光イメージングのことを指す。PALM, STORM, STED, SIMなど様々な方法が現在用いられている。
-- [ハウスキーピング遺伝子](https://www.yodosha.co.jp/jikkenigaku/keyword/279.html)...どの細胞においても定常的に多量発現している遺伝子のこと。GAPDH（glyceraldehyde-3-phosphate dehydrogenase),β-アクチンなどが含まれる。
-- [V(D)J recombination(Wikipedia](https://en.wikipedia.org/wiki/V(D)J_recombination)
+- [ハウスキーピング遺伝子](https://www.yodosha.co.jp/jikkenigaku/keyword/279.html)...どの細胞においても定常的に多量発現している遺伝子のこと。GAPDH（glyceraldehyde-3-phosphate dehydrogenase)、β-アクチンなどが含まれる。
+- [V(D)J recombination (Wikipedia](https://en.wikipedia.org/wiki/V(D)J_recombination)
 - [smFISH](https://bio-protocol.org/e3070)
-- [MS2 tagging(Wikipedia)](https://en.wikipedia.org/wiki/MS2_tagging)
+- [MS2 tagging (Wikipedia)](https://en.wikipedia.org/wiki/MS2_tagging)
 - Github
-- [CLARITY(Wikipedia)](https://en.wikipedia.org/wiki/CLARITY)
-
+- [CLARITY (Wikipedia)](https://en.wikipedia.org/wiki/CLARITY)
+- [DNA Microscopyのsohによるメモ](https://gist.github.com/soh-i/9f0f41e8d89ed0826de2b97296ac1d5b)
 
 ## Editorial notes
 - Cell誌のTheoryセクションということもあり、日本ではほとんど報道もなく紹介記事も見当たらない中、このDNA microscopyという画期的なコンセプトが伝わればいいと思いますが果たして...(soh)
-- カンゼンニリカイシタ。(coela)
-- トリッキーな内容と論文の文体から、とてもスマートに感じるDNA microscopyであるが、内容を理解していくにつれて、案外膨大な試行の先にたどり着いた泥臭い方法論なのではないかと思うようになった。枯れたテクノロジーをできるだけ使いたい保守派研究者としては、DNA microscopyに対して思うことはたくさんある。しかし、そのモヤモヤは一度横に置き、自分の研究にどのように応用できるか、そしてこれからのどのように発展するか、その行き先を見つめていきたい。(tadasu)
+- カンゼンニリカイシタ (coela)
+- トリッキーな内容と論文の文体から、とてもスマートに感じるDNA microscopyであるが、内容を理解していくにつれて、案外膨大な試行の先にたどり着いた泥臭い方法論なのではないかと思うようになった。枯れたテクノロジーをできるだけ使いたい保守派研究者としては、DNA microscopyに対して思うことはたくさんある。しかし、そのモヤモヤは一度横に置き、自分の研究にどのように応用できるか、そしてこれからのどのように発展するか、その行き先を見つめていきたい (tadasu)
