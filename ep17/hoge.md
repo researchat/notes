@@ -9,7 +9,7 @@
 - 情報思念体を語ろう
 - 10-15年前に登録したメーリスを振り返る
 - [箱根登山鉄道の車両、かまぼこ店へ](https://www.tetsudo.com/news/2127/)
-  - [パン屋に車両](https://ima.goo.ne.jp/column/article/4320.html
+  - [パン屋に車両](https://ima.goo.ne.jp/column/article/4320.html)
 - ボストンで寿司を食ってみた。話題の寿司「ピザ」と
 - HarvardのLotteryでアパートくじに参加した話
 - パキスタン最強のAshを日本に呼ぶためのクラウドファンディングに参加した話
