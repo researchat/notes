@@ -1,4 +1,9 @@
 ## Soh
+- 友人のエッセイが文芸誌の一つ、新潮に載った話
+  - https://twitter.com/miyayuki7/status/1146433956679573504
+- CATALOG、16GBのデータ記録に成功した（MSの200MBくらいのrandom access 論文, nbt2017を超えた）
+  - https://www.youtube.com/watch?v=JG-mrnnD8UY&feature=youtu.be
+  
 ## Coela
 ## Tadasu
 - バオバブバー閉店のお知らせと樹齢同定
