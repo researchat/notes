@@ -3,6 +3,10 @@
   - https://twitter.com/miyayuki7/status/1146433956679573504
 - CATALOG、16GBのデータ記録に成功した（MSの200MBくらいのrandom access 論文, nbt2017を超えた）
   - https://www.youtube.com/watch?v=JG-mrnnD8UY&feature=youtu.be
+- Theranosの裁判が終わって、HBOがドキュメンタリーを作ったりしている。
+  - The inventor
+  - https://chikawatanabe.com/2016/10/12/theranos_update/
+  - Startup biotech companyの闇とは...
   
 ## Coela
 ## Tadasu
