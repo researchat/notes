@@ -1,5 +1,5 @@
 ## Title
-- Does 4n frog have half amounts of ghost of 2n frog?
+- Does 4n frog have half amount of 2n frog ghost?
 - Ghost in the half-shell
 
 ## Show notes
