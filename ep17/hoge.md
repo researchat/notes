@@ -10,6 +10,7 @@
   - Startup biotech companyの闇とは...
   
 ## Coela
+
 ## Tadasu
 - バオバブバー閉店のお知らせと樹齢同定
 - Functional Tatoos
@@ -18,7 +19,6 @@
   - 君は伝説のツジモト・タロウを知っているか？(知らないならググらないでください〜)
 - 情報思念体と架空の人物を語ろう
 - 10-15年前に登録したメーリスを振り返る
-
 - [箱根登山鉄道の車両、かまぼこ店へ](https://www.tetsudo.com/news/2127/)
   - [パン屋に車両](https://ima.goo.ne.jp/column/article/4320.html)
 - ボストンで寿司を食ってみた。話題の寿司「ピザ」と
