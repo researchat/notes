@@ -17,6 +17,9 @@
 - [トマホーク]()
 - [Harvard natural museum]()
 - [Peabody museum]()
+- [ハルバード]()
+- [ショーテル]()
+- [ダークソウル]()
 - []
 
 ## Editorial notes
