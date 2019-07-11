@@ -7,7 +7,7 @@
 - [ぽろしりの開発](https://wpb.shueisha.co.jp/news/economy/2019/06/02/108979/)
 - [小麦ゲノム]()
 - [トランスポゾン]()
-- []()... サラマンダーの実験
+- [POLYPLOIDY IN THE SALAMANDER, EURYCEA BISLINEATA ](https://academic.oup.com/jhered/article-abstract/30/9/379/791427?redirectedFrom=PDF)... サラマンダーの実験
 - [コモドオオトカゲ]()
 - [N/C ratio]()
 - [Xenopus genome]()...
