@@ -14,7 +14,9 @@
 - [パラケルスス]()...
 - [N/C ratio](https://en.wikipedia.org/wiki/NC_ratio)
 - [クセノフィオフォラ](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%BB%E3%83%8E%E3%83%95%E3%82%A3%E3%82%AA%E3%83%95%E3%82%A9%E3%83%A9)
-- [サンランドバオバブ]()
+- [バオバブにあるバー](https://matome.naver.jp/odai/2139348699884464901)... 南アフリカ共和国に存在する樹齢6000年のバオバブに作られたバー。通称Pub tree。この記事では樹齢6000年のバオバブにつくられたバーとなっている。
+- [Sunland Baobab: サンランドバオバブ](https://en.wikipedia.org/wiki/Sunland_Baobab)... このバーが存在していたバオバブの木。現在、既に木は大破してしまい、このバーは存在していない。2016年と2017年に大破してしまったらしい。
+- [Age determination of large live trees with inner cavities: radiocarbon dating of Platland tree, a giant African baobab](https://link.springer.com/article/10.1007%2Fs13595-011-0107-x)... サンランドバオバブの年齢を放射年代測定によって推定した論文。1060歳+-75歳とされている。
 - [マスターキートン: 砂漠のカーリマン(Amazon)](https://www.amazon.co.jp/MASTER%E3%82%AD%E3%83%BC%E3%83%88%E3%83%B3-1-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E5%8B%9D%E9%B9%BF-%E5%8C%97%E6%98%9F/dp/4091816916)
 - [「砂漠ではスーツがいい」は本当か](https://srdk.rakuten.jp/entry/2017/01/31/110000)
 - [トマホーク]()
