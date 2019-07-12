@@ -44,7 +44,7 @@
 - [「不思議のダンジョン」の絶妙なゲームバランスは、たった一枚のエクセルから生み出されている！？](https://news.denfaminicogamer.jp/projectbook/dungeon)
 - [Transfer-messenger RNA](https://en.wikipedia.org/wiki/Transfer-messenger_RNA)
 - [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)... 相同なDNA塩基を検索するためのツール。バイオインフォマティクスにとっては最も重要なツールである。
-- 目BLAST...職人芸。研究者の一部には、DNAを配列同士を見比べるだけで相同検索ができる(といわれている都市伝説的な)人たちがいる。共感覚との関係性に興味がある。
+- 目BLAST...職人芸。研究者の一部には、DNAを配列同士を見比べるだけで相同検索ができる(といわれている都市伝説的な、もしくは見栄を張って自称している)人たちがいる。共感覚との関係性に興味がある。転じて、文章の相同性を目で検索する時にも使われる(レポートのコピペなど)。
 - RNAの二次構造... だれか例を頼む
 - [RNA fold](http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi)
 - [SPY×FAMILY](https://shonenjumpplus.com/episode/10834108156648240735)
