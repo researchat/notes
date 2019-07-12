@@ -38,7 +38,7 @@
 - [チャトランガ](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%AC)
 - [シャンチー](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%81%E3%83%BC)
 - [ナーシャ・ジベリ](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BB%E3%82%B8%E3%83%99%E3%83%AA)
-- [ファミコンの限界について語るぞ｜FF3の飛空艇をバグで実現した天才ナーシャ・ジベリ](https://webgirin.com/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E3%81%AE%E9%99%90%E7%95%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8B%E3%81%9E%EF%BD%9Cff3%E3%81%AE%E9%A3%9B%E7%A9%BA%E8%89%87%E3%82%92/)
+- [ナーシャ・ジベリの偉業](http://sfushigi.com/2017/03/02/post-300/)
 - [Final Fantasy](https://www.finalfantasy.com/)
 - [トルネコの大冒険](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%8D%E3%82%B3%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA_%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3)
 - [「不思議のダンジョン」の絶妙なゲームバランスは、たった一枚のエクセルから生み出されている！？](https://news.denfaminicogamer.jp/projectbook/dungeon)
