@@ -8,10 +8,10 @@
 - [Shifting the limits in wheat research and breeding using a fully annotated reference genome](https://science.sciencemag.org/content/361/6403/eaar7191)...小麦ゲノムの解読
 - [トランスポゾン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
 - [動く遺伝因子とトウモロコシ　～深ーい研究の歴史と現在～](https://www.megabank.tohoku.ac.jp/genome/archives/tag/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
-- [POLYPLOIDY IN THE SALAMANDER, EURYCEA BISLINEATA ](https://academic.oup.com/jhered/article-abstract/30/9/379/791427?redirectedFrom=PDF)... サラマンダーの実験
-- [コモドオオトカゲ]()
-- [N/C ratio]()
-- [Xenopus genome]()...
+- [POLYPLOIDY IN THE SALAMANDER, EURYCEA BISLINEATA ](https://academic.oup.com/jhered/article-abstract/30/9/379/791427?redirectedFrom=PDF)... Fankhauserによるサラマンダーの実験(1939)
+- [コモドオオトカゲ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A2%E3%83%89%E3%82%AA%E3%82%AA%E3%83%88%E3%82%AB%E3%82%B2)
+- [Nucleus-to-cytoplasm ratio](https://librepathology.org/wiki/Nucleus-to-cytoplasm_ratio)
+- [Genome evolution in the allotetraploid frog Xenopus laevis](https://www.nature.com/articles/nature19840)...アフリカツメガエルのゲノム解読
 - [パラケルスス]()...
 - [N/C ratio](https://en.wikipedia.org/wiki/NC_ratio)
 - [クセノフィオフォラ](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%BB%E3%83%8E%E3%83%95%E3%82%A3%E3%82%AA%E3%83%95%E3%82%A9%E3%83%A9)
