@@ -5,8 +5,9 @@
 ## Show notes
 - [ぽろしり](https://www.calbee.co.jp/newsrelease/181001.php)
 - [ぽろしりの開発](https://wpb.shueisha.co.jp/news/economy/2019/06/02/108979/)
-- [小麦ゲノム]()
-- [トランスポゾン]()
+- [Shifting the limits in wheat research and breeding using a fully annotated reference genome](https://science.sciencemag.org/content/361/6403/eaar7191)...小麦ゲノムの解読
+- [トランスポゾン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
+- [動く遺伝因子とトウモロコシ　～深ーい研究の歴史と現在～](https://www.megabank.tohoku.ac.jp/genome/archives/tag/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
 - [POLYPLOIDY IN THE SALAMANDER, EURYCEA BISLINEATA ](https://academic.oup.com/jhered/article-abstract/30/9/379/791427?redirectedFrom=PDF)... サラマンダーの実験
 - [コモドオオトカゲ]()
 - [N/C ratio]()
