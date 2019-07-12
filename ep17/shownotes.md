@@ -3,8 +3,9 @@
 - Ghost in the half-shell
 
 ## Show notes
-- [ぽろしり](https://www.calbee.co.jp/newsrelease/181001.php)
-- [ぽろしりの開発](https://wpb.shueisha.co.jp/news/economy/2019/06/02/108979/)
+- [ぽろしり](https://www.calbee.co.jp/newsrelease/181001.php)... 品種改良によって新しく誕生したぽろしりについて
+- [ぽろしりの開発](https://wpb.shueisha.co.jp/news/economy/2019/06/02/108979/)... カルビーにおける馬鈴薯の開発について
+- [倍数体](https://kotobank.jp/word/%E5%80%8D%E6%95%B0%E4%BD%93-598900)... 染色体数の倍数性を持つ個体のこと。2nより大きい3n, 4n, 6n, 8n, 12nなどの染色体数をもつ倍数体のことを多倍体と一般的に呼ぶ。
 - [Shifting the limits in wheat research and breeding using a fully annotated reference genome](https://science.sciencemag.org/content/361/6403/eaar7191)...小麦ゲノムの解読
 - [トランスポゾン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
 - [動く遺伝因子とトウモロコシ　～深ーい研究の歴史と現在～](https://www.megabank.tohoku.ac.jp/genome/archives/tag/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%83%9D%E3%82%BE%E3%83%B3)
@@ -37,16 +38,18 @@
 - [チャトランガ](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%88%E3%83%A9%E3%83%B3%E3%82%AC)
 - [シャンチー](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%81%E3%83%BC)
 - [ナーシャ・ジベリ](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%BB%E3%82%B8%E3%83%99%E3%83%AA)
+- [ファミコンの限界について語るぞ｜FF3の飛空艇をバグで実現した天才ナーシャ・ジベリ](https://webgirin.com/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E3%81%AE%E9%99%90%E7%95%8C%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AA%9E%E3%82%8B%E3%81%9E%EF%BD%9Cff3%E3%81%AE%E9%A3%9B%E7%A9%BA%E8%89%87%E3%82%92/)
 - [Final Fantasy](https://www.finalfantasy.com/)
 - [トルネコの大冒険](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%8D%E3%82%B3%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA_%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3)
 - [「不思議のダンジョン」の絶妙なゲームバランスは、たった一枚のエクセルから生み出されている！？](https://news.denfaminicogamer.jp/projectbook/dungeon)
 - [Transfer-messenger RNA](https://en.wikipedia.org/wiki/Transfer-messenger_RNA)
-- 目blast...職人芸
-- [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
-- [RNAの二次構造]()
-- [スパイファミリー]()
+- [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)... 相同なDNA塩基を検索するためのツール。バイオインフォマティクスにとっては最も重要なツールである。
+- 目BLAST...職人芸。研究者の一部には、DNAを配列同士を見比べるだけで相同検索ができる(といわれている都市伝説的な)人たちがいる。共感覚との関係性に興味がある。
+- RNAの二次構造... だれか例を頼む
+- [RNA fold](http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi)
+- [SPY×FAMILY](https://shonenjumpplus.com/episode/10834108156648240735)
 
 ## Editorial notes
 - (soh)
 - (coela)
-- (tadasu)
+- 私の体の脂肪は、4倍体になったから大きくなったわけではありません (tadasu)
