@@ -1,5 +1,5 @@
 ## Title
-- Does 4n frog have half amount of 2n frog ghost?
+- Does 4n frog have half amount of 2n frog's ghost?
 - Ghost in the half-shell
 
 カルビーの新ジャガイモ・ぽろしりの凄さ、個体サイズと染色体数・細胞数の関係性、バオバブバー閉店、世界の武器、象、ゲーム開発や研究における職人技について話しました。(出演者:tadasu, coela, soh)
