@@ -13,7 +13,7 @@ title: 17. Ghost in the half-shell (仮)
 ---
 
 ## Title
-- Does 4n frog have half amount of 2n frog's ghost?
+- Does 4n salamander have half amount of 2n salamander's ghost?
 - Ghost in the half-shell
 
 ## Show notes
