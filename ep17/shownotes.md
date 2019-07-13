@@ -12,7 +12,6 @@ layout: article
 title: 17. Ghost in the half-shell (仮)
 ---
 
-
 ## Title
 - Does 4n frog have half amount of 2n frog's ghost?
 - Ghost in the half-shell
@@ -60,7 +59,7 @@ title: 17. Ghost in the half-shell (仮)
 - [Final Fantasy](https://www.finalfantasy.com/)
 - [トルネコの大冒険 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AB%E3%83%8D%E3%82%B3%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA_%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3)
 - [「不思議のダンジョン」の絶妙なゲームバランスは、たった一枚のエクセルから生み出されている！？](https://news.denfaminicogamer.jp/projectbook/dungeon)
-- [Transfer-messenger RNA, tRNA  (Wikipedia)](https://en.wikipedia.org/wiki/Transfer-messenger_RNA)
+- [Transfer-messenger RNA, tRNA (Wikipedia)](https://en.wikipedia.org/wiki/Transfer-messenger_RNA)
 - [BLAST (Basic Local Alignment Search Tool)](https://blast.ncbi.nlm.nih.gov/Blast.cgi)...相同なDNA塩基を検索するためのツール。バイオインフォマティクスにとっては最も重要なツールである。
 - 目BLAST...職人芸。研究者の一部には、DNAを配列同士を見比べるだけで相同検索ができる(といわれている都市伝説的な、もしくは見栄を張って自称している)人たちがいる。共感覚との関係性に興味がある。転じて、文章の相同性を目で検索する時にも使われる(レポートのコピペなど)。
 - RNAの二次構造...RNAやDNAは相補的な塩基同士によって特徴的な二次構造を取る。
@@ -68,6 +67,6 @@ title: 17. Ghost in the half-shell (仮)
 - [SPY×FAMILY](https://shonenjumpplus.com/episode/10834108156648240735)
 
 ## Editorial notes
-- (soh)
+- 台本のないゆるふわトークでも案外みんなの引き出しが多くていけるものですな (soh)
 - (coela)
-- 私の体の脂肪は、4倍体になったから大きくなったわけではありません。 (tadasu)
+- 私の体の脂肪は、4倍体になったから大きくなったわけではありません (tadasu)
