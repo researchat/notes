@@ -28,7 +28,7 @@ title: 17. Ghost in the half-shell (仮)
 - [Nucleus-to-cytoplasm ratio](https://librepathology.org/wiki/Nucleus-to-cytoplasm_ratio)
 - [Genome evolution in the allotetraploid frog Xenopus laevis](https://www.nature.com/articles/nature19840)...アフリカツメガエルのゲノム解読に関する論文
 - [Xenopus ruwenzoriensis](https://en.wikipedia.org/wiki/Uganda_clawed_frog)...ウガンダツメガエル。脅威のdodecaploidy(12n、十二倍体)の染色体を持つ。
-- [The fate of duplicated immunity genes in the dodecaploid Xenopus ruwenzoriensis.](https://www.ncbi.nlm.nih.gov/pubmed/19273062)...貴重な写真付き。ウガンダツメガエルと他のアフリカツメガエルの比較あり。Xenopus tropicalis(二倍体)とは近い大きさ。Xenopus aevis (異質四倍体)の方が大きい。ただ、ポッドキャスト内で話したようにおたまじゃくしの大きさを比較した方が、発生生物学的には意味がある(成体はどんどん成長してしまうので)。
+- [The fate of duplicated immunity genes in the dodecaploid Xenopus ruwenzoriensis.](https://www.ncbi.nlm.nih.gov/pubmed/19273062)...貴重な写真付き。ウガンダツメガエルと他のアフリカツメガエルの比較あり。Xenopus tropicalis(二倍体)とは近い大きさ。Xenopus laevis (異質四倍体)の方が大きい。ただ、ポッドキャスト内で話したようにおたまじゃくしの大きさを比較した方が、発生生物学的には意味がある(成体はどんどん成長してしまうので)。
 - [パラケルスス](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B1%E3%83%AB%E3%82%B9%E3%82%B9)...
 - [クセノフィオフォラ](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%BB%E3%83%8E%E3%83%95%E3%82%A3%E3%82%AA%E3%83%95%E3%82%A9%E3%83%A9)...体長数mmから数十cmの巨大な単細胞の原生動物
 - [バオバブにあるバー](https://matome.naver.jp/odai/2139348699884464901)...南アフリカ共和国に存在する樹齢6000年のバオバブに作られたバー。通称Pub tree。この記事では樹齢6000年のバオバブにつくられたバーとなっている。
