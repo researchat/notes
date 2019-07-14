@@ -30,7 +30,7 @@ title: 17. Ghost in the half-shell (仮)
 - [Xenopus ruwenzoriensis](https://en.wikipedia.org/wiki/Uganda_clawed_frog)...ウガンダツメガエル。脅威のdodecaploidy(12n、十二倍体)の染色体を持つ。染色体数の記述としては2n=108。
 - [The fate of duplicated immunity genes in the dodecaploid Xenopus ruwenzoriensis.](https://www.ncbi.nlm.nih.gov/pubmed/19273062)...貴重な写真付き。ウガンダツメガエル(2n=108)と他のアフリカツメガエルの比較あり。Xenopus tropicalis(二倍体, 2n = 20)とは近い大きさ。Xenopus laevis (異質四倍体, 2n = 36)の方が大きい。ただ、ポッドキャスト内で話したようにおたまじゃくしの大きさを比較した方が、発生生物学的には意味がある(成体はどんどん成長してしまうので)。
 - [異質倍数体](https://kotobank.jp/word/%E7%95%B0%E8%B3%AA%E5%80%8D%E6%95%B0%E4%BD%93-1268310)... 2種類以上のゲノムで構成されている倍数体。
-- [パラケルスス](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B1%E3%83%AB%E3%82%B9%E3%82%B9)
+- [パラケルスス](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B1%E3%83%AB%E3%82%B9%E3%82%B9)...鋼の錬金術師の主人公兄弟のファミリーネームもパラケルススが元ネタだったりします。
 - [クセノフィオフォラ](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%BB%E3%83%8E%E3%83%95%E3%82%A3%E3%82%AA%E3%83%95%E3%82%A9%E3%83%A9)...体長数mmから数十cmの巨大な単細胞の原生動物
 - [バオバブにあるバー](https://matome.naver.jp/odai/2139348699884464901)...南アフリカ共和国に存在する樹齢6000年のバオバブに作られたバー。通称Pub tree。この記事では樹齢6000年のバオバブにつくられたバーとなっている。
 - [Sunland Baobab: サンランドバオバブ](https://en.wikipedia.org/wiki/Sunland_Baobab)...このバーが存在していたバオバブの木。現在、既に木は大破してしまい、このバーは存在していない。2016年と2017年に大破してしまったらしい。
@@ -63,10 +63,12 @@ title: 17. Ghost in the half-shell (仮)
 - [BLAST (Basic Local Alignment Search Tool)](https://blast.ncbi.nlm.nih.gov/Blast.cgi)...相同なDNA塩基を検索するためのツール。バイオインフォマティクスにとっては最も重要なツールである。
 - 目BLAST...職人芸。研究者の一部には、DNAを配列同士を見比べるだけで相同検索ができる(といわれている都市伝説的な、もしくは見栄を張って自称している)人たちがいる。共感覚との関係性に興味がある。転じて、文章の相同性を目で検索する時にも使われる(レポートのコピペなど)。
 - RNAの二次構造...RNAやDNAは相補的な塩基同士によって特徴的な二次構造を取る。
+- [Dot-bracket format](https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html/rna_structure_notations.html)...RNAの二次構造の表現方法の一つ。podcast中ではちゃんと答えられませんでしたが拡張版のExtended Dot-braketを使えばpseudo-knotなども表現可能です。他にもStockholm formatなど、いろいろあります。
+- Dot-braket formatの例...大腸菌のAla-tRNAの例。tRNAはわかりやすいので訓練におすすめです。「(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....」 
 - [RNA fold](http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi)...RNA二次構造の予測ソフトウェアの一つ。Webから利用できる。
 - [SPY×FAMILY](https://shonenjumpplus.com/episode/10834108156648240735)
 
 ## Editorial notes
 - 台本のないゆるふわトークでも案外みんなの引き出しが多くていけるものですな (soh)
-- (coela)
+- エンジニアが投げてくるのはマサカリだった気もしますが、トマホークの方が投げやすそうなのでセーフということで！(coela)
 - 私の体の脂肪は、4倍体になったから大きくなったわけではありません (tadasu)
