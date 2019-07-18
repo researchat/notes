@@ -19,7 +19,8 @@
 - NABC
 - マネー・ショート
 - Netflix, 殺人犯の視聴率
-- sako
+- [sako](http://fgamers.saikyou.biz/?sako)
+- [sako選手のtwitter](https://twitter.com/sakonoko)
 
 
 ## Editorial notes
