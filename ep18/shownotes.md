@@ -21,6 +21,12 @@
 - Netflix, 殺人犯の視聴率
 - [sako](http://fgamers.saikyou.biz/?sako)
 - [sako選手のtwitter](https://twitter.com/sakonoko)
+- [Sako(Kage) VS Oil King(Rashid)](https://www.youtube.com/watch?v=hoC9B0GYWck)
+- [sakoがアクションRPGでも超絶コンボ！](https://www.youtube.com/watch?v=YHA3oDbMxIw)
+- [New Best of Sako (SFIV)](https://www.youtube.com/watch?v=ojy9e_73AKw)
+- [Best of Sako Menat (SFV)](https://www.youtube.com/watch?v=_PSx897L7U4)
+- [Sako Infinite Vampire Savior (Sakoコンボ)](https://www.youtube.com/watch?v=kv--bZBXQ8U)
+
 
 
 ## Editorial notes
