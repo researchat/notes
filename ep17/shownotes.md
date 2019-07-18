@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/17.mp3
 audio_file_size: 91190673
-date: 2019-07-14 09:00:00 +0900
+date: 2019-07-15 08:55:00 +0900
 description: カルビーの新ジャガイモ・ぽろしりの凄さ、個体サイズと染色体数・細胞数の関係性、バオバブバー閉店、世界の武器、象、ゲーム開発や研究における職人技について話しました。(出演：tadasu、soh、coela）
 duration: "01:34:59"
 layout: article
@@ -65,7 +65,7 @@ title: 17. Ghost in the half-shell (仮)
 - 目BLAST...職人芸。研究者の一部には、DNAを配列同士を見比べるだけで相同検索ができる(といわれている都市伝説的な、もしくは見栄を張って自称している)人たちがいる。共感覚との関係性に興味がある。転じて、文章の相同性を目で検索する時にも使われる(レポートのコピペなど)。
 - RNAの二次構造...RNAやDNAは相補的な塩基同士によって特徴的な二次構造を取る。
 - [Dot-bracket format](https://www.tbi.univie.ac.at/RNA/ViennaRNA/doc/html/rna_structure_notations.html)...RNAの二次構造の表現方法の一つ。podcast中ではちゃんと答えられませんでしたが拡張版のExtended Dot-braketを使えばpseudo-knotなども表現可能です。他にもStockholm formatなど、いろいろあります。
-- Dot-braket formatの例...大腸菌のAla-tRNAの例。tRNAはわかりやすいので訓練におすすめです。「(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....」 
+- Dot-braket formatの例...大腸菌のAla-tRNAの例。tRNAはわかりやすいので訓練におすすめです。例えば右のような感じ： `(((((((..((((........)))).(((((.......))))).....(((((.......))))))))))))....`
 - [RNA fold](http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi)...RNA二次構造の予測ソフトウェアの一つ。Webから利用できる。
 - [SPY×FAMILY](https://shonenjumpplus.com/episode/10834108156648240735)
 
