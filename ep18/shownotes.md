@@ -1,5 +1,5 @@
 ## Title
-- Wikipedna
+- WikipeDNA
 
 ## Show notes
 - DNA data storage
