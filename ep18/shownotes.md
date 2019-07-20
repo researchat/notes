@@ -3,8 +3,10 @@
 
 ## Show notes
 - DNA data storage
-- CATALOG Inc
-- NBT, Random access of DNA led by MS research
+- [CATALOG](https://catalogdna.com/)...ボストンにあるDNAデータストレージ技術を開発しているスタートアップ
+- [Startup packs all 16GB of Wikipedia onto DNA strands to demonstrate new storage tech](https://www.cnet.com/news/startup-packs-all-16gb-wikipedia-onto-dna-strands-demonstrate-new-storage-tech/)...16GBのwikipediaの全データをDNAに書き込んだと発表した
+- [Some good news from CATALOG (社内ブログ)](https://catalogdna.com/uncategorized/some-good-news-from-catalog/)...最初のPOC実験によって、1kbのデータを初めて書き込むことに成功したときの興奮が伝わってくる
+- [Random access in large-scale DNA data storage. Nature Biotechnology, 2018](https://www.nature.com/articles/nbt.4079)...Microsoft社によりランダムアクセスを可能にしたDNAデータストレージ技術が発表され、200MB程度の動画データなどの書き込みと読み出しが実現された。
 - George Church Next-Generation Digital Information Storage in DNA
 - 誤り訂正符号
 - 符号理論
