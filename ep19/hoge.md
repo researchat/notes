@@ -7,3 +7,4 @@
 - https://wired.jp/2017/07/23/to-understand-elon-musk/
 - https://www.coindeskjapan.com/9588/
 - https://medium.com/@cormiston/the-elon-musk-business-model-canvas-b0964e8c880f
+- https://matome.naver.jp/odai/2141012026079638301
