@@ -19,3 +19,4 @@
 - https://hackernoon.com/neuralink-is-building-the-most-privacy-invasive-technology-of-our-time-3edf51ce448c
 - https://twitter.com/KawasakiKR11/status/1151369119406710785
 - https://venturebeat.com/2019/07/16/neuralinks-technology-embeds-tiny-wires-in-the-brain-to-read-electrical-pulses/?utm_campaign=AI%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
+- https://www.cnn.com/2019/07/20/tech/elon-musk-neuralink-brain-chip-experts/index.html?utm_term=link&utm_content=2019-07-20T17%3A11%3A03&utm_source=twCNN&utm_medium=social
