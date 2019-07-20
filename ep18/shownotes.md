@@ -1,5 +1,7 @@
 ## Title
 - WikipeDNA
+- Everything into DNA
+- The startup nightmare
 
 ## Show notes
 - [CATALOG](https://catalogdna.com/)...ボストンにあるDNAデータストレージ技術を開発しているスタートアップ。
