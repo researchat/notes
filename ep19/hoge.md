@@ -9,7 +9,13 @@
 - https://medium.com/@cormiston/the-elon-musk-business-model-canvas-b0964e8c880f
 - https://matome.naver.jp/odai/2141012026079638301
 
+- neuralink
 
 - https://japan.cnet.com/article/35140149/3/
 - https://www.gizmodo.jp/2019/07/neuralink-hello-world.html
 - https://japanese.engadget.com/2019/07/18/neuralink-ai/
+- https://www.newshub.co.nz/home/world/2019/07/elon-musk-wants-to-hook-your-brain-up-to-a-computer.html
+- https://www.rt.com/news/464373-elon-musk-unveils-neuralink-implant/
+- https://hackernoon.com/neuralink-is-building-the-most-privacy-invasive-technology-of-our-time-3edf51ce448c
+- https://twitter.com/KawasakiKR11/status/1151369119406710785
+- https://venturebeat.com/2019/07/16/neuralinks-technology-embeds-tiny-wires-in-the-brain-to-read-electrical-pulses/?utm_campaign=AI%20Weekly&utm_medium=email&utm_source=Revue%20newsletter
