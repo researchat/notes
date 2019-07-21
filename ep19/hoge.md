@@ -1,6 +1,8 @@
 - Neuralink
-- 1.彼らの最終的な目標、到達点、ゴール (戦略:10年)
+- 1. 彼らの最終的な目標、到達点、ゴール (戦略:10年)
 - 2. 現時点での目標(戦術:3年)
+- Neorons represent information in the rate statistics and precise timing of spikes.
+- Our goal is to record from and selectively stimulate as many neurons as possible across diverse brain areas.
 - 3. 今回達成したこと(作戦:今)
 - 周りの現状(論文のintroduction)
 - Scientificに新しいこと
@@ -11,6 +13,12 @@
 - Elon Muskの戦略
 - 論文の構成
 - アルゴリズムについて  
+- N1 Sensor
+- 1. Threads
+- 2. Robots
+- 3. Electoronics
+- 4. Algorithms
+- 
 
 
 - 1. Threads
