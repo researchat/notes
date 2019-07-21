@@ -1,3 +1,28 @@
+- Neuralink
+- 1.彼らの最終的な目標、到達点、ゴール (戦略:10年)
+- 2. 現時点での目標(戦術:3年)
+- 3. 今回達成したこと(作戦:今)
+- 周りの現状(論文のintroduction)
+- Scientificに新しいこと
+- テクノロジーとして新しいこと (過去の研究と比べての数値達成率)
+- これからどうなっていくか(直近の目標)
+- memberの構成
+- ミシンの過去の論文について
+- Elon Muskの戦略
+- 論文の構成
+- アルゴリズムについて  
+
+
+- 1. Threads
+- 我々は小さくて柔軟な電極である"threads(糸)"の配列を作ってきた。これは3072の電極が96の"threads"を通してdistributeしている。(1 threads 32電極)
+- 2. Robot
+- 我々は神経手術用のロボットを開発した。これは192の電極(6threads x 32)を1分間に埋め込むことができる。それぞれのthreadは個別に脳の目標としている特異的な領域にに挿入することができ、ミクロンレベルでの精度で表面血管系をを避けながら行うことができる。
+- 3. Electronics
+- 電極配列は小さな埋め込み可能なデバイスへと収納され、そのデバイスは low-power on-board amplification and digitization用のカスタムチップと、23*18.5*2mm^3以下の3072チャンネルを含む。*low-power on-board amplification and digitization: チップ上で、小さな出力を増幅し、デジルタル化できる。
+USB-Cケーブルは広帯域のデータストリーミングをデバイスから行い、同時に全てのチャネルからのデータを記録する。
+
+
+
 - http://kajikenblog.com/?p=3722
 - https://wired.jp/2015/01/20/hyperloop-test-track/
 - https://logmi.jp/business/articles/43469
