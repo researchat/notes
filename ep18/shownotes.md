@@ -1,3 +1,17 @@
+---
+actor_ids:
+  - tadasu
+  - soh
+  - coela
+audio_file_path: /audio/18.mp3
+audio_file_size: 99691751
+date: 2019-07-15 18:52:00 +0900
+description: DNAに大容量のデジタルデータを書き込む技術を開発したベンチャーとその周辺技術、シリコンバレーで巨額の投資を受けたTheranosの一連の顛末を取り上げ、バイオ系ベンチャーにおける技術開発の難しさ、格ゲーの大会の盛り上がりについて話しました。(出演：tadasu、soh、coela）
+duration: "01:09:03"
+layout: article
+title: 18. TBA
+---
+
 ## Title
 - WikipeDNA
 - Everything into DNA
