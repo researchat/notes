@@ -18,7 +18,7 @@
 - 2. Robots
 - 3. Electoronics
 - 4. Algorithms
-- 
+- BMIの仕組み
 
 
 - 1. Threads
