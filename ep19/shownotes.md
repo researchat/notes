@@ -1,4 +1,9 @@
-ep 19. Neuron Musk
+## Title
+Neuron Musk
 
+## Shownotes
 
-
+## Editorial notes
+(soh)
+(coela)
+(tadasu)
