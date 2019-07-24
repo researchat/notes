@@ -17,10 +17,10 @@ permalink: /blog/3/
 
 ## YouTube
 [Neuralink Launch Event](https://www.youtube.com/watch?v=r-vbh3t7WVI)
-- Elon Mask-> Max Hodak->Matt Mcdougall -> Vanessa Tolosa-> DJ Seo -> Philip Sabes -> 質疑応答
+- Elon Mask-> Max Hodak->Matt Mcdougall -> Vanessa Tolosa-> DJ Seo -> Philip Sabes -> 質疑応答 (発表内での順番)
 
 ## podcast (ep19)
-[Neuron Musk](https://researchat.fm/episode/19)
+[19. Neuron Musk](https://researchat.fm/episode/19)
 
 ## もう少し詳しい資料
 [Scrapbox(Musk_bioRxiv_2019)](https://scrapbox.io/researchatfm/Musk_bioRxiv_2019)
@@ -63,3 +63,54 @@ permalink: /blog/3/
 - BMIによる脳への情報の"書き込み"
   - DBS（Deep Brain  Stimulation：深部脳刺激) ... 侵襲性
   - TMS（Transcranial magnetic stimulation：経頭蓋磁気刺激法) ... 非侵襲性、渦電流によって脳の誘導刺激を行う。
+
+## 発表内容
+- 科学的命題
+  - BMIによる脳のdecoding研究は大量の数のニューロンからの情報を記録/書き込みできないことによって制限されてきた。
+
+- 解決するべき課題
+	 - 大量で広範囲に渡るニューロンの情報を正確に読み書きできる。
+	 - 長期間使えて、免疫応答を起こさない。
+　- 感染症や脳損傷のリスクがひくい安全な手術方法
+  - できるだけ小さく、超低エネルギーで稼働
+	 - リアルタイム、かつon-chipで超高速計算できるアルゴリズムとチップの開発 
+
+この問題を1.threads, 2. robots, 3. electornics, 4. algorithmの観点から解決する。
+
+
+1. Threads (Vanessa Tolosa, Speaker in YouTube)
+	極薄微小電極の開発
+概要
+	活動電位を記録するために最重要なテクノロジーであるが、大きいスケールで記録可能な微小電極の技術はこれまでに無い。
+
+これまで
+	多くの長期神経記録のデバイスには硬質な金属や半導体技術によって作られた微小電極アレイが使われてきた。
+	硬質な金属は脳にささるが、脳組織の間でミスマッチが免疫応答を駆動させ、これらのデバイスの機能と寿命を制限している。
+	アレイの固定形状(例えばユタアレイ)は、血管のせいで、アクセスすることができるニューロンの数を制限する。
+要求
+	1. 小さくて柔らかい
+	2. 高い生体適合性で免疫応答を起こさない
+	3. 腐食を起こさないための (airtight packaging)密閉性
+	4. 読み出すだけではなく刺激することも可能　(highly functioning BMI)
+	5. 製造プロセスがscalableである
+	6. そして長い寿命がマテリアルの能力として求められる。
+この要求を満たすものはない
+
+アイデア
+	代替案は柔らかい、複数の電極ポリマープローブを用いることである。(要は剣山を作るんじゃなくて一本一本埋め込む)。
+	この電極ポリマープローブは金属と比べて生体適合性が高い。
+	このアプローチの欠点は、薄いポリマープローブは直接脳に挿入できるほど硬くはないため、なんらかの方法で促進する必要がある。そして一本一本植えるので遅い。
+		薄いポリマープローブの開発とそれらのプローブを独立に、かつ高速・確実に複数の脳の領域に挿入することができるロボットの開発
+	小型化の課題
+ 	ワイヤーを小さくする。(断面積を小さくする）R =　抵抗率x長さ/断面積
+ 		抵抗が大きくなる
+ 			S/Nが悪くなる。
+ 	Many wires
+ 		complex　複雑
+ 			Manufacturing　製造が難しい
+ 	Tiny electrodes (よくわからん、触れられていない)
+ 		high stimulation　刺激が大きくなる
+			materials and tissue マテリアル&Tissuesの問題
+	一つのポリマープローブにたくさんの電極をつける。
+
+
