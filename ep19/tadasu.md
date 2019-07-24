@@ -11,34 +11,32 @@ permalink: /blog/3/
 内容に間違えがあった場合、[Twitter](https://twitter.com/researchat_fm)か[メッセージフォーム](https://researchat.fm/form.html)にご連絡いただけると助かります。
 
 ## 論文
-[An integrated brain-machine interface platform with thousands of channels](https://www.biorxiv.org/content/10.1101/703801v1)
-- Musk and Neuralink, bioRxiv 2019 ... 今回のNeuralinkの発表とともに公開。メイン論文。科学研究論文というよりは企業が公開するホワイトペーパーという形態である。
+- [An integrated brain-machine interface platform with thousands of channels](https://www.biorxiv.org/content/10.1101/703801v1)
+  - Musk and Neuralink, bioRxiv 2019 ... 今回のNeuralinkの発表とともに公開。メイン論文。科学研究論文というよりは企業が公開するホワイトペーパーという形態である。
 
-[The “sewing machine” for minimally invasive neural recording](https://www.biorxiv.org/content/10.1101/578542v1)
-- Hanson et al. bioRxiv 2019 ... 2019年の3月にUCSFから発表されていた論文。ラストオーサーのPhilip Sabesは現在NeuralinkのSenior Scientist。今回の発表の根幹を担う技術についてかなり詳しく述べられている。発表時にNeuralinkとの関係は示されていない。
+- [The “sewing machine” for minimally invasive neural recording](https://www.biorxiv.org/content/10.1101/578542v1)
+  - Hanson et al. bioRxiv 2019 ... 2019年の3月にUCSFから発表されていた論文。ラストオーサーのPhilip Sabesは現在NeuralinkのSenior Scientist。今回の発表の根幹を担う技術についてかなり詳しく述べられている。発表時にNeuralinkとの関係は示されていない。
 
 ## YouTube
-[Neuralink Launch Event](https://www.youtube.com/watch?v=r-vbh3t7WVI)
-- Elon Mask-> Max Hodak-> Matt Mcdougall -> Vanessa Tolosa-> DJ Seo -> Philip Sabes -> 質疑応答 (発表内での順番)
+- [Neuralink Launch Event](https://www.youtube.com/watch?v=r-vbh3t7WVI)
+  - Elon Mask-> Max Hodak-> Matt Mcdougall -> Vanessa Tolosa-> DJ Seo -> Philip Sabes -> 質疑応答 (発表内での順番)
 
 ## Podcast (ep19)
-[19. Neuron Musk](https://researchat.fm/episode/19)
+- [19. Neuron Musk](https://researchat.fm/episode/19)
 
 ## Neuralinkとは
- [Neuralink](https://www.neuralink.com/): 2016年7月に創業、最初の大きな報道は2017年4月
- Elon MuskがOwner
-- 1.彼らの最終的な目標、到達点、ゴール
-  - 人間とAIを融合させる。
-- 2. 現時点での目標
-  - 長期間、生体適合性がある侵襲性デバイスの開発
-  - 広範囲な脳の領域において、同時に数十万の神経細胞ニューロンの活動を読み書きできる。
-- 3. 今回達成したこと
-  - "侵襲性"BMIを達成するために必要なNeuralinkの基幹技術の開発(1. threads, 2. robots, 3. electronics, 4. algorithm)
-  - Ratにおける実験(読み出しのみ)
-  - [質疑応答によると猿でも実験はすすんでいるらしい (コンピューター(カーソル?)をBMIを通して動かすことができるサル)](https://www.msn.com/en-us/video/l/elon-musks-neuralink-reveals-monkey-was-able-to-control-computer-with-its-brain/vp-AAEsApu)
+- [Neuralink](https://www.neuralink.com/): 2016年7月に創業、最初の大きな報道は2017年4月、Elon MuskがOwner
+  - 1.彼らの最終的な目標、到達点、ゴール
+    - 人間とAIを融合させる。
+  - 2. 現時点での目標
+    - 長期間、生体適合性がある侵襲性デバイスの開発
+    - 広範囲な脳の領域において、同時に数十万の神経細胞ニューロンの活動を読み書きできる。
+  - 3. 今回達成したこと
+    - "侵襲性"BMIを達成するために必要なNeuralinkの基幹技術の開発(1. threads, 2. robots, 3. electronics, 4. algorithm)
+    - Ratにおける実験(読み出しのみ)
+    - [質疑応答によると猿でも実験はすすんでいるらしい (コンピューター(カーソル?)をBMIを通して動かすことができるサル)](https://www.msn.com/en-us/video/l/elon-musks-neuralink-reveals-monkey-was-able-to-control-computer-with-its-brain/vp-AAEsApu)
  
-## これまで
-どうやって脳と機械、コンピューターをつなげるのか。
+## どうやって脳と機械、コンピューターをつなげるのか
 - BMI(Brain Machine interface)とは
   - 脳内における情報の伝達と処理は神経細胞（ニューロン）の働きによる。
   - ニューロンは電気信号を使って情報伝達する。
