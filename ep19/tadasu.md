@@ -17,7 +17,7 @@ permalink: /blog/3/
 
 ## YouTube
 [Neuralink Launch Event](https://www.youtube.com/watch?v=r-vbh3t7WVI)
-- Elon Mask-> Max Hodak->Matt Mcdougall -> Vanessa Tolosa-> DJ Seo -> Philip Sabes -> 質疑応答 (発表内での順番)
+- Elon Mask-> Max Hodak-> Matt Mcdougall -> Vanessa Tolosa-> DJ Seo -> Philip Sabes -> 質疑応答 (発表内での順番)
 
 ## podcast (ep19)
 [19. Neuron Musk](https://researchat.fm/episode/19)
@@ -89,11 +89,23 @@ permalink: /blog/3/
   - 3. 腐食を起こさないための (airtight packaging)密閉性
   - 4. 読み出すだけではなく刺激することも可能　(highly functioning BMI)
   - 5. 製造プロセスがscalableである
-  - 6. そして長い寿命がマテリアルの能力として求められる。
+  - 6. 長い寿命
 
 - アイデア
-   - 代替案は柔らかい、複数の電極ポリマープローブを用いることである。(要は剣山を作るんじゃなくて一本一本埋め込む)。
+   - 代替案は柔らかい、複数の電極ポリマープローブを用いることである (要は剣山を作るんじゃなくて一本一本埋め込む)。
    - 電極ポリマープローブは金属と比べて生体適合性が高い。
-   - このアプローチの欠点は、薄いポリマープローブは直接脳に挿入できるほど硬くはないため、なんらかの方法で促進する必要がある。そして一本一本植えるので遅い。
+   - このアプローチの欠点は、薄いポリマープローブは直接脳に挿入できるほど硬くはないため、なんらかの方法で挿入を促進する必要がある。そして一本一本植えるので剣山型と比べて遅い。
+   - 一本のポリマープローブに、レイヤーを追加してたくさんの電極をつけることで太くすることなく電極の数を増やした。(linear edge, tree edge)
+   
+- threads(薄膜ポリマープローブ)の作り方と性能
+  - threadsは半導体チップと同様の方法で作られる。depositing material, patterning materials, フォトリソグラフィ->エッチングのパターンでつくる(らしい)。
+  - ポリイミドによって 金属をカプセル化することで絶縁する。  
 
+- threads(薄膜ポリマープローブ)の性能
+  - 5µmの厚みで44µmの太さ(髪の毛が100µm)
+  - 一般的なthreadの長さは約20mm。
+    - ニューロンの大きさは数µm-数十µmが一般的なので一つの電極に触れるのは1個-数個程度のニューロン
+  - 1本のthreadsには32電極
+  - 電極の一つの大きさは14 x 24 mm^2
+  - それぞれのthreadは手術時にロボットが針を通すための、16 x 50 µm^2のループを端にもつ。(が埋め込まれるのはループ側)。
 	
