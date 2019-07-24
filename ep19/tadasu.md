@@ -7,6 +7,8 @@ author: tadasu
 permalink: /blog/3/
 ---
 
+この記事は神経工学や電気生理学、脳科学の専門家が書いたものではありません。
+内容に間違えがあった場合、[Twitter](https://twitter.com/researchat_fm)か[メッセージフォーム](https://researchat.fm/form.html)からご連絡いただけると助かります。
 
 ## 論文
 [An integrated brain-machine interface platform with thousands of channels](https://www.biorxiv.org/content/10.1101/703801v1)
@@ -19,7 +21,7 @@ permalink: /blog/3/
 [Neuralink Launch Event](https://www.youtube.com/watch?v=r-vbh3t7WVI)
 - Elon Mask-> Max Hodak-> Matt Mcdougall -> Vanessa Tolosa-> DJ Seo -> Philip Sabes -> 質疑応答 (発表内での順番)
 
-## podcast (ep19)
+## Podcast (ep19)
 [19. Neuron Musk](https://researchat.fm/episode/19)
 
 ## もう少し詳しい資料
@@ -165,16 +167,17 @@ permalink: /blog/3/
 
 - 要求
   - ケーブルとコネクタは無し。
- 	- サイズを限界まで小さくする。
- 	- 消費エネルギーも限界まで小さくする。
+    - on-chipで処理を行う。
+  - サイズを限界まで小さくする。
+  - 消費エネルギーも限界まで小さくする。
   - 熱をできるだけ出さない。
- 	- ノイズを下げる。
- 	- 以下の機能を含む必要がある。
+  - ノイズを下げる。
+  - 以下の機能を含む必要がある。
     - analog amplifiers (電極からのシグナルの増幅器)
     - power management (超低エネルギーで稼働)
     - Analog-to-Digital Converter (波形情報から、01のデジタルな信号へ)
     - Processing Logic　処理論理回路
-		  - Stimulation (現段階ではまだまだだが書き込み可能にするため)
+    - Stimulation (現段階ではまだまだだが書き込み可能にするため)
     - Electrode diagnositcs (電極の診断用)
 
 - N1チップの開発 
@@ -184,25 +187,64 @@ permalink: /blog/3/
   - N1チップの性能は論文とYouTubeで異なる。YouTubeのものが最新と思われる。
   - ASICで作られる。
   
+- N1チップの構成
+  - Analog pixel (アナログピクセル)
+    - amplifier->filter->ADC(ananlog/digital converter): 電極からのシグナルの増幅器->フィルター->波形情報から、01のデジタルな信号へ
+    - 1アナログピクセル/1電極
+    - 1024 アナログピクセル/N1チップ　(32電極 x 32 threads?)
+    - 可能な限り小さく、可能な限りlow powerで、可能な限り熱を出さず、長いバッテリーランタイム、可能な限り小さいノイズ
+    - 三回の改良を繰り返した。アカデミックで発表されている一番小さいものよりも5倍小さい。大体、一片が50µmちょっと。
+
+  - on-chip spike detection
+    - 同じ電極から異なるニューロンの動きを同定できる。(これは複数のニューロンが電極にタッチしているからなのか、局所フィールド電位から見えるのか。多数の波形から推定できるのかいまいちわからない...)
+    - Analogは1秒間に20000サンプルを 10bitの解像度で捉えられる (200Mbits/second for each 1024 Analog pixel)。   
+    - データを200倍以上に圧縮する。
+    - spike detectionの計算に900ナノ秒かかる。それは脳が何がおこったか認識するより早い!!!
+    - USBCで外部にリアルタイムでだし、リアルタイムで色々計算できる。	-> (将来的に)N1のコネクターやケーブルを全て排除したい。
+    
+  - Stimulation engine
+    - ニューロンへの電気刺激を行う。
+    - 0.2µA amplitude resoltuion
+    - 7.8µs resolution
+    - 16個中1個のチャンネルで刺激可能, 64のチャネルの全ての組み合わせが同時に刺激可能
+
 - N1チップの性能と機能(YouTube版)
   - 1024 Analog Pixels
-		- 7.2µV RMS (ノイズ)
-		- 6.6 µW (Analog Pixel一個あたりが必要なエネルギー)
+  - 7.2µV RMS (ノイズ)
+  - 6.6 µW (Analog Pixel一個あたりが必要なエネルギー)
   - 10 bit（Analog Pixelのデータの解像度)
-		- Analog-to-Digital Converter
-		- 200x compression (データの圧縮)
-		- On Chip Spike detection
-    - 900ns (spike detectionの速度)
-		- stimulation engine (刺激用)
-    - 0.2µA amplitude (刺激) 
-    - 7.8µs resolution
-	 - 4 x 5mm (サイズ)
+  - Analog-to-Digital Converter (ADC)
+  - 200x compression (データの圧縮)
+  - On-Chip Spike detection
+  - 900ns (spike detectionの速度)
+  - stimulation engine (刺激用)
+    - 0.2µA amplitude (刺激)
+    - 7.8µs resolution (刺激)
+  - 4 x 5mm (サイズ)
 
-- N1チップの性能と機能(論文側、詳しくはご確認ください。Table1,2)
+- N1チップの性能と機能(論文側、詳しくはご確認ください。Table 1,2)
   - System A ... 1536チャネルレコーディングシステム, 
   - System B ... 3072チャネルレコーディングシステム
   - System Aは早くより信頼できる生産を促進するためにデザインされており、システムBよりも5倍以上の早さで、かつよりよい収率で作ることができる。
   - System Bはたくさんのチャネルで記録/書き込みすることが可能
 
+  ## 4. Algorithm
+ - これまで
+   - 多くの電気生理学者は細胞外記録のデータを吸い出した後に、スパイクソートし、偽陽性のスパイクイベントを排除することに勤める。
+   - NeuralinkのBMIはリアルタイムでスパイクを同定し、脳波のdecode効率を最大化しなければならない。
+   
+ - 要求
+   - 脳波のdecode効率を最大化
+   - on-chipで計算可能
+   - リアルタイムで計算可能
   
+  - アルゴリズムの実装
+    - 詳しいアルゴリズムの実装については述べられていない。
+    - BMIのデコーダーはスパイクソートなしで、最小限のパフォーマンスのロスで普通に動作する。
+    - 最近の研究結果では、スパイクソートはニューロンのpopulation dynamicsを測るためには必要ないことが示されている。
+      - [Trautmann et al. Neuron 2019](https://www.cell.com/neuron/fulltext/S0896-6273(19)30428-3) ... Krishna V. ShenoyはNeuralinkの顧問
+    - Permissive filterを使うことで、∼0.2 Hzまでの偽陽性を許容するが、これは本当のスパイクを落とす可能性がある厳しい閾値を使うよりも良い (Data not shown)。
+    - 閾値として >0.35 Hz をつかった。
+  
+
 
