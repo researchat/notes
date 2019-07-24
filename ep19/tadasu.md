@@ -8,7 +8,7 @@ permalink: /blog/3/
 ---
 
 この記事は神経工学や電気生理学、脳科学の専門家が書いたものではありません。
-内容に間違えがあった場合、[Twitter](https://twitter.com/researchat_fm)か[メッセージフォーム](https://researchat.fm/form.html)からご連絡いただけると助かります。
+内容に間違えがあった場合、[Twitter](https://twitter.com/researchat_fm)か[メッセージフォーム](https://researchat.fm/form.html)にご連絡いただけると助かります。
 
 ## 論文
 [An integrated brain-machine interface platform with thousands of channels](https://www.biorxiv.org/content/10.1101/703801v1)
@@ -23,9 +23,6 @@ permalink: /blog/3/
 
 ## Podcast (ep19)
 [19. Neuron Musk](https://researchat.fm/episode/19)
-
-## もう少し詳しい資料
-[Scrapbox(Musk_bioRxiv_2019)](https://scrapbox.io/researchatfm/Musk_bioRxiv_2019)
 
 ## Neuralinkとは
  [Neuralink](https://www.neuralink.com/): 2016年7月に創業、最初の大きな報道は2017年4月
