@@ -1,6 +1,8 @@
 ## Title
 Neuron Musk
 
+Elon MuskがオーナーをつとめるNeuralinkの技術とBMI周辺の動向について話しました。
+
 ## Shownotes
 - [Neuralinkまとめ](https://researchat.fm/blog/3/) ... 今回の情報をブログにまとめました。こちらをご覧ください。
 - [An integrated brain-machine interface platform with thousands of channels](https://www.biorxiv.org/content/10.1101/703801v1) ... Musk and Neuralink, bioRxiv 2019 今回のNeuralinkの発表とともに公開。メイン論文。科学研究論文というよりは企業が公開するホワイトペーパーという形態である。
@@ -16,7 +18,7 @@ Neuron Musk
 - [BMIの市場(Allied Market Research)](https://www.alliedmarketresearch.com/brain-computer-interfaces-market)
 - [State-of-the-art MEMS and microsystem tools for brain research](https://www.nature.com/articles/micronano201666)...Microsystems & Nanoengineering誌のレビュー論文。
 
-	## Editorial notes
+## Editorial notes
 - (soh)
 - 欧州の動向についても触れておくべきでした。shownoteにリンク(NITC)を貼っておきました。（coela）
 - Neuron Muskファンボーイとして頑張っていきます。(tadasu)
