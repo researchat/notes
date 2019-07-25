@@ -1,7 +1,7 @@
 ## Title
 Neuron Musk
 
-Elon MuskがオーナーをつとめるNeuralinkがbioRxivに発表した論文とLaunch Eventの内容、BMIを含む脳情報関連技術の動向について話しました。
+Elon MuskがオーナーをつとめるNeuralinkがbioRxivに発表した論文とLaunch Eventの内容、Brain Machine Interfaceを含む脳情報関連技術の動向について話しました。
 
 ## Shownotes
 - [Neuralinkまとめ](https://researchat.fm/blog/3/) ... 今回の情報をブログにまとめました。こちらをご覧ください。
@@ -17,8 +17,10 @@ Elon MuskがオーナーをつとめるNeuralinkがbioRxivに発表した論文�
 - [BMIの市場(Grand View Research)](https://www.grandviewresearch.com/industry-analysis/brain-computer-interfaces-market)
 - [BMIの市場(Allied Market Research)](https://www.alliedmarketresearch.com/brain-computer-interfaces-market)
 - [State-of-the-art MEMS and microsystem tools for brain research](https://www.nature.com/articles/micronano201666)...Microsystems & Nanoengineering誌のレビュー論文。
+- [BrainGate System](https://www.youtube.com/watch?v=QRt8QCx3BCo)
+- [LUKE Arm](https://www.youtube.com/watch?v=Zg-FH1Gn2Ls)
 
 ## Editorial notes
 - (soh)
 - 欧州の動向についても触れておくべきでした。shownoteにリンク(NITC)を貼っておきました。（coela）
-- Neuron Muskファンボーイとして頑張っていきます。(tadasu)
+- Neuron Muskのファンボーイとして頑張っていきます。(tadasu)
