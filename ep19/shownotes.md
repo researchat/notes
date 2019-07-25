@@ -1,7 +1,7 @@
 ## Title
 Neuron Musk
 
-Elon MuskがオーナーをつとめるNeuralinkの技術とBMI周辺の動向について話しました。
+Elon MuskがオーナーをつとめるNeuralinkの技術と、BMIを含む脳情報関連技術の動向について話しました。
 
 ## Shownotes
 - [Neuralinkまとめ](https://researchat.fm/blog/3/) ... 今回の情報をブログにまとめました。こちらをご覧ください。
