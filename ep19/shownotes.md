@@ -8,7 +8,7 @@ Neuron Musk
 - [Neuralink Launch Event](https://www.youtube.com/watch?v=r-vbh3t7WVI) ... Neuralinkの発表。Elon Mask-> Max Hodak-> Matt Mcdougall -> Vanessa Tolosa-> DJ Seo -> Philip Sabes -> 質疑応答 (発表内での順番)
 - [Neuralink](https://www.neuralink.com/)
 - [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) ... シリアルアントレプレナー
-- [BMI: Brain Machine Interface](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)
+- [BMI (Brain Machine Interface)](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)
 
 
 ## Editorial notes
