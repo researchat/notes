@@ -9,3 +9,9 @@
 
 - CRISPR Cytidine base editor, Adenine base editorのTranscriptome-wideなoff-target問題が明らかに。
 - https://www.nature.com/articles/s41586-019-1161-z
+
+-----
+
+- お便り紹介
+- Researchat.fmのウェブサイトを結構新しくした。
+- ブログサイトの新設、tag機能の実装、メニューバーの実装など。
