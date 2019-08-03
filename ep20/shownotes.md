@@ -4,6 +4,7 @@
 ## Shownotes
 
 
+- [栗林公園](https://www.my-kagawa.jp/ritsuringarden)
 - [会田誠による火葬パフォーマンス](https://twitter.com/makotoaida/status/372276488160026624)... 燃やしてたのはこのこと。
 - [会田誠と男木島](https://ogijima-library.or.jp/2017/12/31/moegara-aidamakoto-note/)
 - [土人@男木島](https://mizuma-art.co.jp/exhibitions/1401_aidamakoto/)... 手を振ってくれたパフォーマンスはこの土人のことです。
