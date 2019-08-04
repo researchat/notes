@@ -61,6 +61,7 @@
 - [犬島精錬所美術館](http://benesse-artsite.jp/art/seirensho.html)
 - [鬼無](https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%84%A1)...香川県高松市鬼無町。1914年に、当時の内閣総理大臣兼外務大臣であった大隈重信が鬼無駅で行った演説「この駅はオニナシかと思えば、キナシと読むそうだ。なかなか面白い地名だと思う。」の全文が読みたい。鬼無駅には桃太郎電鉄の石像あり。
 - [蜘蛛の巣をイメージさせるレースの編み物](https://blogs.yahoo.co.jp/sakainaoki1947/61567365.html)
+- [ばらかもん](https://www.amazon.co.jp/dp/B009UP33K0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 ## Editorial notes
 - (soh)
