@@ -4,7 +4,9 @@
 
 ## Shownotes
 
-- [瀬戸内芸術祭](https://setouchi-artfest.jp/)
+- [瀬戸内国際芸術祭](https://setouchi-artfest.jp/)
+- [地中美術館](http://benesse-artsite.jp/art/chichu.html)
+- [ベネッセハウス ミュージアム](http://benesse-artsite.jp/art/benessehouse-museum.html)
 - [巡回セールス問題](https://ja.wikipedia.org/wiki/%E5%B7%A1%E5%9B%9E%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%B3%E5%95%8F%E9%A1%8C)
 - [栗林公園](https://www.my-kagawa.jp/ritsuringarden)
 - [会田誠による火葬パフォーマンス](https://twitter.com/makotoaida/status/372276488160026624)... 燃やしてたのはこのこと。
