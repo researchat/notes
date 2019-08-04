@@ -19,6 +19,7 @@
 - [CoeLux](https://www.coelux.com/0
 - [家プロジェクト](http://benesse-artsite.jp/art/arthouse.html)
 - [南寺](https://setouchi-artfest.jp/artworks-artists/artworks/naoshima/7.html)
+- [Kraftwerk: Numbers](https://www.youtube.com/watch?v=4YPiCeLwh5o)
 - [栗林公園](https://www.my-kagawa.jp/ritsuringarden)
 - [会田誠による火葬パフォーマンス](https://twitter.com/makotoaida/status/372276488160026624)... 燃やしてたのはこのこと。
 - [会田誠と男木島](https://ogijima-library.or.jp/2017/12/31/moegara-aidamakoto-note/)
