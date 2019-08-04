@@ -17,6 +17,7 @@
 - [ジェームズ・タレル](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%BF%E3%83%AC%E3%83%AB)
 - [ローデンクレーター](https://www.axismag.jp/posts/2019/01/112800.html)
 - [CoeLux](https://www.coelux.com/0
+- [家プロジェクト](http://benesse-artsite.jp/art/arthouse.html)
 - [南寺](https://setouchi-artfest.jp/artworks-artists/artworks/naoshima/7.html)
 - [栗林公園](https://www.my-kagawa.jp/ritsuringarden)
 - [会田誠による火葬パフォーマンス](https://twitter.com/makotoaida/status/372276488160026624)... 燃やしてたのはこのこと。
