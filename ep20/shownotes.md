@@ -69,4 +69,4 @@
 ## Editorial notes
 - (soh)
 - (coela)
-- 猪熊弦一郎が昭和の香川アートディレクターだった。(tadasu)
+- 猪熊弦一郎が昭和のアートディレクターだった。(tadasu)
