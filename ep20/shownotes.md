@@ -23,7 +23,7 @@
 - [家プロジェクト](http://benesse-artsite.jp/art/arthouse.html)
 - [南寺](https://setouchi-artfest.jp/artworks-artists/artworks/naoshima/7.html)
 - [Kraftwerk: Numbers](https://www.youtube.com/watch?v=4YPiCeLwh5o)
-- 護王神社 ... 裏から下に入れます。
+- [護王神社](https://trip-setouchi.com/naoshima/art/shrine.html) ... 裏から下に入れます。
 - [栗林公園](https://www.my-kagawa.jp/ritsuringarden)
 - [イサム・ノグチ庭園美術館](http://www.isamunoguchi.or.jp/)... イサム・ノグチを香川につれてきたのも猪熊弦一郎である。ここにも猪熊氏の手腕が光る。イサム・ノグチと丹下健三の関係性については広島平和記念公園のコンペについて調べていただきたい。
 - [丸亀市猪熊弦一郎現代美術館](http://www.mimoca.org/ja/)
