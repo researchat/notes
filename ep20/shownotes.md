@@ -15,6 +15,8 @@
 - [巡回セールス問題](https://ja.wikipedia.org/wiki/%E5%B7%A1%E5%9B%9E%E3%82%BB%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%9E%E3%83%B3%E5%95%8F%E9%A1%8C)
 - [ウォルター・デ・マリア](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%87%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2)
 - [ジェームズ・タレル](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%BF%E3%83%AC%E3%83%AB)
+- [ローデンクレーター](https://www.axismag.jp/posts/2019/01/112800.html)
+- [南寺](https://setouchi-artfest.jp/artworks-artists/artworks/naoshima/7.html)
 - [栗林公園](https://www.my-kagawa.jp/ritsuringarden)
 - [会田誠による火葬パフォーマンス](https://twitter.com/makotoaida/status/372276488160026624)... 燃やしてたのはこのこと。
 - [会田誠と男木島](https://ogijima-library.or.jp/2017/12/31/moegara-aidamakoto-note/)
