@@ -45,6 +45,7 @@
 - [男木小学校の理科室に貼られていた標語: @tarumiさんのtwitterから拝借しました](https://twitter.com/tarumi/status/363668446216585216)
 - [デビアス](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%82%A2%E3%82%B9) ... ダイヤモンドの会社
 - [タダノ](http://www.tadano.co.jp/)... クレーンといえばタダノ
+- [総合的な学習の時間](http://www.mext.go.jp/a_menu/shotou/sougou/main14_a2.htm)
 
 - [鬼無](https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%84%A1)...香川県高松市鬼無町。1914年に、当時の内閣総理大臣兼外務大臣であった大隈重信が鬼無駅で行った演説「この駅はオニナシかと思えば、キナシと読むそうだ。なかなか面白い地名だと思う。」の全文が読みたい。鬼無駅には桃太郎電鉄の石像あり。
 - [本焼き板](https://ojkobo.co.jp/yakiita/)... 木材の表面を高温で焼くことで炭化させた外装材。防虫・調湿効果がある。岡山でよく見られる。
