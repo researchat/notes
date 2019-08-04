@@ -32,11 +32,12 @@
 - [瀬戸内のアートディレクターはあの猪熊弦一郎だった！](http://discoverjapan-web.com/article/1617)... 奇しくも同じ結論にたどり着いた記事を見つけたので掲載しておく。猪熊弦一郎、イサム・ノグチについてはチャンスがあればまたどこかで話したい。
 - [華ひらく](https://mitsukoshi.mistore.jp/onlinestore/shops/hanahiraku/index.html)...猪熊弦一郎氏によってデザインされた、日本の百貨店初のオリジナル包装紙「華ひらく」。Mitsukoshiの字は当時三越宣伝部の社員だった漫画家、やなせたかしさんによるもの。
 - [金子正則](https://ja.wikipedia.org/wiki/%E9%87%91%E5%AD%90%E6%AD%A3%E5%89%87) ... 元香川県知事
+- [丸亀町商店街](https://www.kame3.jp/)...丸亀町商店街は全国の商店街復興のシンボルとなっている。
+- [日本一長いアーケード街](https://www.rub-lab.com/rublog/2017/05/13/column207/)
 
 - [会田誠による火葬パフォーマンス](https://twitter.com/makotoaida/status/372276488160026624)... 燃やしてたのはこのこと。
 - [会田誠と男木島](https://ogijima-library.or.jp/2017/12/31/moegara-aidamakoto-note/)
 - [土人@男木島](https://mizuma-art.co.jp/exhibitions/1401_aidamakoto/)... 手を振ってくれたパフォーマンスはこの土人のことです。
-- [丸亀町商店街](https://www.kame3.jp/)...丸亀町商店街は全国の商店街復興のシンボルとなっている。
 - [鬼無](https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%84%A1)...香川県高松市鬼無町。1914年に、当時の内閣総理大臣兼外務大臣であった大隈重信が鬼無駅で行った演説「この駅はオニナシかと思えば、キナシと読むそうだ。なかなか面白い地名だと思う。」の全文が読みたい。鬼無駅には桃太郎電鉄の石像あり。
 - [本焼き板](https://ojkobo.co.jp/yakiita/)... 木材の表面を高温で焼くことで炭化させた外装材。防虫・調湿効果がある。岡山でよく見られる。
 - [タダノ](http://www.tadano.co.jp/)... クレーンといえばタダノ
