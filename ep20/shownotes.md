@@ -44,8 +44,12 @@
 - [土人@男木島](https://mizuma-art.co.jp/exhibitions/1401_aidamakoto/)... 手を振ってくれたパフォーマンスはこの土人のことです。
 - [男木小学校の理科室に貼られていた標語: @tarumiさんのtwitterから拝借しました](https://twitter.com/tarumi/status/363668446216585216)
 - [デビアス](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%82%A2%E3%82%B9) ... ダイヤモンドの会社
-- [タダノ](http://www.tadano.co.jp/)... クレーンといえばタダノ
+- [TADANO](http://www.tadano.co.jp/)... クレーンといえばTADANO
 - [総合的な学習の時間](http://www.mext.go.jp/a_menu/shotou/sougou/main14_a2.htm)
+- [TADANOによるモアイ修復プロジェクト](http://www.tadano.co.jp/tadanocafe/moai/project/index.html)
+- [豊島](https://teshima-navi.jp/)
+- [豊島美術館](http://benesse-artsite.jp/art/teshima-artmuseum.html)
+- [内藤礼](https://ja.wikipedia.org/wiki/%E5%86%85%E8%97%A4%E7%A4%BC)
 
 - [鬼無](https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%84%A1)...香川県高松市鬼無町。1914年に、当時の内閣総理大臣兼外務大臣であった大隈重信が鬼無駅で行った演説「この駅はオニナシかと思えば、キナシと読むそうだ。なかなか面白い地名だと思う。」の全文が読みたい。鬼無駅には桃太郎電鉄の石像あり。
 - [本焼き板](https://ojkobo.co.jp/yakiita/)... 木材の表面を高温で焼くことで炭化させた外装材。防虫・調湿効果がある。岡山でよく見られる。
