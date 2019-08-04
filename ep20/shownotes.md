@@ -6,6 +6,7 @@
 ## Shownotes
 
 - [瀬戸内国際芸術祭](https://setouchi-artfest.jp/)
+- [豊島事件](http://www.teshima-school.jp/struggle/history/)
 - [地中美術館](http://benesse-artsite.jp/art/chichu.html)
 - [ベネッセハウス ミュージアム](http://benesse-artsite.jp/art/benessehouse-museum.html)
 - [四国汽船時刻表](https://www.shikokukisen.com/)... 瀬戸内芸術祭のための時刻表。
