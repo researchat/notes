@@ -68,5 +68,5 @@
 
 ## Editorial notes
 - (soh)
-- (coela)
+- 今年中に瀬戸内の島巡りしたい(coela)
 - 猪熊弦一郎が昭和のアートディレクターだった。(tadasu)
