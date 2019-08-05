@@ -62,7 +62,7 @@
 - [本焼き板](https://ojkobo.co.jp/yakiita/)... 木材の表面を高温で焼くことで炭化させた外装材。防虫・調湿効果がある。岡山でよく見られる。
 - [犬島精錬所美術館](http://benesse-artsite.jp/art/seirensho.html)
 - [鬼無](https://ja.wikipedia.org/wiki/%E9%AC%BC%E7%84%A1)...香川県高松市鬼無町。1914年に、当時の内閣総理大臣兼外務大臣であった大隈重信が鬼無駅で行った演説「この駅はオニナシかと思えば、キナシと読むそうだ。なかなか面白い地名だと思う。」の全文が読みたい。鬼無駅には桃太郎電鉄の石像あり。
-- [蜘蛛の巣をイメージさせるレースの編み物](https://blogs.yahoo.co.jp/sakainaoki1947/61567365.html)
+- [蜘蛛の巣をイメージさせるレースの編み物](https://blogs.yahoo.co.jp/sakainaoki1947/61567365.html)...世界中の蜘蛛の巣ではなく、蜘蛛の巣を想像させるレースの編み物でした。
 - [犬島と桃太郎伝説](http://www.city.okayama.jp/museum/momotaro-walk/inujima.html) ...  "犬は我が島の住人で船乗りだったのでしょうか。航海術が上手で鬼ケ島の動静監視を行い、「猿」は讃岐国陶村(すえむら)の住人、「雉」は鬼無町雉が谷の住人だといわれています。"
 - [ばらかもん](https://www.amazon.co.jp/dp/B009UP33K0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
