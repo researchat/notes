@@ -19,14 +19,14 @@ title: 20. Seen/unseen Known/unknown
 
 ## Shownotes
 
-- [瀬戸内国際芸術祭](https://setouchi-artfest.jp/)
+- [瀬戸内国際芸術祭 公式サイト](https://setouchi-artfest.jp/)
 - [豊島事件 (豊島・島の学校)](http://www.teshima-school.jp/struggle/history/)
-- [地中美術館](http://benesse-artsite.jp/art/chichu.html)
+- [地中美術館 公式サイト](http://benesse-artsite.jp/art/chichu.html)
 - [ベネッセハウス ミュージアム](http://benesse-artsite.jp/art/benessehouse-museum.html)
-- [四国汽船時刻表](https://www.shikokukisen.com/)... 瀬戸内芸術祭のための時刻表。
+- [四国汽船時刻表](https://www.shikokukisen.com/)...瀬戸内芸術祭のための時刻表。
 - [高松市レンタルサイクル](http://takamatsu-parking.com/for_use_onetime_rider_2017/)... レンタルサイクル。一日100円で借りられる。高松の旅には必須。
-- [直島 (「直島(なおしま)観光旅サイト」直島町観光協会公式)](http://www.naoshima.net/)
-- [モネの部屋、地中美術館とオランジュリー美術館](https://kumiko-jp.com/archives/51970282.html)
+- [直島 観光旅サイト 直島町観光協会公式](http://www.naoshima.net/)
+- [モネの部屋、地中美術館とオランジュリー美術館 やまでら くみこ のレシピ](https://kumiko-jp.com/archives/51970282.html)
 - [安藤忠雄 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%AE%89%E8%97%A4%E5%BF%A0%E9%9B%84) ... 建築家。地中美術館、南寺をデザイン。
 - [イサム・ノグチ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B5%E3%83%A0%E3%83%BB%E3%83%8E%E3%82%B0%E3%83%81)
 - [庵治石](http://www.ajistone.com/about/index.html)
