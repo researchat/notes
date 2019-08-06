@@ -67,6 +67,6 @@
 - [ばらかもん](https://www.amazon.co.jp/dp/B009UP33K0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 ## Editorial notes
-- (soh)
+- 瀬戸内の島々を巡る旅行はおすすめです。ちなみに食べたうどんの話は全くできなかったのでそれはまた別の機会に....(soh)
 - 今年中に瀬戸内の島巡りしたい(coela)
 - 猪熊弦一郎が昭和のアートディレクターだった。(tadasu)
