@@ -1,7 +1,21 @@
-
-## Title
-- Seen/unseen Known/unknown
-- 瀬戸内海の島々(直島、女木島、男木島、豊島、犬島)を巡る旅とアートについて話しました。
+---
+actor_ids:
+  - tadasu
+  - soh
+  - coela
+audio_file_path: /audio/20.mp3
+audio_file_size: 93729724
+date: 2019-08-06 12:58:00 +0900
+description: 瀬戸内海の島々（直島・女木島・男木島・豊島・犬島)、高松市をめぐる旅とアート、建築の魅力についてたっぷり話しました。(出演：tadasu、soh、coela）
+duration: "02:39:05"
+layout: article
+tags: 
+  - 旅行
+  - アート
+  - 直島
+  - 建築
+title: 20. Seen/unseen Known/unknown
+---
 
 ## Shownotes
 
