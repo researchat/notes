@@ -3,6 +3,7 @@
 
 
 ## Shownotes
+- [2-36進数自動変換](http://www.gaoshukai.com/lab/0013/) ... 21進数　0123456789ABCDEFGHIJK
 - Unicodeの拡張
 - キロリットル
 - イシューからはじめよ
