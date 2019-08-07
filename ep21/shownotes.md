@@ -39,3 +39,8 @@ title: 21. We are living in the base-21 world 仮
 - 身体拡張slack
 - タトゥー
 - ゴールデンラッキー
+
+## Editorial notes
+- soh
+- tadasu
+- coela
