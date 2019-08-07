@@ -1,6 +1,22 @@
-## Title
-- We are living in the base-21 world
-
+---
+actor_ids:
+  - tadasu
+  - soh
+  - coela
+audio_file_path: /audio/21.mp3
+audio_file_size: 67508687
+date: 2019-08-08 9:00:00 +0900
+description: 初めての光学顕微鏡を用いたイメージングの技術習得、研究者の生産性、技術移転と研究コミュニティーの重要性、マンガについて話しました。 (出演：tadasu、soh、coela）
+duration: "01:10:19"
+layout: article
+tags: 
+  - 顕微鏡
+  - 身体拡張
+  - ユニコード
+  - 生産性
+  - マンガ
+title: 21. We are living in the base-21 world 仮
+---
 
 ## Shownotes
 - [2-36進数自動変換](http://www.gaoshukai.com/lab/0013/) ... 21進数　0123456789ABCDEFGHIJK
