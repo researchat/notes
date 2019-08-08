@@ -20,10 +20,12 @@ title: 21. We are living in the base-21 world 仮
 
 ## Shownotes
 - [2-36進数自動変換](http://www.gaoshukai.com/lab/0013/)...21進数 0123456789ABCDEFGHIJK
-- Unicodeの拡張
-- キロリットル...Unicodeでは3398が㎘に割り当てられている。
+- Unicodeの拡張...平成などの元号は、unicodeでは一文字の合成文字として表現できるように定義されている。㍻(U+337B)や㍼(U+337C)など。ちなみに令和の元号が新たに制定された今年、unicodeにも合字の令和を追加しようとしたが、すでに㍾の隣が㍿で取られているので、未定義領域のコードポイントU+32FFが令和の合字に追加された。
+- [新元号　令和（れいわ）の文字コードについて](https://qiita.com/tfukumori/items/959ed9c751734b73675f)
+- [The Unicode Consotiumによる令和の合字アナウンス (Twitter)](https://twitter.com/unicode/status/1125868428542205952)
+- キロリットル...UnicodeではU+3398が㎘に割り当てられている。
 - [圧倒的に生産性の高い人（サイエンティスト）の研究スタイル](http://kaz-ataka.hatenablog.com/entry/20081018/1224287687) ... 安宅和人さんのブログ記事。イシューからはじめよの元になっている。
-- [イシューからはじめよ](https://www.amazon.co.jp/%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E2%80%95%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E3%81%AE%E3%80%8C%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%9C%AC%E8%B3%AA%E3%80%8D-%E5%AE%89%E5%AE%85%E5%92%8C%E4%BA%BA/dp/4862760856)
+- [イシューからはじめよ (Amazon)](https://www.amazon.co.jp/%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%88%E2%80%95%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E3%81%AE%E3%80%8C%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%9C%AC%E8%B3%AA%E3%80%8D-%E5%AE%89%E5%AE%85%E5%92%8C%E4%BA%BA/dp/4862760856)
 - [Coelaの参加した顕微鏡のワークショップ](http://www.fbs.osaka-u.ac.jp/jpn/seminar/workshop/workshop-20180806/)...[ep10](https://researchat.fm/episode/10)でも自作顕微鏡について話した。
 - 共焦点顕微鏡
 - FLAP, FLIP
