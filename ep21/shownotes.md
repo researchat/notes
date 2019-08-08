@@ -29,7 +29,7 @@ title: 21. We are living in the base-21 world 仮
 - [安宅和人](https://vu.sfc.keio.ac.jp/faculty_profile/cgi/f_profile.cgi?id=81b93fae67160f0d)
 - [coelaの参加した顕微鏡のワークショップ](http://www.fbs.osaka-u.ac.jp/jpn/seminar/workshop/workshop-20180806/)...[ep10](https://researchat.fm/episode/10)でも自作顕微鏡について話した。
 - [共焦点レーザー顕微鏡](https://ja.wikipedia.org/wiki/%E5%85%B1%E7%84%A6%E7%82%B9%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E9%A1%95%E5%BE%AE%E9%8F%A1)
-- FLAP, FLIP
+- [Fluorescence Recovery After Photobleaching (FRAP) & Fluorescence Loss In Photobleaching (FLIP)](http://research.nki.nl/jalinklab/Homepage%20Phys&ImgGrp%20FRAP-FLIP.htm)
 - [Fiji](https://fiji.sc/)..."a "batteries-included" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis."とあるようにあらかじめ様々な画像解析のアルゴリズムを含んだ画像解析ソフトウェア。
 - [情報通信研究機構は日本標準時 (NICT)](https://www.nict.go.jp/JST/JST5.html)...NICRは日本標準時JSTを決めているが、その建物の時計は前後にずれており、NICT時間と呼ばれているらしい。
 - [免疫染色](https://ja.wikipedia.org/wiki/%E5%85%8D%E7%96%AB%E6%9F%93%E8%89%B2)
