@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/21.mp3
 audio_file_size: 67508687
 date: 2019-08-08 9:00:00 +0900
-description: イメージングワークショップへの参加と、光学顕微鏡技術の習得、研究者の生産性、技術継承と研究コミュニティーの重要性、ゴールデンラッキーについて話しました。 (出演：tadasu、soh、coela）
+description: イメージングワークショップへの参加、技術継承と研究コミュニティーの重要性、研究者の生産性、色が変わる機能性タトゥー、ゴールデンラッキーについて話しました。 (出演：tadasu、soh、coela）
 duration: "01:10:19"
 layout: article
 tags: 
@@ -17,6 +17,7 @@ tags:
   - マンガ
 title: 21. We are living in the base-21 world 仮
 ---
+TitleはLinving in the base-21 world でいいかも。
 
 ## Shownotes
 - [2-36進数自動変換](http://www.gaoshukai.com/lab/0013/)...21進数 0123456789ABCDEFGHIJK
