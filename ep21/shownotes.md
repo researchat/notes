@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/21.mp3
 audio_file_size: 67508687
 date: 2019-08-08 9:00:00 +0900
-description: 初めての光学顕微鏡を用いたイメージングの技術習得、研究者の生産性、技術移転と研究コミュニティーの重要性、マンガについて話しました。 (出演：tadasu、soh、coela）
+description: 初めての光学顕微鏡を用いたイメージングの技術習得、研究者の生産性、技術移転と研究コミュニティーの重要性、ゴールデンラッキーについて話しました。 (出演：tadasu、soh、coela）
 duration: "01:10:19"
 layout: article
 tags: 
@@ -32,10 +32,9 @@ title: 21. We are living in the base-21 world 仮
 - [Fiji](https://fiji.sc/)..."a "batteries-included" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis."とあるようにあらかじめ様々な画像解析のアルゴリズムを含んだ画像解析ソフトウェア。
 - [情報通信研究機構は日本標準時 (NICT)](https://www.nict.go.jp/JST/JST5.html)...NICRは日本標準時JSTを決めているが、その建物の時計は前後にずれており、NICT時間と呼ばれているらしい。
 - 抗体染色
--ブロッキング剤
+- ブロッキング剤
 - PSF
 - Dunning–Kruger effect
-- 身体拡張slack
 - タトゥー
 - ゴールデンラッキー
 
