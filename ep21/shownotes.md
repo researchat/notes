@@ -44,5 +44,5 @@ TitleはLinving in the base-21 world でいいかも。
 
 ## Editorial notes
 - soh
-- ゴールデンラッキーに久しぶりに浸りたい。(tadasu)
+- 久しぶりに、ゴールデンラッキーの狂気に浸りたい。(tadasu)
 - coela
