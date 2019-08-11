@@ -15,7 +15,7 @@ tags:
   - ユニコード
   - 生産性
   - マンガ
-title: 21. We are living in the base-21 world 仮
+title: 21. Living in the base-21 world
 ---
 TitleはLinving in the base-21 world でいいかも。
 
@@ -43,6 +43,6 @@ TitleはLinving in the base-21 world でいいかも。
 - [榎本俊二](https://ja.wikipedia.org/wiki/%E6%A6%8E%E6%9C%AC%E4%BF%8A%E4%BA%8C)
 
 ## Editorial notes
-- soh
+- ユニコードの世界について語るとき、円城塔「文字渦」は避けて通れないのでいつか紹介したいです (Soh)
 - 久しぶりに、ゴールデンラッキーの狂気に浸りたい。(tadasu)
 - coela
