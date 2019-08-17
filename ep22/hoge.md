@@ -9,11 +9,13 @@
   - インターネット老人、メーリス
 
 - EVO2019
-- AshとパキスタンとeFightPass
-  - パキスタン遠征とresearchatの支援
-- GO1とソニフォのアングル
-  - GO1のMK11配信
-- ボンちゃんの乾杯
-- KayaneがBest8
-- インフィルの練習方法
-- CaliPower(41)の活躍
+  - AshとパキスタンとeFightPass
+    - パキスタン遠征とresearchatの支援
+  - GO1とソニフォのアングル
+    - GO1のMK11配信
+  - ボンちゃんの乾杯
+  - KayaneがBest8
+  - インフィルの練習方法
+  - CaliPower(41)の活躍
+  - アメスポの視聴者平均年齢とこれからのeSportsの行方
+    - Fortniteのチャピオン
