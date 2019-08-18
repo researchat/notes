@@ -31,6 +31,7 @@ title: 22. TBA
 - [A cytosine deaminase for programmable single-base RNA editing. Science 2019](https://science.sciencemag.org/content/365/6451/382)
 - [マッスルグリル: 沼](https://www.youtube.com/watch?v=NJtgQEXAjNI)...シャイニー薊さんのチャンネル、マッスルグリルで紹介された減量食「沼」。カーボを摂取するのが特徴。
 - [マッスルグリル: マグマ](https://www.youtube.com/watch?v=ceqQmyQ-NXg)...減量食第二弾「マグマ」
+- [シャイニー薊という男](https://www.youtube.com/watch?v=GKvdpPvZsE8)...リアル刃牙の薊さん、かっこよすぎます！
 - [バルクアカデミー](https://www.youtube.com/watch?v=GGYTLaJdsu4)...北村克哉さんのYouTubeチャンネル
 - [北村克哉](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%85%8B%E5%93%89)...レスリング->プロレス->ボディビルという異色の経歴を持つ。
 ## Editorial notes
