@@ -30,7 +30,10 @@ title: 22. TBA
 - [A single CRISPR base editor to induce simultaneous C-to-T and A-to-G mutations. bioRxiv 2019](https://www.biorxiv.org/content/10.1101/729269v1)...sohらは2種のdeaminaseを一つのnCas9タンパク質に融合させた新しい一塩基ゲノム編集技術Target-ACEを開発し、C-to-TとA-to-Gの高効率な同時塩基編集を実現、その成果をプレプリントサーバーに公開した。
 - [A cytosine deaminase for programmable single-base RNA editing. Science 2019](https://science.sciencemag.org/content/365/6451/382)
 - Fitness Youtuber
-
+- [マッスルグリル: 沼](https://www.youtube.com/watch?v=NJtgQEXAjNI)...シャイニー薊さんのチャンネル、マッスルグリルで紹介された減量食「沼」。カーボを摂取するのが特徴。
+- [マッスルグリル: マグマ](https://www.youtube.com/watch?v=ceqQmyQ-NXg)...減量食第二弾「マグマ」
+- [バルクアカデミー](https://www.youtube.com/watch?v=GGYTLaJdsu4)...北村克哉さんのYouTubeチャンネル
+- [北村克哉](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%85%8B%E5%93%89)...レスリング->プロレス->ボディビルという異色の経歴を持つ。
 ## Editorial notes
 - soh
-- tadasu
+- コンパクトでとても勉強になる回だった。沼とマグマで体を作っていきたい。(tadasu)
