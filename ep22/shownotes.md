@@ -16,7 +16,7 @@ title: 22. TBA
 
 ## Title
 - Draw lots as much as possible!
-- My life is also evolutionary selected
+- Evolutionary selected life
 
 ## Show notes
 - [Targeted nucleotide editing using hybrid prokaryotic and vertebrate adaptive immune systems. Science 2016](https://science.sciencemag.org/node/684051.full)...Target-AID法ではヤツメウナギ由来のCDA1を利用し、C-to-T塩基編集技術が実現された。
