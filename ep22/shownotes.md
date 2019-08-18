@@ -30,3 +30,7 @@ title: 22. TBA
 - [A single CRISPR base editor to induce simultaneous C-to-T and A-to-G mutations. bioRxiv 2019](https://www.biorxiv.org/content/10.1101/729269v1)...sohらは2種のdeaminaseを一つのnCas9タンパク質に融合させた新しい一塩基ゲノム編集技術Target-ACEを開発し、C-to-TとA-to-Gの高効率な同時塩基編集を実現、その成果をプレプリントサーバーに公開した。
 - [A cytosine deaminase for programmable single-base RNA editing. Science 2019](https://science.sciencemag.org/content/365/6451/382)
 - Fitness Youtuber
+
+## Editorial notes
+- soh
+- tadasu
