@@ -1,6 +1,6 @@
 ## Title
 - Draw lots as much as possible!
-- Your life is also evolutionary selected
+- My life is also evolutionary selected
 
 ## Show notes
 - [Targeted nucleotide editing using hybrid prokaryotic and vertebrate adaptive immune systems. Science 2016](https://science.sciencemag.org/node/684051.full)...Target-AID法ではヤツメウナギ由来のCDA1を利用し、C-to-T塩基編集技術が実現された。
