@@ -29,7 +29,6 @@ title: 22. TBA
 - [アジャイルソフトウェア開発 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)
 - [A single CRISPR base editor to induce simultaneous C-to-T and A-to-G mutations. bioRxiv 2019](https://www.biorxiv.org/content/10.1101/729269v1)...sohらは2種のdeaminaseを一つのnCas9タンパク質に融合させた新しい一塩基ゲノム編集技術Target-ACEを開発し、C-to-TとA-to-Gの高効率な同時塩基編集を実現、その成果をプレプリントサーバーに公開した。
 - [A cytosine deaminase for programmable single-base RNA editing. Science 2019](https://science.sciencemag.org/content/365/6451/382)
-- Fitness Youtuber
 - [マッスルグリル: 沼](https://www.youtube.com/watch?v=NJtgQEXAjNI)...シャイニー薊さんのチャンネル、マッスルグリルで紹介された減量食「沼」。カーボを摂取するのが特徴。
 - [マッスルグリル: マグマ](https://www.youtube.com/watch?v=ceqQmyQ-NXg)...減量食第二弾「マグマ」
 - [バルクアカデミー](https://www.youtube.com/watch?v=GGYTLaJdsu4)...北村克哉さんのYouTubeチャンネル
