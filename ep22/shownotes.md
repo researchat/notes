@@ -1,3 +1,6 @@
+## Title
+- Draw lots as much as possible!
+- Your life is also evolutionary selected
 
 ## Show notes
 - [Targeted nucleotide editing using hybrid prokaryotic and vertebrate adaptive immune systems. Science 2016](https://science.sciencemag.org/node/684051.full)...Target-AID法ではヤツメウナギ由来のCDA1を利用し、C-to-T塩基編集技術が実現された。
@@ -6,7 +9,7 @@
 - [フラスコ内でタンパクが連続的に進化する, PACE法 (Chem-Station)](https://www.chem-station.com/blog/2017/11/aminoacyltrna.html)
 - [指向性進化法 Directed Evolution. (Chem-Station)](https://www.chem-station.com/chemglossary/2017/11/directed-evolution.html)
 - [Increasing the genome-targeting scope and precision of base editing with engineered Cas9-cytidine deaminase fusions. Nature Biotechnology 2017](https://www.nature.com/articles/nbt.3803)...野生型のrAPOBECに3アミノ酸の変異を導入することにより、2bp程度の非常に狭い範囲のCをTに変換する酵素 BE3-YEEが開発された。
-- [Ep. 10: Alexis Komor & Nicole Gaudelli, base editing’s tenacious duo. GuidePost](https://soundcloud.com/guidepost/ep-10-alexis-komor-nicole-gaudelli-base-editings-tenacious-duo)...BE3とABEをそれぞれ開発した1st authorであるAlexis KomorとNicole Gaudelliが当時の開発の裏側、競争、興奮などを生き生きと話しているGuidePostのエピソード。おすすめです。
+- [Ep. 10: Alexis Komor & Nicole Gaudelli, base editing’s tenacious duo. GuidePost](https://soundcloud.com/guidepost/ep-10-alexis-komor-nicole-gaudelli-base-editings-tenacious-duo)...BE3とABEをそれぞれ開発した1st authorであるAlexis KomorとNicole Gaudelliが当時の開発の裏側、興奮、論文の受理プロセスなどを生き生きと話しているGuidePostのエピソード。おすすめです。
 - [アジャイルソフトウェア開発 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)
 - [A single CRISPR base editor to induce simultaneous C-to-T and A-to-G mutations. bioRxiv 2019](https://www.biorxiv.org/content/10.1101/729269v1)...sohらは2種のdeaminaseを一つのnCas9タンパク質に融合させた新しい一塩基ゲノム編集技術Target-ACEを開発し、C-to-TとA-to-Gの高効率な同時塩基編集を実現、その成果をプレプリントサーバーに公開した。
 - [A cytosine deaminase for programmable single-base RNA editing. Science 2019](https://science.sciencemag.org/content/365/6451/382)
