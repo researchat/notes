@@ -11,7 +11,7 @@ layout: article
 tags: 
   - CRISPR
   - Youtuber
-title: 22. TBA
+title: 22. Evolutionary selected life
 ---
 
 ## Title
@@ -35,5 +35,5 @@ title: 22. TBA
 - [バルクアカデミー](https://www.youtube.com/watch?v=GGYTLaJdsu4)...北村克哉さんのYouTubeチャンネル
 - [北村克哉](https://ja.wikipedia.org/wiki/%E5%8C%97%E6%9D%91%E5%85%8B%E5%93%89)...レスリング->プロレス->ボディビルという異色の経歴を持つ。
 ## Editorial notes
-- soh
+- いつも長く話し過ぎちゃうので今回はコンパクトに、超最新のCRISPR関連のネタを盛り込みました。(soh)
 - コンパクトでとても勉強になる回だった。沼とマグマで体を作っていきたい。(tadasu)
