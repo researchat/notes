@@ -1,3 +1,19 @@
+---
+actor_ids:
+  - tadasu
+  - soh
+audio_file_path: /audio/22.mp3
+audio_file_size: 49865793
+date: 2019-08-18 9:00:00 +0900
+description: CRISPR-Cas9を用いた一塩基ゲノム編集技術の開発、タンパク質の人工進化、研究開発におけるリスクテイク、フィットネス系のYoutuberについて話しました。 (出演：tadasu、soh）
+duration: "01:10:19"
+layout: article
+tags: 
+  - CRISPR
+  - Youtuber
+title: 22. TBA
+---
+
 ## Title
 - Draw lots as much as possible!
 - My life is also evolutionary selected
