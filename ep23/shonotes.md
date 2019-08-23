@@ -1,4 +1,10 @@
 
+## Title
+- Tomonori Arakawa
+
+## Show notes
+
+
 - 大谷
 - 4大スポーツ
 - [マー君、レッドソックス戦で歴史的炎上](https://www.sanspo.com/baseball/news/20190726/mlb19072614360015-n1.html)
@@ -65,3 +71,7 @@
 - 大槻文彦
 - 岩波国語辞典
 - 辞書の読み比べ
+
+#Editorial notes
+- (soh)
+- かなりめちゃくちゃな話でした(tadasu)
