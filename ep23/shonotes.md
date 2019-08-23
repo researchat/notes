@@ -17,41 +17,29 @@
 - [二コラブルバギ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%96%E3%83%AB%E3%83%90%E3%82%AD)
 - [岡潔 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%BD%94)
 - [芳賀ゆい](https://ja.wikipedia.org/wiki/%E8%8A%B3%E8%B3%80%E3%82%86%E3%81%84)...伊集院光が伊集院光のオールナイトニッポンでプロデュースした架空のアイドル
-- [電気グルーヴのオールナイトニッポン(Wikipedia)]https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3)...今、当時の音源を聞いても全く色あせていない。平成新造語などのネタコーナーは極北の一つといっていいだろう。
+- [電気グルーヴのオールナイトニッポン(Wikipedia)](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3)...今、当時の音源を聞いても全く色あせていない。平成新造語などのネタコーナーは極北の一つといっていいだろう。
 - [森達也 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A3%AE%E9%81%94%E4%B9%9F)
 - [FAKE (Amazon)](https://www.amazon.co.jp/FAKE-%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AB%E3%83%83%E3%83%88%E7%89%88-DVD-%E6%A3%AE%E9%81%94%E4%B9%9F/dp/B01N4162C0)...森達也監督。佐村河内事件を追いかけたドキュメンタリー映画。
 - [A (Amazon)](https://www.amazon.co.jp/DVD-ドキュメンタリー映画/dp/B00009P68I/)...地下鉄サリン事件後のオウムの様子を施設の内部に潜入して撮影したドキュメンタリー映画。
 - [A2 (Amazon)](https://www.amazon.co.jp/A2-DVD-%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%BC%E6%98%A0%E7%94%BB/dp/B00009P68J/)...Aの2.5年半後に撮影が行われたAの続編。
 - [緑川南京](https://twitter.com/search?q=%E7%B7%91%E5%B7%9D%E5%8D%97%E4%BA%AC&src=typed_query&f=live) ... twitterで調べてみると今でもコメントがでてきます。緑川なんきょうという読み名が正しいらしい。
 - [多重人格探偵サイコ (Amazon)](https://www.amazon.co.jp/%E5%A4%9A%E9%87%8D%E4%BA%BA%E6%A0%BC%E6%8E%A2%E5%81%B5%E3%82%B5%E3%82%A4%E3%82%B3-%E8%A7%92%E5%B7%9D%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%BC%E3%82%B9-%E7%94%B0%E5%B3%B6-%E6%98%AD%E5%AE%87%C3%97%E5%A4%A7%E5%A1%9A-%E8%8B%B1%E5%BF%97-ebook/dp/B0093G7MJE)...かなりグロありなので注意。
-- [大塚英志 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E8%8B%B1%E5%BF%97)
-- [木島日記 (Wikipedia)](https://www.amazon.co.jp/%E6%9C%A8%E5%B3%B6%E6%97%A5%E8%A8%98-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E5%A4%A7%E5%A1%9A-%E8%8B%B1%E5%BF%97/dp/4041062683/)
-- ルーシー・モノストーンの真実
- 三木・モトユキ・エリクソン
-- satoshi nakamoto
-- ビットコイン
-
-- 荒川智則
-- phaさん
-- ギークハウス
-- 中本智
-- cyptography
-- James J Donald
-- ラポールの形成
-
-- メーリス
-- メルマガ
-- note
-
+- [大塚英志 (Amazon)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E8%8B%B1%E5%BF%97)
+- [木島日記 (Amazon)](https://www.amazon.co.jp/%E6%9C%A8%E5%B3%B6%E6%97%A5%E8%A8%98-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E5%A4%A7%E5%A1%9A-%E8%8B%B1%E5%BF%97/dp/4041062683/)
+- [ルーシー・モノストーンの真実 (Amazon)](https://www.amazon.co.jp/%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%A2%E3%83%8E%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%81%AE%E7%9C%9F%E5%AE%9F-%E4%B8%89%E6%9C%A8%E3%83%BB%E3%83%A2%E3%83%88%E3%83%A6%E3%82%AD%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%BD%E3%83%B3/dp/4048837540)...三木モトユキエリクソンによるルーシー・モノストーン評
+- [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)...bitcoinの創始者。
+- [荒川智則](http://www.cbc-net.com/topic/2010/11/arakawa-tomonori/)...情報統合思念体
+- [phaさん](http://pha.hateblo.jp/)
+- [ギークハウス](https://geekhouse.github.io/rooms/)
+- [cryptographyにおけるSatoshi Nakamotoの投稿](https://www.mail-archive.com/search?l=cryptography@metzdowd.com&q=from:%22Satoshi+Nakamoto%22)
+- [ラポールの形成](https://life-and-mind.com/rapport-making-secret-477)
 - ベトナム旅行記
-- ウメハラダイゴ
-- 小林尊
-- ジャアント白田
-- Justin Wong
-- フードファイター
-- テレビチャンピオン
-- フードファイトクラブ
-- 土門健
+- [梅原大吾 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E5%A4%A7%E5%90%BE)...日本格ゲー界のレジェンド。
+- [Justin Wong (Wikipedia)](https://en.wikipedia.org/wiki/Justin_Wong)...アメリカ最強の格ゲーマー
+- [小林尊 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E5%B0%8A)
+- [ジャアント白田 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%99%BD%E7%94%B0%E4%BF%A1%E5%B9%B8)
+- [Moment 37](https://www.youtube.com/watch?v=JzS96auqau0)...EVO2004の準決勝、Street Fighter III: 3rd strikeにおける梅原大吾 vs Justin Wongの試合でウメハラ選手が見せた大逆転劇。アメリカではEvo Moment 37としてよく知られる。日本では背水の大逆転劇として有名。途中"Let's go Justin!!!"の掛け声はあまりにも有名であるが、最近発掘された別アングルのビデオではどうやら別々の二人の観客の言葉が混じったものとされている。
+- [土門健, 1.5Lを4.88秒で飲む男](https://www.youtube.com/watch?v=aT5GUtkRa8s)...フードファイトクラブで土門健が見せた永久不滅の大記録。1.5Lのスポーツドリンクを4.88秒で飲み干した。
 - 円城塔
 - 文字渦
 - 文字禍
@@ -67,4 +55,4 @@
 
 #Editorial notes
 - (soh)
-- かなりめちゃくちゃな話でした(tadasu)
+- ゲノムの海に揉まれたい (tadasu)
