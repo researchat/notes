@@ -35,6 +35,7 @@
 - [ラポールの形成](https://life-and-mind.com/rapport-making-secret-477)
 - ベトナム旅行記
 - [梅原大吾 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E5%A4%A7%E5%90%BE)...日本格ゲー界のレジェンド。
+- [Alex Valle vs Daigo Umehara (1998)](https://www.youtube.com/watch?v=teqRBXhEiaY)...日本のStreet Fighter Zero 3の大会で優勝した梅原選手はアメリカに渡米し、アメリカのチャンピオンAlex Valle選手と戦う。ここから海を越えたゲームコミュニティーの戦いが始まった。途中若かりし頃の有吉がインタビューするのは有名。
 - [Justin Wong (Wikipedia)](https://en.wikipedia.org/wiki/Justin_Wong)...アメリカ最強の格ゲーマー
 - [小林尊 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E5%B0%8A)
 - [ジャアント白田 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%99%BD%E7%94%B0%E4%BF%A1%E5%B9%B8)
