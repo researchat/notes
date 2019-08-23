@@ -38,20 +38,19 @@
 - [Justin Wong (Wikipedia)](https://en.wikipedia.org/wiki/Justin_Wong)...アメリカ最強の格ゲーマー
 - [小林尊 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E5%B0%8A)
 - [ジャアント白田 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%99%BD%E7%94%B0%E4%BF%A1%E5%B9%B8)
-- [Moment 37](https://www.youtube.com/watch?v=JzS96auqau0)...EVO2004の準決勝、Street Fighter III: 3rd strikeにおける梅原大吾 vs Justin Wongの試合でウメハラ選手が見せた大逆転劇。アメリカではEvo Moment 37としてよく知られる。日本では背水の大逆転劇として有名。途中"Let's go Justin!!!"の掛け声はあまりにも有名であるが、最近発掘された別アングルのビデオではどうやら別々の二人の観客の言葉が混じったものとされている。
+- [Moment 37 (背水の逆転劇)](https://www.youtube.com/watch?v=JzS96auqau0)...EVO2004の準決勝、Street Fighter III: 3rd strikeにおける梅原大吾 vs Justin Wongの試合でウメハラ選手が見せた大逆転劇。アメリカではEvo Moment 37としてよく知られる。日本では背水の大逆転劇として有名。Justinの春麗が鳳翼扇を繰り出す直前に聞こえる"Let's go Justin!!!"の掛け声はあまりにも有名。しかし、最近発掘された別アングルのビデオではどうやら別々の二人の観客の言葉が混じったものとされている。
 - [土門健, 1.5Lを4.88秒で飲む男](https://www.youtube.com/watch?v=aT5GUtkRa8s)...フードファイトクラブで土門健が見せた永久不滅の大記録。1.5Lのスポーツドリンクを4.88秒で飲み干した。
 - 円城塔
 - 文字渦
 - 文字禍
 - ユニコード
-- 広辞苑
-- サンキュータツオ
-- 舟を編む
-- 熱量と文字数
-- 言海
-- 大槻文彦
-- 岩波国語辞典
-- 辞書の読み比べ
+- [サンキュータツオ](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%84%E3%82%AA)
+- [舟を編む (Amazon)](https://www.amazon.co.jp/%E8%88%9F%E3%82%92%E7%B7%A8%E3%82%80-%E4%B8%89%E6%B5%A6-%E3%81%97%E3%82%92%E3%82%93/dp/4334927769)
+- [熱量と文字数: 広辞苑第七版](https://www.youtube.com/watch?v=s4AU6E2QbRU)
+- [熱量と文字数](https://netsumoji.com/)
+- [言海](https://ja.wikipedia.org/wiki/%E8%A8%80%E6%B5%B7)...日本最初の辞書。大槻文彦編纂。
+- [大槻文彦](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A7%BB%E6%96%87%E5%BD%A6)
+- [国語辞典の遊び方 (Amazon)](https://www.amazon.co.jp/dp/B01NCA3T62/)
 
 #Editorial notes
 - (soh)
