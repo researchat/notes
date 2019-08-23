@@ -47,8 +47,8 @@
 - ユニコード
 - [サンキュータツオ](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%84%E3%82%AA)
 - [舟を編む (Amazon)](https://www.amazon.co.jp/%E8%88%9F%E3%82%92%E7%B7%A8%E3%82%80-%E4%B8%89%E6%B5%A6-%E3%81%97%E3%82%92%E3%82%93/dp/4334927769)
-- [熱量と文字数: 広辞苑第七版](https://www.youtube.com/watch?v=s4AU6E2QbRU)
-- [熱量と文字数](https://netsumoji.com/)
+- [熱量と文字数](https://netsumoji.com/)...サンキュータツオさんのポッドキャスト
+- [熱量と文字数: 広辞苑第七版](https://www.youtube.com/watch?v=s4AU6E2QbRU)...サンキュータツオさんが広辞苑編纂の裏側を語る。
 - [言海](https://ja.wikipedia.org/wiki/%E8%A8%80%E6%B5%B7)...日本最初の辞書。大槻文彦編纂。
 - [大槻文彦](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A7%BB%E6%96%87%E5%BD%A6)
 - [国語辞典の遊び方 (Amazon)](https://www.amazon.co.jp/dp/B01NCA3T62/)
