@@ -77,6 +77,6 @@ title: 23. TBA
 - [大槻文彦 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A7%BB%E6%96%87%E5%BD%A6)
 - [国語辞典の遊び方 (Amazon)](https://www.amazon.co.jp/dp/B01NCA3T62/)
 
-# Editorial notes
+## Editorial notes
 - (soh)
 - ゲノムの海に揉まれたい (tadasu)
