@@ -33,7 +33,7 @@ title: 23. TBA
 - [ツジモトタロウ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%B8%E3%83%A2%E3%83%88%E3%83%BB%E3%82%BF%E3%83%AD%E3%82%A6)..."1974年のNHLドラフトにおいてバッファロー・セイバーズに第11巡指名選手として正式にドラフトされた架空のアイスホッケー選手である。"
 - [二コラブルバギ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%96%E3%83%AB%E3%83%90%E3%82%AD)
 - [岡潔 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%BD%94)
-- [芳賀ゆい](https://ja.wikipedia.org/wiki/%E8%8A%B3%E8%B3%80%E3%82%86%E3%81%84)...伊集院光が伊集院光のオールナイトニッポンでプロデュースした架空のアイドル
+- [芳賀ゆい (Wikipedia)](https://ja.wikipedia.org/wiki/%E8%8A%B3%E8%B3%80%E3%82%86%E3%81%84)...伊集院光が伊集院光のオールナイトニッポンでプロデュースした架空のアイドル
 - [電気グルーヴのオールナイトニッポン(Wikipedia)](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3)...今、当時の音源を聞いても全く色あせていない。平成新造語などのネタコーナーは極北の一つといっていいだろう。
 - [森達也 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A3%AE%E9%81%94%E4%B9%9F)
 - [FAKE (Amazon)](https://www.amazon.co.jp/FAKE-%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AB%E3%83%83%E3%83%88%E7%89%88-DVD-%E6%A3%AE%E9%81%94%E4%B9%9F/dp/B01N4162C0)...森達也監督。佐村河内事件を追いかけたドキュメンタリー映画。
@@ -44,7 +44,7 @@ title: 23. TBA
 - [大塚英志 (Amazon)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E8%8B%B1%E5%BF%97)
 - [木島日記 (Amazon)](https://www.amazon.co.jp/%E6%9C%A8%E5%B3%B6%E6%97%A5%E8%A8%98-%E8%A7%92%E5%B7%9D%E6%96%87%E5%BA%AB-%E5%A4%A7%E5%A1%9A-%E8%8B%B1%E5%BF%97/dp/4041062683/)
 - [ルーシー・モノストーンの真実 (Amazon)](https://www.amazon.co.jp/%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%A2%E3%83%8E%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3%E3%81%AE%E7%9C%9F%E5%AE%9F-%E4%B8%89%E6%9C%A8%E3%83%BB%E3%83%A2%E3%83%88%E3%83%A6%E3%82%AD%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%BD%E3%83%B3/dp/4048837540)...三木モトユキエリクソンによるルーシー・モノストーン評
-- [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)...bitcoinの創始者。
+- [Satoshi Nakamoto (Wikipedia)](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)...bitcoinの創始者。
 - [荒川智則](http://www.cbc-net.com/topic/2010/11/arakawa-tomonori/)...情報統合思念体
 - [phaさん](http://pha.hateblo.jp/)
 - [ギークハウス](https://geekhouse.github.io/rooms/)
@@ -56,19 +56,19 @@ title: 23. TBA
 - [Justin Wong (Wikipedia)](https://en.wikipedia.org/wiki/Justin_Wong)...アメリカ最強の格ゲーマー
 - [小林尊 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E5%B0%8A)
 - [ジャアント白田 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%99%BD%E7%94%B0%E4%BF%A1%E5%B9%B8)
-- [Moment 37 (背水の逆転劇)](https://www.youtube.com/watch?v=JzS96auqau0)...EVO2004の準決勝、Street Fighter III: 3rd strikeにおける梅原大吾 vs Justin Wongの試合でウメハラ選手が見せた大逆転劇。アメリカではEvo Moment 37としてよく知られる。日本では背水の大逆転劇として有名。Justinの春麗が鳳翼扇を繰り出す直前に聞こえる"Let's go Justin!!!"の掛け声はあまりにも有名。しかし、最近発掘された別アングルのビデオではどうやら別々の二人の観客の言葉が混じったものとされている。
+- [Moment 37 (背水の逆転劇)](https://www.youtube.com/watch?v=JzS96auqau0)...EVO2004の準決勝、Street Fighter III: 3rd strikeにおける梅原大吾 vs Justin Wongの試合でウメハラ選手が見せた大逆転劇。アメリカではEvo Moment 37としてよく知られる。日本では背水の大逆転劇として有名。Justinの春麗が鳳翼扇を繰り出す直前に聞こえる"Let's go Justin!!!"の掛け声はよくネタにされるが、最近発掘された別アングルのビデオではどうやら別々の二人の観客の言葉が混じったものとされている。
 - [土門健, 1.5Lを4.88秒で飲む男](https://www.youtube.com/watch?v=aT5GUtkRa8s)...フードファイトクラブで土門健が見せた永久不滅の大記録。1.5Lのスポーツドリンクを4.88秒で飲み干した。
 - 円城塔
 - 文字渦
 - 文字禍
 - ユニコード
-- [方言字](https://ja.wikipedia.org/wiki/%E6%96%B9%E8%A8%80%E5%AD%97)...方言と漢字の関係性。地方でしか使われていない漢字の話。
-- [サンキュータツオ](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%84%E3%82%AA)
+- [方言字 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%96%B9%E8%A8%80%E5%AD%97)...方言と漢字の関係性。地方でしか使われていない漢字の話。
+- [サンキュータツオ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%84%E3%82%AA)
 - [舟を編む (Amazon)](https://www.amazon.co.jp/%E8%88%9F%E3%82%92%E7%B7%A8%E3%82%80-%E4%B8%89%E6%B5%A6-%E3%81%97%E3%82%92%E3%82%93/dp/4334927769)
 - [熱量と文字数](https://netsumoji.com/)...サンキュータツオさんのポッドキャスト
 - [熱量と文字数: 広辞苑第七版](https://www.youtube.com/watch?v=s4AU6E2QbRU)...サンキュータツオさんが広辞苑編纂の裏側を語る。
-- [言海](https://ja.wikipedia.org/wiki/%E8%A8%80%E6%B5%B7)...日本最初の辞書。大槻文彦編纂。
-- [大槻文彦](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A7%BB%E6%96%87%E5%BD%A6)
+- [言海 (Wikipedia)](https://ja.wikipedia.org/wiki/%E8%A8%80%E6%B5%B7)...日本最初の辞書。大槻文彦編纂。
+- [大槻文彦 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A7%BB%E6%96%87%E5%BD%A6)
 - [国語辞典の遊び方 (Amazon)](https://www.amazon.co.jp/dp/B01NCA3T62/)
 
 # Editorial notes
