@@ -61,7 +61,8 @@ title: 23. TBA
 - [小林尊 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E5%B0%8A)
 - [ジャアント白田 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%99%BD%E7%94%B0%E4%BF%A1%E5%B9%B8)
 - [Moment 37 (背水の逆転劇)](https://www.youtube.com/watch?v=JzS96auqau0)...EVO2004の準決勝、Street Fighter III: 3rd strikeにおける梅原大吾 vs Justin Wongの試合でウメハラ選手が見せた大逆転劇。アメリカではEvo Moment 37としてよく知られる。日本では背水の大逆転劇として有名。Justinの春麗が鳳翼扇を繰り出す直前に聞こえる"Let's go Justin!!!"の掛け声はよくネタにされるが、最近発掘された別アングルのビデオではどうやら別々の二人の観客の言葉が混じったものとされている。
-- [土門健, 1.5Lを4.88秒で飲む男](https://www.youtube.com/watch?v=aT5GUtkRa8s)...フードファイトクラブで土門健が見せた永久不滅の大記録。1.5Lのスポーツドリンクを4.88秒で飲み干した。
+- [土門健, 1.5Lを4.88秒で飲む男](https://www.youtube.com/watch?v=aT5GUtkRa8s)...フードファイトクラブで土門健さんが見せた永久不滅の大記録。1.5Lのスポーツドリンクを4.88秒で飲み干した。
+- [1.5Lを4秒以下で飲む男](https://twitter.com/nego_twi/status/283607009876652032)...小林尊さんの証言によると練習では、土門健さんは1.5Lを4秒以下で飲みきれていたらしい。
 - 円城塔
 - 文字渦
 - 文字禍
