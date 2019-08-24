@@ -1,3 +1,20 @@
+---
+actor_ids:
+  - tadasu
+  - soh
+audio_file_path: /audio/23.mp3
+audio_file_size: 74150633
+date: 2019-08-24 09:00:00 +0900
+description: 
+duration: "01:24:32"
+layout: article
+tags: 
+  - 野球
+  - 旅行
+title: 23. TBA
+---
+
+
 
 ## Title
 - Tomonori Arakawa
