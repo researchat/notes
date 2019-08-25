@@ -64,10 +64,10 @@ title: 23. TBA
 - [Moment 37 (背水の逆転劇)](https://www.youtube.com/watch?v=JzS96auqau0)...EVO2004の準決勝、Street Fighter III: 3rd strikeにおける梅原大吾 vs Justin Wongの試合でウメハラ選手が見せた大逆転劇。アメリカではEvo Moment 37としてよく知られる。日本では背水の大逆転劇として有名。Justinの春麗が鳳翼扇を繰り出す直前に聞こえる"Let's go Justin!!!"の掛け声はよくネタにされる。最近別アングルのビデオが発見された。
 - [土門健, 1.5Lを4秒88で飲む男](https://www.youtube.com/watch?v=aT5GUtkRa8s)...フードファイトクラブで土門健さんが見せた永久不滅の大記録。1.5Lのスポーツドリンクを4秒88で飲み干した。
 - [1.5Lを4秒以下で飲む男](https://twitter.com/nego_twi/status/283607009876652032)...小林尊さんの証言によると、練習では土門健さんは、1.5Lを4秒以下で飲みきれていたらしい。
-- 円城塔
-- 文字渦
-- 文字禍
-- ユニコード
+- [円城塔 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%86%86%E5%9F%8E%E5%A1%94)
+- [文字渦 (Amazon)](https://www.amazon.co.jp/dp/B07M99YBG8/)
+- [文字禍 (Amazon](https://www.amazon.co.jp/%E6%96%87%E5%AD%97%E7%A6%8D-%E4%B8%AD%E5%B3%B6-%E6%95%A6-ebook/dp/B009IXHLYI)
+- [Uunicode (Wikipedia)](https://ja.wikipedia.org/wiki/Unicode)
 - [方言字 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%96%B9%E8%A8%80%E5%AD%97)...方言と漢字の関係性。地方でしか使われていない漢字の話。
 - [サンキュータツオ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%84%E3%82%AA)
 - [舟を編む (Amazon)](https://www.amazon.co.jp/%E8%88%9F%E3%82%92%E7%B7%A8%E3%82%80-%E4%B8%89%E6%B5%A6-%E3%81%97%E3%82%92%E3%82%93/dp/4334927769)
