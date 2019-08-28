@@ -25,7 +25,7 @@ title: 23. TBA
 - Sleeping podcaster
 - FAKE
 - Your true identity
-- Dive into genome
+- Dive into the genome
 
 ## Show notes
 - [大谷翔平 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3)
