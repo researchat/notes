@@ -70,6 +70,7 @@ title: 23. TBA
 - [円城塔 文字渦 (Amazon)](https://www.amazon.co.jp/dp/B07M99YBG8/)...Sohおすすめ。ぜひハックされた文学の可能性について存分に楽しんでほしいです。
 - [Uunicode (Wikipedia)](https://ja.wikipedia.org/wiki/Unicode)
 - [方言字 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%96%B9%E8%A8%80%E5%AD%97)...方言と漢字の関係性。地方でしか使われていない漢字の話。
+- [むつごい (香川の方言)](https://dictionary.goo.ne.jp/leaf/dialect/2954/m0u/)
 - [サンキュータツオ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%84%E3%82%AA)
 - [舟を編む (Amazon)](https://www.amazon.co.jp/%E8%88%9F%E3%82%92%E7%B7%A8%E3%82%80-%E4%B8%89%E6%B5%A6-%E3%81%97%E3%82%92%E3%82%93/dp/4334927769)
 - [熱量と文字数](https://netsumoji.com/)...サンキュータツオさんのポッドキャスト
