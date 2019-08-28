@@ -4,7 +4,7 @@ actor_ids:
   - soh
 audio_file_path: /audio/23.mp3
 audio_file_size: 74150633
-date: 2019-08-24 09:00:00 +0900
+date: 2019-08-28 09:00:00 +0900
 description: 
 duration: "01:24:32"
 layout: article
@@ -14,17 +14,15 @@ tags:
 title: 23. TBA
 ---
 
-
-
 ## Title
 - Tomonori Arakawa
 - Drink 1.5L within 4.88s
 - ɐʍɐʞɐɹᏌ ᴉɹouoɯo⊥
 - ɹǝʇsuoƜ uǝǝɹ⅁
 - めちゃくちゃなユニコードでもいいかもしれない笑
+- Sleeping podcaster
 
-大谷翔平がボストンにやってきた、架空の人物(ツジモトタロウ、荒川智則、三木・モトユキ・エリクソン等)、メルマガとメーリス、ベトナム旅行記、1.5Lを4秒88で飲む男、円城塔とユニコードについて話しました。
-
+大谷翔平がボストンにやってきた、架空の人物(ツジモトタロウ、荒川智則、三木・モトユキ・エリクソン等)、メルマガとメーリス、ベトナム旅行記とその魅力、1.5Lを4秒88で飲む男、円城塔とユニコードについて話しました。
 
 ## Show notes
 - [大谷翔平 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3)
@@ -66,8 +64,7 @@ title: 23. TBA
 - [土門健, 1.5Lを4秒88で飲む男](https://www.youtube.com/watch?v=aT5GUtkRa8s)...フードファイトクラブで土門健さんが見せた永久不滅の大記録。1.5Lのスポーツドリンクを4秒88で飲み干した。
 - [1.5Lを4秒以下で飲む男](https://twitter.com/nego_twi/status/283607009876652032)...小林尊さんの証言によると、練習では土門健さんは、1.5Lを4秒以下で飲みきれていたらしい。
 - [円城塔 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%86%86%E5%9F%8E%E5%A1%94)
-- [文字渦 (Amazon)](https://www.amazon.co.jp/dp/B07M99YBG8/)
-- [文字禍 (Amazon](https://www.amazon.co.jp/%E6%96%87%E5%AD%97%E7%A6%8D-%E4%B8%AD%E5%B3%B6-%E6%95%A6-ebook/dp/B009IXHLYI)
+- [円城塔 文字渦 (Amazon)](https://www.amazon.co.jp/dp/B07M99YBG8/)...Sohおすすめ。ぜひハックされた文学の可能性について存分に楽しんでほしいです。
 - [Uunicode (Wikipedia)](https://ja.wikipedia.org/wiki/Unicode)
 - [方言字 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%96%B9%E8%A8%80%E5%AD%97)...方言と漢字の関係性。地方でしか使われていない漢字の話。
 - [サンキュータツオ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%84%E3%82%AA)
