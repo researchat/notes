@@ -18,13 +18,14 @@ title: 23. TBA
 
 ## Title
 - Tomonori Arakawa
-- FAKE
 - Drink 1.5L within 4.88s
 - ɐʍɐʞɐɹᏌ ᴉɹouoɯo⊥
 - ɹǝʇsuoƜ uǝǝɹ⅁
 - めちゃくちゃなユニコードでもいいかもしれない笑
 - Sleeping podcaster
+- FAKE
 - Your true identity
+- Dive into genome
 
 ## Show notes
 - [大谷翔平 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3)
@@ -40,7 +41,7 @@ title: 23. TBA
 - [二コラブルバギ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%96%E3%83%AB%E3%83%90%E3%82%AD)
 - [岡潔 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%BD%94)
 - [芳賀ゆい (Wikipedia)](https://ja.wikipedia.org/wiki/%E8%8A%B3%E8%B3%80%E3%82%86%E3%81%84)...伊集院光が伊集院光のオールナイトニッポンでプロデュースした架空のアイドル
-- [電気グルーヴのオールナイトニッポン(Wikipedia)](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3)...今、当時の音源を聞いても全く色あせていない。平成新造語などのネタコーナーは極北の一つといっていいだろう。
+- [電気グルーヴのオールナイトニッポン (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%B4%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%8A%E3%82%A4%E3%83%88%E3%83%8B%E3%83%83%E3%83%9D%E3%83%B3)...今、当時の音源を聞いても全く色あせていない。平成新造語などのネタコーナーは極北の一つといっていいだろう。
 - [森達也 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A3%AE%E9%81%94%E4%B9%9F)
 - [FAKE (Amazon)](https://www.amazon.co.jp/FAKE-%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AB%E3%83%83%E3%83%88%E7%89%88-DVD-%E6%A3%AE%E9%81%94%E4%B9%9F/dp/B01N4162C0)...森達也監督。佐村河内事件を追いかけたドキュメンタリー映画。
 - [A (Amazon)](https://www.amazon.co.jp/DVD-ドキュメンタリー映画/dp/B00009P68I/)...地下鉄サリン事件後のオウムの様子を施設の内部に潜入して撮影したドキュメンタリー映画。
@@ -56,7 +57,7 @@ title: 23. TBA
 - [ギークハウス](https://geekhouse.github.io/rooms/)
 - [cryptographyにおけるSatoshi Nakamotoの投稿](https://www.mail-archive.com/search?l=cryptography@metzdowd.com&q=from:%22Satoshi+Nakamoto%22)
 - [ラポールの形成](https://life-and-mind.com/rapport-making-secret-477)
-- [10 reasons to visit this secret paradise island](https://www.telegraph.co.uk/travel/destinations/asia/vietnam/articles/things-to-do-in-phu-quoc-vietnam-tips/aaaa)...カンボジアの国境近く、フーコック島
+- [10 reasons to visit this secret paradise island](https://www.telegraph.co.uk/travel/destinations/asia/vietnam/articles/things-to-do-in-phu-quoc-vietnam-tips/aaaa)...カンボジアの国境近く、フーコック島について。
 - [Sohはモーターバイクに乗ってホーチミンの街をめぐり、飯を食い、ホーチミンの熱気を感じた](https://twitter.com/soh__i/status/1159830934742372353)
 - [Sohが一番気に入ったホーチミンの毛糸のような電線たち。街中の電線がカオスだった。](https://twitter.com/soh__i/status/1161223507621007361)
 - [梅原大吾 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E5%A4%A7%E5%90%BE)...日本格ゲー界のレジェンド。
@@ -68,12 +69,14 @@ title: 23. TBA
 - [土門健, 1.5Lを4秒88で飲む男](https://www.youtube.com/watch?v=aT5GUtkRa8s)...フードファイトクラブで土門健さんが見せた永久不滅の大記録。1.5Lのスポーツドリンクを4秒88で飲み干した。
 - [1.5Lを4秒以下で飲む男](https://twitter.com/nego_twi/status/283607009876652032)...小林尊さんの証言によると、練習では土門健さんは、1.5Lを4秒以下で飲みきれていたらしい。
 - [円城塔 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%86%86%E5%9F%8E%E5%A1%94)
-- [円城塔 文字渦 (Amazon)](https://www.amazon.co.jp/dp/B07M99YBG8/)...Sohおすすめ。ぜひハックされた文学の可能性について存分に楽しんでほしいです。
-- [Uunicode (Wikipedia)](https://ja.wikipedia.org/wiki/Unicode)
+- [「文字渦」円城塔 (Amazon)](https://www.amazon.co.jp/dp/B07M99YBG8/)...Sohおすすめ。ぜひハックされた文学の可能性について存分に楽しんでほしいです。
+- [ユニコード (Wikipedia)](https://ja.wikipedia.org/wiki/Unicode)
 - [方言字 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%96%B9%E8%A8%80%E5%AD%97)...方言と漢字の関係性。地方でしか使われていない漢字の話。
 - [むつごい (香川の方言)](https://dictionary.goo.ne.jp/leaf/dialect/2954/m0u/)
+- [「カオスの紡ぐ夢の中で」金子邦彦 (Amazon)](https://www.amazon.co.jp/%E3%82%AB%E3%82%AA%E3%82%B9%E3%81%AE%E7%B4%A1%E3%81%90%E5%A4%A2%E3%81%AE%E4%B8%AD%E3%81%A7-%E3%80%88%E6%95%B0%E7%90%86%E3%82%92%E6%84%89%E3%81%97%E3%82%80%E3%80%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABNF%E2%80%95%E6%95%B0%E7%90%86%E3%82%92%E6%84%89%E3%81%97%E3%82%80%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E9%87%91%E5%AD%90-%E9%82%A6%E5%BD%A6/dp/4150503648)
+- [「読書で離婚を考えた。」円城塔・田辺青蛙 (Amazon)](https://www.amazon.co.jp/dp/B072KMXSZX/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [サンキュータツオ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%84%E3%82%AA)
-- [舟を編む (Amazon)](https://www.amazon.co.jp/%E8%88%9F%E3%82%92%E7%B7%A8%E3%82%80-%E4%B8%89%E6%B5%A6-%E3%81%97%E3%82%92%E3%82%93/dp/4334927769)
+- [「舟を編む」(Amazon)](https://www.amazon.co.jp/%E8%88%9F%E3%82%92%E7%B7%A8%E3%82%80-%E4%B8%89%E6%B5%A6-%E3%81%97%E3%82%92%E3%82%93/dp/4334927769)
 - [熱量と文字数](https://netsumoji.com/)...サンキュータツオさんのポッドキャスト
 - [熱量と文字数: 広辞苑第七版](https://www.youtube.com/watch?v=s4AU6E2QbRU)...サンキュータツオさんが広辞苑編纂の裏側を語る。
 - [言海 (Wikipedia)](https://ja.wikipedia.org/wiki/%E8%A8%80%E6%B5%B7)...日本最初の辞書。大槻文彦編纂。
@@ -81,5 +84,5 @@ title: 23. TBA
 - [国語辞典の遊び方 (Amazon)](https://www.amazon.co.jp/dp/B01NCA3T62/)
 
 ## Editorial notes
-- (soh)
+- ベトナム旅行日記をまとめたい (soh)
 - ゲノムの海に揉まれたい (tadasu)
