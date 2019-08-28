@@ -54,7 +54,9 @@ title: 23. TBA
 - [ギークハウス](https://geekhouse.github.io/rooms/)
 - [cryptographyにおけるSatoshi Nakamotoの投稿](https://www.mail-archive.com/search?l=cryptography@metzdowd.com&q=from:%22Satoshi+Nakamoto%22)
 - [ラポールの形成](https://life-and-mind.com/rapport-making-secret-477)
-- ベトナム旅行記
+- [10 reasons to visit this secret paradise island](https://www.telegraph.co.uk/travel/destinations/asia/vietnam/articles/things-to-do-in-phu-quoc-vietnam-tips/aaaa)...カンボジアの国境近く、フーコック島
+- [Sohはモーターバイクに乗ってホーチミンの街をめぐり、飯を食い、ホーチミンの熱気を感じた](https://twitter.com/soh__i/status/1159830934742372353)
+- [Sohが一番気に入ったホーチミンの毛糸のような電線たち。街中の電線がカオスだった。](https://twitter.com/soh__i/status/1161223507621007361)
 - [梅原大吾 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E5%A4%A7%E5%90%BE)...日本格ゲー界のレジェンド。
 - [Alex Valle vs Daigo Umehara (1998)](https://www.youtube.com/watch?v=teqRBXhEiaY)...日本のStreet Fighter Zero 3の大会で優勝した梅原選手はアメリカに渡米し、アメリカのチャンピオンAlex Valle選手と戦う。ここから海を越えたゲームコミュニティーの戦いが始まった。途中若かりし頃の有吉がインタビューするのは有名。
 - [Justin Wong (Wikipedia)](https://en.wikipedia.org/wiki/Justin_Wong)...アメリカ最強の格ゲーマー
