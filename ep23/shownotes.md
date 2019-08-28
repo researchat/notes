@@ -5,7 +5,7 @@ actor_ids:
 audio_file_path: /audio/23.mp3
 audio_file_size: 74150633
 date: 2019-08-28 09:00:00 +0900
-description: 
+description: 大谷翔平がボストンにやってきた、架空の人物(ツジモトタロウ、荒川智則、三木・モトユキ・エリクソン等)、メルマガとメーリス、ベトナム旅行記とその魅力、1.5Lを4秒88で飲む男、円城塔とユニコードについて話しました。
 duration: "01:24:32"
 layout: article
 tags: 
@@ -23,8 +23,6 @@ title: 23. TBA
 - ɹǝʇsuoƜ uǝǝɹ⅁
 - めちゃくちゃなユニコードでもいいかもしれない笑
 - Sleeping podcaster
-
-大谷翔平がボストンにやってきた、架空の人物(ツジモトタロウ、荒川智則、三木・モトユキ・エリクソン等)、メルマガとメーリス、ベトナム旅行記とその魅力、1.5Lを4秒88で飲む男、円城塔とユニコードについて話しました。
 
 ## Show notes
 - [大谷翔平 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3)
