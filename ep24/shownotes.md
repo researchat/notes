@@ -38,6 +38,7 @@
 - [ハミルトン閉路問題](http://www.orsj.or.jp/archive2/or61-12/or61_12_844.pdf) ...  ハミルトン閉路問題における、閉路の条件を取り除いたものがハミルトン経路問題。
 - [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing) ... 未踏
 - [NP完全問題を解くDNAコンピューター](http://www.net.c.dendai.ac.jp/~fujiwara/soturon3.htm) ... 日本語のDNAコンピューター解説
+- [Solution of a 20-Variable 3-SAT Problem on a DNA Computer](https://science.sciencemag.org/content/296/5567/499) ... AdlemanによるDNAコンピューター第二弾
 
 ## Editorial notes
 - (soh)
