@@ -4,7 +4,7 @@
 ## Title
 - Driving, Surfing, and Sciencing
 - DNA solver
-- PCRの発明者であるKary Mullis博士追悼回。PCR法の原理と初期プロトコル、Kary Mullisの生涯、爆速DNAポリメラーゼ、PCRを用いたハミルトン経路問題の探索(DNA computing)について話しました。
+- PCRの発明者であるKary Mullis博士追悼回。PCR法の原理と初期プロトコル、Kary Mullisの生涯、爆速DNAポリメラーゼ、PCRを用いたハミルトン経路問題の計算(DNA computing)について話しました。
 
 
 ## Show notes
@@ -21,7 +21,7 @@
 - [Enzymatic amplification of beta-globin genomic sequences and restriction site analysis for diagnosis of sickle cell anemia](https://www.ncbi.nlm.nih.gov/pubmed/2999980) ... Saiki et al. Science 1985. PCRの最初の論文。現在とプロトコルはほとんど変わっていないが、当時はDNA polymeraseとして、Klenowを用いていたため、温度を上げてDenatureさせた後はKlenowを新しく入れる必要があった。
 - [Specific enzymatic amplification of DNA in vitro: the polymerase chain reaction](https://www.ncbi.nlm.nih.gov/pubmed/3472723) ... PCR初期の論文
 - [Specific synthesis of DNA in vitro via a polymerase-catalyzed chain reaction](https://www.ncbi.nlm.nih.gov/pubmed/3431465) ... PCR初期の論文
-- [Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase](https://www.ncbi.nlm.nih.gov/pubmed/2448875) ... イエローストーン国立公園でとられた好熱細菌であるThermus aquaticusから取られたDNA polymeraseであるTaqを応用したPCRの論文。今のPCRの原型となる。
+- [Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase](https://www.ncbi.nlm.nih.gov/pubmed/2448875) ... イエローストーン国立公園でとられた好熱細菌であるThermus aquaticusから取られたDNA polymeraseであるTaqを応用したPCRの論文。今のPCRの原型となる。被引用数としてはこの論文が一番PCR関連の中では多い。(2019年現在、被引用数は2万越え)
 - [Thermus aquaticus](https://en.wikipedia.org/wiki/Thermus_aquaticus) ... イエローストーン国立公園で単離された好熱細菌。DNA polymeraseであるTaqはこの菌から取られた。
 - [Thermus thermophilus](https://www.google.com/search?client=firefox-b-d&q=thermus+thermophilus) ... 伊豆にある峰温泉で取られた好熱細菌。
 - [数兆円の経済効果--PCRの発見](https://www.rnaj.org/newsletters/item/471-furuichi-9) ... 古市泰宏先生によるPCRをめぐる当時の状況とKary Mullisの回顧録。当時の雰囲気を感じ取ることができる。
@@ -32,9 +32,9 @@
 - [縁から中心を捉える科学－好熱菌を通して](http://brh.co.jp/s_library/interview/43/) ... 大島泰郎先生による好熱菌研究のエピソード
 - [Leonard Adleman (Wikipedia)](https://en.wikipedia.org/wiki/Leonard_Adleman) ... DNA computingを初めて行ったAdlemanはRSA暗号の提案によって2002年にチューリング賞を受賞している。
 - [Molecular computation of solutions to combinatorial problems](https://www.ncbi.nlm.nih.gov/pubmed/7973651) ... PCRを用いることによって7個の頂点からなるハミルトン経路問題を解くことを示した論文。DNA computingにおける最初の例。
-- [RSA暗号 (Wikipedia)](https://ja.wikipedia.org/wiki/RSA%E6%9A%97%E5%8F%B7) 
+- [RSA暗号 (Wikipedia)](https://ja.wikipedia.org/wiki/RSA%E6%9A%97%E5%8F%B7) ... RSAのAはAdlemanのA。
 - [ハミルトン閉路問題](http://www.orsj.or.jp/archive2/or61-12/or61_12_844.pdf) ...  ハミルトン閉路問題における、閉路の条件を取り除いたものがハミルトン経路問題。
-- [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing) ... 未踏の領域
+- [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing) ... 未踏
 
 ## Editorial notes
 - (soh)
