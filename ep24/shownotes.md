@@ -37,6 +37,7 @@
 - [RSA暗号 (Wikipedia)](https://ja.wikipedia.org/wiki/RSA%E6%9A%97%E5%8F%B7) ... RSAのAはAdlemanのA。
 - [ハミルトン閉路問題](http://www.orsj.or.jp/archive2/or61-12/or61_12_844.pdf) ...  ハミルトン閉路問題における、閉路の条件を取り除いたものがハミルトン経路問題。
 - [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing) ... 未踏
+- [NP完全問題を解くDNAコンピューター](http://www.net.c.dendai.ac.jp/~fujiwara/soturon3.htm) ... 日本語のDNAコンピューター解説
 
 ## Editorial notes
 - (soh)
