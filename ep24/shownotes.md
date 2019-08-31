@@ -18,7 +18,7 @@
 - [Sons of Sputnik: Kary Mullis at TEDxOrangeCoast](https://www.youtube.com/watch?v=iSVy1b-RyVM) ... 青春時代、ロケットを作っていた話をKaryが熱心にしている。
 - [Polymerase Chain Reaction: PCR (Wikipedia)](https://en.wikipedia.org/wiki/Polymerase_chain_reaction) ... テンプレートDNAから目的領域のDNAを増幅させることができる。分子生物学に必須の基本方法。Denature->Annealing->Extensionのステップを繰り返すことでDNAが増幅されていく。
 - [PCRのトラブルシューティングまとめ](https://snk-u.tumblr.com/post/183172634341/pcr%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%BE%E3%81%A8%E3%82%81)
-- [Enzymatic amplification of beta-globin genomic sequences and restriction site analysis for diagnosis of sickle cell anemia](https://www.ncbi.nlm.nih.gov/pubmed/2999980) ... Saiki et al. Science 1985. PCRの最初の論文。現在とプロトコルはほとんど変わっていないが、当時はDNA polymeraseとして、Klenowを用いていたため、温度を上げてDenatureさせた後はKlenowを新しく入れる必要があった。
+- [Enzymatic amplification of beta-globin genomic sequences and restriction site analysis for diagnosis of sickle cell anemia](https://www.ncbi.nlm.nih.gov/pubmed/2999980) ... Saiki et al. Science 1985. PCRの最初の論文。現在とプロトコルはほとんど変わっていないが、当時はDNA polymeraseとして、Klenowを用いていたため、温度を上げてDenatureさせた後はKlenowを新しく入れる必要があった (高温になるとKlenowが失活するため)。
 - [Specific enzymatic amplification of DNA in vitro: the polymerase chain reaction](https://www.ncbi.nlm.nih.gov/pubmed/3472723) ... PCR初期の論文
 - [Specific synthesis of DNA in vitro via a polymerase-catalyzed chain reaction](https://www.ncbi.nlm.nih.gov/pubmed/3431465) ... PCR初期の論文
 - [Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase](https://www.ncbi.nlm.nih.gov/pubmed/2448875) ... イエローストーン国立公園でとられた好熱細菌であるThermus aquaticusから取られたDNA polymeraseであるTaqを応用したPCRの論文。今のPCRの原型となる。被引用数としてはこの論文が一番PCR関連の中では多い。(2019年現在、被引用数は2万越え)
