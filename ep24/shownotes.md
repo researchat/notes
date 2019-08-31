@@ -3,7 +3,7 @@
 
 ## Title
 - Driving, Surfing, and Sciencing
-
+- DNA solver
 - PCRの発明者であるKary Mullis博士追悼回。PCR法の原理と初期プロトコル、Kary Mullisの生涯、爆速DNAポリメラーゼ、PCRを用いたハミルトン閉路問題の探索について話しました。
 
 
