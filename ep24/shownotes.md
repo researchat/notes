@@ -11,10 +11,10 @@
 - [Kary Mullis (Wikipedia)](https://en.wikipedia.org/wiki/Kary_Mullis) ... PCRの発明者。1993年のノーベル化学賞を受賞
 - [Kary Mullis (Web Site)](https://www.karymullis.com/)
 - [Kary Mullis: Play! Experiment! Discover!](https://www.ted.com/talks/kary_mullis_on_what_scientists_do) ... Kary MullisのTEDプレゼンテーション(2002)。
-  - ・何か知りたいことがあれば、自分で実験し、観察し、記録し、法則性を見つけよ 
-  - ・アイデアから始めよ、自分で試し、ドンドン改良せよ 
-  - ・権威に頼るな (時には必要であるが)
-  - ・自分の行為に正直でなければならない
+  - 何か知りたいことがあれば、自分で実験し、観察し、記録し、法則性を見つけよ 
+  - アイデアから始めよ、自分で試し、ドンドン改良せよ 
+  - 権威に頼るな (時には必要であるが)
+  - 自分の行為に正直でなければならない
 - [Sons of Sputnik: Kary Mullis at TEDxOrangeCoast](https://www.youtube.com/watch?v=iSVy1b-RyVM) ... 青春時代、ロケットを作っていた話をKaryが熱心にしている。
 - [Polymerase Chain Reaction: PCR (Wikipedia)](https://en.wikipedia.org/wiki/Polymerase_chain_reaction) ... テンプレートDNAから目的領域のDNAを増幅させることができる。分子生物学に必須の基本方法。Denature->Annealing->Extensionのステップを繰り返すことでDNAが増幅されていく。
 - [PCRのトラブルシューティングまとめ](https://snk-u.tumblr.com/post/183172634341/pcr%E3%81%AE%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%81%BE%E3%81%A8%E3%82%81)
