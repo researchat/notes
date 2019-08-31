@@ -33,7 +33,7 @@
 - [Leonard Adleman (Wikipedia)](https://en.wikipedia.org/wiki/Leonard_Adleman) ... DNA computingを初めて行ったAdlemanはRSA暗号の提案によって2002年にチューリング賞を受賞している。
 - [Molecular computation of solutions to combinatorial problems](https://www.ncbi.nlm.nih.gov/pubmed/7973651) ... PCRを用いることによって7個の頂点からなるハミルトン経路問題を解くことを示した論文。DNA computingにおける最初の例。
 - [RSA暗号 (Wikipedia)](https://ja.wikipedia.org/wiki/RSA%E6%9A%97%E5%8F%B7) 
-- [ハミルトン閉路問題](http://www.orsj.or.jp/archive2/or61-12/or61_12_844.pdf)
+- [ハミルトン閉路問題](http://www.orsj.or.jp/archive2/or61-12/or61_12_844.pdf) ...  ハミルトン閉路問題における、閉路の条件を取り除いたものがハミルトン経路問題。
 - [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing) ... 未踏の領域
 
 ## Editorial notes
