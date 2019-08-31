@@ -29,6 +29,7 @@
 - [KOD DNA Polymerase](http://lifescience.toyobo.co.jp/detail/detail.php?product_detail_id=2)...国産の耐熱性DNAポリメラーゼ。鹿児島県小宝島の硫気孔から今中先生らにより単離された超好熱始原菌 _Thermococcus kodakarensis_ KOD 1株に由来している。
 - [小宝島](http://www.tokara.jp/profile/gaiyou/kodakara/) ... 鹿児島の小宝島。一度聖地巡礼で行きたい。
 - [超好熱菌由来の新規DNAポリメラーゼの発見とその産業利用](https://www.jstage.jst.go.jp/article/kagakutoseibutsu/53/12/53_866/_pdf/-char/ja) ... 上記のKODの発見などに関する今中先生らによる記事。
+- [峰温泉](http://www.kawazu-onsen.com/event/funnto/funnto.html)
 - [PrimeSTAR® Max DNA Polymerase](http://catalog.takara-bio.co.jp/product/basic_info.php?unitid=U100005117)...Takaraの開発した伸長反応が5秒/1kbという驚異的な速度かつ精度を誇るDNAポリメラーゼ。
 - [縁から中心を捉える科学－好熱菌を通して](http://brh.co.jp/s_library/interview/43/) ... 大島泰郎先生による好熱菌研究のエピソード
 - [Leonard Adleman (Wikipedia)](https://en.wikipedia.org/wiki/Leonard_Adleman) ... DNA computingを初めて行ったAdlemanはRSA暗号の提案によって2002年にチューリング賞を受賞している。
