@@ -47,7 +47,7 @@ title: 24. TBA
 - [PrimeSTAR® Max DNA Polymerase](http://catalog.takara-bio.co.jp/product/basic_info.php?unitid=U100005117)...Takaraの開発した伸長反応が5秒/1kbという驚異的な速度かつ精度を誇るDNAポリメラーゼ。
 - [縁から中心を捉える科学－好熱菌を通して](http://brh.co.jp/s_library/interview/43/)...大島泰郎先生による好熱菌研究のエピソード
 - [Leonard Adleman (Wikipedia)](https://en.wikipedia.org/wiki/Leonard_Adleman)...DNA computingを初めて行ったAdlemanはRSA暗号の提案によって2002年にチューリング賞を受賞している。
-- [Molecular computation of solutions to combinatorial problems](https://www.ncbi.nlm.nih.gov/pubmed/7973651)...PCRを用いることによって7個の頂点からなるハミルトン経路問題を解くことを示した論文。DNA computingにおける最初の例。
+- [Molecular computation of solutions to combinatorial problems. Science 1994](https://www2.cs.duke.edu/courses/cps296.4/spring04/papers/Adleman94.pdf)...PCRを用いることによって7個の頂点からなるハミルトン経路問題を解くことを示した論文。DNA computingにおける最初の例。PDFが読めますので興味があればぜひ。
 - [RSA暗号 (Wikipedia)](https://ja.wikipedia.org/wiki/RSA%E6%9A%97%E5%8F%B7)...RSAのAはAdlemanのA。
 - [ハミルトン閉路問題](http://www.orsj.or.jp/archive2/or61-12/or61_12_844.pdf)...ハミルトン閉路問題における、閉路の条件を取り除いたものがハミルトン経路問題。
 - [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing)...未踏
