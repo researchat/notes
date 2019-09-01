@@ -46,9 +46,9 @@ title: 24. Driving, Surfing, and Sciencing
 - [グラフ理論 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96)
 - [RSA暗号 (Wikipedia)](https://ja.wikipedia.org/wiki/RSA%E6%9A%97%E5%8F%B7)...RSAのAはAdlemanのA。
 - [ハミルトン閉路問題](http://www.orsj.or.jp/archive2/or61-12/or61_12_844.pdf)...ハミルトン閉路問題における、閉路の条件を取り除いたものがハミルトン経路問題。
-- [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing)...未踏の領域
+- [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing)...未踏の領域。
 - [NP完全問題を解くDNAコンピューター](http://www.net.c.dendai.ac.jp/~fujiwara/soturon3.htm)...日本語のDNAコンピューターに関する解説
-- [Solution of a 20-Variable 3-SAT Problem on a DNA Computer](https://science.sciencemag.org/content/296/5567/499)...AdlemanによるDNAコンピューター第二弾
+- [Solution of a 20-Variable 3-SAT Problem on a DNA Computer. Science 2002](https://science.sciencemag.org/content/296/5567/499)...AdlemanによるDNAコンピューター第二弾の論文。
 
 ## Editorial notes
 - DNAやその基礎反応を利用したコンピューティング技術についてもっと色々と考えていきたいですね (soh)
