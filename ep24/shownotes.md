@@ -4,7 +4,7 @@ actor_ids:
   - soh
 audio_file_path: /audio/24.mp3
 audio_file_size: 82927219
-date: 2019-09-01 14:00:00 +0900
+date: 2019-09-01 12:42:00 +0900
 description: PCR法の発明者であるKary Mullis博士追悼回。PCRの原理と初期プロトコルやKary Mullisの生涯、爆速DNAポリメラーゼ、PCRを用いたハミルトン経路問題の計算（DNA computing）について話しました。
 duration: "01:26:42"
 layout: article
@@ -43,10 +43,11 @@ title: 24. Driving, Surfing, and Sciencing
 - [縁から中心を捉える科学－好熱菌を通して](http://brh.co.jp/s_library/interview/43/)...大島泰郎先生による好熱菌研究のエピソード
 - [Leonard Adleman (Wikipedia)](https://en.wikipedia.org/wiki/Leonard_Adleman)...DNA computingを初めて行ったAdlemanはRSA暗号の提案によって2002年にチューリング賞を受賞している。
 - [Molecular computation of solutions to combinatorial problems. Science 1994](https://www2.cs.duke.edu/courses/cps296.4/spring04/papers/Adleman94.pdf)...PCRを用いることによって7個の頂点からなるハミルトン経路問題を解くことを示した論文。DNA computingにおける最初の例。PDFが読めますので興味があればぜひ。
+- [グラフ理論 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96)
 - [RSA暗号 (Wikipedia)](https://ja.wikipedia.org/wiki/RSA%E6%9A%97%E5%8F%B7)...RSAのAはAdlemanのA。
 - [ハミルトン閉路問題](http://www.orsj.or.jp/archive2/or61-12/or61_12_844.pdf)...ハミルトン閉路問題における、閉路の条件を取り除いたものがハミルトン経路問題。
-- [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing)...未踏
-- [NP完全問題を解くDNAコンピューター](http://www.net.c.dendai.ac.jp/~fujiwara/soturon3.htm)...日本語のDNAコンピューター解説
+- [DNA computing (Wikipedia)](https://en.wikipedia.org/wiki/DNA_computing)...未踏の領域
+- [NP完全問題を解くDNAコンピューター](http://www.net.c.dendai.ac.jp/~fujiwara/soturon3.htm)...日本語のDNAコンピューターに関する解説
 - [Solution of a 20-Variable 3-SAT Problem on a DNA Computer](https://science.sciencemag.org/content/296/5567/499)...AdlemanによるDNAコンピューター第二弾
 
 ## Editorial notes
