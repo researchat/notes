@@ -11,12 +11,8 @@ layout: article
 tags: 
   - PCR
   - Kary Mullis
-title: 24. TBA
+title: 24. Driving, Surfing, and Sciencing
 ---
-
-## Title
-- Driving, Surfing, and Sciencing
-- DNA solver
 
 ## Show notes
 - [Kary Mullis (Wikipedia)](https://en.wikipedia.org/wiki/Kary_Mullis)...PCRの発明者。1993年のノーベル化学賞を受賞
