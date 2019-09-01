@@ -17,6 +17,7 @@ title: 24. TBA
 ## Title
 - Driving, Surfing, and Sciencing
 - DNA solver
+- Essentials for innovation
 
 ## Show notes
 - [Kary Mullis (Wikipedia)](https://en.wikipedia.org/wiki/Kary_Mullis)...PCRの発明者。1993年のノーベル化学賞を受賞
