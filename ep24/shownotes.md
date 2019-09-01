@@ -1,7 +1,22 @@
+---
+actor_ids:
+  - tadasu
+  - soh
+audio_file_path: /audio/24.mp3
+audio_file_size: 82927219
+date: 2019-09-01 14:00:00 +0900
+description: PCR法の発明者であるKary Mullis博士追悼回。PCRの原理と初期プロトコルやKary Mullisの生涯、爆速DNAポリメラーゼ、PCRを用いたハミルトン経路問題の計算（DNA computing）について話しました。
+duration: "01:26:42"
+layout: article
+tags: 
+  - PCR
+  - Kary Mullis
+title: 24. TBA
+---
+
 ## Title
 - Driving, Surfing, and Sciencing
 - DNA solver
-- PCRの発明者であるKary Mullis博士追悼回。PCR法の原理と初期プロトコル、Kary Mullisの生涯、爆速DNAポリメラーゼ、PCRを用いたハミルトン経路問題の計算 (DNA computing)について話しました。
 
 ## Show notes
 - [Kary Mullis (Wikipedia)](https://en.wikipedia.org/wiki/Kary_Mullis)...PCRの発明者。1993年のノーベル化学賞を受賞
@@ -19,6 +34,7 @@
 - [Specific synthesis of DNA in vitro via a polymerase-catalyzed chain reaction](https://www.ncbi.nlm.nih.gov/pubmed/3431465)...PCR初期の論文
 - [Primer-directed enzymatic amplification of DNA with a thermostable DNA polymerase](https://www.ncbi.nlm.nih.gov/pubmed/2448875)...イエローストーン国立公園でとられた好熱細菌であるThermus aquaticusから取られたDNA polymeraseであるTaqを応用したPCRの論文。今のPCRの原型となる。被引用数としてはこの論文が一番PCR関連の中では多い。(2019年現在、被引用数は2万越え)
 - [Thermus aquaticus](https://en.wikipedia.org/wiki/Thermus_aquaticus)...イエローストーン国立公園で単離された好熱細菌。DNA polymeraseであるTaqはこの菌から取られた。
+- [5x NEB Phusion Polymerase Buffer](https://international.neb.com/products/b0518-phusion-hf-buffer-pack)...このようにPCRのバッファーだけも売っている。
 - [Thermus thermophilus](https://www.google.com/search?client=firefox-b-d&q=thermus+thermophilus)...伊豆にある峰温泉で取られた好熱細菌。
 - [数兆円の経済効果--PCRの発見](https://www.rnaj.org/newsletters/item/471-furuichi-9)...古市泰宏先生によるPCRをめぐる当時の状況とKary Mullisの回顧録。当時の雰囲気を感じ取ることができる。
 - [Cosmological Significance of Time Reversal](https://www.nature.com/articles/218663b0)...Kary Mullisが24歳の時にかいた物理の論文。
