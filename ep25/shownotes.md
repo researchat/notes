@@ -20,7 +20,7 @@ title: 25. Cubic Poop(仮)
 - Pizza is medicine
 - Life should be long, speeches should be short 
 
-イグノーベル賞(2019)の授賞式に参加してみての感想と主流ではないとされているサイエンスの重要性について話しました。
+イグノーベル賞(2019)の授賞式に参加してみての感想と、科学エンターテイメントの重要性について話しました。
 
 ## Show notes
 - [IgNobel Prize](https://www.improbable.com/ig-about/)
