@@ -37,7 +37,7 @@ title: 25. Cubic Poop
 - [Mikhail(Misha) Lukin](https://en.wikipedia.org/wiki/Mikhail_Lukin) ... Royのほうきを受け継いだ
 - [IgNobel関係者まとめ](https://www.improbable.com/ig-about/whoswho2019/)
 - [Ms Sweety Poo](https://www.youtube.com/watch?v=xAnVNXaa5oA) ... 受賞者のスピーチが1分を超えると止めに来る8歳の少女とそのまとめ動画。"Please stop. I'm boared."
-- [Dr. Jim Bret(human spotlight)が描いた熱力学の漫画](http://web.mit.edu/afs/athena/user/j/b/jbredt/Public/thermo/1st_2nd_Laws.pdf) ... 銀色の人力スポットライトおじさん、ことDr. Jim Bretが描いた漫画
+- [Dr. Jim Bredt(human spotlight)が描いた熱力学の漫画](http://web.mit.edu/afs/athena/user/j/b/jbredt/Public/thermo/1st_2nd_Laws.pdf) ... 銀色の人力スポットライトおじさん、ことDr. Jim Bretが描いた漫画
 - [Jean Berko Gleason](https://en.wikipedia.org/wiki/Jean_Berko_Gleason) ... Welcome, welcomeスピーチとGood-bye, good-byeスピーチを担当している女性。そのお茶目さとは裏腹にすごい研究者である。
 - [2019年イグノーベル賞受賞リストとその参考文献](https://www.improbable.com/2019/09/12/announcing-the-2019-ig-nobel-prize-winners/)
 - [医学賞:ピッツァが病気や死を予防するかもしれない証拠の収集(ただしピッツァはイタリアで作られ、食べられた場合に限る)](https://www.ncbi.nlm.nih.gov/pubmed/12949808)
