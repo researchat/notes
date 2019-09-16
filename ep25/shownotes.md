@@ -63,6 +63,6 @@ title: 25. Cubic Poop(仮)
 - [GRAPE](https://ja.wikipedia.org/wiki/GRAPE)
 
 ## Editorial notes
-- (soh)
+- イグノーベル賞をpodcast枠で狙っていく (soh)
 - (coela)
 - 面白いデータを出した全てのポスドクにも乾杯して欲しかった(tadasu)
