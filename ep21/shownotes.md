@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/21.mp3
 audio_file_size: 67508687
-date: 2019-08-08 9:00:00 +0900
+date: 2019-08-12 9:00:00 +0900
 description: 顕微鏡ワークショップへの参加、技術継承と研究コミュニティーの重要性、研究者の生産性、色が変わる機能性タトゥー、ゴールデンラッキーについて話しました。 (出演：tadasu、soh、coela）
 duration: "01:10:19"
 layout: article
@@ -19,7 +19,7 @@ title: 21. Living in the base-21 world
 ---
 TitleはLinving in the base-21 world でいいかも。
 
-## Shownotes
+## Show notes
 - [2-36進数自動変換](http://www.gaoshukai.com/lab/0013/)...21進数 0123456789ABCDEFGHIJK
 - Unicodeの拡張...平成などの元号は、unicodeでは一文字の合成文字として表現できるように定義されている。㍻(U+337B)や㍼(U+337C)など。ちなみに令和の元号が新たに制定された今年、unicodeにも合字の令和を追加しようとしたが、すでに㍾の隣が㍿で取られているので、未定義領域のコードポイントU+32FFが令和の合字に追加された。
 - [新元号　令和（れいわ）の文字コードについて](https://qiita.com/tfukumori/items/959ed9c751734b73675f)
