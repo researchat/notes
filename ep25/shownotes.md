@@ -13,7 +13,7 @@ tags:
   - IgNobel
   - Nobel
   - Award
-title: 25. Cubic Poop(仮)
+title: 25. Cubic Poop
 ---
 ## Title
 - Cubic Poop(仮)
