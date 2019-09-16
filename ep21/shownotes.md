@@ -45,4 +45,4 @@ TitleはLinving in the base-21 world でいいかも。
 ## Editorial notes
 - ユニコードの世界について語るとき、円城塔「文字渦」は避けて通れないのでいつか紹介したいです (Soh)
 - 久しぶりに、ゴールデンラッキーの狂気に浸りたい。(tadasu)
-- coela
+- FDAPとFLIPとFLAP(造語）がごっちゃになって喋っておりました、すみません…(coela)
