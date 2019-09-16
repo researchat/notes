@@ -6,8 +6,8 @@ actor_ids:
 audio_file_path: /audio/25.mp3
 audio_file_size: 
 date: 2019-09-16 00:00:00 +0900
-description: 
-duration: "XX:XX:XX"
+description: イグノーベル賞(2019)の授賞式に参加してみての感想と、科学エンターテイメントの重要性について話しました。
+duration: "01:44:49"
 layout: article
 tags: 
   - IgNobel
@@ -65,4 +65,4 @@ title: 25. Cubic Poop(仮)
 ## Editorial notes
 - (soh)
 - (coela)
-- イグノーベル賞ほしい(tadasu)
+- 面白いデータを出した全てのポスドクにも乾杯して欲しかった(tadasu)
