@@ -13,7 +13,7 @@ tags:
   - 
   - 
   - 
-title: 27. hogehogehoge
+title: 27. BURN KNUCKLE!(仮）
 ---
 
 ## Show notes
@@ -24,7 +24,7 @@ title: 27. hogehogehoge
 - [Researchat's Blog](https://researchat.fm/blog/)...Podcastで話したことをもったいないのでまとめたブログがこちらに。
 - [大乱闘スマッシュブラザーズ SPECIAL](https://www.smashbros.com/ja_JP/)...任天堂が発売している大人気対戦型アクションゲーム。
 - [テリー・ボガード]...伝説の狼。SNKを代表するキャラクターの一人。このたび大乱闘スマッシュブラザーズへの参戦が発表された。
-- [テリー・ボガード参戦動画](https://www.nintendo.co.jp/nintendo_direct/20190905/index.html)...Nintendo Direct 2019.9.5
+- [テリー・ボガード参戦動画](https://www.nintendo.co.jp/nintendo_direct/20190905/index.html)...スマッシュブラザーズへテリーの参戦が発表されたときの動画。必見！！Nintendo Direct 2019.9.5。
 - [格闘ゲーム歴史年表 アーケード版 （仮）](http://kakuge.info/k/history/ac.htm)...アーケードの格闘ゲームの年表がまとめられている。
 - [KAKUGE.com](https://kakuge.com/wiki/)...格ゲー用語辞典
 - [格闘ゲーム年表(ニコニコMUGEN Wiki)](https://w.atwiki.jp/niconicomugen/pages/534.html)...格闘ゲームの年表についてまとめられている。MUGENが苦手な人は注意。
