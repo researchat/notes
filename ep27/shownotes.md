@@ -17,6 +17,10 @@ title: 27. hogehogehoge
 ---
 
 ## Show notes
+- [伊藤穰一氏がMITメディアラボの所長を辞任、資金調達の不正処理で](https://jp.techcrunch.com/2019/09/08/2019-09-07-joi-ito-resigns-as-mit-media-lab-head-in-wake-of-jeffrey-epstein-reporting/)
+- [10x Genomics' IPO rockets past a $390M raise. FierceBiotech](https://www.fiercebiotech.com/medtech/10x-genomics-ipo-rockets-past-a-390m-raise)...シングルセル解析のベンチャー、10x Genomicsがついに上場した
+- [Researchat.fmお便りフォーム](https://researchat.fm/form.html)...お待ちしております！
+- [DEATH STRANDING (デス・ストランディング)](https://www.jp.playstation.com/games/death-stranding/)
 
 
 ## Editorial notes
