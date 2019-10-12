@@ -21,6 +21,8 @@ title: 27. hogehogehoge
 - [10x Genomics' IPO rockets past a $390M raise. FierceBiotech](https://www.fiercebiotech.com/medtech/10x-genomics-ipo-rockets-past-a-390m-raise)...シングルセル解析のベンチャー、10x Genomicsがついに上場した
 - [Researchat.fmお便りフォーム](https://researchat.fm/form.html)...お待ちしております！
 - [DEATH STRANDING (デス・ストランディング)](https://www.jp.playstation.com/games/death-stranding/)
+- [地球平面協会 (Flat Earth Society) (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E5%B9%B3%E9%9D%A2%E5%8D%94%E4%BC%9A)
+- [Flat Earth Society](https://www.tfes.org/)...公式サイト
 
 
 ## Editorial notes
