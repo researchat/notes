@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/27.mp3
 audio_file_size: 59782410
-date: 2019-10-11 10:58:00 +0900
+date: 2019-10-13 09:24:00 +0900
 description: かく！
 duration: "1:10:08"
 layout: article
