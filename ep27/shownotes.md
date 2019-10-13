@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/27.mp3
 audio_file_size: 59782410
 date: 2019-10-13 09:24:00 +0900
-description: かく！
+description: 雑談回。コジマプロダクションの新作ゲーム「DEATH STRANDING」や大乱闘スマッシュブラザーズに参戦したテリー・ボガードと格闘ゲームの歴史、地球平面説を題材にしたnetflixの番組について話しました。
 duration: "1:10:08"
 layout: article
 tags: 
