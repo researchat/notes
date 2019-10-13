@@ -23,7 +23,7 @@ title: 27. BURN KNUCKLE!(仮）
 - [DEATH STRANDING (デス・ストランディング)](https://www.jp.playstation.com/games/death-stranding/)...小島秀夫監督の最新作。PS4で11月8日発売！！
 - [Researchat's Blog](https://researchat.fm/blog/)...Podcastで話したことをもったいないのでまとめたブログがこちらに。
 - [大乱闘スマッシュブラザーズ SPECIAL](https://www.smashbros.com/ja_JP/)...任天堂が発売している大人気対戦型アクションゲーム。
-- [テリー・ボガード]...伝説の狼。SNKを代表するキャラクターの一人。このたび大乱闘スマッシュブラザーズへの参戦が発表された。
+- テリー・ボガード...伝説の狼。SNKを代表するキャラクターの一人。このたび大乱闘スマッシュブラザーズへの参戦が発表された。
 - [テリー・ボガード参戦動画](https://youtu.be/mzEqIbJFD0Y?t=505)...スマッシュブラザーズへテリーの参戦が発表されたときの動画。にくい演出がいっぱいなので必見！！Nintendo Direct 2019.9.5。
 - [格闘ゲーム歴史年表 アーケード版 （仮）](http://kakuge.info/k/history/ac.htm)...アーケードの格闘ゲームの年表がまとめられている。
 - [KAKUGE.com](https://kakuge.com/wiki/)...格ゲー用語辞典
@@ -42,9 +42,7 @@ title: 27. BURN KNUCKLE!(仮）
 - [地球平面協会 (Flat Earth Society) (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E5%B9%B3%E9%9D%A2%E5%8D%94%E4%BC%9A)
 - [Flat Earth Society](https://www.tfes.org/)...公式サイト
 
-
 ## Editorial notes
-- (soh)
+- ゲームネタ、まじでわからん! (soh)
 - Death Strandingも来るし、シェンムーIIIも来る。一体どうなる。(tadasu)
 - 満足するまで喋りました。これから年末にかけて楽しみなゲームがいっぱい発売されますね！(coela)
-
