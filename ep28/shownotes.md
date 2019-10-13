@@ -26,6 +26,8 @@ title: 28. Left is Right
 - [増井俊之](https://ja.wikipedia.org/wiki/%E5%A2%97%E4%BA%95%E4%BF%8A%E4%B9%8B) ... 我らの先生、増井さん。POBox、Gyazo、Scrapboxなど有名な作品は多数。増井さんのScrapboxでの色々な紹介が好きすぎる。iPhoneにフリック入力を実装した。
 - [増井さんのScrapbox](https://scrapbox.io/masui/)
 - [増井さんがJobsに呼ばれた時の話](https://scrapbox.io/masui/%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA%E3%81%9F%E3%82%93%E3%81%A8%E3%81%AE%E9%81%AD%E9%81%87)
+- [増井さんによるペンによるテキスト入力法の記事(1999)](http://www.pitecan.com/UnixMagazine/PDF/if9901.pdf)
+- [増井さんによるニュートンHanabi評](https://twitter.com/masui/status/320032821450264576) ... 上記二つの記事を読むに、フリック入力はHanabiが最初というのは少し精彩を欠きました。申し訳ございませんでした。
 - [mixiの左右盲コミュ](https://mixi.jp/view_community.pl?id=4294730) ... 左右盲の様々な問題について話されている。
 
 - [Netflixのビルゲイツ]()
