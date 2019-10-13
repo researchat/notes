@@ -4,16 +4,15 @@ actor_ids:
   - soh
   - coela
 audio_file_path: /audio/27.mp3
-audio_file_size: 
+audio_file_size: 59782410
 date: 2019-10-11 10:58:00 +0900
-description: 
-duration: "00:XX:XX"
+description: かく！
+duration: "1:10:08"
 layout: article
 tags: 
-  - 
-  - 
-  - 
-title: 27. BURN KNUCKLE!(仮）
+  - Game
+  - Netflix
+title: 27. BURN KNUCKLE!
 ---
 
 ## Show notes
