@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/28.mp3
 audio_file_size: 
 date: 2019-10-15 10:58:00 +0900
-description: 三十路がフリック入力を習得するためにがんばった過程と、そこから見えきた認知問題(左右盲、文字認識、記憶法、自分の中の文字盤)について話しました。
+description: 三十路がフリック入力を習得するためにがんばった過程と、そこから見えきた認知問題(左右盲、文字認識、記憶法、自分の中の文字盤)、おすすめのNetflixについて話しました。
 duration: "00:55:10"
 layout: article
 tags: 
@@ -33,6 +33,6 @@ title: 28. Left is Right
 - [Inside Bill's Brain: Decoding Bill Gates, Netflix](https://www.netflix.com/title/80184771)...Netflixのチームがビル・ゲイツの仕事に密着したドキュメンタリ。
 
 ## Editorial notes
-- (soh)
+- 2010年ごろにあいほんを買って以来、フリック入力しか使っていないのでネイティブを名乗っていきたい (soh)
 - (coela)
-- フリック入力側の勉強が不足していました。申し訳ございませんでした。(tadasu)
+- フリック入力側の勉強が不足していました。申し訳ございませんでした (tadasu)
