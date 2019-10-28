@@ -23,6 +23,7 @@ title: 29. Born to Chat
 - [ロドスのレオニダス (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%89%E3%82%B9%E3%81%AE%E3%83%AC%E3%82%AA%E3%83%8B%E3%83%80%E3%82%B9) ... 古代オリンピック最強の選手。マイケルフェルプスが2168年ぶりに記録を塗り替えた。
 - [通し矢 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%80%9A%E3%81%97%E7%9F%A2) ... 三十三間堂で行われる弓道の大会
 - [コンポジットボウ](https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-WW-COMBOW01-%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88%E3%83%9C%E3%82%A6-%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%BC%93-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88-%E3%80%90%E6%B2%96%E7%B8%84%E3%83%BB%E9%9B%A2%E5%B3%B6%E7%99%BA%E9%80%81%E4%B8%8D%E5%8F%AF%E3%80%91/dp/B01G2WFT5U)
+- [コンパウンドボウ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A6%E3%83%B3%E3%83%89%E3%83%9C%E3%82%A6)
 - [星野勘左衛門](http://soutairoku.com/01_soutai/06-5_ho/03-2_si/hosino_kanzaemon/hosino_kanzaemon.html)
 - [伝運慶作](https://blogs.yahoo.co.jp/ohukurosan11/67301241.html) ... 三十三間堂にある伝運慶作の仏像について
 - [仏ゾーン](https://www.amazon.co.jp/%E4%BB%8F%E3%82%BE%E3%83%BC%E3%83%B3-1-%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BB%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E6%AD%A6%E4%BA%95-%E5%AE%8F%E4%B9%8B/dp/4088723066)
