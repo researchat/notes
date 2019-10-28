@@ -12,7 +12,7 @@ tags:
   - 
   - 
   - 
-title: 29. Born to Study
+title: 29. Born to Chat
 ---
 
 ## Show notes
