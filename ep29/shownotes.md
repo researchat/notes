@@ -18,7 +18,7 @@ title: 29. Left is Right
 ## Show notes
 - [レガッタ(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AC%E3%83%83%E3%82%BF)
 - [Head of the Charles Regatta](https://www.hocr.org/)
-- [ソーシャルネットワーク]https://www.amazon.co.jp/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-DVD-%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%82%BC%E3%83%B3%E3%83%90%E3%83%BC/dp/B005YWUMG6)
+- [ソーシャルネットワーク](https://www.amazon.co.jp/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF-DVD-%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A4%E3%82%BC%E3%83%B3%E3%83%90%E3%83%BC/dp/B005YWUMG6)
 - [ウィンクルボス兄弟(Wikipedia)](https://en.wikipedia.org/wiki/Cameron_Winklevoss)
 - [通し矢(Wikipedia)](https://ja.wikipedia.org/wiki/%E9%80%9A%E3%81%97%E7%9F%A2)
 - [コンポジットボウ](https://www.amazon.co.jp/%E3%83%8E%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89-WW-COMBOW01-%E3%82%B3%E3%83%B3%E3%83%9D%E3%82%B8%E3%83%83%E3%83%88%E3%83%9C%E3%82%A6-%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%BC%93-%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88-%E3%80%90%E6%B2%96%E7%B8%84%E3%83%BB%E9%9B%A2%E5%B3%B6%E7%99%BA%E9%80%81%E4%B8%8D%E5%8F%AF%E3%80%91/dp/B01G2WFT5U)
@@ -41,7 +41,7 @@ title: 29. Left is Right
 - [Born to Run](https://www.amazon.co.jp/BORN-RUN-%E8%B5%B0%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F-%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BCVS%E4%BA%BA%E9%A1%9E%E6%9C%80%E5%BC%B7%E3%81%AE%E2%80%9C%E8%B5%B0%E3%82%8B%E6%B0%91%E6%97%8F-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%89%E3%82%A5%E3%83%BC%E3%82%AC%E3%83%AB/dp/4140814144/)
 - [BORN TO RUNと麻薬の運び屋](http://web.archive.org/web/20131016100217/http://the-world-is-yours.hatenablog.jp/entry/2013/10/14/234410)
 - [千日回峰行](https://ja.wikipedia.org/wiki/%E5%8D%83%E6%97%A5%E5%9B%9E%E5%B3%B0%E8%A1%8C_(%E6%AF%94%E5%8F%A1%E5%B1%B1))
-- [一日一生]https://www.amazon.co.jp/%E4%B8%80%E6%97%A5%E4%B8%80%E7%94%9F-%E6%9C%9D%E6%97%A5%E6%96%B0%E6%9B%B8-%E5%A4%A9%E5%8F%B0%E5%AE%97%E5%A4%A7%E9%98%BF%E9%97%8D%E6%A2%A8-%E9%85%92%E4%BA%95-%E9%9B%84%E5%93%89/dp/4022732385)
+- [一日一生](https://www.amazon.co.jp/%E4%B8%80%E6%97%A5%E4%B8%80%E7%94%9F-%E6%9C%9D%E6%97%A5%E6%96%B0%E6%9B%B8-%E5%A4%A9%E5%8F%B0%E5%AE%97%E5%A4%A7%E9%98%BF%E9%97%8D%E6%A2%A8-%E9%85%92%E4%BA%95-%E9%9B%84%E5%93%89/dp/4022732385)
 - [常行三昧](https://kotobank.jp/word/%E5%B8%B8%E8%A1%8C%E4%B8%89%E6%98%A7-79019)
 - [相応 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%BF%9C_(%E5%83%A7))
 - [阿闍梨 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%98%BF%E9%97%8D%E6%A2%A8)
