@@ -5,13 +5,14 @@ actor_ids:
 audio_file_path: /audio/29.mp3
 audio_file_size: 
 date: 2019-10-30 00:00:00 +0900
-description: 
+description:レガッタ、通し矢、剱岳と修験僧、トランスジャパンアルプスレース、ララムリ、千日回峰行、ツール・ド・空海、科挙と状元、ああ播磨灘について話しました。
+
 duration: "00:55:10"
 layout: article
 tags: 
-  - 
-  - 
-  - 
+  - 武器
+  - 趣味
+  - 雑談
 title: 29. Born to Chat
 ---
 
@@ -53,4 +54,4 @@ title: 29. Born to Chat
 - [ああ播磨灘](https://www.amazon.co.jp/%E3%81%82%E3%81%82%E6%92%AD%E7%A3%A8%E7%81%98%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%95%E3%81%A0%E3%82%84%E3%81%99%E5%9C%AD-ebook/dp/B00A2MCM1Q)
 
 ## Editorial notes
-- 地元最強は憧れる。ツール・ド・空海がまたあれば出たい。(tadasu)
+- 地元最強は憧れる。ツール・ド・空海があれば出たい。(tadasu)
