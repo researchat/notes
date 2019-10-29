@@ -39,8 +39,8 @@ title: 29. Born to Chat
 - [トランスジャパンアルプスレース(TJAR)](http://www.tjar.jp/) ... 2年に一回開催の最強に過酷なレース。Webで生中継あり。
 - [TJAR最強の望月さんのインタビュー](https://www.mtfuji.or.jp/thought/interview/vol50)
 - [お遍路](https://shikoku-tourism.com/feature/henro/top)
-- [ツール・ド・空海](kechigan.blog58.fc2.com) ... お遍路を自転車で回るツール・ド・空海参加者の記録
-- [ツール・ド・空海](https://eco-and-health.at.webry.info/201203/article_4.html) ... お遍路を自転車で回るツール・ド・空海参加者の記録
+- [ツール・ド・空海 1](kechigan.blog58.fc2.com) ... お遍路を自転車で回るツール・ド・空海参加者の記録 その1
+- [ツール・ド・空海 2](https://eco-and-health.at.webry.info/201203/article_4.html) ... お遍路を自転車で回るツール・ド・空海参加者の記録 その2
 - [ララムリ/タラフマラ族(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%83%95%E3%83%9E%E3%83%A9%E6%97%8F) ... メキシコに住む最強のランナー部族。タイヤで作ったサンダルは有名。
 - [Born to Run](https://www.amazon.co.jp/BORN-RUN-%E8%B5%B0%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F-%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BCVS%E4%BA%BA%E9%A1%9E%E6%9C%80%E5%BC%B7%E3%81%AE%E2%80%9C%E8%B5%B0%E3%82%8B%E6%B0%91%E6%97%8F-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%89%E3%82%A5%E3%83%BC%E3%82%AC%E3%83%AB/dp/4140814144/) ... ララムリを探しにいく名著。最後のレースは必見。
 - [BORN TO RUNと麻薬の運び屋](http://web.archive.org/web/20131016100217/http://the-world-is-yours.hatenablog.jp/entry/2013/10/14/234410) ... ララムリが麻薬組織に使われているのではないかという話。
