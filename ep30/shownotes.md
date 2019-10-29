@@ -4,14 +4,15 @@ actor_ids:
   - coela
 audio_file_path: /audio/30.mp3
 audio_file_size: 
-date: 2019-xx-xx xx:xx:xx +0900
+date: 2019-10-30 00:00:00 +0900
 description: 
-duration: "00:xx:xx"
+duration: "01:27:04"
 layout: article
 tags: 
-  - 
-  - 
-  - 
+  - 趣味
+  - 武器
+  - ゲーム
+  - マンガ
 title: 30. Weapons in Fiction
 ---
 
@@ -26,7 +27,7 @@ title: 30. Weapons in Fiction
 - ガリアンソード
 - 刀狩りの張
 - ウルミ
-
+- カヤリパット
 - 燐火円礫刀 漫画幽遊白書に登場する斧の頑丈さと薄刃の切れ味を併せ持つ無双の剣。飛影vs時雨はベストバウトの一つ。
 - チャクラム
 
@@ -52,3 +53,6 @@ title: 30. Weapons in Fiction
 
 - シュトヘル（漫画）
 - 天竺熱風録（漫画）
+
+## Editorial notes
+- カヤリパットについて話すことはもう人生でないだろう。(tadasu)
