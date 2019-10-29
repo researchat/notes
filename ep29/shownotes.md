@@ -3,11 +3,11 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/29.mp3
-audio_file_size: 
+audio_file_size: 73584977
 date: 2019-10-30 00:00:00 +0900
 description: レガッタ、通し矢、剱岳と修験僧、トランスジャパンアルプスレース、ララムリ、千日回峰行、ツール・ド・空海、科挙と状元、ああ播磨灘について話しました。
 
-duration: "00:55:10"
+duration: "01:16:39"
 layout: article
 tags: 
   - 武器
