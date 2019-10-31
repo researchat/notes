@@ -32,8 +32,8 @@ title: 29. Born to chat
 - [力石 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%8A%9B%E7%9F%B3)
 - [2018 Arnold Strongman Classic | Stone Shoulder](https://www.youtube.com/watch?v=AC8sm9h8lGw)...現代版力石
 - [How To Lift An Atlas Stone](https://www.youtube.com/watch?v=LZCm3mU2GhE)...現代版力石
-- カリバーン
-- 聖剣エクスカリバー
+- [カリバーン](https://ja.m.wikipedia.org/wiki/エクスカリバー)...かのアーサー王が岩から引き抜き王となった選定の剣、ってfateで言ってた。(リンク先はエクスカリバーの項だが記載あり)
+- 聖剣エクスカリバー...聖剣と言えばエクスカリバーというぐらい有名な(？)アーサー王の剣
 - [天の逆鉾](http://sazma.jp/2017/05/18/764/)...坂本龍馬が抜いたと言われている。
 - Fate
 - [トランスジャパンアルプスレース(TJAR)](http://www.tjar.jp/)...2年に一回開催の最強に過酷なレース。Webで生中継あり。
@@ -55,5 +55,6 @@ title: 29. Born to chat
 
 ## Editorial notes
 - 地元最強は憧れる。ツール・ド・空海があれば出たい。(tadasu)
+- Researchatのブレーキがどっかいくとこうなるというのが分かりました。(coela)
 - 2人の世界が展開されていますね。今回は出演しておりませんので、リスナーとして楽しみます。(soh)
 
