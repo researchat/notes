@@ -35,7 +35,7 @@ title: 29. Born to chat
 - [カリバーン](https://ja.m.wikipedia.org/wiki/エクスカリバー)...かのアーサー王が岩から引き抜き王となった選定の剣、ってfateで言ってた。(リンク先はエクスカリバーの項だが記載あり)
 - 聖剣エクスカリバー...聖剣と言えばエクスカリバーというぐらい有名な(？)アーサー王の剣
 - [天の逆鉾](http://sazma.jp/2017/05/18/764/)...坂本龍馬が抜いたと言われている。
-- Fate
+- Fateシリーズ...英雄を召喚して戦う人気ゲーム/アニメのシリーズ。有名な物語のアノヒトや過去の偉人が出てきます。
 - [トランスジャパンアルプスレース(TJAR)](http://www.tjar.jp/)...2年に一回開催の最強に過酷なレース。Webで生中継あり。
 - [TJAR最強の望月さんのインタビュー](https://www.mtfuji.or.jp/thought/interview/vol50)
 - [お遍路](https://shikoku-tourism.com/feature/henro/top)
