@@ -3,8 +3,8 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/30.mp3
-audio_file_size: 
-date: 2019-10-30 00:00:00 +0900
+audio_file_size: 83582143
+date: 2019-10-31 00:00:00 +0900
 description: 
 duration: "01:27:04"
 layout: article
