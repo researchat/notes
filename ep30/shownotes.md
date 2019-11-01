@@ -20,7 +20,7 @@ title: 30. Battle Aura
 
 - [Unreal Engine](https://www.unrealengine.com/ja/)...ゲームの製作エンジン。ストリートファイターV、フォートナイトなど多くのゲームがこのエンジンで作られている。
 - [Unreal Engineを採用したゲームソフト一覧](https://ja.m.wikipedia.org/wiki/Unreal_Engineを採用したゲームソフト一覧)
-- [Quartz Composer](https://ja.m.wikipedia.org/wiki/Quartz_Composer)...Macの開発環境として提供されているでビジュアルプログラミング言語
+- [Quartz Composer](https://ja.m.wikipedia.org/wiki/Quartz_Composer)...Macの開発環境として提供されているでビジュアルプログラミング言語。
 - [ソウルキャリバーシリーズ](https://sc6.soularchive.jp/sp/?)...バンダイナムコ開発の3D格闘ゲーム。様々な武器を持ったキャラクターが特徴。
 - [蛇腹剣](https://dic.pixiv.net/a/蛇腹剣)...フィクション作品にしばしば登場する、ワイヤーのような紐で繋がっている剣。めっちゃかっこいい。
 - [ガリアンソード](https://ja.m.wikipedia.org/wiki/ガリアンソード)...上記蛇腹剣の元祖と思われる。
@@ -31,7 +31,7 @@ title: 30. Battle Aura
 - [輪刀](https://dic.pixiv.net/a/輪刀)... 燐火円礫刀のような形状の武器をこう呼ぶらしい。戦国BASARAの毛利元就、ソウルキャリバーのティラなどがこの形状の武器を使っている。
 - [チャクラム](https://ja.m.wikipedia.org/wiki/チャクラム)...古代インドで使用された環状の投擲武器。外向きに刃がついている。
 - [ピルム](https://ja.m.wikipedia.org/wiki/ピルム)...古代ローマで使用された投槍。
-- [グラディウス](https://ja.m.wikipedia.org/wiki/グラディウス_(武器))...ローマで使われた短めの直剣。脳みそがラスボスのシューティングゲームではない(元ネタでもないらしい)
+- [グラディウス](https://ja.m.wikipedia.org/wiki/グラディウス_(武器))...ローマで使われた短めの直剣。脳みそがラスボスのシューティングゲームではない。
 - [スピアスロアー(アストラル)](https://ja.m.wikipedia.org/wiki/アトラトル)...槍を投げるための道具。てこの原理で飛距離を数倍にする事が可能。
 - 砂漠のカーリマン...漫画「[パイナップルARMY](https://ja.m.wikipedia.org/wiki/パイナップルARMY)」の名エピソード。スピアスロアーが登場する。
 - [黒曜石](https://ja.m.wikipedia.org/wiki/黒曜石)...人類が石器時代から利用している刃物の原材料。切れ味が非常に良い。
