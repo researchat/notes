@@ -46,9 +46,14 @@ title: 30. Battle Aura
 - [ゴンズイ](https://ja.m.wikipedia.org/wiki/ゴンズイ)...収録中に「マキビシみたいな魚」と言及されたもの。背びれと胸びれに毒がある。本当にマキビシみたいかは意見が分かれるかもしれない。
 - [ソードブレイカー](https://ja.m.wikipedia.org/wiki/ソードブレイカー)...相手の剣を奪ったり破壊することを目的に作られた剣。二刀流などで使用された。
 - [ソードブレイカー(漫画)](https://www.amazon.co.jp/SWORD-BREAKER-1-ジャンプコミックスDIGITAL-梅澤春人-ebook/dp/B073XLRR32)...梅澤春人先生がジャンプで連載していた漫画、全２巻ながら印象的なセリフや地名など、見どころの多い作品。
-- マインゴーシュ...二刀で戦う際の防御用の短剣。マン・ゴーシュの方がフランス本来の発音に近い。
+- [マインゴーシュ](https://ja.m.wikipedia.org/wiki/マインゴーシュ)...二刀で戦う際の防御用の短剣。マン・ゴーシュの方がフランス本来の発音に近い。
 - [シュトヘル（漫画）](https://www.amazon.co.jp/dp/B00BHTTPCM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [天竺熱風録（漫画）](https://www.amazon.co.jp/dp/B071HP5CHB/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+## 参考書籍・サイト
+- [武器の歴史　大図鑑](https://www.amazon.co.jp/武器の歴史-大図鑑-リチャード・ホームズ/dp/4422215213)
+- [ゲームシナリオのための戦闘・戦略事典　ファンタジーに使える兵科・作戦・お約束110](https://www.amazon.co.jp/dp/B019DAFLZQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [bukipedia](https://www.google.co.jp/amp/s/w.atwiki.jp/bukipedia/index.amp)
 
 ## Editorial notes
 - カラリパヤットについて話すことはもう人生でないだろう。(tadasu)
