@@ -17,6 +17,8 @@ title: 31. Editing the unedited
 ## Show notes
 - [Search-and-replace genome editing without double-strand breaks or donor DNA. Anzalone et al., 2019, Nature](https://drive.google.com/file/d/1y_MlUarqT3mc83vyXSTJ-B_r9n1-evw4/view)...今回とりあげたPrime editing論文の原稿。
 - [Functional Genetic Variants Revealed by Massively Parallel Precise Genome Editing. Shalon et al., 2018, Cell](https://www.ncbi.nlm.nih.gov/pubmed/30245013)...In vivoでgRNAにコードさせたrepiar templateを逆転写反応後に相同組換えで導入する、というアイディアはこの論文が初出。この論文ではバクテリア由来のretronとよばれる配列を利用した。
+- [26. Cool tech googlability](https://researchat.fm/episode/26)...ep26では一塩基RNA編集を解説しました。
+- [22. Evolutionary selected life](https://researchat.fm/episode/22)...ep22ではdeaminaseを用いた一塩基ゲノム編集について最新論文を紹介しました。
 
 ## Editorial notes
 - 論文を読み進めるにつれ、細胞の中で起こるDNA修復、組み換え、複製機構を知り尽くした上でそのシステムをハックする、というエンジニアリングに大きな感銘を受けた。(soh)
