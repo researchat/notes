@@ -3,10 +3,10 @@ actor_ids:
   - soh
   - tadasu
 audio_file_path: /audio/31.mp3
-audio_file_size: 
+audio_file_size: 69075801
 date: 2019-11-08 00:21:00 +0900
 description: CRISPR-Cas9を用いた全く新しいゲノム編集技術Prime editing (PE)についての原著論文を紹介しました。
-duration: "01:27:04"
+duration: "00:53:31"
 layout: article
 tags: 
   - CRISPR-Cas9
@@ -20,5 +20,5 @@ title: 31. Editing the unedited
 
 ## Editorial notes
 - 論文を読み進めるにつれ、細胞の中で起こるDNA修復、組み換え、複製機構を知り尽くした上でそのシステムをハックする、というエンジニアリングに大きな感銘を受けた。(soh)
-- tadasu
+- 書き込みたい情報をRNAに入れてそれをDNAに埋め込むPrime editingの衝撃たるや。細胞システムのハッキングの方法が美しくすばらしい。これからの稼働効率は日々改善されていくだろう。なぜか3人の音源を2人の音源として編集しました。(tadasu)
 - coela
