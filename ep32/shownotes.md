@@ -16,7 +16,26 @@ title: 32. TBA
 ---
 
 ## Show notes
-- hoge
+アーサー王の墓
+イギリス UK
+ガラパゴス諸島
+ダーウィン 種の起源
+クノストスの迷宮
+クレタ島
+モーターサイクルダイアリーズ
+大英博物館
+テート・モダン
+小宝島
+KOD
+旅する木
+星野道夫
+FF15
+アメリカのテレビ事情
+Netflix Unnatural selection
+Amazon Prime 仮面ライダーアマゾンズ
+愛なき森で叫べ
+冷たい熱帯魚
+
 
 ## Editorial notes
 - tadasu
