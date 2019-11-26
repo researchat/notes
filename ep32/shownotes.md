@@ -38,6 +38,6 @@ title: 32. TBA
 
 
 ## Editorial notes
-- tadasu
+- インドア派ではなく、ただの出不精 (tadasu)
 - 来年の夏はresearchat.fmのメンバーでどこかへ旅行に行きます (soh)
 - coela
