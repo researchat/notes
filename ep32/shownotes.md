@@ -19,7 +19,7 @@ title: 32. TBA
 - [アーサー王の墓 (アヴァロン)](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B4%E3%82%A1%E3%83%AD%E3%83%B3)
 - イギリス UK
 - [メイン州のウニ工場](http://blog.looktour.net/maineportland_seafood/)
-- ガラパゴス諸島
+- [ガラパゴス諸島ツアー キト-ガラパゴス](https://vacationpack.his-usa.com/city/uio/list.php)
 - [ダーウィン 種の起源](https://www.amazon.co.jp/dp/B00H6XBDEQ/)
 - [クノッソスの迷宮](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%8E%E3%83%83%E3%82%BD%E3%82%B9)
 - [クレタ島](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%BF%E5%B3%B6)
