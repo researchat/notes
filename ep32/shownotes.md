@@ -12,7 +12,7 @@ layout: article
 tags: 
   - 旅行
   - Netflix
-title: 32. TBA
+title: 32. Go somewhere far away
 ---
 
 ## Show notes
