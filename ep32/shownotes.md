@@ -4,15 +4,15 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/32.mp3
-audio_file_size: TBA
-date: 2019-11-26 00:21:00 +0900
+audio_file_size: 103174399
+date: 2019-11-27 14:03:28 +0900
 description: 訪れたことのある国々、行ってみたい国や場所、旅行の楽しさ、最近観たNetflix番組について話しました。
-duration: "00:53:31"
+duration: "01:47:28"
 layout: article
 tags: 
   - 旅行
   - Netflix
-title: 32. Go somewhere far away
+title: 32. Want to go somewhere far away
 ---
 
 ## Show notes
@@ -35,7 +35,6 @@ title: 32. Go somewhere far away
 - [仮面ライダーアマゾンズ (Amazon Prime Video)](http://www.superhero-year.com/amazons/season1.html)
 - [愛なき森で叫べ (Netflix)](https://www.netflix.com/title/81133621)
 - [冷たい熱帯魚 (Netflix)](https://www.netflix.com/title/70151002)
-
 
 ## Editorial notes
 - インドア派ではなく、ただの出不精 (tadasu)
