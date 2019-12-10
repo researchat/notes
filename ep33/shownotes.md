@@ -31,7 +31,8 @@ title: 33. Gundam Rising
 - [遺伝研後藤先生の解説](https://twitter.com/Cyclommatism/status/1203615449440649216)
 - [俺の通勤電車にCellを読んでる女子が乗ってくるんだが](https://kakuyomu.jp/works/1177354054892425531) ... 通称俺Cell。なぜかこのポッドキャストのMCと同名の主人公が出てくる。恋愛小説の中で論文紹介をするというトクロンティヌス先生の意欲作。そのバチバチの論文批評は必読。
 - [ポケモンの主人公の名前がアメリカではAsh Ketchum](https://bulbapedia.bulbagarden.net/wiki/Ash_Ketchum) ... Satoshiは通用しないので注意。
-
+- [なぜSatoshiはAshなのか？](https://appget.com/c/special/175164/pokemon-72/) ... "どうも、satoshiとローマ字表記したものの中から「a」「s」「h」をそれぞれ抜き出してash=アッシュにしたらしい。"
+- [Satoshi(サトシ)とShigeru(シゲル)] ... もちろんみんな知ってると思うけどSatoshiはポケモンの生みの親である田尻智から、茂は任天堂の宮本茂から来ている (当時のコロコロ(1996 or 1997)に書いてた)。
 
 ## Editorial notes
 - ガンダム勉強しないと... (tadasu)
