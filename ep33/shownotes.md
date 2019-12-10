@@ -21,9 +21,10 @@ title: 33. Gundam Rising
 - [キュベレイ(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%99%E3%83%AC%E3%82%A4)
 - [ファンネル(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%AC%E3%83%B3%E3%82%B8%E6%94%BB%E6%92%83#%E3%83%95%E3%82%A1%E3%83%B3%E3%83%8D%E3%83%AB)
 - [ファイブスター物語(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96%E3%82%B9%E3%82%BF%E3%83%BC%E7%89%A9%E8%AA%9E)
+- [ファイブスター物語(公式)](https://automaticflowers.ne.jp/fss/index.html)
 - [ゴティックメード(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%A1%E3%83%BC%E3%83%89)
-- [GTMカイゼリン](https://www.volks.co.jp/gtm/)
-- [∀ガンダム(Wikipedia)](https://ja.wikipedia.org/wiki/%E2%88%80%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0)
+- [GTMカイゼリン](https://www.volks.co.jp/gtm/) ... イージーアッセンブル・スーパークオリティモデル「カイゼリン」は年末発送予定です！
+- [∀ガンダム(Wikipedia)](https://ja.wikipedia.org/wiki/%E2%88%80%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0) ... おヒゲのガンダム。現在ネット用語で良く使われている「黒歴史」の言葉の元ネタでもある。
 - [シド・ミード](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%89%E3%83%BB%E3%83%9F%E3%83%BC%E3%83%89)
 - [カブトムシの角は蛹で突然出現できるのか](http://www.nagoya-u.ac.jp/about-nu/public-relations/researchinfo/upload_images/20171027_agr_1.pdf)
 - [近藤茂先生のブログ](https://www.fbs-osaka-kondolabo.net/kondo-s-blog) ... めちゃくちゃおもしろい。
