@@ -31,7 +31,8 @@ title: 34. Community Battle
 - [Farzeen](https://twitter.com/farzeen00) ... Ash選手も太鼓判を押すパキスタンの若手強豪。KUROKURO CUP in Pakistanの覇者。これからの活躍が期待される。
 - [Knee](http://fgamers.saikyou.biz/?Knee) ... 鉄拳の現役プレイヤーの中で最強の一人と思われている韓国のプレイヤー。そのストイックさはすさまじい。EVO2019はArslan Ashに敗れて2位。その雪辱を果たした。
 - [ノビ](http://fgamers.saikyou.biz/?%E3%83%8E%E3%83%93) ... 日本初の鉄拳プロプレイヤー。EVO2015覇者。Awais Honeyの豪鬼を倒すために凄まじい執念を燃やしてTWT Finals 2019に参加。
-- [ノビ vs Awais Honey(TWT Finals 2019)](https://www.youtube.com/watch?v=u3bOmcNZ95E) 
+- [TWT Finals 2019 grand finals](https://www.youtube.com/watch?v=3LecJqGAOME)
+- [TWT Finals 2019 top8](https://www.youtube.com/watch?v=3LecJqGAOME)
 - [チクリン](http://fgamers.saikyou.biz/?%E3%83%81%E3%82%AF%E3%83%AA%E3%83%B3) ... 長崎を拠点に活動する鉄拳プロプレイヤー。Ashと戦うために長崎から大阪に急遽駆けつけたり、パキスタンに遠征したりと、その鉄拳熱の高さが実りTWT Finals 2019優勝。おめでとうございます！
 - [TWT Finals 2019前のノビ選手とチクリン選手のインタビュー](https://game.watch.impress.co.jp/docs/interview/1220466.html) ... 気持ちの高ぶりが見て取れる。
 - [Ulsan](http://fgamers.saikyou.biz/?Ulsan) ... 韓国の若手強豪。韓国のKneeを破り決勝へ進出。TWT Finals 2019準優勝。
