@@ -42,6 +42,7 @@ title: 34. Community Battle
 - [パキスタン鉄拳勢鬼まとめ](https://shirauzutaisa.hatenablog.com/entry/2019/04/18/174535) ... 格ゲー情報通といえば白水氏であり、動画勢は誰しもが白水氏の情報をこれでもかというぐらい吸い上げている。その情報量は全格ゲー動画勢の憧れである。その白水氏が徹底的に調べ上げたパキスタン格ゲー事情。必読。 
 - [Collision 2019](https://liquipedia.net/fighters/Collision/2019/T7) ... ペルーで行われた大会。地元のAbel del Maestroが優勝。野試合で韓国の強豪Qudansがペループレイヤーに10-0で負けたことが話題になった。
 - [Qudansが10-0で敗れる](https://twitter.com/Harada_TEKKEN/status/1162694512369520640)
+- [吉光が仁に自分の体力を与える](https://www.youtube.com/watch?v=DYsBUrLbwLE?t=1010) ... Collision 2019で地元ペルーのCHAOZ選手がタイの強豪Book選手に対して放った行動。今年No.1の魅せプレイ。自分をレイジ状態に持っていくために行った？
 - [図書館の大魔術師](https://www.amazon.co.jp/dp/B07BQSNV24/)
 
 ## Editorial notes
