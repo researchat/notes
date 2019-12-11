@@ -34,6 +34,7 @@ title: 34. Community Battle
 - [チクリン](http://fgamers.saikyou.biz/?%E3%83%81%E3%82%AF%E3%83%AA%E3%83%B3) ... 長崎を拠点に活動する鉄拳プロプレイヤー。Ashと戦うために長崎から大阪に急遽駆けつけたり、パキスタンに遠征したりと、その鉄拳熱の高さが実りTWT Finals 2019優勝。おめでとうございます！
 - [Ulsan](http://fgamers.saikyou.biz/?Ulsan) ... 韓国の若手強豪。韓国のKneeを破り決勝へ進出。TWT Finals 2019準優勝。
 - [Eyemusician](https://liquipedia.net/fighters/Eyemusician) ... 韓国の吉光使い。クルクル回転しながら回復しながら間合いとタイミングを作るその独特のプレイスタイルは観客を魅了する。最終予選4位。パキスタンの強豪を次々と沈めた。最終予選で一番目立った一人。パキスタン勢のレアキャラ対策問題は、実はAsh選手の日本遠征時に用心BΩY選手との対戦(ギガース)で吐露していた。
+- [Eyemusician動画(Rev Major 2019)](https://www.youtube.com/watch?v=ebuP5tthSqA)
 - [Ash組手](https://camp-fire.jp/projects/view/141700) ... 黒黒さんが主催したAsh組手。Ash選手が日本にくるまでのトラブルが重なりとてつもないことになったが最終的になんとか実現した。tadasu名義で一口応援させていただきました。本当に楽しく最高の思い出になった。Ash選手の無敵さが発揮された遠征であった。
 - [チクリン選手のパキスタン遠征](https://kakuge-checker.com/topic/view/06555/) ... 黒黒さんがクラウドファンディングを企画し実現したチクリン選手のパキスタン遠征。パキスタンの鉄拳猛者たちが明るみに現れた。最終日に行われたKUROKURO CUP in Pakistanでは16歳のFarzeen選手が優勝。Researchat.fmも一口応援させていただきました！パキスタン勢や海外勢と英語チャットできたのが楽しかった。
 - [パキスタン鉄拳勢鬼まとめ](https://shirauzutaisa.hatenablog.com/entry/2019/04/18/174535) ... 格ゲー情報通といえば白水氏であり、動画勢は誰しもが白水氏の情報をこれでもかというぐらい吸い上げている。その情報量は全格ゲー動画勢の憧れである。その白水氏が徹底的に調べ上げたパキスタン格ゲー事情。必読。 
