@@ -4,7 +4,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/33.mp3
 audio_file_size: 42244654
-date: 2019-12-11 12:00:00 +0900
+date: 2019-12-11 22:30:00 +0900
 description: 最近新作映画が公開されたガンダムと新刊が発売されたファイブスター物語について話しました。
 duration: "01:19:27"
 layout: article
