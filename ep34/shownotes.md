@@ -18,7 +18,7 @@ title: 34. Community Battle
 
 ## Show notes
 - [Tekken World Tour 2019](https://tekkenworldtour.com/)
-- [TWT2019の主要大会結果一覧(格ゲーチェッカー)](https://kakuge-checker.com/topic/view/06382/) ... 格ゲーチェッカーさんがまとめたTWT2019の結果一覧。パキスタンの国旗が目立つが、様々な国国旗が観れる。
+- [TWT2019の主要大会結果一覧(格ゲーチェッカー)](https://kakuge-checker.com/topic/view/06382/) ... 格ゲーチェッカーさんがまとめたTWT2019の結果一覧。パキスタンの国旗が目立つが、様々な国旗が現れているのがわかる。
 - [TWTのスケジュール](https://tekkenworldtour.com/schedule/) ... 今年からDojoというコミュニティー主体の大会が追加された。
 - [朝日新聞乗京記者によるパキスタン鉄拳事情に関する記事](https://withnews.jp/article/f0190417002qq000000000000000W08510101qq000019048A) ... EVO Japan 2019を制したArslan Ashを取り巻くパキスタン鉄拳事情についての取材記事。とりあえず内容が濃い。
 - [Arslan Ash](https://liquipedia.net/fighters/Arslan_Ash) ... パキスタンから突如現れたニュースター。今年の鉄拳界の主役であることは間違いない。現在Red Bullアスリートとして活躍中。
