@@ -32,6 +32,7 @@ title: 34. Community Battle
 - [Knee](http://fgamers.saikyou.biz/?Knee) ... 鉄拳の現役プレイヤーの中で最強の一人と思われている韓国のプレイヤー。そのストイックさはすさまじい。EVO2019はArslan Ashに敗れて2位。その雪辱を果たした。
 - [ノビ](http://fgamers.saikyou.biz/?%E3%83%8E%E3%83%93) ... 日本初の鉄拳プロプレイヤー。EVO2015覇者。Awais Honeyの豪鬼を倒すために凄まじい執念を燃やしてTWT Finals 2019に参加。
 - [チクリン](http://fgamers.saikyou.biz/?%E3%83%81%E3%82%AF%E3%83%AA%E3%83%B3) ... 長崎を拠点に活動する鉄拳プロプレイヤー。Ashと戦うために長崎から大阪に急遽駆けつけたり、パキスタンに遠征したりと、その鉄拳熱の高さが実りTWT Finals 2019優勝。おめでとうございます！
+- [TWT Finals 2019前のノビ選手とチクリン選手のインタビュー](https://game.watch.impress.co.jp/docs/interview/1220466.html) ... 気持ちの高ぶりが見て取れる。
 - [Ulsan](http://fgamers.saikyou.biz/?Ulsan) ... 韓国の若手強豪。韓国のKneeを破り決勝へ進出。TWT Finals 2019準優勝。
 - [Eyemusician](https://liquipedia.net/fighters/Eyemusician) ... 韓国の吉光使い。クルクル回転しながら回復しながら間合いとタイミングを作るその独特のプレイスタイルは観客を魅了する。最終予選4位。パキスタンの強豪を次々と沈めた。最終予選で一番目立った一人。パキスタン勢のレアキャラ対策問題は、実はAsh選手の日本遠征時に用心BΩY選手との対戦(ギガース)で吐露していた。
 - [Eyemusician vs Atif Butt(TWT2019最終予選)](https://www.youtube.com/watch?v=UVuuXH9iovQ)
