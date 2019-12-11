@@ -22,7 +22,7 @@ title: 34. Community Battle
 - [TWTのスケジュール](https://tekkenworldtour.com/schedule/) ... 今年からDojoというコミュニティー主体の大会が追加された。
 - [朝日新聞乗京記者によるパキスタン鉄拳事情に関する記事](https://withnews.jp/article/f0190417002qq000000000000000W08510101qq000019048A) ... EVO Japan 2019を制したArslan Ashを取り巻くパキスタン鉄拳事情についての取材記事。とりあえず内容が濃い。
 - [Arslan Ash](https://liquipedia.net/fighters/Arslan_Ash) ... パキスタンから突如現れたニュースター。今年の鉄拳界の主役であることは間違いない。現在Red Bullアスリートとして活躍中。
-- [Awais Honey](https://liquipedia.net/fighters/Awais_Honey) ... ぶっちぎりの強さを誇るパキスタンの豪鬼使い。通称コンボの魔術師。Ash選手を取材した乗京さんの記事でその存在が知られていたが、チクリン選手のパキスタン遠征で10-0の大差をつけて勝利。そのベールを脱いだ。
+- [Awais Honey](https://liquipedia.net/fighters/Awais_Honey) ... ぶっちぎりの強さを誇るパキスタンの豪鬼使い。通称コンボの魔術師。Ash選手を取材した乗京さんの記事でその存在が知られていたが、チクリン選手のパキスタン遠征で10-0の大差をつけて勝利。そのベールを脱いだ。ノビ選手も帰国後の配信で、一番力を出せたら強かったのはAwais Honeyと認めていた。
 - [Bilal](https://twitter.com/fate_bilal) ... 同じく乗京さんの記事でラホールの強心臓と言われた強豪。TWT2019最終予選で最後の一枠をもぎ取った。
 - [Atif Butt](https://twitter.com/atifbutt540) ... パキスタンの強豪。TOKYO TEKKEN MASTERS 2019覇者。最終予選の優勝候補筆頭と思われたが後述するEyemusicianの吉光に敗れる。
 - [Heera Malik](https://www.esportsearnings.com/players/73794-heera-malik) ... パキスタンの強豪。ROXnROLL Tekken Dubai準優勝。最終予選優勝筆頭であったがこちらもEyemusicianの吉光に敗れる。
@@ -31,6 +31,7 @@ title: 34. Community Battle
 - [Farzeen](https://twitter.com/farzeen00) ... Ash選手も太鼓判を押すパキスタンの若手強豪。KUROKURO CUP in Pakistanの覇者。これからの活躍が期待される。
 - [Knee](http://fgamers.saikyou.biz/?Knee) ... 鉄拳の現役プレイヤーの中で最強の一人と思われている韓国のプレイヤー。そのストイックさはすさまじい。EVO2019はArslan Ashに敗れて2位。その雪辱を果たした。
 - [ノビ](http://fgamers.saikyou.biz/?%E3%83%8E%E3%83%93) ... 日本初の鉄拳プロプレイヤー。EVO2015覇者。Awais Honeyの豪鬼を倒すために凄まじい執念を燃やしてTWT Finals 2019に参加。
+- [ノビ vs Awais Honey(TWT Finals 2019)](https://www.youtube.com/watch?v=u3bOmcNZ95E) 
 - [チクリン](http://fgamers.saikyou.biz/?%E3%83%81%E3%82%AF%E3%83%AA%E3%83%B3) ... 長崎を拠点に活動する鉄拳プロプレイヤー。Ashと戦うために長崎から大阪に急遽駆けつけたり、パキスタンに遠征したりと、その鉄拳熱の高さが実りTWT Finals 2019優勝。おめでとうございます！
 - [TWT Finals 2019前のノビ選手とチクリン選手のインタビュー](https://game.watch.impress.co.jp/docs/interview/1220466.html) ... 気持ちの高ぶりが見て取れる。
 - [Ulsan](http://fgamers.saikyou.biz/?Ulsan) ... 韓国の若手強豪。韓国のKneeを破り決勝へ進出。TWT Finals 2019準優勝。
