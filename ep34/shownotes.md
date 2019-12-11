@@ -44,6 +44,7 @@ title: 34. Community Battle
 - [Collision 2019](https://liquipedia.net/fighters/Collision/2019/T7) ... ペルーで行われた大会。地元のAbel del Maestroが優勝。野試合で韓国の強豪Qudansがペループレイヤーに10-0で負けたことが話題になった。
 - [Qudansがペルーの猛者に10-0で敗れる](https://twitter.com/Harada_TEKKEN/status/1162694512369520640)
 - [吉光が仁に自分の体力を与える](https://www.youtube.com/watch?v=DYsBUrLbwLE?t=1010) ... Collision 2019で地元ペルーのCHAOZ選手がタイの強豪Book選手に対して放った行動。今年No.1の魅せプレイ。自分をレイジ状態に持っていくために行った？
+- [Researchat.fm episode 3](https://researchat.fm/episode/3) ... researchat.fmのep3においてArslan Ashの衝撃について話しました。
 - [図書館の大魔術師](https://www.amazon.co.jp/dp/B07BQSNV24/)
 
 ## Editorial notes
