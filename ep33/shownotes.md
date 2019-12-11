@@ -27,7 +27,7 @@ title: 33. Rising
 - [∀ガンダム(Wikipedia)](https://ja.wikipedia.org/wiki/%E2%88%80%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0) ... おヒゲのガンダム。現在ネット用語で良く使われている「黒歴史」の言葉の元ネタでもある。
 - [シド・ミード](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%89%E3%83%BB%E3%83%9F%E3%83%BC%E3%83%89)
 - [カブトムシの角は蛹で突然出現できるのか](http://www.nagoya-u.ac.jp/about-nu/public-relations/researchinfo/upload_images/20171027_agr_1.pdf)
-- [近藤茂先生のブログ](https://www.fbs-osaka-kondolabo.net/kondo-s-blog) ... めちゃくちゃおもしろい。
+- [近藤滋先生のブログ](https://www.fbs-osaka-kondolabo.net/kondo-s-blog) ... めちゃくちゃおもしろい。
 - [Beetle horns evolved from wing serial homologs](https://science.sciencemag.org/content/366/6468/10040)
 - [遺伝研後藤先生の解説](https://twitter.com/Cyclommatism/status/1203615449440649216)
 - [俺の通勤電車にCellを読んでる女子が乗ってくるんだが](https://kakuyomu.jp/works/1177354054892425531) ... 通称俺Cell。なぜかこのポッドキャストのMCと同名の主人公が出てくる。恋愛小説の中で論文紹介をするというトクロンティヌス先生の意欲作。そのバチバチの論文批評は必読。
