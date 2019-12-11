@@ -11,7 +11,7 @@ layout: article
 tags: 
   - 趣味
   - ガンダム
-title: 33. Gundam Rising
+title: 33. Rising
 ---
 
 ## Show notes
