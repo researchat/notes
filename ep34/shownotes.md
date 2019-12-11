@@ -40,6 +40,8 @@ title: 34. Community Battle
 - [Ash組手](https://camp-fire.jp/projects/view/141700) ... 黒黒さんが主催したAsh組手。Ash選手が日本にくるまでのトラブルが重なりとてつもないことになったが最終的になんとか実現した。tadasu名義で一口応援させていただきました。本当に楽しく最高の思い出になった。Ash選手の無敵さが発揮された遠征であった。
 - [チクリン選手のパキスタン遠征](https://kakuge-checker.com/topic/view/06555/) ... 黒黒さんがクラウドファンディングを企画し実現したチクリン選手のパキスタン遠征。パキスタンの鉄拳猛者たちが明るみに現れた。最終日に行われたKUROKURO CUP in Pakistanでは16歳のFarzeen選手が優勝。Researchat.fmも一口応援させていただきました！パキスタン勢や海外勢と英語チャットできたのが楽しかった。
 - [パキスタン鉄拳勢鬼まとめ](https://shirauzutaisa.hatenablog.com/entry/2019/04/18/174535) ... 格ゲー情報通といえば白水氏であり、動画勢は誰しもが白水氏の情報をこれでもかというぐらい吸い上げている。その情報量は全格ゲー動画勢の憧れである。その白水氏が徹底的に調べ上げたパキスタン格ゲー事情。必読。 
+- [Collision 2019](https://liquipedia.net/fighters/Collision/2019/T7) ... ペルーで行われた大会。地元のAbel del Maestroが優勝。野試合で韓国の強豪Qudansがペループレイヤーに10-0で負けたことが話題になった。
+- [Qudansが10-0で敗れる](https://twitter.com/Harada_TEKKEN/status/1162694512369520640)
 - [図書館の大魔術師](https://www.amazon.co.jp/dp/B07BQSNV24/)
 
 ## Editorial notes
