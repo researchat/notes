@@ -28,3 +28,6 @@
 1. よしなに画像のサイズを調節する。
 1. Discordでちゃんと会話できるか確認、その際OBSのAudioCaptureのバーが動いていることを確認する。
 1. 右下のControlsからStart Streamingボタンを押せば配信開始！
+1. Stop Streamingボタンで配信終了。
+
+また、必要に応じてGarageBandなどで音源の録音をする。
