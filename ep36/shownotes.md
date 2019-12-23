@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/36.mp3
-audio_file_size: X
+audio_file_size: 65341242
 date: 2019-12-24 10:10:00 +0900
 description: DNAをシリカビーズに入れて3Dプリンティング可能な材料に混ぜることにより、DNA入り3DオブジェクトをプリントするDNA-of-things(DoT)の技術と、DNA Storageと噴水符号化の技術について話しました。
-duration: "00:XX:00"
+duration: "01:23:51"
 layout: article
 tags: 
   - 論文
