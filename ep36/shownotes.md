@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/36.mp3
 audio_file_size: X
 date: 2019-12-24 10:10:00 +0900
-description: 
+description: DNAをシリカビーズに入れて3Dプリント可能な材料に混ぜることにより、DNA入り3DオブジェクトをプリントするDNA of Things(DoT)の技術と、DNA Storage+噴水符号化の技術について話しました。
 duration: "00:XX:00"
 layout: article
 tags: 
@@ -23,4 +23,6 @@ title: 36. DNA of Things
 - [Expansion Microscopy. Chen et al., Science (2015)](https://science.sciencemag.org/content/347/6221/543)
 
 ## Editorial notes
+- (coela)
+- (soh)
 - DNAを全てのオブジェクトに練りこんでみんなハッピー！！！(tadasu)
