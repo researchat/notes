@@ -22,7 +22,7 @@ title: 36. DNA-of-things
 - [シフト演算を利用した噴水符号](https://www.jstage.jst.go.jp/article/essfr/13/1/13_7/_pdf/-char/ja) ... 山口大学野崎先生による噴水符号に関する日本語説明記事
 - [WikipeDNA (researchat.fm ep18)](https://researchat.fm/episode/18)
 - [Expansion Microscopy. Chen et al., Science (2015)](https://science.sciencemag.org/content/347/6221/543) ... Ed Boydenらの技術。細胞に、膨らませることが可能なポリマーを染み込ませて膨らませることでこれまで観察不可能だった小さな構造が観察可能になった。超解像イメージングとは異なるアイデアから生まれた技術。
-- [Hachimoji DNA and RNA: A genetic system with eight building blocks. Hoshika et al., Science (2019)](https://science.sciencemag.org/content/363/6429/884)
+- [Hachimoji DNA and RNA: A genetic system with eight building blocks. Hoshika et al., Science (2019)](https://science.sciencemag.org/content/363/6429/884) ... 新しい人工塩基をつくることにより、4種類から8種類に拡張した論文。PCRしたり、DNA->RNAしたりすることが可能。
 
 ## Editorial notes
 - (coela)
