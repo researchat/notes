@@ -6,13 +6,13 @@ actor_ids:
 audio_file_path: /audio/36.mp3
 audio_file_size: X
 date: 2019-12-24 10:10:00 +0900
-description: DNAをシリカビーズに入れて3Dプリント可能な材料に混ぜることにより、DNA入り3DオブジェクトをプリントするDNA of Things(DoT)の技術と、DNA Storage+噴水符号化の技術について話しました。
+description: DNAをシリカビーズに入れて3Dプリント可能な材料に混ぜることにより、DNA入り3DオブジェクトをプリントするDNA-of-things(DoT)の技術と、DNA Storage+噴水符号化の技術について話しました。
 duration: "00:XX:00"
 layout: article
 tags: 
   - 論文
   - DNA Storage
-title: 36. DNA of Things
+title: 36. DNA-of-things
 ---
 
 ## Show notes
