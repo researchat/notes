@@ -26,5 +26,5 @@ title: 36. DNA-of-things
 
 ## Editorial notes
 - メリークリスマス！！フィギュアに紫外線やX線当てまくるアートが流行る！！(coela)
-- (soh)
+- たまきさんも論文を読んだみたいでよかった (soh)
 - DNAを全てのオブジェクトに練りこんでみんなハッピー！！！(tadasu)
