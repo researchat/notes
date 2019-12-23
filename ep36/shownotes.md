@@ -21,6 +21,7 @@ title: 36. DNA-of-things
 - [シフト演算を利用した噴水符号](https://www.jstage.jst.go.jp/article/essfr/13/1/13_7/_pdf/-char/ja) ... 山口大学野崎先生による噴水符号に関する日本語説明記事
 - [WikipeDNA (researchat.fm ep18)](https://researchat.fm/episode/18)
 - [Expansion Microscopy. Chen et al., Science (2015)](https://science.sciencemag.org/content/347/6221/543)
+- [Hachimoji DNA and RNA: A genetic system with eight building blocks. Hoshika et al., Science (2019)](https://science.sciencemag.org/content/363/6429/884)
 
 ## Editorial notes
 - (coela)
