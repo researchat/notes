@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/35.mp3
 audio_file_size: 45799145
-date: 2019-12-23 20:00:00 +0900
+date: 2019-12-23 17:10:00 +0900
 description: RNAポリメラーゼを固定したES細胞や組織切片上で作用させ、DNAバーコードを位置情報と共に読み出すZombieという技術を紹介しました。
 duration: "40:00:00"
 layout: article
@@ -13,7 +13,7 @@ tags:
   - 論文
   - Imaging
   - Barcode
-title: 35. XXXXX
+title: 35. Get amplified after death
 ---
 
 ## Show notes
