@@ -22,6 +22,7 @@ title: 35. XXXXX
 - [Synthetic recording and in situ readout of lineage information in single cells, Frieda et al., Nature 2017.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6487260/)...一分子mRNAイメージングとゲノム編集を組み合わせた細胞系譜の追跡技術MOEIRを開発したのもElowitz labであり、こちらの論文はPubmedから無料で読めます。
 - [One-shot beautiful experiment. Researchat.fm](https://researchat.fm/episode/9)...Ep09では細胞系譜の追跡技術、イメージングについて話しました。
 - [Evolutionary selected life. Researchat.fm](https://researchat.fm/episode/22)...今回の論文でも使われているABE (Adenine Base Editor)はA-to-Gの一塩基編集を行うゲノム編集技術の一つ。この技術開発の裏側については、ep22で話しました。
+- [沈まぬ太陽 (Netflix)](https://www.netflix.com/title/81040146)...言わずと知れた山崎豊子原作の名作ドラマ。20話で少し長いですが、年末に是非、一気見しましょう。
 
 ## Editorial notes
 - 細胞を固定してしまえばin situで高効率な反応が起こせる、という大胆な発想の転換こそがこの論文の全てではないかと思う、すごい（Soh）
