@@ -16,7 +16,7 @@ title: 36. DNA-of-things
 ---
 
 ## Show notes
-- [A DNA-of-things storage architecture to create materials with embedded memory. Koch et al., Nature Biotech (2019)](https://www.nature.com/articles/s41587-019-0356-z) ... DNA of Thingsのオリジナル論文
+- [A DNA-of-things storage architecture to create materials with embedded memory. Koch et al., Nature Biotech (2019)](https://www.nature.com/articles/s41587-019-0356-z) ... DNA-of-thingsのオリジナル論文
 - [DNA Fountain enables a robust and efficient storage architecture. Erlich and Zielinski, Science (2017)](https://science.sciencemag.org/content/355/6328/950)
 - [シフト演算を利用した噴水符号](https://www.jstage.jst.go.jp/article/essfr/13/1/13_7/_pdf/-char/ja) ... 山口大学野崎先生による噴水符号に関する日本語説明記事
 - [WikipeDNA (researchat.fm ep18)](https://researchat.fm/episode/18)
