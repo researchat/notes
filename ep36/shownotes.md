@@ -25,6 +25,6 @@ title: 36. DNA-of-things
 - [Hachimoji DNA and RNA: A genetic system with eight building blocks. Hoshika et al., Science (2019)](https://science.sciencemag.org/content/363/6429/884) ... 新しい人工塩基をつくることにより、4種類から8種類に拡張した論文。PCRしたり、DNA->RNAしたりすることが可能。
 
 ## Editorial notes
-- (coela)
+- メリークリスマス！！フィギュアに紫外線やX線当てまくるアートが流行る！！(coela)
 - (soh)
 - DNAを全てのオブジェクトに練りこんでみんなハッピー！！！(tadasu)
