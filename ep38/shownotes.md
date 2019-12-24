@@ -27,5 +27,5 @@ title: 38. Respect Doesn't Make History
 
 ## Editorial notes
 - (dessan)
-- ヒリヒリした回でした。(tadasu)
+- ヒリヒリした回でした。研究に名前を載せるかという話では、責任の所在のために名前を書くという点もちゃんと議論するべきでした。(tadasu)
 
