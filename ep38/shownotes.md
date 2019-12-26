@@ -3,10 +3,10 @@ actor_ids:
   - dessan
   - tadasu
 audio_file_path: /audio/38.mp3
-audio_file_size: 80673256
+audio_file_size: 67743979
 date: 2019-12-28 10:10:00 +0900
 description: 小島秀夫監督、研究者の固有性と作家性、異世界分子生物学会、零號琴、奇書について話しました。
-duration: "01:42:46"
+duration: "01:31:44"
 layout: article
 tags: 
   - 雑談
