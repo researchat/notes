@@ -5,12 +5,12 @@ actor_ids:
 audio_file_path: /audio/37.mp3
 audio_file_size: xxxxx
 date: 2019-12-2X 10:10:00 +0900
-description: 分子細胞生物学における入門知識について話しました。
+description: 分子細胞生物学の入門知識について話しました。
 duration: "XX:XX:XX"
 layout: article
 tags: 
   - 入門
-title: 37. XXXXX
+title: 37. Biological Enigma
 ---
 
 ## Show notes
@@ -32,15 +32,16 @@ title: 37. XXXXX
 - [遺伝子](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90)
 - [ゲノム](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%8E%E3%83%A0)
 - [染色体](https://ja.wikipedia.org/wiki/%E6%9F%93%E8%89%B2%E4%BD%93)
-- [体細胞分裂]
-- [減数分裂]
-- [セントラルドグマ]
-- [コドン]
-- [フレームシフト]
-- [変異]
-- [イザベルスチュワートガードナー美術館]
+- [体細胞分裂](https://ja.wikipedia.org/wiki/%E4%BD%93%E7%B4%B0%E8%83%9E%E5%88%86%E8%A3%82)
+- [減数分裂](https://ja.wikipedia.org/wiki/%E6%B8%9B%E6%95%B0%E5%88%86%E8%A3%82)
+- [セントラルドグマ](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%89%E3%82%B0%E3%83%9E)
+- [コドン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%89%E3%83%B3)
+- [フレームシフト](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%95%E3%83%88%E7%AA%81%E7%84%B6%E5%A4%89%E7%95%B0)
+- [変異](https://ja.wikipedia.org/wiki/%E7%AA%81%E7%84%B6%E5%A4%89%E7%95%B0)
+- [イザベルスチュワートガードナー美術館](https://www.gardnermuseum.org/)
+- [まいばいお10 DNA to Protein①](https://i-my-mine.hatenablog.com/entry/2019/08/11/%E3%81%BE%E3%81%84%E3%81%B0%E3%81%84%E3%81%8A9_DNA_to_Protein%E2%91%A0) ... まいんさんの力作。DNAの発見からセントラルドグマまで、非常にまとまっているので是非よんでいただきたい。
 
 ## Editorial notes
-- (dessan)
+- わかりやすさと面白さ、正確さを両立させるのは難しいですね......(dessan)
 - がんばって説明したのですがやはり説明するのはむずかしい... (tadasu)
 
