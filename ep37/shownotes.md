@@ -14,25 +14,24 @@ title: 37. XXXXX
 ---
 
 ## Show notes
-- [ロバート・フック]
-- [Micrographia]
-- [レーウェンフック]
+- [ロバート・フック](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%95%E3%83%83%E3%82%AF)
+- [Micrographia](https://www.bl.uk/collection-items/micrographia-by-robert-hooke-1665)
+- [アント二・ファン・レーウェンフック](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%AC%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%95%E3%83%83%E3%82%AF)
 - [レーウェンフックとフェルメール](https://artsandculture.google.com/exhibit/%E3%83%A8%E3%83%8F%E3%83%8D%E3%82%B9-%E3%83%95%E3%82%A7%E3%83%AB%E3%83%A1%E3%83%BC%E3%83%AB%E3%81%A8%E3%82%A2%E3%83%B3%E3%83%88%E3%83%BC%E3%83%8B-%E3%83%95%E3%82%A1%E3%83%B3-%E3%83%AC%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%95%E3%83%83%E3%82%AF-mauritshuis/6wLSYKTxeKiZKg?hl=ja)
-- [細胞説]
-- [自然発生説]
-- [前成説]
-- [後成説(エピジェネシス)]
-- [アリストテレス]
-- [真核生物]
-- [原核生物]
-- [エピジェネティクス]
+- [細胞説](https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%83%9E%E8%AA%AC)
+- [自然発生説](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E7%99%BA%E7%94%9F%E8%AA%AC)
+- [前成説](https://ja.wikipedia.org/wiki/%E5%89%8D%E6%88%90%E8%AA%AC)
+- [後成説(エピジェネシス)](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%88%90%E8%AA%AC)
+- [真核生物](https://ja.wikipedia.org/wiki/%E7%9C%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
+- [原核生物](https://ja.wikipedia.org/wiki/%E5%8E%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
+- [エピジェネティクス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9)
 - [細胞分裂の動画]
-- [DNA]
-- [RNA]
-- [タンパク質]
-- [遺伝子]
-- [ゲノム]
-- [染色体]
+- [DNA](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%AA%E3%83%9C%E6%A0%B8%E9%85%B8)
+- [RNA](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E6%A0%B8%E9%85%B8)
+- [タンパク質](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA)
+- [遺伝子](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90)
+- [ゲノム](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%8E%E3%83%A0)
+- [染色体](https://ja.wikipedia.org/wiki/%E6%9F%93%E8%89%B2%E4%BD%93)
 - [体細胞分裂]
 - [減数分裂]
 - [セントラルドグマ]
