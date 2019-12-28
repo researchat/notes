@@ -5,7 +5,7 @@ actor_ids:
 audio_file_path: /audio/37.mp3
 audio_file_size: 76187191
 date: 2019-12-29 21:30:00 +0900
-description: 分子細胞生物学の入門知識について話しました。
+description: dessanをゲストに迎え、分子細胞生物学の入門知識について話しました。
 duration: "01:19:21"
 layout: article
 tags: 
