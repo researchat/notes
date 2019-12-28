@@ -25,7 +25,6 @@ title: 37. Biological Enigma
 - [真核生物](https://ja.wikipedia.org/wiki/%E7%9C%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
 - [原核生物](https://ja.wikipedia.org/wiki/%E5%8E%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
 - [エピジェネティクス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9)
-- [細胞分裂の動画]
 - [DNA](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%AA%E3%83%9C%E6%A0%B8%E9%85%B8)
 - [RNA](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E6%A0%B8%E9%85%B8)
 - [タンパク質](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%83%91%E3%82%AF%E8%B3%AA)
@@ -33,6 +32,9 @@ title: 37. Biological Enigma
 - [ゲノム](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%8E%E3%83%A0)
 - [染色体](https://ja.wikipedia.org/wiki/%E6%9F%93%E8%89%B2%E4%BD%93)
 - [体細胞分裂](https://ja.wikipedia.org/wiki/%E4%BD%93%E7%B4%B0%E8%83%9E%E5%88%86%E8%A3%82)
+- [凝集した染色体が娘細胞に分配される](http://www.cellimagelibrary.org/images/11952) ... 真核生物においては、DNAを二個の娘細胞に分配するために染色体とよばれる凝集した構造が現れる。姉妹染色体が娘細胞に均等に分配される。本当にこの現象は美しく生命的神秘にあふれている。最後には核の形成と染色体の脱凝集の様子が映されている。どのように姉妹染色体が絡まらずに別れることができるのか、凝集と脱凝集はどのように起こるのかといったような基本的な問題も、関与する遺伝子の理解は進んでいるものの、実際のメカニズムに関しては大きな問いとして残されている。
+- [ウニの発生](http://www.cellimagelibrary.org/images/11943) ... ウニの受精卵が卵割していく様子を撮影した動画。
+- [ゼブラフィッシュの発生](https://www.youtube.com/watch?v=ahJjLzyioWM) ... 受精卵は細胞分裂を通して複雑な構造を形成していく。
 - [減数分裂](https://ja.wikipedia.org/wiki/%E6%B8%9B%E6%95%B0%E5%88%86%E8%A3%82)
 - [セントラルドグマ](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%89%E3%82%B0%E3%83%9E)
 - [コドン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%89%E3%83%B3)
