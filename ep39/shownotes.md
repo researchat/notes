@@ -2,7 +2,6 @@
 
 ---
 actor_ids:
-  - soh
   - tadasu
   - coela
 audio_file_path: /audio/39.mp3
