@@ -8,9 +8,11 @@
 - 読んでよかった
   - 綿矢りさ 手のひらの京
   - 円城塔 文字渦
-- 話したいこと
-  - NEBのカタログ回
+- いつか話したいこと
+  - NEBのカタログ回いつか
   - MITのbasic biology回。Eric lander。
+- おたより
+  - Optical barcode screening (https://www.cell.com/cell/fulltext/S0092-8674(19)31067-0) Toshio256さんより。
   
 ## Tadasu
 - 買ってよかったもの 
