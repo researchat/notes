@@ -7,7 +7,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/39.mp3
 audio_file_size: X
-date: 2019-12-30 22:30:00 +0900
+date: 2019-12-30 22:10:00 +0900
 description: 
 duration: "0X:XX:XX"
 layout: article
