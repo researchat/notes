@@ -1,5 +1,3 @@
-
-
 ---
 actor_ids:
   - dessan
