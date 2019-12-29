@@ -1,18 +1,23 @@
 
+---
+actor_ids:
+  - soh
+  - tadasu
+  - coela
+audio_file_path: /audio/39.mp3
+audio_file_size: X
+date: 2019-12-30 22:30:00 +0900
+description: 
+duration: "0X:XX:XX"
+layout: article
+tags: 
+  - 雑談
+title: 39. X
+---
 
-#memo
-#coela
+## Show notes
 
-#soh
-
-#tadasu
-- 買ってよかったもの 
-  - ジョージ・フォアマン
-  - PrimeSTAR GXL
-  - ケメックス
-- よかったエピソード
-  - コーヒー回、DNA microscopy、武器
-- おすすめの本
-  - 空の思想史
-  - 勝つために戦え
-  - 怪獣生物学入門
+## Editorial notes
+- (soh)
+- (tadasu)
+- (coela)
