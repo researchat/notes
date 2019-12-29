@@ -27,10 +27,16 @@
   - 勝つために戦え
   - 怪獣生物学入門
 - 反省
-　- ノーベル賞
+  - ノーベル賞
 - 来年
   - ゴリゴリ論文紹介
-  - ネットで受けられる授業集
+  - ネットで受けられる授業集, iBiology
   - 新しい分野(ドローンなど
+
+- ほか
+  - 日本の昔の動画
+  - lofi hiphop, nujabes
+  - trappin
+  - real time attack (RTA) GDQ (Games Done Quick)
 
 ## Coela
