@@ -20,7 +20,8 @@
   - PrimeSTAR GXL
   - ケメックス
 - よかったエピソード
-  - コーヒー回、DNA microscopy、武器
+  - コーヒー回、DNA microscopy、武器、こんまり
+  - ep1がサイキョ
 - おすすめの本
   - 空の思想史
   - 勝つために戦え
