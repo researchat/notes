@@ -40,3 +40,17 @@
   - real time attack (RTA) GDQ (Games Done Quick)
 
 ## Coela
+- 買ってよかったもの 
+  - 自作キーボード
+  - カイゼリン
+  - ipad pro
+  
+- よかったエピソード
+  - コーヒー回、DNA microscopy、武器
+- おすすめの本（1-2個）
+  - under the rose
+  - 銀河の死なない子どもたち
+  - エルフを狩る者たち
+  - 辺境のシュベスタ
+  - 別式
+  - 波よ聞いてくれ
