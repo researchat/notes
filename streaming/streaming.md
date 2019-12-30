@@ -55,8 +55,8 @@ permalink: /blog/6/
 1. 配信中に表示する画像を作成する。実際の収録を行う少し前から表示しておく画像と、配信中に表示する画像の２つを用意しておくと良いかもしれません。今回はKeynoteで以下のような画像を作りました。
 ![配信用画像](/images/blog/Image.jpeg)
 ![配信用画像2](/images/blog/Image3.jpeg)
-1. 右下の「Controls」>「Stream」を選択。「Service」を「Twitch」に、「Server」を「Auto」に、「Stream Key」にTwitchの設定で取得した「プライマリ配信キー」をペースト※繰り返しになりすがプライマリ配信キーがあれば誰でもそのアカウントで配信できてしまうため絶対人に教えないようにしてください。
 1. 左下のSenesから「+」を押して新規シーンを作成する。Podcast配信用の適当な名前をつける。
+1. 右下の「Controls」>「Stream」を選択。「Service」を「Twitch」に、「Server」を「Auto」に、「Stream Key」にTwitchの設定で取得した「プライマリ配信キー」をペースト※繰り返しになりすがプライマリ配信キーがあれば誰でもそのアカウントで配信できてしまうため絶対人に教えないようにしてください。
 1. 左下のSourcesから「+」を押して「Audio Input Capture」を選択、Deviceを「SoundFlower(64ch)に設定。
 1. 同様にSourcesに「Image」を選択、1.で作成した画像のパスを入力する。
 1. よしなに画像のサイズを調節する。
