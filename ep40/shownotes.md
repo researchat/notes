@@ -42,7 +42,9 @@ title: 40. Empty Dumpty
 - [アオイホノオ](https://www.amazon.co.jp/dp/B009JZGRC2/) ... 炎尾燃 ~ タマキ論
 - タマキさんの漫画紹介
 
+- [水曜どうでしょうとガメラ2](https://blog.goo.ne.jp/nobinobito/e/6c539ddf4225240c46a1d2b82dd0cd25)
 - [researchat_fm in Twitch](https://www.twitch.tv/researchat_fm/) ... Twitchで配信しながら収録しました。コメントいただいた方、リアルタイムで視聴してくださった方、ありがとうございました。
+
 
 ## Editorial notes
 - (soh)
