@@ -6,12 +6,12 @@ actor_ids:
 audio_file_path: /audio/40.mp3
 audio_file_size: 
 date: 2019-12-31 22:30:00 +0900
-description: Empty Dumpty
+description: 
 duration: "02:08:33"
 layout: article
 tags: 
   - 雑談
-title: 40. 
+title: 40. Empty Dumpty
 ---
 
 ## Show notes
