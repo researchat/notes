@@ -39,6 +39,9 @@ title: 40. Empty Dumpty
 - [王様のくすり図鑑](https://www.jiho.co.jp/shop/list/detail/tabid/272/pdid/47745/Default.aspx)
 - [DNA Structure and Classic experiments, excerpt 1 | MIT 7.01SC Fundamentals of Biology](https://www.youtube.com/watch?v=P-Ry4rRdDbk) ... Eric Lander先生による授業
 - [YouTuberから学ぶデータサイエンスまとめ。海外チャンネル多め。](https://qiita.com/Hyperion13fleet/items/5cedaca97fc8fa0706a2) ... 白金鉱業.FMにもでてらしたHyperionさんの記事。これの生物版をやりたい！
+- [アオイホノオ](https://www.amazon.co.jp/dp/B009JZGRC2/) ... 炎尾燃 ~ タマキ論
+
+
 
 
 ## Editorial notes
