@@ -9,7 +9,7 @@ permalink: /blog/6/
 
 # MacでTwitch + OBS + Discordでライブ配信する方法
 
-[Episode 39. Podcast Year](https://researchat.fm/episode/39)と[40. Empty Dumpty](https://researchat.fm/episode/40)は収録の様子を[Twitchのresearchat.fmチャンネル](https://www.twitch.tv/researchat_fm/)でライブ配信しました。ここではその時の各種設定をメモしておきます。
+[Episode 39. Podcast Year](https://researchat.fm/episode/39)と[40. Empty Dumpty](https://researchat.fm/episode/40)は収録の様子を[TwitchのResearchat.fmチャンネル](https://www.twitch.tv/researchat_fm/)でライブ配信しました。ここではその時の各種設定をメモしておきます。
 
 普段Researchat.fmではDiscordで３人で会話をしつつ、それぞれのマシンで音源をローカルで保存するダブルエンダーと呼ばれる方式で収録を行っています。今回はなるべくその形式を崩さずに、Discord上で行われている会話をTwitchでライブ配信することにしました。
 
