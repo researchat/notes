@@ -32,7 +32,8 @@ title: 40.
 - [いつかの高松](https://www.youtube.com/watch?v=X_zi0bukopU)
 - [勝つために戦え！〈監督ゼッキョー篇〉](https://www.amazon.co.jp/dp/B072C5J9H9/) .... 押井守監督が映画監督の勝利条件とは何か？を定義し、古今東西の映画監督を評価する。
 - [怪獣生物学入門 (インターナショナル新書)](https://www.amazon.co.jp/dp/4797680431) ... RIKEN倉谷滋が描く、怪獣デザインとは何か。SF作品に登場する架空の生物のリアリティーについて第一線の発生生物学者が解説する。
-
+- [空の思想史　原始仏教から日本近代へ (講談社学術文庫) ](https://www.amazon.co.jp/dp/B01851DZNY/)
+- [松岡正剛の千夜千冊(空の思想史)](https://1000ya.isis.ne.jp/0846.html)
 
 ## Editorial notes
 - (soh)
