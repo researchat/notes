@@ -34,5 +34,5 @@ title: 39. Podcast Year
 
 ## Editorial notes
 - 俺たちの2019年はまだ終わらないッ (soh)
-- (tadasu)
+- 初めてのTwitch配信も行いましたが無事うまくいけてよかったです。Turbo!!!(tadasu)
 - (coela)
