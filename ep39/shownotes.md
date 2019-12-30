@@ -25,7 +25,9 @@ title: 39. Podcast Year
 - [33. Rising](https://researchat.fm/episode/33)...ep33でもアツくカイゼリンについてcoelaが話しております。
 - [THREE CUP CLASSIC CHEMEX®](https://www.chemexcoffeemaker.com/three-cup-classic-series-coffeemaker.html)...sohにそそのかされてtadasuも購入したケメックスのコーヒーサーバー。長い歴史があり、綺麗なフォルム、おすすめです。
 - [【特集｜美味しいコーヒー】OYATSUYA SUNに教わる、美味しいコーヒー（その2）『ケメックスで淹れる』](https://hokuohkurashi.com/note/66159)
-- [ハリオ コーヒーケトル 0.8LHARIO V60 温度調整付きパワーケトル](https://www.amazon.co.jp/dp/B07PQG3XSR/ref=cm_sw_r_tw_dp_U_x_8UvcEb2ZXDTYC)...温度調整が1度単位でできるハリオのコーヒーケトル。Sohのおすすめです。
+- [ハリオ コーヒーケトル 0.8LHARIO V60 温度調整付きパワーケトル](https://www.amazon.co.jp/dp/B07PQG3XSR/ref=cm_sw_r_tw_dp_U_x_8UvcEb2ZXDTYC)...温度調整が1度単位でできるハリオのコーヒーケトル。sohのおすすめです。
+- [セラミックコーヒーミル・スケルトン](https://www.hario.com/seihin/productdetail.php?product=MSCS-2B)...sohとtadasuも愛用するハリオの手挽きのミル。
+- [ジョージ・フォアマン (メリカで食べよう ずかしめし)](https://zukashi.com/gfg/)...tadasuおすすめの電動グリル。なんでも焼ける。
 
 ## Editorial notes
 - 俺たちの2019年はまだ終わらないッ (soh)
