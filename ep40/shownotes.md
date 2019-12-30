@@ -28,6 +28,8 @@ title: 40.
 - [1992 日曜日の池袋散策散歩など Sunday Ikebukuro Walkabout 921025](https://www.youtube.com/watch?v=BSiCUfLdogQ)
 - [1991 夜の秋葉原と新自動改札口 Akihabara at Night 910105](https://www.youtube.com/watch?v=wMjbwBKQbaw)
 - [1991年4月21日日曜日　秋葉原へ](https://www.youtube.com/watch?v=T0fcsgNWiIk)
+- [勝つために戦え！〈監督ゼッキョー篇〉](https://www.amazon.co.jp/dp/B072C5J9H9/) .... 押井守監督が映画監督の勝利条件とは何か？を定義し、古今東西の映画監督を評価する。
+- [怪獣生物学入門 (インターナショナル新書)](https://www.amazon.co.jp/dp/4797680431) ... RIKEN倉谷滋が描く、怪獣デザインとは何か。SF作品に登場する架空の生物のリアリティーについて第一線の発生生物学者が解説する。
 
 
 ## Editorial notes
