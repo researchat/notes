@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/40.mp3
-audio_file_size: 
+audio_file_size: 81880636
 date: 2019-12-31 22:30:00 +0900
-description: 
-duration: "02:08:33"
+description: 2019年を振り返りつつ、2020年の展望について話しました。
+duration: "02:10:38"
 layout: article
 tags: 
   - 雑談
