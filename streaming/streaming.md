@@ -1,12 +1,21 @@
-# MacでTwitch + Discordでライブ配信する方法
+---
+date: 2019-12-31 05:25:00 +0900
+layout: blog
+title: 6. Podcastをライブ配信したときの設定まとめ
+category: blog
+author: Researchat.fm
+permalink: /blog/6/
+---
 
-ここでは[Episode 39. Podcast Year]()と[]()でPodcast収録をライブ配信したときの設定をメモしておきます。
+# MacでTwitch + OBS + Discordでライブ配信する方法
 
-普段Researchat.fmではDiscordで３人で会話をしつつ、それぞれのマシンで音源をローカルで保存するダブルエンダーと呼ばれる方式で収録を行っています。今回はなるべくその形式を崩さずに、Discord上で行われている会話をtwitchでライブ配信することにしました。
+[Episode 39. Podcast Year](https://researchat.fm/episode/39)と[40. Empty Dumpty](https://researchat.fm/episode/40)は収録の様子をTwitchでライブ配信しました。ここではその時の各種設定をメモしておきます。
 
-ここではDiscordの音声をライブ配信する方法についてのみ触れるので、ポッドキャストの収録・編集方法について興味がある方は[Rebuild.fmのmiyagawaさんの記事](https://weblog.bulknews.net/podcasting-guide-2017-2e88531a367d)、[白金工業.fmのysdytさんの記事](https://weblog.bulknews.net/podcasting-guide-2017-2e88531a367d0)あと手前味噌ですが[以前我々がまとめたブログ記事](https://researchat.fm/blog/2/)などの情報が参考になると思います。
+普段Researchat.fmではDiscordで３人で会話をしつつ、それぞれのマシンで音源をローカルで保存するダブルエンダーと呼ばれる方式で収録を行っています。今回はなるべくその形式を崩さずに、Discord上で行われている会話をTwitchでライブ配信することにしました。
 
-また今回はライブ配信をtwitchで行いましたが、これはcoelaの趣味によるところが大きいので[Mixlr](http://mixlr.com/)やtwitterのライブ配信機能を使う選択肢もあると思います。
+ここではDiscordの音声をライブ配信する方法についてのみ触れるので、ポッドキャストの収録・編集方法について興味がある方は[Rebuild.fmのmiyagawaさんの記事](https://weblog.bulknews.net/podcasting-guide-2017-2e88531a367d)、[白金工業.fmのysdytさんの記事](https://weblog.bulknews.net/podcasting-guide-2017-2e88531a367d0)、あと手前味噌ですが[以前我々がまとめたブログ記事](https://researchat.fm/blog/2/)などの情報が参考になると思います。
+
+また今回はライブ配信をTwitchで行いましたが、これはcoelaの趣味によるところが大きいので[Mixlr](http://mixlr.com/)や[twitterのライブ配信機能](https://help.twitter.com/ja/using-twitter/twitter-live)など他の配信プラットフォームを使う選択肢もあると思います。
 
 ## 必要なアプリケーション
 以下のアプリケーションを入手し、インストールを完了しておいてください。
@@ -57,7 +66,10 @@
 1. 配信中でもImagesのパスを変更したら表示される画像が動的に変わるため、「XX時から配信します」のような画像を用意している場合、時間がきたらImageのパスを変更して収録しましょう！
 1. Stop Streamingボタンで配信終了。
 
-## おまけ
+## 最後に
+
+色々いじりながら設定した内容のメモなので、もし「こうすればもっと簡単にできるよ！」などの情報がありましたら是非教えて下さい！
+
 twitchで配信した内容は設定ページから音源としてダウンロードすることが可能です。Discordのノイズ削除、音量調整の機能が高性能なこともあり、結構良い音質でtwitch上で保存されているため、そのままそれらのファイルを配信に利用するのもアリだと思います。ダブルエンダー形式で収録を行う場合、ローカルでの録音もGarageBandなどで同時に行い、最終的にそちらを編集してPodcastとして配信することになります。
 
 Twitch上の音源は不慮の事故の際のバックアップとしても活用できます。twitchの設定によってはバックアップが保存されなかったり、一定時間で消去されてしまうのでここらへんは各自ご確認ください。
