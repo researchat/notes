@@ -34,6 +34,9 @@ title: 40. Empty Dumpty
 - [怪獣生物学入門 (インターナショナル新書)](https://www.amazon.co.jp/dp/4797680431) ... RIKEN倉谷滋が描く、怪獣デザインとは何か。SF作品に登場する架空の生物のリアリティーについて第一線の発生生物学者が解説する。
 - [空の思想史　原始仏教から日本近代へ (講談社学術文庫) ](https://www.amazon.co.jp/dp/B01851DZNY/)
 - [松岡正剛の千夜千冊(空の思想史)](https://1000ya.isis.ne.jp/0846.html)
+- [Netflix 石つぶて (外務省機密費)](https://www.netflix.com/jp/title/81189824)
+- [Amazon Prime: MERU](http://meru-movie.jp/)
+
 
 ## Editorial notes
 - (soh)
