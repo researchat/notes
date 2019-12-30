@@ -40,8 +40,9 @@ title: 40. Empty Dumpty
 - [DNA Structure and Classic experiments, excerpt 1 | MIT 7.01SC Fundamentals of Biology](https://www.youtube.com/watch?v=P-Ry4rRdDbk) ... Eric Lander先生による授業
 - [YouTuberから学ぶデータサイエンスまとめ。海外チャンネル多め。](https://qiita.com/Hyperion13fleet/items/5cedaca97fc8fa0706a2) ... 白金鉱業.FMにもでてらしたHyperionさんの記事。これの生物版をやりたい！
 - [アオイホノオ](https://www.amazon.co.jp/dp/B009JZGRC2/) ... 炎尾燃 ~ タマキ論
-- タマキさんの漫画紹介
-
+- [銀河の死なない子供たちへ](https://www.amazon.co.jp/dp/B075M4B2B1/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [スペクトラルウィザード](https://www.amazon.co.jp/dp/B07538JCN2/)
+- [エルフを狩る者たち](https://www.amazon.co.jp/dp/B06XD4DZQ9/)
 - [水曜どうでしょうとガメラ2](https://blog.goo.ne.jp/nobinobito/e/6c539ddf4225240c46a1d2b82dd0cd25)
 - [researchat_fm in Twitch](https://www.twitch.tv/researchat_fm/) ... Twitchで配信しながら収録しました。コメントいただいた方、リアルタイムで視聴してくださった方、ありがとうございました。
 
@@ -49,4 +50,4 @@ title: 40. Empty Dumpty
 ## Editorial notes
 - (soh)
 - 煩悩の数を数えろ (tadasu)
-- (coela)
+- 来年も楽しく収録できたら良いなと思います(coela)
