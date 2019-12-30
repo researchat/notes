@@ -50,4 +50,4 @@ title: 40. Empty Dumpty
 ## Editorial notes
 - (soh)
 - 煩悩の数を数えろ (tadasu)
-- 来年も楽しく収録できたら良いなと思います(coela)
+- DDDは懇親のネタだったのですが…。来年も楽しく収録できたらなと思います！(coela)
