@@ -40,9 +40,9 @@ title: 40. Empty Dumpty
 - [DNA Structure and Classic experiments, excerpt 1 | MIT 7.01SC Fundamentals of Biology](https://www.youtube.com/watch?v=P-Ry4rRdDbk) ... Eric Lander先生による授業
 - [YouTuberから学ぶデータサイエンスまとめ。海外チャンネル多め。](https://qiita.com/Hyperion13fleet/items/5cedaca97fc8fa0706a2) ... 白金鉱業.FMにもでてらしたHyperionさんの記事。これの生物版をやりたい！
 - [アオイホノオ](https://www.amazon.co.jp/dp/B009JZGRC2/) ... 炎尾燃 ~ タマキ論
+- タマキさんの漫画紹介
 
-
-
+- [researchat_fm in Twitch](https://www.twitch.tv/researchat_fm/) ... Twitchで配信しながら収録しました。コメントいただいた方、リアルタイムで視聴してくださった方、ありがとうございました。
 
 ## Editorial notes
 - (soh)
