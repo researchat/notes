@@ -37,5 +37,5 @@ title: 40.
 
 ## Editorial notes
 - (soh)
-- (tadasu)
+- 煩悩の数を数えろ (tadasu)
 - (coela)
