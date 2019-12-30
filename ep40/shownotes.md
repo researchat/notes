@@ -23,6 +23,11 @@ title: 40.
 - [The Legend of Zelda: Majora's Mask by MajinPhil](https://www.youtube.com/watch?v=9pBmNcv0Mlw) ... ゼルダの伝説ムジュラの仮面のRTA。日本語版がプレイされている。
 - [(1080p)1992年の東京の日常風景](https://www.youtube.com/watch?v=KJQsGpCDX54) ... 1992年の東京。泣ける。
 - [Japan 1940's in HD](https://www.youtube.com/watch?v=EVbDdR9Fi90) ... " このフィルムは、ハンフリー・ボガートが主演した映画「東京ジョー」のために撮影されました。1948年冬の東京が記録されています。 " (YouTubeのコメントより引用)
+- [1991 新宿散策散歩 Shinjuku Walkabout 910410](https://www.youtube.com/watch?v=xDcyg9DIceQ) ... 1991年新宿。この動画をあげている Lyle Hiroshi Saxonの動画はおもしろい。
+- [1991 新宿 東口と西口の散策散歩 Shinjuku Lunchtime Walkabout East and West 910523](https://www.youtube.com/watch?v=Scc1ceipcFo)
+- [1992 日曜日の池袋散策散歩など Sunday Ikebukuro Walkabout 921025](https://www.youtube.com/watch?v=BSiCUfLdogQ)
+- [1991 夜の秋葉原と新自動改札口 Akihabara at Night 910105](https://www.youtube.com/watch?v=wMjbwBKQbaw)
+- [1991年4月21日日曜日　秋葉原へ](https://www.youtube.com/watch?v=T0fcsgNWiIk)
 
 
 ## Editorial notes
