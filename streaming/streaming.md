@@ -13,7 +13,7 @@ permalink: /blog/6/
 
 普段Researchat.fmではDiscordで３人で会話をしつつ、それぞれのマシンで音源をローカルで保存するダブルエンダーと呼ばれる方式で収録を行っています。今回はなるべくその形式を崩さずに、Discord上で行われている会話をTwitchでライブ配信することにしました。
 
-ここではDiscordの音声をライブ配信する方法についてのみ触れるので、ポッドキャストの収録・編集方法について興味がある方は[Rebuild.fmのmiyagawaさんの記事](https://weblog.bulknews.net/podcasting-guide-2017-2e88531a367d)、[白金工業.fmのysdytさんの記事](https://weblog.bulknews.net/podcasting-guide-2017-2e88531a367d0)、あと手前味噌ですが[以前我々がまとめたブログ記事](https://researchat.fm/blog/2/)などの情報が参考になると思います。
+ここではDiscordの音声をライブ配信する方法についてのみ触れるので、ポッドキャストの収録・編集方法について興味がある方は[Rebuild.fmのmiyagawaさんの記事](https://weblog.bulknews.net/podcasting-guide-2017-2e88531a367d)、[白金工業.fmのysdytさんの記事](https://qiita.com/ysdyt/items/9a95857aed85a19766b0)、あと手前味噌ですが[以前我々がまとめたブログ記事](https://researchat.fm/blog/2/)などの情報が参考になると思います。
 
 また今回はライブ配信をTwitchで行いましたが、これはcoelaの趣味によるところが大きいので[Mixlr](http://mixlr.com/)や[twitterのライブ配信機能](https://help.twitter.com/ja/using-twitter/twitter-live)など他の配信プラットフォームを使う選択肢もあると思います。
 
