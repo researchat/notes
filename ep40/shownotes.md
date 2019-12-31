@@ -34,8 +34,8 @@ title: 40. Empty Dumpty
 - [怪獣生物学入門 (インターナショナル新書)](https://www.amazon.co.jp/dp/4797680431) ... RIKEN倉谷滋が描く、怪獣デザインとは何か。SF作品に登場する架空の生物のリアリティーについて第一線の発生生物学者が解説する。
 - [空の思想史　原始仏教から日本近代へ (講談社学術文庫) ](https://www.amazon.co.jp/dp/B01851DZNY/)
 - [松岡正剛の千夜千冊(空の思想史)](https://1000ya.isis.ne.jp/0846.html)
-- [Netflix 石つぶて (外務省機密費)](https://www.netflix.com/jp/title/81189824)
-- [Amazon Prime: MERU](http://meru-movie.jp/)
+- [石つぶて](https://www.netflix.com/jp/title/81189824)...外務省機密費流用事件を題材にしたドラマ。sohのおすすめ。
+- [MERU](http://meru-movie.jp/)...人類で初めてメルー峰の登頂に成功した登山家たちのドキュメンタリ映画。6,000m級の直立に切り立った崖のようなメルー峰に挑んだその映像が凄まじい。sohのおすすめ。
 - [王様のくすり図鑑](https://www.jiho.co.jp/shop/list/detail/tabid/272/pdid/47745/Default.aspx)
 - [DNA Structure and Classic experiments, excerpt 1 | MIT 7.01SC Fundamentals of Biology](https://www.youtube.com/watch?v=P-Ry4rRdDbk) ... Eric Lander先生による授業
 - [YouTuberから学ぶデータサイエンスまとめ。海外チャンネル多め。](https://qiita.com/Hyperion13fleet/items/5cedaca97fc8fa0706a2) ... 白金鉱業.FMにもでてらしたHyperionさんの記事。これの生物版をやりたい！
@@ -45,9 +45,9 @@ title: 40. Empty Dumpty
 - [エルフを狩る者たち](https://www.amazon.co.jp/dp/B06XD4DZQ9/)
 - [水曜どうでしょうとガメラ2](https://blog.goo.ne.jp/nobinobito/e/6c539ddf4225240c46a1d2b82dd0cd25)
 - [researchat_fm in Twitch](https://www.twitch.tv/researchat_fm/) ... Twitchで配信しながら収録しました。コメントいただいた方、リアルタイムで視聴してくださった方、ありがとうございました。
-
+- [2019年 Researchat.fm で紹介した関連論文まとめ](https://researchat.fm/blog/5/)
 
 ## Editorial notes
-- (soh)
+- 2019年、ありがとうございました。60本を超える論文を紹介できるとは思ってもいませんでした。(soh)
 - 煩悩の数を数えろ (tadasu)
 - DDDは懇親のネタだったのですが…。来年も楽しく収録できたらなと思います！(coela)
