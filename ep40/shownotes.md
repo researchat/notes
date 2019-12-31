@@ -45,7 +45,7 @@ title: 40. Empty Dumpty
 - [エルフを狩る者たち](https://www.amazon.co.jp/dp/B06XD4DZQ9/)
 - [水曜どうでしょうとガメラ2](https://blog.goo.ne.jp/nobinobito/e/6c539ddf4225240c46a1d2b82dd0cd25)
 - [researchat_fm in Twitch](https://www.twitch.tv/researchat_fm/) ... Twitchで配信しながら収録しました。コメントいただいた方、リアルタイムで視聴してくださった方、ありがとうございました。
-- [2019年 Researchat.fm で紹介した関連論文まとめ](https://researchat.fm/blog/5/)
+- [2019年 Researchat.fm で紹介した関連論文まとめ](https://researchat.fm/blog/5/)...今年紹介したたくさんの論文をブログにまとめました。ぜひなにかの参考に。
 
 ## Editorial notes
 - 2019年、ありがとうございました。60本を超える論文を紹介できるとは思ってもいませんでした。(soh)
