@@ -5,8 +5,8 @@ actor_ids:
   - coela
 audio_file_path: /audio/40.mp3
 audio_file_size: 81880636
-date: 2019-12-31 22:30:00 +0900
-description: 2019年を振り返りつつ、2020年の展望について話しました。
+date: 2019-12-31 10:46:00 +0900
+description: 今年よかった本とマンガ、映画やドラマについて紹介し、Researchat.fmの2020年の展望について3人で話しました。
 duration: "02:10:38"
 layout: article
 tags: 
