@@ -19,9 +19,12 @@ title: 41. Single is not bad
 - [A single circular chromosome yeast](https://www.ncbi.nlm.nih.gov/pubmed/30559437) ... 1本にした論文において、さらにテロメアを除いて結合させることにより巨大な環状染色体にした論文。
 - [FISH analysis of the telomere sequences of bulldog ants (Myrmecia: Formicidae)](https://www.ncbi.nlm.nih.gov/pubmed/7587589) ... 当時遺伝研で研究されていた今井先生がFISHによって調べたキバハリアリの染色体研究。2n=2-84と大きな幅を持っていることがわかる。2n=4が祖先型なのではないかとの推測。
 - [Chromosome engineering allows the efficient isolation of vertebrate neocentromeres](https://www.ncbi.nlm.nih.gov/pubmed/23499358) ... 現阪大、当時遺伝研の深川先生らが行ったネオセントロメアに関する研究の論文。
-- [Gametogenesis in a male Indian muntjac x Chinese muntjac hybrid](https://www.ncbi.nlm.nih.gov/pubmed/7297121)
+- [Gametogenesis in a male Indian muntjac x Chinese muntjac hybrid](https://www.ncbi.nlm.nih.gov/pubmed/7297121) ... 2n=6のIndian Muntjacと2n=46のChinese Muntjacが、Shanghai Western Suburb Zooで自然交配した結果、生まれた子供の睾丸における減数分裂の状態を調べた論文。
+- [Transvection](https://www.ncbi.nlm.nih.gov/pubmed/29017034) ... Fukaya先生によるTransvectionに関する最新のレビュー。
+- [Recombination, Pairing, and Synapsis of Homologs during Meiosis](https://www.ncbi.nlm.nih.gov/pubmed/25986558) ... Denise ZicklerとNancy Klecknerによる減数分裂期の染色体に関するレビュー。Figure 4に本エピソードでも話したRabl構造や染色体interlockについての解説がある。
+- [Recombination Proteins Mediate Meiotic Spatial Chromosome Organization and Pairing](https://www.cell.com/cell/fulltext/S0092-8674(10)00194-7) ... Denise ZicklerによるSordariaの減数分裂期におけるinterlockとその解消に関する論文。
 
 ## Editorial notes
 - (soh)
 - (coela)
-- (tadasu)
+- ちょっとやりすぎました (tadasu)
