@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/41.mp3
 audio_file_size: 61350476
-date: 2019-01-21 22:50:00 +0900
+date: 2020-01-21 22:50:00 +0900
 description: 出芽酵母の染色体をゲノム工学の技術によって1本に連結させた論文について話しました。
 duration: "01:03:54"
 layout: article
