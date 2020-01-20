@@ -21,7 +21,7 @@ title: 41. Single is not bad
 - [Chromosome engineering allows the efficient isolation of vertebrate neocentromeres](https://www.ncbi.nlm.nih.gov/pubmed/23499358) ... 現阪大、当時遺伝研の深川先生らが行ったネオセントロメアに関する研究の論文。
 - [Gametogenesis in a male Indian muntjac x Chinese muntjac hybrid](https://www.ncbi.nlm.nih.gov/pubmed/7297121) ... 2n=6のIndian Muntjacと2n=46のChinese Muntjacが、Shanghai Western Suburb Zooで自然交配した結果、生まれた子供の睾丸における減数分裂の状態を調べた論文。
 - [Transvection](https://www.ncbi.nlm.nih.gov/pubmed/29017034) ... Fukaya先生によるTransvectionに関する最新のレビュー。
-- [Recombination, Pairing, and Synapsis of Homologs during Meiosis](https://www.ncbi.nlm.nih.gov/pubmed/25986558) ... Denise ZicklerとNancy Klecknerによる減数分裂期の染色体に関するレビュー。Fig2においてCrossover (CO) interferenceの説明、Fig4において本エピソードでも話したRabl構造や染色体interlockについての解説がある。
+- [Recombination, Pairing, and Synapsis of Homologs during Meiosis](https://www.ncbi.nlm.nih.gov/pubmed/25986558) ... Denise ZicklerとNancy Klecknerによる減数分裂期の染色体に関するレビュー。Fig2において本エピソードでも話したCrossover (CO) interferenceの説明、Fig4においてRabl構造や染色体interlockについての解説がある。
 - [Recombination Proteins Mediate Meiotic Spatial Chromosome Organization and Pairing](https://www.cell.com/cell/fulltext/S0092-8674(10)00194-7) ... Denise ZicklerによるSordariaの減数分裂期におけるinterlockとその解消に関する論文。
 
 ## Editorial notes
