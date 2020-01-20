@@ -25,6 +25,7 @@ title: 41. Single is not bad
 - [Recombination Proteins Mediate Meiotic Spatial Chromosome Organization and Pairing](https://www.cell.com/cell/fulltext/S0092-8674(10)00194-7) ... Denise ZicklerらによるSordariaの減数分裂期におけるinterlockとその解消に関する論文。
 - [Interference-mediated synaptonemal complex formation with embedded crossover designation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4250137/) ... 染色体上におけるcrossover間の距離データを集めることで考えられたcrossover interferenceに対するbeam-film (BF) modelに関する論文。
 - [Unleashing meiotic crossovers in hybrid plants](https://www.pnas.org/content/115/10/2431) ... crossoverの数が一つの染色体上で1-3個しかできない原因に関係する遺伝子を植物で探索した論文。
+- [隠蔽種(criptic species)](https://www.weblio.jp/content/%E9%9A%A0%E8%94%BD%E7%A8%AE)
 
 ## Editorial notes
 - (soh)
