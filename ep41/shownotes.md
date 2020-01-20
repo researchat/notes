@@ -22,4 +22,6 @@ title: 41. Single is not bad
 - [Gametogenesis in a male Indian muntjac x Chinese muntjac hybrid](https://www.ncbi.nlm.nih.gov/pubmed/7297121)
 
 ## Editorial notes
-
+- (soh)
+- (coela)
+- (tadasu)
