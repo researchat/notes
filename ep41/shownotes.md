@@ -22,7 +22,7 @@ title: 41. Single is not bad
 - [Gametogenesis in a male Indian muntjac x Chinese muntjac hybrid](https://www.ncbi.nlm.nih.gov/pubmed/7297121) ... 2n=6のIndian Muntjacと2n=46のChinese Muntjacが、Shanghai Western Suburb Zooで自然交配した結果、生まれた子供の睾丸における減数分裂の状態を調べた論文。
 - [Transvection](https://www.ncbi.nlm.nih.gov/pubmed/29017034) ... Fukaya先生によるTransvectionに関する最新のレビュー。
 - [Recombination, Pairing, and Synapsis of Homologs during Meiosis](https://www.ncbi.nlm.nih.gov/pubmed/25986558) ... Denise ZicklerとNancy Klecknerによる減数分裂期の染色体に関するレビュー。Fig2において本エピソードでも話したCrossover (CO) interferenceの説明、Fig4においてRabl構造や染色体interlockについての解説がある。
-- [Recombination Proteins Mediate Meiotic Spatial Chromosome Organization and Pairing](https://www.cell.com/cell/fulltext/S0092-8674(10)00194-7) ... Denise ZicklerによるSordariaの減数分裂期におけるinterlockとその解消に関する論文。
+- [Recombination Proteins Mediate Meiotic Spatial Chromosome Organization and Pairing](https://www.cell.com/cell/fulltext/S0092-8674(10)00194-7) ... Denise ZicklerらによるSordariaの減数分裂期におけるinterlockとその解消に関する論文。
 - [Interference-mediated synaptonemal complex formation with embedded crossover designation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4250137/) ... 染色体上におけるcrossover間の距離データを集めることで考えられたcrossover interferenceに対するbeam-film (BF) modelに関する論文。
 - [Unleashing meiotic crossovers in hybrid plants](https://www.pnas.org/content/115/10/2431) ... crossoverの数が一つの染色体上で1-3個しかできない原因に関係する遺伝子を植物で探索した論文。
 
