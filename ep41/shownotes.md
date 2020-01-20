@@ -15,8 +15,11 @@ title: 41. Single is not bad
 ---
 
 ## Show notes
-- 
-- 
+- [Creating a functional single- chromosome yeast](https://www.ncbi.nlm.nih.gov/pubmed/30069045) ... n=16の染色体を持つ出芽酵母において、テロメアとセントロメアを除きながら染色体同士を結合させ、最終的に大きな1つの染色体にした論文。
+- [A single circular chromosome yeast](https://www.ncbi.nlm.nih.gov/pubmed/30559437) ... 1本にした論文において、さらにテロメアを除いて結合させることにより巨大な環状染色体にした論文。
+- [FISH analysis of the telomere sequences of bulldog ants (Myrmecia: Formicidae)](https://www.ncbi.nlm.nih.gov/pubmed/7587589) ... 当時遺伝研で研究されていた今井先生がFISHによって調べたキバハリアリの染色体研究。2n=2-84と大きな幅を持っていることがわかる。2n=4が祖先型なのではないかとの推測。
+- [Chromosome engineering allows the efficient isolation of vertebrate neocentromeres](https://www.ncbi.nlm.nih.gov/pubmed/23499358) ... 現阪大、当時遺伝研の深川先生らが行ったネオセントロメアに関する研究の論文。
+- [Gametogenesis in a male Indian muntjac x Chinese muntjac hybrid](https://www.ncbi.nlm.nih.gov/pubmed/7297121)
 
 ## Editorial notes
 
