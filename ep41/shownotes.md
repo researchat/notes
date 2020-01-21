@@ -10,7 +10,8 @@ description: 出芽酵母の染色体をゲノム工学の技術によって1本
 duration: "01:03:54"
 layout: article
 tags: 
-  - 雑談
+  - 論文
+  - 染色体シリーズ
 title: 41. Single is not bad
 ---
 
