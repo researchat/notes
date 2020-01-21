@@ -30,5 +30,5 @@ title: 41. Single is not bad
 
 ## Editorial notes
 - 今年もどうぞ宜しくお願いします。染色体にうるさいpodcastです。(soh)
-- (coela)
+- でかい怪獣がいる世界では分子生物学の予算いっぱい付きそう。(coela)
 - ちょっとやりすぎました (tadasu)
