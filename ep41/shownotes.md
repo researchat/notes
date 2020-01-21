@@ -29,6 +29,6 @@ title: 41. Single is not bad
 - [隠蔽種(cryptic species)](https://www.weblio.jp/content/%E9%9A%A0%E8%94%BD%E7%A8%AE)
 
 ## Editorial notes
-- (soh)
+- 今年もどうぞ宜しくお願いします。染色体にうるさいpodcastです。(soh)
 - (coela)
 - ちょっとやりすぎました (tadasu)
