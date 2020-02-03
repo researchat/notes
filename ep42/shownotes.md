@@ -45,4 +45,7 @@ title: 42. X
 - [自作飛行機の大会](https://business.nikkei.com/atcl/seminar/19/00030/071600037/)
 
 ## Editorial notes
+- (soh)
+- 初代ウルトラマン全話、Amazonで購入しました。(tadasu)
+- (coela)
 
