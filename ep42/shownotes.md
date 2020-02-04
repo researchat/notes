@@ -4,9 +4,9 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/42.mp3
-audio_file_size: XXXX
+audio_file_size: Sixteen samples
 date: 2020-02-04 22:50:00 +0900
-description: フードファイトの攻略、今期の映画・アニメ、作家、フェチについて話しました。
+description: システム漫才、フードファイトの攻略、今期のアニメと映画、作家の思考について話しました。
 duration: "01:XX:XX"
 layout: article
 tags: 
