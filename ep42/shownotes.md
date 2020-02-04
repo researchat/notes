@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/42.mp3
-audio_file_size: Sixteen samples
+audio_file_size: PCR, when you need
 date: 2020-02-04 22:50:00 +0900
 description: システム漫才、フードファイトの攻略、今期のアニメと映画、作家の思考について話しました。
 duration: "01:XX:XX"
@@ -17,6 +17,7 @@ title: 42. X
 ## Show notes
 - [ミルクボーイ](https://www.youtube.com/channel/UCDCHc4fuc8VydqyAgU-1ibA) ... M-1 2019覇者、ミルクボーイの公式YouTubeチャンネル。おすすめはSasuke、デカビタ、滋賀、あやとり、湯葉
 - [PCRの歌]
+- [PCRの歌の歌詞](https://genius.com/Bio-rad-the-pcr-song-lyrics)
 - [梅原大吾・MAX鈴木](https://www.youtube.com/watch?v=KK_QdhsVl8U) ... MAX鈴木とは。梅原さんとMAX鈴木さんの対談。途中、大食いの攻略についてのコメントあり。
 - [ネイサンズホットドッグ](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%A4%E3%82%B5%E3%83%B3%E3%82%BA%E5%9B%BD%E9%9A%9B%E3%83%9B%E3%83%83%E3%83%88%E3%83%89%E3%83%83%E3%82%B0%E6%97%A9%E9%A3%9F%E3%81%84%E9%81%B8%E6%89%8B%E6%A8%A9) .... ネイサンズホットドッグの早食い選手権。アメリカの独立記念日に毎年行われる。速さと量が必要となる。
 - [Usain Bolt is No Takeru Kobayashi](http://freakonomics.com/2009/08/24/usain-bolt-is-no-takeru-kobayashi/) ... 小林尊がなぜすごいのかという評論。
