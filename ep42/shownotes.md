@@ -4,14 +4,14 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/42.mp3
-audio_file_size: PCR, when you need
+audio_file_size: 
 date: 2020-02-04 22:50:00 +0900
 description: システム漫才、フードファイトの攻略、今期のアニメと映画、作家の思考について話しました。
 duration: "01:XX:XX"
 layout: article
 tags: 
   - 雑談
-title: 42. X
+title: 42. PCR, when you need
 ---
 
 ## Show notes
