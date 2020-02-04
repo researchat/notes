@@ -11,7 +11,7 @@ duration: "01:XX:XX"
 layout: article
 tags: 
   - 雑談
-title: 42.
+title: 42. Zett
 ---
 
 ## Show notes
