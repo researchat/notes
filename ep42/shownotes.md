@@ -25,6 +25,7 @@ title: 42. X
 - [Zillow](https://www.zillow.com/) ... アメリカの不動産サイト。価格の推移などが見られる。
 - [Zestimate/Zestimationとは](https://www.zillow.com/zestimate/)
 - [ロトスコープ](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97)
+- [パラサイト]
 - [映像研には手を出すな！](http://eizouken-anime.com/)
 - [鬼滅の刃](https://kimetsu.com/anime/)
 - [ランウェイで笑って](https://runway-anime.com/)
