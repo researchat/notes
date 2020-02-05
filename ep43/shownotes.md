@@ -15,6 +15,9 @@ title: 43. Shoot the Invador
 ---
 - コロナ周り
 - キーボード
+- TRRSケーブル自作キット
+- ホームポジション
+- 無限の可能性
 - ウメハラvsMax鈴木
 
 ## Show notes
