@@ -4,16 +4,18 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/43.mp3
-audio_file_size: 
+audio_file_size: 78375114
 date: 2020-02-06 22:50:00 +0900
 description: 新型ウィルスと論文爆発、データベースの信頼性、無限の可能性があるキーボード、早食いの攻略について話しました。
-duration: "01:XX:XX"
+duration: "01:14:33"
 layout: article
 tags: 
   - 雑談
   - 論文
 title: 43. XXXX
 ---
+
+## Show notes
 - コロナ周り
 - キーボード
 - TRRSケーブル自作キット
@@ -24,8 +26,6 @@ title: 43. XXXX
 - [梅原選手、早食いトレモ](https://www.youtube.com/watch?v=Ykrh1l_Xrq0)
 - [2019 Nathan's Hot Dog Eating Contest by MAX鈴木さん](https://www.youtube.com/watch?v=G12v68U7tgo)
 - [MAX鈴木さんの寿司大食い、かっぱ寿司](https://www.youtube.com/watch?v=wmV-urzRHLY)
-
-## Show notes
 
 ## Editorial notes
 - (soh)
