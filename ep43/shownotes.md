@@ -6,12 +6,13 @@ actor_ids:
 audio_file_path: /audio/43.mp3
 audio_file_size: 
 date: 2020-02-05 22:50:00 +0900
-description: パンデミックと論文爆発、データベースの信頼性、自分のためだけのキーボード、早食いの攻略について話しました。
+description: パンデミックと論文爆発、データベースの信頼性、無限の可能性があるキーボード、早食いの攻略について話しました。
 duration: "01:XX:XX"
 layout: article
 tags: 
   - 雑談
-title: 43. Shoot the Invador
+  - 論文
+title: 43. XXXX
 ---
 - コロナ周り
 - キーボード
