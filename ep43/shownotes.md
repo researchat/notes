@@ -25,5 +25,5 @@ title: 43. Shoot the Invador
 ## Editorial notes
 - (soh)
 - 寿司食べたくなってきた (tadasu)
-- (coela)
+- 最近ファイティングエッジ刃買いました(coela)
 
