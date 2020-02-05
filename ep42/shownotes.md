@@ -11,7 +11,7 @@ duration: "01:03:01"
 layout: article
 tags: 
   - 雑談
-title: 42. Devil Zetto
+title: 42. Zetto
 ---
 
 ## Show notes
