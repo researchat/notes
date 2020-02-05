@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/43.mp3
 audio_file_size: 
 date: 2020-02-05 22:50:00 +0900
-description: パンデミックと論文爆発、データベースの信頼性、無限の可能性があるキーボード、早食いの攻略について話しました。
+description: 新型ウィルスと論文爆発、データベースの信頼性、無限の可能性があるキーボード、早食いの攻略について話しました。
 duration: "01:XX:XX"
 layout: article
 tags: 
@@ -19,7 +19,11 @@ title: 43. XXXX
 - TRRSケーブル自作キット
 - ホームポジション
 - 無限の可能性
-- ウメハラvsMax鈴木
+- [MAX鈴木とは](https://www.youtube.com/watch?v=KK_QdhsVl8U) ... 梅原さん、MAX鈴木さん、こくじんさんの鼎談
+- [ビースト、ビビってる模様です](https://twitter.com/FReeMax1027/status/1222883402509979650) ... 梅原さんの「人間がこれより早く寿司食うとかあんの？」という煽りに対してのツイート
+- [梅原選手、早食いトレモ](https://www.youtube.com/watch?v=Ykrh1l_Xrq0)
+- [2019 Nathan's Hot Dog Eating Contest by MAX鈴木さん](https://www.youtube.com/watch?v=G12v68U7tgo)
+- [MAX鈴木さんの寿司大食い、かっぱ寿司](https://www.youtube.com/watch?v=wmV-urzRHLY)
 
 ## Show notes
 
