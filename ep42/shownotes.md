@@ -47,7 +47,7 @@ title: 42. hogehogehoge
 - [自作飛行機の大会](https://business.nikkei.com/atcl/seminar/19/00030/071600037/)
 
 ## Editorial notes
-- (soh)
+- ぼけてて話したことの記憶がありません...(soh)
 - 初代ウルトラマン全話、Amazonで購入しました。(tadasu)
 - バイオ関連の面白動画についていつか取りあげたい。(coela)
 
