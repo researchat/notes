@@ -4,14 +4,14 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/42.mp3
-audio_file_size: 
+audio_file_size: 66140392
 date: 2020-02-04 22:50:00 +0900
 description: システム漫才、フードファイトの攻略、今期のアニメと映画、作家の思考について話しました。
-duration: "01:XX:XX"
+duration: "01:03:01"
 layout: article
 tags: 
   - 雑談
-title: 42. hogehogehoge
+title: 42. Devil Zetto
 ---
 
 ## Show notes
@@ -26,7 +26,7 @@ title: 42. hogehogehoge
 - [Zillow](https://www.zillow.com/) ... アメリカの不動産サイト。価格の推移などが見られる。
 - [Zestimate/Zestimationとは](https://www.zillow.com/zestimate/)
 - [ロトスコープ](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%88%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97)
-- [パラサイト]
+- [パラサイト](http://www.parasite-mv.jp/)
 - [映像研には手を出すな！](http://eizouken-anime.com/)
 - [鬼滅の刃](https://kimetsu.com/anime/)
 - [ランウェイで笑って](https://runway-anime.com/)
