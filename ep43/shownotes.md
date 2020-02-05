@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/43.mp3
 audio_file_size: 
-date: 2020-02-05 22:50:00 +0900
+date: 2020-02-06 22:50:00 +0900
 description: 新型ウィルスと論文爆発、データベースの信頼性、無限の可能性があるキーボード、早食いの攻略について話しました。
 duration: "01:XX:XX"
 layout: article
