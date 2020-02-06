@@ -28,7 +28,7 @@ title: 44. Tabasheer
 - [フレデリック・ヴィクター・ディキンズ](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%B4%E3%82%A3%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A3%E3%82%AD%E3%83%B3%E3%82%BA)
 - [エドワード・S・モース](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BBS%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B9)
 - [小シーボルト(ハインリヒ・フォン・シーボルト)](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%92%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%9C%E3%83%AB%E3%83%88)
-- [ハインリヒ・エドモント・ナウマン]https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%83%E3%83%92%E3%83%BB%E3%82%A8%E3%83%89%E3%83%A0%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8A%E3%82%A6%E3%83%9E%E3%83%B3)
+- [ハインリヒ・エドモント・ナウマン](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%83%E3%83%92%E3%83%BB%E3%82%A8%E3%83%89%E3%83%A0%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8A%E3%82%A6%E3%83%9E%E3%83%B3)
 - [Mounds of Omori]
 - [The Omori Shell Mounds. Morse, Nature (1880)](https://www.nature.com/articles/021561c0)
 - [Peabody-Essex Museum]()
