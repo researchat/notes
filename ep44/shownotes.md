@@ -19,8 +19,6 @@ title: 44. Tabasheer
 - [Nature: Aphorisms by Goethe. Huxley, Nature (1869)](https://www.nature.com/articles/001009a0) ... 1869/11/04に出版された記念するべきNature第1号の最初の記事(論文)。Thomas Huxleyがゲーテの言葉をドイツ語から英語に訳した。"Nature! We are surrounded and embraced by her—unable to step out of her and unable to penetrate her more deeply."から始まる。この言葉が本当にゲーテのものだったかについては議論がある(後述)。
 - [Nature](https://en.wikipedia.org/wiki/Nature_(Tobler_essay)) ... ゲーテのエッセイをドイツ語から英語に訳しているとされているが、実はオリジナルはGeorg Tobler によるエッセイ。ただ、Toblerがゲーテを訪ねた(ヴァイマル) 1781-1782年に書かれており、ゲーテの言葉をToblerが記述したと考えられている。
 - [The Goethean Fragment "Die Natur" in English Translation. Fullenwider, Comparative Literature Studies (1986)](https://www.jstor.org/stable/40246622?seq=1) ... Nature(独:Die Natur)の翻訳を巡っての解説。
-- [Dir NaturはToblerが書いたエッセイなのか？](http://blogs.nottingham.ac.uk/makingsciencepublic/2019/01/11/natures-first-article-huxley-on-goethe/
-)
 - [アンナ・アマーリア図書館](https://worldheritagesite.xyz/contents/anna-amalia/) ... ゲーテを招聘したザクセン・ヴァイマル公カール・アウグストの母で、夫の急逝後、ワイマール公国の摂政を行なった。ゲーテが図書館長を務めていたこともある。ドイツ初の公共図書館。
 - [杉浦重剛](https://ja.wikipedia.org/wiki/%E6%9D%89%E6%B5%A6%E9%87%8D%E5%89%9B) ... すぎうらじゅうごう・しげたけ。昭和天皇の教育主任を務める。本エピソードの結論としては、杉浦重剛が日本人としては初めてNatureに記事(論文)を載せたということになる。
 - [Pre-historic man in Japan. Dickins, Nature (1880)](https://www.nature.com/articles/021350a0) ... ディキンズがモースの貝塚論文の批判を行なった論文。
@@ -48,12 +46,13 @@ title: 44. Tabasheer
 - [Tabasheer](https://www-nature-com.ezp-prod1.hul.harvard.edu/articles/035396a0) ... 竹を切ったところにできる物質。水、ケイ素、少量のポタシウム(カリウム)と石灰。
 - [Tabasheer. Dyer, Nature (1887)](https://www.nature.com/articles/035396a0) ... 篤太郎より前に投稿されているTabasheerの記事。
 - [南方熊楠](https://ja.wikipedia.org/wiki/%E5%8D%97%E6%96%B9%E7%86%8A%E6%A5%A0) ... 知の巨人。
-- [The Constellations of the Far East. Minakata, Nature (1893)]() ... 極東の星座 1893/10/05
-- [The Grouping of Stars into Constellations. M.A. B. (1893)]() ... 1893/08/17
-- [極東の星座の解説記事]()
-- [三嶋暦師の館]()
-- [天地明察]()
-- [改暦弁]()
+- [The Constellations of the Far East. Minakata, Nature (1893)](https://www.nature.com/articles/048541b0) ... 極東の星座の記事。1893/10/05に発行。
+- [The Grouping of Stars into Constellations. M.A. B, Nature (1893)](https://www.nature.com/articles/048370d0) ... 極東の星座を投稿するきっかけになった論文。
+- [極東の星座の解説記事](http://www.aikis.or.jp/~kumagusu/books/jiten_matsui_ch3.html) ... 松居竜五先生による極東の星座解説記事。
+- [三嶋暦師の館](https://www.city.mishima.shizuoka.jp/kanko_content006484.html)
+- [天地明察](https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%9C%B0%E6%98%8E%E5%AF%9F)
+- [改暦弁](https://ja.wikipedia.org/wiki/%E6%94%B9%E6%9A%A6%E5%BC%81)
+- [猫楠](https://www.amazon.co.jp/dp/B00U24A6D0/)
 
 ## Editorial notes
 - (soh)
