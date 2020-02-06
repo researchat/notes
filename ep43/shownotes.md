@@ -17,10 +17,9 @@ title: 43. XXXX
 
 ## Show notes
 - コロナ周り
-- キーボード
-- TRRSケーブル自作キット
-- ホームポジション
-- 無限の可能性
+- [自作TRRSケーブルキット](https://mobile.twitter.com/yushakobo/status/1085410057053966341) ... 遊舎工房さんの店舗で購入
+- [無限の可能性](https://booth.pm/ja/items/1313334) 
+- アームレイカー ... ガンダムの一部の作品で登場する操縦方法。球型のデバイスに手を置く形でめっちゃかっこいい。
 - [MAX鈴木とは](https://www.youtube.com/watch?v=KK_QdhsVl8U) ... 梅原さん、MAX鈴木さん、こくじんさんの鼎談
 - [ビースト、ビビってる模様です](https://twitter.com/FReeMax1027/status/1222883402509979650) ... 梅原さんの「人間がこれより早く寿司食うとかあんの？」という煽りに対してのツイート
 - [梅原選手、早食いトレモ](https://www.youtube.com/watch?v=Ykrh1l_Xrq0)
@@ -30,5 +29,5 @@ title: 43. XXXX
 ## Editorial notes
 - (soh)
 - 寿司食べたくなってきた (tadasu)
-- 最近ファイティングエッジ刃買いました(coela)
+- あんま関係無いんですけど最近新しいアケコン(ファイティングエッジ刃)買いました(coela)
 
