@@ -19,6 +19,7 @@ title: 43. XXXX
 - コロナ周り
 - [自作TRRSケーブルキット](https://mobile.twitter.com/yushakobo/status/1085410057053966341) ... 遊舎工房さんの店舗で購入
 - [無限の可能性](https://booth.pm/ja/items/1313334) 
+- [How We Type: Movement Strategies and Performance in Everyday Typing](https://userinterfaces.aalto.fi/how-we-type/) ... ホームポジションをDにしている人は結構いるらしい。
 - アームレイカー ... ガンダムの一部の作品で登場する操縦方法。球型のデバイスに手を置く形でめっちゃかっこいい。
 - [MAX鈴木とは](https://www.youtube.com/watch?v=KK_QdhsVl8U) ... 梅原さん、MAX鈴木さん、こくじんさんの鼎談
 - [ビースト、ビビってる模様です](https://twitter.com/FReeMax1027/status/1222883402509979650) ... 梅原さんの「人間がこれより早く寿司食うとかあんの？」という煽りに対してのツイート
