@@ -20,6 +20,7 @@ title: 44. Tabasheer
 - [Nature](https://en.wikipedia.org/wiki/Nature_(Tobler_essay)) ... ゲーテのエッセイをドイツ語から英語に訳しているとされているが、実はオリジナルはGeorg Tobler によるエッセイ。ただ、Toblerがゲーテを訪ねた(ヴァイマル) 1781-1782年に書かれており、ゲーテの言葉をToblerが記述したと考えられている。
 - [The Goethean Fragment "Die Natur" in English Translation. Fullenwider, Comparative Literature Studies (1986)](https://www.jstor.org/stable/40246622?seq=1) ... Nature(独:Die Natur)の翻訳を巡っての解説。
 - [アンナ・アマーリア図書館](https://worldheritagesite.xyz/contents/anna-amalia/) ... ゲーテを招聘したザクセン・ヴァイマル公カール・アウグストの母で、夫の急逝後、ワイマール公国の摂政を行なった。ゲーテが図書館長を務めていたこともある。ドイツ初の公共図書館。
+- [Traces of Early man in Japan. Morse, Nature (1877)](https://www.nature.com/articles/017089a0) ... モースが小シーボルトから発掘件奪うためにNatureに投稿した記事のこと忘れてました。申し訳ありません。1880年の論文と混同しておりました... またモース回があれば話します。この論文がディキンズより前の、日本に関する論文だと思われます。
 - [杉浦重剛](https://ja.wikipedia.org/wiki/%E6%9D%89%E6%B5%A6%E9%87%8D%E5%89%9B) ... すぎうらじゅうごう・しげたけ。昭和天皇の教育主任を務める。本エピソードの結論としては、杉浦重剛が日本人としては初めてNatureに記事(論文)を載せたということになる。
 - [Pre-historic man in Japan. Dickins, Nature (1880)](https://www.nature.com/articles/021350a0) ... ディキンズがモースの貝塚論文の批判を行なった論文。
 - [Prehistoric man in Japan. Sugiura, Nature (1880)](https://www.nature.com/articles/021371a0) ... ディキンズの批判に対して、アイヌ民族が東アジアに住んでいた年代の訂正を投稿。この論文はディキンズの次の週の号に載っており、ロンドンに留学していた杉浦が迅速に対応したことがわかる。
@@ -27,7 +28,7 @@ title: 44. Tabasheer
 - [エドワード・S・モース](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BBS%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B9)
 - [小シーボルト(ハインリヒ・フォン・シーボルト)](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%92%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%9C%E3%83%AB%E3%83%88)
 - [ハインリヒ・エドモント・ナウマン](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%83%E3%83%92%E3%83%BB%E3%82%A8%E3%83%89%E3%83%A0%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8A%E3%82%A6%E3%83%9E%E3%83%B3)
-- [Mounds of Omori]
+- [Shell mounds of Omori. Morse, University of Tokyo (1879)] ... モースが東京大学から出版した日本初の学術論文。大森貝塚について。
 - [The Omori Shell Mounds. Morse, Nature (1880)](https://www.nature.com/articles/021561c0) ... モース自身が投稿したディキンズの批判に対する反論。ちなみにこの論文はダーウィンが推薦している(一つ前の記事はダーウィンによる推薦記事)。
 - [Peabody-Essex Museum](https://www.pem.org/) ... モースがセイラムに帰った後、館長を務めていた。
 - [小藤文次郎](https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%97%A4%E6%96%87%E6%AC%A1%E9%83%8E)
@@ -53,9 +54,10 @@ title: 44. Tabasheer
 - [天地明察](https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%9C%B0%E6%98%8E%E5%AF%9F)
 - [改暦弁](https://ja.wikipedia.org/wiki/%E6%94%B9%E6%9A%A6%E5%BC%81)
 - [猫楠](https://www.amazon.co.jp/dp/B00U24A6D0/)
+- [最初に海外学術雑誌に発表した日本人は誰なのか](http://user.keio.ac.jp/~ueda/papers/journal2011.pdf) ... 慶應義塾大学上田修一先生による解説。この記事によって、杉浦、小藤、関谷の三名の論文を発見することができました。ありがとうございます。
 
 ## Editorial notes
 - (soh)
-- モースが小シーボルトから貝塚の発掘権利を奪うためにNatureに投稿した記事のこと忘れてました、てへぺろ。今度モース回やることがあったらちゃんとまとめます。(tadasu)
+- モースが小シーボルトから貝塚の発掘権利を奪うためにNature(1877)に投稿した記事のこと忘れてました、てへぺろ。今度モース回やることがあったらちゃんとまとめます。(tadasu)
 - "nature calls me"は「トイレに行きたい」という意味らしいのですが、「ねーちゃん氷水」って言えば空耳でネイティブに通じるって昔テレビでやってました。(coela)
 
