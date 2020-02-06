@@ -20,3 +20,7 @@ title: 44. Tabasheer
 
 
 ## Editorial notes
+- (soh)
+- (tadasu)
+- (coela)
+
