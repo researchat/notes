@@ -58,5 +58,5 @@ title: 44. Tabasheer
 ## Editorial notes
 - (soh)
 - (tadasu)
-- (coela)
+- "nature calls me"は「トイレに行きたい」という意味らしいのですが、「ねーちゃん氷水」って言えば空耳でネイティブに通じるって昔テレビでやってました。(coela)
 
