@@ -32,11 +32,11 @@ title: 44. Tabasheer
 - [The Omori Shell Mounds. Morse, Nature (1880)](https://www.nature.com/articles/021561c0) ... モース自身が投稿したディキンズの批判に対する反論。ちなみにこの論文はダーウィンが推薦している(一つ前の記事はダーウィンによる推薦記事)。
 - [Peabody-Essex Museum](https://www.pem.org/) ... モースがセイラムに帰った後、館長を務めていた。
 - [小藤文次郎](https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%97%A4%E6%96%87%E6%AC%A1%E9%83%8E)
-- [Agriculture in Japan. Koto, Nature (1883)][https://www.nature.com/articles/028231a0] ... 小藤文次郎の1883/07/05に公開された、主にリーブシャーの本を紹介した記事。ミュンヘンから投稿された。1883/07/05に発行。
+- [Agriculture in Japan. Koto, Nature (1883)](https://www.nature.com/articles/028231a0) ... 小藤文次郎の1883/07/05に公開された、主にリーブシャーの本を紹介した記事。ミュンヘンから投稿された。1883/07/05に発行。
 - [Georg Liebscher](https://de.wikipedia.org/wiki/Georg_Liebscher) ... 1880年に8ヶ月だけ日本にお雇外国人として滞在。
 - [Japan’s landwirthschaftliche und allgemeinwirthschaftliche Verhltnisse. Liebscher, Jena (1882)](https://archive.org/details/japanslandwirths00lieb/page/n4/mode/2up) ... リーブシャー出版の「日本農業および一般経済事情」
 - [関谷清景](https://ja.wikipedia.org/wiki/%E9%96%A2%E8%B0%B7%E6%B8%85%E6%99%AF) ... 世界初の地震学教授。
-- [New System of Earthquake Observations in Japan. Sekiya, Nature (1886)](https://www.nature.com/articles/033603c0) ... December 28, 1885 の地震を新しい計測システムにより計測した論文。関谷の所属は帝国大学なので日本から投稿されたと思われる。1886/04/29に発行。
+- [New System of Earthquake Observations in Japan. Sekiya, Nature (1886)](https://www.nature.com/articles/033603c0) ... December 28, 1885 の地震を新しい計測システムにより計測した論文。関谷の所属はThe Imperial University of Tokioなので日本から投稿されたと思われる。1886/04/29に発行。
 - [伊藤篤太郎](https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E7%AF%A4%E5%A4%AA%E9%83%8E) ... 初めて植物に学名を与えた日本人。当時の東大教授、矢田部亮吉との間で破門草事件を起こし、表舞台からは遠ざかってしまう。本草学者の伊藤圭介の孫。
 - [伊藤篤太郎―初めて植物に学名を与えた日本人](https://www.amazon.co.jp/%E4%BC%8A%E8%97%A4%E7%AF%A4%E5%A4%AA%E9%83%8E%E2%80%95%E5%88%9D%E3%82%81%E3%81%A6%E6%A4%8D%E7%89%A9%E3%81%AB%E5%AD%A6%E5%90%8D%E3%82%92%E4%B8%8E%E3%81%88%E3%81%9F%E6%97%A5%E6%9C%AC%E4%BA%BA-%E5%B2%A9%E6%B4%A5-%E9%83%BD%E5%B8%8C%E9%9B%84/dp/4896949641) ... 伊藤篤太郎の妹のお孫さんが書いた伊藤篤太郎、および伊藤家に関する本。
 - [伊藤圭介](https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%9C%AD%E4%BB%8B_(%E7%90%86%E5%AD%A6%E5%8D%9A%E5%A3%AB)) ... 本草学者。孫には後継として非常に期待していたことがわかる。
