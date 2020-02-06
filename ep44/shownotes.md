@@ -11,9 +11,12 @@ duration: "01:XX:XX"
 layout: article
 tags: 
   - 雑談
+  - 論文
 title: 44. Tabasheer
 ---
 
 ## Show notes
+- 
+
 
 ## Editorial notes
