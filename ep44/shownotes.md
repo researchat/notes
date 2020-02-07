@@ -34,7 +34,7 @@ title: 44. Tabasheer
 - [小藤文次郎](https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%97%A4%E6%96%87%E6%AC%A1%E9%83%8E)
 - [Agriculture in Japan. Koto, Nature (1883)](https://www.nature.com/articles/028231a0) ... 小藤文次郎の1883/07/05に公開された、主にリーブシャーの本を紹介した記事。ミュンヘンから投稿された。1883/07/05に発行。
 - [Georg Liebscher](https://de.wikipedia.org/wiki/Georg_Liebscher) ... 1880年に8ヶ月だけ日本にお雇外国人として滞在。
-- [Japan’s landwirthschaftliche und allgemeinwirthschaftliche Verhltnisse. Liebscher, Jena (1882)](https://archive.org/details/japanslandwirths00lieb/page/n4/mode/2up) ... リーブシャー出版の「日本農業および一般経済事情」
+- [Japan’s landwirthschaftliche und allgemeinwirthschaftliche Verhltnisse. Liebscher, Jena (1882)](https://archive.org/details/japanslandwirths00lieb/page/n4/mode/2up) ... リーブシャーが出版した「日本農業および一般経済事情」
 - [関谷清景](https://ja.wikipedia.org/wiki/%E9%96%A2%E8%B0%B7%E6%B8%85%E6%99%AF) ... 世界初の地震学教授。
 - [New System of Earthquake Observations in Japan. Sekiya, Nature (1886)](https://www.nature.com/articles/033603c0) ... December 28, 1885 の地震を新しい計測システムにより計測した論文。関谷の所属はThe Imperial University of Tokioなので日本から投稿されたと思われる。1886/04/29に発行。
 - [伊藤篤太郎](https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E7%AF%A4%E5%A4%AA%E9%83%8E) ... 初めて植物に学名を与えた日本人。当時の東大教授、矢田部亮吉との間で破門草事件を起こし、表舞台からは遠ざかってしまう。本草学者の伊藤圭介の孫。
