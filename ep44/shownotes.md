@@ -28,7 +28,7 @@ title: 44. Tabasheer
 - [エドワード・S・モース](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BBS%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B9)
 - [小シーボルト(ハインリヒ・フォン・シーボルト)](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%92%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%9C%E3%83%AB%E3%83%88)
 - [ハインリヒ・エドモント・ナウマン](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%83%E3%83%92%E3%83%BB%E3%82%A8%E3%83%89%E3%83%A0%E3%83%B3%E3%83%88%E3%83%BB%E3%83%8A%E3%82%A6%E3%83%9E%E3%83%B3)
-- [Shell mounds of Omori. Morse, University of Tokyo (1879)] ... モースが東京大学から出版した日本初の学術論文。大森貝塚について。
+- Shell mounds of Omori. Morse, University of Tokyo (1879) ... モースが東京大学から出版した日本初の学術論文。大森貝塚について。
 - [The Omori Shell Mounds. Morse, Nature (1880)](https://www.nature.com/articles/021561c0) ... モース自身が投稿したディキンズの批判に対する反論。ちなみにこの論文はダーウィンが推薦している(一つ前の記事はダーウィンによる推薦記事)。
 - [Peabody-Essex Museum](https://www.pem.org/) ... モースがセイラムに帰った後、館長を務めていた。
 - [小藤文次郎](https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%97%A4%E6%96%87%E6%AC%A1%E9%83%8E)
