@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/43.mp3
 audio_file_size: 78375114
 date: 2020-02-06 22:50:00 +0900
-description: 新型ウィルスと論文爆発、データベースの信頼性、無限の可能性があるキーボード、早食いの攻略について話しました。
+description: 新型コロナウィルスに関連する論文の盛り上がり、生物学を支えるデータベースの信頼性、無限の可能性があるキーボード、早食いの攻略について話しました。
 duration: "01:14:33"
 layout: article
 tags: 
@@ -16,13 +16,13 @@ title: 43. XXXX
 ---
 
 ## Show notes
-- コロナ周り
-- [自作TRRSケーブルキット](https://mobile.twitter.com/yushakobo/status/1085410057053966341) ... 遊舎工房さんの店舗で購入
+- [Uncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag](https://www.biorxiv.org/content/10.1101/2020.01.30.927871v1)...解析方法におおくの疑義が短時間で投げかけられ、収録の翌日、この論文はbioRxiv上で撤回された。元のリンクから100件近いコメントが見れる。https://www.biorxiv.org/content/10.1101/2020.01.30.927871v1#disqus_thread
+- [自作TRRSケーブルキット](https://mobile.twitter.com/yushakobo/status/1085410057053966341)...遊舎工房さんの店舗で購入
 - [無限の可能性](https://booth.pm/ja/items/1313334) 
-- [How We Type: Movement Strategies and Performance in Everyday Typing](https://userinterfaces.aalto.fi/how-we-type/) ... ホームポジションをDにしている人は結構いるらしい。
+- [How We Type: Movement Strategies and Performance in Everyday Typing](https://userinterfaces.aalto.fi/how-we-type/)...ホームポジションをDにしている人は結構いるらしい。
 - アームレイカー ... ガンダムの一部の作品で登場する操縦方法。球型のデバイスに手を置く形でMSを操縦する。
-- [MAX鈴木とは](https://www.youtube.com/watch?v=KK_QdhsVl8U) ... 梅原さん、MAX鈴木さん、こくじんさんの鼎談
-- [ビースト、ビビってる模様です](https://twitter.com/FReeMax1027/status/1222883402509979650) ... 梅原さんの「人間がこれより早く寿司食うとかあんの？」という煽りに対してのツイート
+- [MAX鈴木とは](https://www.youtube.com/watch?v=KK_QdhsVl8U)...梅原さん、MAX鈴木さん、こくじんさんの鼎談
+- [ビースト、ビビってる模様です](https://twitter.com/FReeMax1027/status/1222883402509979650)...梅原さんの「人間がこれより早く寿司食うとかあんの？」という煽りに対してのツイート
 - [梅原選手、早食いトレモ](https://www.youtube.com/watch?v=Ykrh1l_Xrq0)
 - [2019 Nathan's Hot Dog Eating Contest by MAX鈴木さん](https://www.youtube.com/watch?v=G12v68U7tgo)
 - [MAX鈴木さんの寿司大食い、かっぱ寿司](https://www.youtube.com/watch?v=wmV-urzRHLY)
