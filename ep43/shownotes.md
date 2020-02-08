@@ -12,7 +12,7 @@ layout: article
 tags: 
   - 雑談
   - 論文
-title: 43. XXXX
+title: 43. D minor
 ---
 
 ## Show notes
