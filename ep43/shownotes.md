@@ -12,7 +12,7 @@ layout: article
 tags: 
   - 雑談
   - 論文
-title: 43. 632146Px2
+title: 43. Shoot the invaders
 ---
 
 ## Show notes
