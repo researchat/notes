@@ -28,7 +28,7 @@ title: 43. 632146Px2
 - [MAX鈴木さんの寿司大食い、かっぱ寿司](https://www.youtube.com/watch?v=wmV-urzRHLY)
 
 ## Editorial notes
-- (soh)
+- ウィルスの話からデータの再現性などの話ができてよかったです(soh)
 - 寿司食べたくなってきた (tadasu)
 - あんま関係無いんですけど最近新しいアケコン(ファイティングエッジ刃)買いました(coela)
 
