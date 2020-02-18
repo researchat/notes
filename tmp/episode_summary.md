@@ -1,15 +1,15 @@
 - 研究雑談エピソード: 研究者にまつわる話や、研究イベント、サイエンスをもっと知りたくなるようなエピソードが多めの回
-  - [1](https://researchat.fm/episode/1), [8](researchat.fm/episode/8), [12](researchat.fm/episode/1), [13](researchat.fm/episode/13), [17](researchat.fm/episode/17), [18](researchat.fm/episode/18), [21](researchat.fm/episode/21), [25](researchat.fm/episode/25), [38](researchat.fm/episode/38), [43](researchat.fm/episode/43)
+  - [1](https://researchat.fm/episode/1), [8](https://researchat.fm/episode/8), [12](https://researchat.fm/episode/1), [13](https://researchat.fm/episode/13), [17](https://researchat.fm/episode/17), [18](https://researchat.fm/episode/18), [21](https://researchat.fm/episode/21), [25](https://researchat.fm/episode/25), [38](https://researchat.fm/episode/38), [43](https://researchat.fm/episode/43)
 - 日常フリートーク: 日頃気になっているサイエンス以外のネタを中心に話したエピソードが多めの回
-  - [3](researchat.fm/episode/3), [4](researchat.fm/episode/4), [5](researchat.fm/episode/5), [6](researchat.fm/episode/6),  [10](researchat.fm/episode/10), [15](researchat.fm/episode/15),  [20](researchat.fm/episode/20),  [23](researchat.fm/episode/23),  [27](researchat.fm/episode/27), [28](researchat.fm/episode/28), [29](researchat.fm/episode/29), [30](researchat.fm/episode/30), [32](researchat.fm/episode/32), [33](researchat.fm/episode/33), [34](researchat.fm/episode/34), [37](researchat.fm/episode/37),  [39](researchat.fm/episode/39), [40](researchat.fm/episode/40), [42](researchat.fm/episode/42), 
+  - [3](https://researchat.fm/episode/3), [4](https://researchat.fm/episode/4), [5](https://researchat.fm/episode/5), [6](https://researchat.fm/episode/6),  [10](https://researchat.fm/episode/10), [15](https://researchat.fm/episode/15),  [20](https://researchat.fm/episode/20),  [23](https://researchat.fm/episode/23),  [27](https://researchat.fm/episode/27), [28](https://researchat.fm/episode/28), [29](https://researchat.fm/episode/29), [30](https://researchat.fm/episode/30), [32](https://researchat.fm/episode/32), [33](https://researchat.fm/episode/33), [34](https://researchat.fm/episode/34), [37](https://researchat.fm/episode/37),  [39](https://researchat.fm/episode/39), [40](https://researchat.fm/episode/40), [42](https://researchat.fm/episode/42), 
 - 分子生物学入門: 分子生物学の入門を想定して作成されたエピソード
-  - [38](researchat.fm/episode/38)
+  - [38](https://researchat.fm/episode/38)
 - ガチ研究回: 研究成分多め。分子生物学の知識がなくてもある程度楽しめる(ことを期待した)エピソード
-  - [11](researchat.fm/episode/11), [14](researchat.fm/episode/14), [19](researchat.fm/episode/19), [44](researchat.fm/episode/44)
+  - [11](https://researchat.fm/episode/11), [14](https://researchat.fm/episode/14), [19](https://researchat.fm/episode/19), [44](https://researchat.fm/episode/44)
 - スーパーガチ回: 学部生レベルの分子生物学の知識が要求されるエピソード
-  - [2](researchat.fm/episode/2), [7](researchat.fm/episode/7), [9](researchat.fm/episode/9), [22](researchat.fm/episode/22), [24](researchat.fm/episode/24)
+  - [2](https://researchat.fm/episode/2), [7](https://researchat.fm/episode/7), [9](https://researchat.fm/episode/9), [22](https://researchat.fm/episode/22), [24](https://researchat.fm/episode/24)
 - ウルトラガチ回: 大学院生、もしくはそれ以上の知識が要求されるエピソード
-  - [16](researchat.fm/episode/16), [26](researchat.fm/episode/26), [31](researchat.fm/episode/31), [35](researchat.fm/episode/35), [36](researchat.fm/episode/36), [41](researchat.fm/episode/41)
+  - [16](https://researchat.fm/episode/16), [26](https://researchat.fm/episode/26), [31](https://researchat.fm/episode/31), [35](https://researchat.fm/episode/35), [36](https://researchat.fm/episode/36), [41](https://researchat.fm/episode/41)
 
 - ep1: ゴミ屋敷とドラゴンボールとザリガニ
   - ゴミ屋敷とタブを600個ブラウザで開く男(強迫的ホーディング)
