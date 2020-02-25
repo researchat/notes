@@ -37,10 +37,8 @@ title: 45. hogehogehoge
 - [江戸川乱歩](https://ja.wikipedia.org/wiki/%E6%B1%9F%E6%88%B8%E5%B7%9D%E4%B9%B1%E6%AD%A9)
 - [ウゴウゴルーガ](http://www.ugougo.cc/)
 - [センジュナマコ](http://karapaia.com/archives/52167973.html)
-- ジュゴンとsea pig
-- はわいあんてーる　sea pig
-- スペイン　sea pig
-- mere swine
+- [Hawaiian flagtail](https://en.wikipedia.org/wiki/Hawaiian_flagtail)
+- [mere swine](https://en.wiktionary.org/wiki/mereswine)
 - [ゲルマン祖語](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E7%A5%96%E8%AA%9E)
 - [ネズミイルカ](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%BA%E3%83%9F%E3%82%A4%E3%83%AB%E3%82%AB)
 - [キリン](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%B3)
