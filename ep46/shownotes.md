@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/46.mp3
 audio_file_size: 
 date: 2020-02-25 22:50:00 +0900
-description: 昔はPCRオイルというのがあったらしいという話から、自作試薬やプロトコル、培養細胞と人権、おすすめ動画について話しました。
+description: 昔はPCRオイルというものがあったらしいというお便りから、自作試薬やプロトコル、培養細胞と人権、おすすめ動画について話しました。
 duration: "00:XX:XX"
 layout: article
 tags: 
