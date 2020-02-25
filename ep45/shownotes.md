@@ -3,14 +3,14 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/45.mp3
-audio_file_size: 
-date: 2020-02-25 22:50:00 +0900
-description: 
-duration: "0X:XX:XX"
+audio_file_size: 69411131
+date: 2020-02-26 20:50:00 +0900
+description: ワンボタンラブ、親指シフト、煽り文化、鬼瓦とゴルゴネイオン、バトル・ロワイアルのオレ設定、江戸時代の厨二病、イルカとセンジュナマコ、キリンと染色体、Web漫画カレンダー、学会の質疑応答について話しました。
+duration: "01:31:07"
 layout: article
 tags: 
   - 雑談
-title: 45. hogehogehoge
+title: 45. The ATGC Murders
 ---
 
 ## Show notes
