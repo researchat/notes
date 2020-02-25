@@ -22,8 +22,9 @@ title: 47.
 - [CRISPR-Cas12a target binding unleashes indiscriminate single-stranded DNase activity. Science 2018](https://www.ncbi.nlm.nih.gov/pubmed/29449511)...DoudnaらのチームもDETECTORという類似の技術を開発し、Mammoth Biosciencesというベンチャーを立ち上げた。こちらも大型の資金調達 (4,500万ドル, 49億円)に成功しており、競争は激化しており大きな市場が見込まれている。
 - [Mammoth Biosciences](https://mammoth.bio/)
 - [遺伝子編集ツール開発のMammoth Biosciencesが約49億円調達 (TechCrunch)](https://jp.techcrunch.com/2020/02/02/2020-01-30-mammoth-biosciences-aims-to-be-illumina-for-the-gene-editing-generation/)
-- [A protocol for detection of COVID-19 using CRISPR diagnostics](https://www.broadinstitute.org/files/publications/special/COVID-19%20detection%20(updated).pdf)...SHERLOCKによるコロナウイルスの検出のためのプロトコル
-
-
+- [A protocol for detection of COVID-19 using CRISPR diagnostics](https://www.broadinstitute.org/files/publications/special/COVID-19%20detection%20(updated).pdf)...SHERLOCKによるコロナウイルスの検出のためのプロトコルが開発チームらによって公開された。まだFDAの認可はおりていない。
 
 ## Editorial notes
+- 簡便なウィルスなど核酸の検出kitの開発は想像以上に競争が激化しており、大きな盛り上がりを感じる (Soh)
+- Tadasu
+- Coela
