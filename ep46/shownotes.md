@@ -15,13 +15,13 @@ title: 46. hogehogehoge
 ---
 
 ## Show notes
-- PCR
-- Researchat.fm episode 24
-- [gel purification](https://twitter.com/mb_bucherlab/status/1230922778372714496)
+- [PCR](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%A1%E3%83%A9%E3%83%BC%E3%82%BC%E9%80%A3%E9%8E%96%E5%8F%8D%E5%BF%9C)
+- [Researchat.fm episode 24](https://researchat.fm/episode/24) ... PCRの発明者、Karry Mullisを追悼して、初期プロトコルからPCRを用いた特殊実験について話しています。
+- [gel purification](https://twitter.com/mb_bucherlab/status/1230922778372714496) ... 切り出したゲルをフィルターペーパーの上に乗せて遠心するとDNA抽出できるらしい...
 - ギブソンアッセンブリー
-- バンバンカー
-- HeLa細胞
-- HeLa細胞の元論
+- [バンバンカー](https://www.n-genetics.com/products/search/detail.html?product_id=2966) ... 細胞凍結用培地
+- [HeLa細胞](https://ja.wikipedia.org/wiki/HeLa%E7%B4%B0%E8%83%9E)
+- [Scherer et al. J Exp Med. (1953)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2136303/) ... HeLa細胞のオリジナル論文
 - Ford vs Ferrari
 - フォーミュラ１栄光のグランプリ
 - [Gのレコンギスタ]
