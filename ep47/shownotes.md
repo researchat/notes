@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/47.mp3
-audio_file_size: 
+audio_file_size: 53863495 
 date: 2020-02-25 22:50:00 +0900
 description: Cas13を用いて微量の核酸を高精度に検出できるSHERLOCKという技術について原著論文を紹介しました。
-duration: "0X:XX:XX"
+duration: "00:50:47"
 layout: article
 tags: 
   - 論文
