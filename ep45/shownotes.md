@@ -28,7 +28,7 @@ title: 45. The ATGC Murders
 - [パルミラ](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%83%9F%E3%83%A9)
 - 鬼師　...  医師、弁護士、鬼師
 - [バトル・ロワイアル](https://www.amazon.co.jp/%E3%83%90%E3%83%88%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%AF%E3%82%A4%E3%82%A2%E3%83%AB-DVD-%E8%97%A4%E5%8E%9F%E7%AB%9C%E4%B9%9F/dp/B00005LPFK)
-- 中二病と厨二病
+- [中二病と厨二病](https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%8C%E7%97%85)
 - [へうげもの](https://www.amazon.co.jp/dp/B009KYBZPG/)
 - [森博嗣](https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%8D%9A%E5%97%A3)
 - Vシリーズ
