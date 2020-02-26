@@ -11,25 +11,25 @@ duration: "00:32:34"
 layout: article
 tags: 
   - 雑談
-title: 46. hogehogehoge
+title: 46. It's in the catalogue!
 ---
 
 ## Show notes
-- [PCR](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%A1%E3%83%A9%E3%83%BC%E3%82%BC%E9%80%A3%E9%8E%96%E5%8F%8D%E5%BF%9C)
-- [Researchat.fm episode 24](https://researchat.fm/episode/24) ... PCRの発明者、Karry Mullisを追悼して、初期プロトコルからPCRを用いた特殊実験について話しています。
-- [gel purification](https://twitter.com/mb_bucherlab/status/1230922778372714496) ... 切り出したゲルをフィルターペーパーの上に乗せて遠心するとDNA抽出できるらしい...
-- ギブソンアッセンブリー
-- [バンバンカー](https://www.n-genetics.com/products/search/detail.html?product_id=2966) ... 細胞凍結用培地
+- [PCR増幅法 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%A1%E3%83%A9%E3%83%BC%E3%82%BC%E9%80%A3%E9%8E%96%E5%8F%8D%E5%BF%9C)
+- [Researchat.fm episode 24](https://researchat.fm/episode/24)...PCRの発明者、Karry Mullisを追悼して、初期プロトコルからPCRを用いた特殊実験について話しています。興味があればぜひ。
+- [Gel purification](https://twitter.com/mb_bucherlab/status/1230922778372714496)...切り出したゲルをフィルターペーパーの上に乗せて遠心するとDNA抽出できるらしい...
+- [Gibson Assembly](https://www.nebj.jp/products/detail/1238)
+- [Qiagen Buffers](https://openwetware.org/wiki/Qiagen_Buffers)...Quiagenのバッファーはこのように中身がオープンになっている。
+- [バンバンカー](https://www.n-genetics.com/products/search/detail.html?product_id=2966)...細胞凍結用培地。これを使うと-80cや液体窒素の中でヒトの細胞などを長期間にわたり保存することができる。
 - [HeLa細胞](https://ja.wikipedia.org/wiki/HeLa%E7%B4%B0%E8%83%9E)
-- [Scherer et al. J Exp Med. (1953)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2136303/) ... HeLa細胞のオリジナル論文
-- Ford vs Ferrari
-- フォーミュラ１栄光のグランプリ
-- [Gのレコンギスタ]
-- 劇場版シロバコ
-- Ms Americana
-
+- [Scherer et al. J Exp Med. (1953)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2136303/)...HeLa細胞のオリジナル論文
+- [フォード vs フェラーリ (映画)](http://www.foxmovies-jp.com/fordvsferrari/)
+- [フォーミュラ１栄光のグランプリ (Netflix)](https://www.netflix.com/jp/title/80204890)
+- [Gのレコンギスタ](http://www.g-reco.net/)
+- [劇場版「SHIROBAKO」](http://shirobako-movie.com/)
+- [Miss Americana (Netflix)](https://www.netflix.com/jp/title/81028336)...テイラー・スウィフトを追ったドキュメンタリー映画。
 
 ## Editorial notes
-- (soh)
+- お便りありがとうございました、意外に話が弾んでしまった (soh)
 - 色々な作業を手作業でやっている我々も30年後ぐらいには懐古厨とか言われるのだろうな (tadasu)
 - (coela)
