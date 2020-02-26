@@ -16,6 +16,7 @@ title: 46. It's in the catalogue!
 
 ## Show notes
 - [PCR増幅法 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%A1%E3%83%A9%E3%83%BC%E3%82%BC%E9%80%A3%E9%8E%96%E5%8F%8D%E5%BF%9C)
+- [サーマルサイクラー概要—歴史と発展](https://www.thermofisher.com/jp/ja/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/pcr-education/pcr-thermal-cyclers/pcr-thermal-cyclers-overview.html) ... ThermoFisherのPCR概要。オイル、加熱蓋（head lid）について言及あり。
 - [Researchat.fm episode 24](https://researchat.fm/episode/24)...PCRの発明者、Karry Mullisを追悼して、初期プロトコルからPCRを用いた特殊実験について話しています。興味があればぜひ。
 - [Gel purification](https://twitter.com/mb_bucherlab/status/1230922778372714496)...切り出したゲルをフィルターペーパーの上に乗せて遠心するとDNA抽出できるらしい...
 - [Gibson Assembly](https://www.nebj.jp/products/detail/1238)
@@ -32,4 +33,4 @@ title: 46. It's in the catalogue!
 ## Editorial notes
 - お便りありがとうございました、意外に話が弾んでしまった (soh)
 - 色々な作業を手作業でやっている我々も30年後ぐらいには懐古厨とか言われるのだろうな (tadasu)
-- (coela)
+- おたよりめっちゃ励みになります！head lid以前のPCR経験はありませんでした…(coela)
