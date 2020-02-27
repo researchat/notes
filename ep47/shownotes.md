@@ -5,8 +5,8 @@ actor_ids:
   - coela
 audio_file_path: /audio/47.mp3
 audio_file_size: 53863495 
-date: 2020-02-25 22:50:00 +0900
-description: Cas13を用いて微量の核酸を高精度に検出できるSHERLOCKという技術について原著論文を紹介しました。
+date: 2020-02-27 22:14:00 +0900
+description: コロナウィルスの広がりで注目を集めているCas13を用いた簡便かつ高感度の核酸検出法であるSHERLOCKという技術について原著論文を紹介しました。
 duration: "00:50:47"
 layout: article
 tags: 
