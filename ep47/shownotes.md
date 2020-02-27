@@ -17,7 +17,7 @@ title: 47. Unlocking the power
 
 ## Show notes
 - Specific High-sensitivity Enzymatic Reporter unLOCKing...これがSHERLOCKの略！
-- [Nucleic acid detection with CRISPR-Cas13a/C2c2. Science 2017.](https://www.ncbi.nlm.nih.gov/pubmed/28408723)...SHERLOCKのオリジナル論文。Cas13のもつ無差別なRNA分解活性 (collateral activity)と蛍光プローブを利用することで、ウィルスなど様々な核酸分子の検出を簡便に行う技術の扉を開いた。
+- [Nucleic acid detection with CRISPR-Cas13a/C2c2. Science 2017.](https://www.ncbi.nlm.nih.gov/pubmed/28408723)...SHERLOCKのオリジナル論文。Cas13のもつ無差別なRNA分解活性 (collateral activity)と蛍光プローブを利用することで、ウィルスなど様々な核酸分子の検出を簡便に行う技術の扉を開いた。無料で論文の全文が読めます。
 - [Multiplexed and portable nucleic acid detection platform with Cas13, Cas12a, and Csm6. Science 2018](https://www.ncbi.nlm.nih.gov/pubmed/29449508)...複数のCas13オーソログと蛍光プローブを組み合わせたSHERLOCK v2により、感度が向上したほか、複数の標的を一度に検出できるようになった。
 - [Sherlock Biosciences](https://sherlock.bio/)...Feng Zhangなど開発者たちはベンチャーを立ち上げSHERLOCKの技術開発、とくに医療応用を目指している。また昨年、大型の資金調達にも成功している (3,500万ドル, 38億円)。
 - [CRISPR-Cas12a target binding unleashes indiscriminate single-stranded DNase activity. Science 2018](https://www.ncbi.nlm.nih.gov/pubmed/29449511)...Jennifer DoudnaらのチームもDETECTRという類似の技術を開発し、Mammoth Biosciencesというベンチャーを立ち上げた。こちらも大型の資金調達 (4,500万ドル, 49億円)に成功しており、競争は激化しており大きな市場が見込まれている。
