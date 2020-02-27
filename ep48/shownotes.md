@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/48.mp3
 audio_file_size: 
-date: 2020-03-22 22:50:00 +0900
+date: 2020-03-02 22:50:00 +0900
 description: 生物における多様な性決定システムと性染色体について話しました。
 duration: "0X:XX:XX"
 layout: article
