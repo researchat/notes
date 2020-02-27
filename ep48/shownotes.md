@@ -22,9 +22,9 @@ title: 48. XXXXXYYYYY
 - homogamety ... 同型配偶子性。XXやZZのような性染色体がホモな状態の配偶子をさす。
 - XX型/XY型 ... 雌がホモ(同型)、雄がヘテロ(異型)な場合の性染色体の名前のつけかた。 (例)ヒト、マウスなど
 - ZZ型/ZW型 ... 雄がホモ(同型)、雌がヘテロ(異型)な場合の性染色体の名前のつけかた。(例)チキンなど
-- [XO型] ... 雌がXX、雄がXOという性染色体を持つ場合を指す。Oはこの場合Y染色体が存在しないことを指す。バッタやアマミトゲネズミなどでみられる。
+- XO型 ... 雌がXX、雄がXOという性染色体を持つ場合を指す。Oはこの場合Y染色体が存在しないことを指す。バッタやアマミトゲネズミなどでみられる。
 - [アマミトゲネズミ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%9F%E3%83%88%E3%82%B2%E3%83%8D%E3%82%BA%E3%83%9F) ... 日本の固有種。哺乳類でありながらXO型の染色体を持ち、Sryを持たない。
-- [黒岩真麻](https://sites.google.com/site/kuroiwagroup/)
+- [黒岩真麻](https://sites.google.com/site/kuroiwagroup/) ... アマミトゲネズミなどにおける性決定システムの研究者
 - [Bachtrog et al. PLoS Biology (2014)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001899) ... 性決定に関する網羅的なレビュー。
 - [性](https://ja.wikipedia.org/wiki/%E6%80%A7_(%E7%94%9F%E7%89%A9%E5%AD%A6)) ... 生物における性、セックスについて
 - [雌雄同体/同株](https://ja.wikipedia.org/wiki/%E9%9B%8C%E9%9B%84%E5%90%8C%E4%BD%93)
