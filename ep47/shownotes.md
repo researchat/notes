@@ -12,7 +12,7 @@ layout: article
 tags: 
   - 論文
   - Cas13
-title: 47. Unlocking the power of Cas13
+title: 47. Unlocking the power
 ---
 
 ## Show notes
