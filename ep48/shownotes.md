@@ -22,37 +22,37 @@ title: 48. XXXXXYYYYY
 - homogamety ... 同型配偶子性。XXやZZのような性染色体がホモな状態の配偶子をさす。
 - XX型/XY型 ... 雌がホモ(同型)、雄がヘテロ(異型)な場合の性染色体の名前のつけかた。 (例)ヒト、マウスなど
 - ZZ型/ZW型 ... 雄がホモ(同型)、雌がヘテロ(異型)な場合の性染色体の名前のつけかた。(例)チキンなど
-- XO型 ... 雌がXX、雄がXOという性染色体を持つ場合を指す。Oはこの場合Y染色体が存在しないことを指す。バッタやアマミトゲネズミなどでみられる。
+- XX型/XO型 ... 雌がXX、雄がXOという性染色体を持つ場合を指す。Oはこの場合Y染色体が存在しないことを指す。バッタやアマミトゲネズミなどでみられる。
 - [アマミトゲネズミ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%83%9F%E3%83%88%E3%82%B2%E3%83%8D%E3%82%BA%E3%83%9F) ... 日本の固有種。哺乳類でありながらXO型の染色体を持ち、Sryを持たない。
 - [黒岩真麻](https://sites.google.com/site/kuroiwagroup/) ... アマミトゲネズミなどにおける性決定システムの研究者
 - [Bachtrog et al. PLoS Biology (2014)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001899) ... 性決定に関する網羅的なレビュー。
 - [性](https://ja.wikipedia.org/wiki/%E6%80%A7_(%E7%94%9F%E7%89%A9%E5%AD%A6)) ... 生物における性、セックスについて
 - [雌雄同体/同株](https://ja.wikipedia.org/wiki/%E9%9B%8C%E9%9B%84%E5%90%8C%E4%BD%93)
-- [アメフラシ]
-- [ミシシッピワニと温度依存の性決定システム](https://www.nibb.ac.jp/press/2015/12/24.html)
-- [ボネリムシ]
-- [生きものの記録艶説]
-- [半倍数性]
-- [セイヨウミツバチ]
-- [体細胞分裂]
-- [減数分裂]
-- [対立遺伝子(アレル)]
-- [二倍体のオスのハチ]
-- [U/V染色体]
-- [ヴォルバキア]
-- [エルフェンリート]
-- [岡本倫]
-- [ノノノノ]
-- [オートガミー]
-- [ゾウリムシ]
-- [性の源をさぐる]
-- [ペドガミー]
-- [太陽虫]
-- [大核]
-- [有糸分裂(mitosis)]
-- [無糸分裂(amitosis)]
-- [スチロニキア]
-- [トゲツメミズケムシ]
+- [アメフラシの交尾](http://sunobeken.blog.fc2.com/blog-entry-12.html) ... "アメフラシは雌雄同体で前が雌役、後ろが雄役。数個体か集まると連なるように交尾をします。"
+- [Yatsu et al. Scientific Reports (2016)](https://www.nature.com/articles/srep18581) ... ミシシッピワニと温度依存の性決定システムについて。温度依存性チャネルとイオンシグナル
+- [ボネリムシ](http://www.ii-okinawa.ne.jp/people/croissan/nanjakorya/bonerimusi.html)
+- [生きものの記録艶説](https://dl.ndl.go.jp/info:ndljp/pid/2934785)
+- [半倍数性](https://ja.wikipedia.org/wiki/%E5%8D%8A%E5%80%8D%E6%95%B0%E6%80%A7)
+- [半倍数性の機構](https://www.jstage.jst.go.jp/article/nl2001jsce/2003/111/2003_111_111_31/_pdf/-char/ja) ... 相補モデル、バランスモデル、インプリンティングモデルについて
+- [体細胞分裂](https://ja.wikipedia.org/wiki/%E4%BD%93%E7%B4%B0%E8%83%9E%E5%88%86%E8%A3%82) ... 真核生物において、一個の細胞から二個の細胞が生み出される現象。染色体の倍数性は維持される。
+- [減数分裂](https://ja.wikipedia.org/wiki/%E6%B8%9B%E6%95%B0%E5%88%86%E8%A3%82) ... 真核生物において、一個の細胞から四個の細胞が生み出される現象。最終的に産出される細胞の染色体の倍数性は半分になる。
+- [対立遺伝子(アレル)](https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%AB%8B%E9%81%BA%E4%BC%9D%E5%AD%90)
+- [UV染色体](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6128410/) ... コケ類など、一倍体の期間(配偶体期)において、性染色体により雌雄が決定される生物に用いられる命名方法。日本ではXY染色体と言われることが多い。U染色体を持つのが雌性、V染色体を持つのが雄性となる。
+- [ヴォルバキア](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%AB%E3%83%90%E3%82%AD%E3%82%A2)
+- [エルフェンリート](https://www.amazon.co.jp/dp/B00ECT85R0/)
+- [岡本倫](https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E5%80%AB)
+- [ノノノノ](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%8E%E3%83%8E%E3%83%8E)
+- [パラレルパラダイス](https://yanmaga.jp/c/parapara/)
+- オートガミー
+- [ゾウリムシ](https://ja.wikipedia.org/wiki/%E3%82%BE%E3%82%A6%E3%83%AA%E3%83%A0%E3%82%B7)
+- [性の源をさぐる](https://www.amazon.co.jp/%E6%80%A7%E3%81%AE%E6%BA%90%E3%82%92%E3%81%95%E3%81%90%E3%82%8B-%E5%B2%A9%E6%B3%A2%E6%96%B0%E6%9B%B8-%E6%A8%8B%E6%B8%A1-%E5%AE%8F%E4%B8%80/dp/4004203457)
+- ペドガミー
+- [太陽虫](https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%99%BD%E8%99%AB)
+- [有糸分裂(mitosis)](https://ja.wikipedia.org/wiki/%E6%9C%89%E7%B3%B8%E5%88%86%E8%A3%82) ...  一般的な真核生物における分裂様式
+- [無糸分裂(amitosis)](https://www.weblio.jp/content/%E7%84%A1%E7%B3%B8%E5%88%86%E8%A3%82) ... ゾウリムシやテトラヒメナなどの原生生物の大核において見られる分裂様式
+- [スティロニキア](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%AD%E3%83%8B%E3%82%AD%E3%82%A2)
+- [トゲツメミズケムシ](https://www.edu-ctr.pref.kanagawa.jp/kyouka/seibutu/micro/parts/10.html)
+- スティロニキアの論文
 - [スイバXY1Y2]
 - [カゲロウX1X2 Y]
 - [新世界ザル]
