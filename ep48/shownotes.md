@@ -65,6 +65,10 @@ title: 48. XXXXXYYYYY
 - [Grützner et al. Nature (2004)](https://www.nature.com/articles/nature03021) ... DOP-PCRを基にしたFISHを行うことでカモノハシの性染色体を調べた論文
 - [DMRT1](https://ghr.nlm.nih.gov/gene/DMRT1) ... 性決定遺伝子の一つ
 - [キアズマ](https://www.weblio.jp/content/%E3%82%AD%E3%82%A2%E3%82%BA%E3%83%9E)
+- [Robertsonian translocation](https://en.wikipedia.org/wiki/Robertsonian_translocation)
+- [甲虫]
+- [シロアリ]
+- [オオマツヨイグサ]
 - [PAR(pseudoautosomal region)](https://en.wikipedia.org/wiki/Pseudoautosomal_region) ... X染色体とY染色体の相同な領域。同一の染色体に由来しているという名残。
 - [dosage compensation (遺伝子量補償)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8F%E8%A3%9C%E5%84%9F)
 - [Barr and Bertram Nature (1949)](https://www.nature.com/articles/163676a0) ... バー小体を猫のニューロンで観察した論文
@@ -73,14 +77,13 @@ title: 48. XXXXXYYYYY
 - [Lyon Nature (1961)](https://www.nature.com/articles/190372a0) ... X染色体の不活性化についてのモデル
 - [X染色体の不活性化](https://ja.wikipedia.org/wiki/X%E6%9F%93%E8%89%B2%E4%BD%93%E3%81%AE%E4%B8%8D%E6%B4%BB%E6%80%A7%E5%8C%96)
 - [エピジェネティクス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9) ... 定義は確定しておらずふらついているため、いつか専門家を集めて討論したい。
-- [クラインフェルター症候群]https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4)
+- [クラインフェルター症候群](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4)
 - [CCL-28](https://www.atcc.org/Products/All/CCL-28.aspx) ... クラインフェルター症候群の患者から採取された培養細胞。XXXXYの染色体を持つため、Xの不活性化を調べるためによく使われる。
 - [三毛猫](https://ja.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B%E7%8C%AB)
 - [駒井卓](https://ja.wikipedia.org/wiki/%E9%A7%92%E4%BA%95%E5%8D%93)
 - [Komai 北海道大學理學部紀要 (1957)](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/27237/1/13(1_4)_P253-258.pdf) ... 配信では少し言い間違えたが、オスの三毛猫が存在することのモデルを考えた論文。オスの三毛猫が存在しないことを示した論文ではない。
 - [遺伝研の三毛猫](https://izu.keizai.biz/headline/303/)
 - [Robertsonian translocation](https://en.wikipedia.org/wiki/Robertsonian_translocation)
-- [ブラジルにいる甲虫] ... X1X2X3Y1Y2Y3
 - [2008 PLoS genetics]
 - [2010 PNAS]
 - [カモノハシiPS]
@@ -90,8 +93,8 @@ title: 48. XXXXXYYYYY
 - [ジャンクDNA](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AFDNA)
 - [rubbish]
 - [Ohno Brookhaven Symp Biol. (1972)](https://www.ncbi.nlm.nih.gov/pubmed/5065367) ... 大野先生がジャンクDNAを提唱した論文。取り寄せが間に合わず未確認。
-- [2R仮説](https://ja.wikipedia.org/wiki/2R%E4%BB%AE%E8%AA%AC)
 - [大野乾](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E4%B9%BE)
+- [2R仮説](https://ja.wikipedia.org/wiki/2R%E4%BB%AE%E8%AA%AC) ... 全ゲノムが重複したとする仮説。通称大野の仮説。
 - [Kellis et al. Nature (2004)](https://www.nature.com/articles/nature02424) ... Manolis Kellisが酵母の近縁種間ゲノム比較によって2R仮説を検証しようとした論文。
 - [DNA music](https://en.wikipedia.org/wiki/Protein_music) ...  このエピソードの公開直前にちょうどこれに関するお便りが来たのでまた近々話します。
 - [大野先生の木村先生への論文]
