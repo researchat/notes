@@ -65,7 +65,7 @@ title: 48. XXXXXYYYYY
 - [Nature 2004]
 - [DMRT1]
 - [キアズマ]
-- [PAR]
+- [PAR(pseudoautosomal region)](https://en.wikipedia.org/wiki/Pseudoautosomal_region)
 - [dosage compensation 遺伝子量補償]
 - [Barrの論文1949]
 - [Ohno Susumu 1959 1960]
