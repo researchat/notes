@@ -55,14 +55,14 @@ title: 48. XXXXXYYYYY
 - スティロニキアの論文
 - [スイバ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%83%90) ... 性染色体がXX型/XY1Y2型と雌雄で本数が異なる。木原均先生が種子植物において初めて性染色体を報告した植物。染色体数は雌株が2n=14=XX+12, 雄株は2n=15=XY1Y2+12である。
 - [ツマモンヒロバカゲロウ](https://www.jstage.jst.go.jp/article/ggs1921/31/2/31_2_54/_pdf/-char/ja) ... ツマモンヒロバカゲロウ(Plethosmylus decoratus)はX1X1X2X2型/X1X2Y型の性染色体を持っている。
-- [新世界ザル]
-- [旧世界ザル]
-- [ホエザル　X1X2Y1Y2]
-- [カモノハシ]
+- [新世界ザル/旧世界ザル](https://www.pri.kyoto-u.ac.jp/PRI-QandA/BKeitouju.html) ... 類人猿の分類
+- [ホエザル(Alouatta)](https://natgeo.nikkeibp.co.jp/nng/article/20141218/428900/) 
+- [Steinberg et al. Cytogenet Genome Res. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/19096205) ... ホエザルの性染色体はX1X1X2X2型/X1X2Y1Y2型となっている。
+- [カモノハシ](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%B7)
+- [単孔類](https://kotobank.jp/word/%E5%8D%98%E5%AD%94%E9%A1%9E-95014)
+- [ハリモグラ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%A2%E3%82%B0%E3%83%A9)
+- [有袋類](https://ja.wikipedia.org/wiki/%E6%9C%89%E8%A2%8B%E9%A1%9E)
 - [Nature 2004]
-- [単孔類]
-- [ハリモグラ]
-- [有袋類]
 - [DMRT1]
 - [キアズマ]
 - [PAR]
