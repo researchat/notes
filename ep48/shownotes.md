@@ -65,7 +65,7 @@ title: 48. XXXXXYYYYY
 - [Grützner et al. Nature (2004)](https://www.nature.com/articles/nature03021) ... DOP-PCRを基にしたFISHを行うことでカモノハシの性染色体を調べた論文
 - [DMRT1](https://ghr.nlm.nih.gov/gene/DMRT1) ... 性決定遺伝子の一つ
 - [キアズマ](https://www.weblio.jp/content/%E3%82%AD%E3%82%A2%E3%82%BA%E3%83%9E)
-- [PAR(pseudoautosomal region)](https://en.wikipedia.org/wiki/Pseudoautosomal_region)
+- [PAR(pseudoautosomal region)](https://en.wikipedia.org/wiki/Pseudoautosomal_region) ... X染色体とY染色体の相同な領域。同一の染色体に由来しているという名残。
 - [dosage compensation (遺伝子量補償)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8F%E8%A3%9C%E5%84%9F)
 - [Barr and Bertram Nature (1949)](https://www.nature.com/articles/163676a0) ... バー小体を猫のニューロンで観察した論文
 - [Ohno Susumu 19]
