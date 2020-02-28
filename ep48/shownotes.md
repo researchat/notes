@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/48.mp3
-audio_file_size: 
+audio_file_size: 69402391
 date: 2020-03-02 22:50:00 +0900
 description: 真核生物における多様な性決定システムと性染色体について話しました。
-duration: "0X:XX:XX"
+duration: "01:21:37"
 layout: article
 tags: 
   - 論文
@@ -58,17 +58,18 @@ title: 48. XXXXXYYYYY
 - [新世界ザル/旧世界ザル](https://www.pri.kyoto-u.ac.jp/PRI-QandA/BKeitouju.html) ... 類人猿の分類
 - [ホエザル(Alouatta)](https://natgeo.nikkeibp.co.jp/nng/article/20141218/428900/) 
 - [Steinberg et al. Cytogenet Genome Res. (2008)](https://www.ncbi.nlm.nih.gov/pubmed/19096205) ... ホエザルの性染色体はX1X1X2X2型/X1X2Y1Y2型となっている。
-- [カモノハシ](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%B7)
+- [カモノハシ](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A2%E3%83%8E%E3%83%8F%E3%82%B7) ... 哺乳類であるが卵生である。性染色体はX1X2X3X4X5X1X2X3X4X5型とX1X2X3X4X5Y1Y2Y3Y4Y5型である。
 - [単孔類](https://kotobank.jp/word/%E5%8D%98%E5%AD%94%E9%A1%9E-95014)
-- [ハリモグラ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%A2%E3%82%B0%E3%83%A9)
+- [ハリモグラ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%A2%E3%82%B0%E3%83%A9) ... 単孔類はカモノハシとハリモグラからなる。性染色体はX1X2X3X4X5X1X2X3X4X5型とX1X2X3X4X5Y1Y2Y3Y4O型である。Y5が存在しない。
 - [有袋類](https://ja.wikipedia.org/wiki/%E6%9C%89%E8%A2%8B%E9%A1%9E)
-- [Nature 2004]
-- [DMRT1]
-- [キアズマ]
+- [Grützner et al. Nature (2004)](https://www.nature.com/articles/nature03021) ... DOP-PCRを基にしたFISHを行うことでカモノハシの性染色体を調べた論文
+- [DMRT1](https://ghr.nlm.nih.gov/gene/DMRT1) ... 性決定遺伝子の一つ
+- [キアズマ](https://www.weblio.jp/content/%E3%82%AD%E3%82%A2%E3%82%BA%E3%83%9E)
 - [PAR(pseudoautosomal region)](https://en.wikipedia.org/wiki/Pseudoautosomal_region)
-- [dosage compensation 遺伝子量補償]
-- [Barrの論文1949]
-- [Ohno Susumu 1959 1960]
+- [dosage compensation (遺伝子量補償)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8F%E8%A3%9C%E5%84%9F)
+- [Barr and Bertram Nature (1949)](https://www.nature.com/articles/163676a0) ... バー小体を猫のニューロンで観察した論文
+- [Ohno Susumu 19]
+- [Ohno Susumu 1960]
 - [Lyan 1961]
 - [X染色体の不活性化]
 - [エピジェネティクス]
