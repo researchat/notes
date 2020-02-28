@@ -84,15 +84,15 @@ title: 48. XXXXXYYYYY
 - [2008 PLoS genetics]
 - [2010 PNAS]
 - [カモノハシiPS]
-- [守屋さん]
+- [岡大守屋先生の遺伝子つなひき法](https://tenure5.vbl.okayama-u.ac.jp/~hisaom/HMwiki/index.php?%E9%81%BA%E4%BC%9D%E5%AD%90%E3%81%A4%E3%81%AA%E3%81%B2%E3%81%8D%E6%B3%95) ... 酵母の中で酵母が耐えられる遺伝子数の上限を探る方法
 - [ENCODE](https://www.encodeproject.org/)
 - [FANTOM](https://fantom.gsc.riken.jp/)
 - [ジャンクDNA](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AFDNA)
 - [rubbish]
-- [so much junk DNA on our genome]
-- [全ゲノム]
+- [Ohno Brookhaven Symp Biol. (1972)](https://www.ncbi.nlm.nih.gov/pubmed/5065367) ... 大野先生がジャンクDNAを提唱した論文。取り寄せが間に合わず未確認。
+- [2R仮説](https://ja.wikipedia.org/wiki/2R%E4%BB%AE%E8%AA%AC)
 - [大野乾](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E4%B9%BE)
-- [酵母の論文　2R]
+- [Kellis et al. Nature (2004)](https://www.nature.com/articles/nature02424) ... Manolis Kellisが酵母の近縁種間ゲノム比較によって2R仮説を検証しようとした論文。
 - [DNA music](https://en.wikipedia.org/wiki/Protein_music) ...  このエピソードの公開直前にちょうどこれに関するお便りが来たのでまた近々話します。
 - [大野先生の木村先生への論文]
 - [大いなる仮説](https://www.amazon.co.jp/%E5%A4%A7%E3%81%84%E3%81%AA%E3%82%8B%E4%BB%AE%E8%AA%AC%E2%80%95DNA%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8-%E5%A4%A7%E9%87%8E-%E4%B9%BE/dp/4946398678)
