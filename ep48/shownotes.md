@@ -85,18 +85,18 @@ title: 48. XXXXXYYYYY
 - [2010 PNAS]
 - [カモノハシiPS]
 - [守屋さん]
-- [ENCODE]
-- [FANTOM]
-- [junk DNA]
-- [sydney Brenner]
+- [ENCODE](https://www.encodeproject.org/)
+- [FANTOM](https://fantom.gsc.riken.jp/)
+- [ジャンクDNA](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AFDNA)
 - [rubbish]
 - [so much junk DNA on our genome]
 - [全ゲノム]
+- [大野乾](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E4%B9%BE)
 - [酵母の論文　2R]
-- [DNA music]
+- [DNA music](https://en.wikipedia.org/wiki/Protein_music) ...  このエピソードの公開直前にちょうどこれに関するお便りが来たのでまた近々話します。
 - [大野先生の木村先生への論文]
-- [大いなる仮説]
-- [de duve]
+- [大いなる仮説](https://www.amazon.co.jp/%E5%A4%A7%E3%81%84%E3%81%AA%E3%82%8B%E4%BB%AE%E8%AA%AC%E2%80%95DNA%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8-%E5%A4%A7%E9%87%8E-%E4%B9%BE/dp/4946398678)
+- [進化の特異事象](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E3%81%AE%E7%89%B9%E7%95%B0%E4%BA%8B%E8%B1%A1-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%87%E3%83%A5%E3%83%BC%E3%83%96/dp/4903532054)
 
 ## Editorial notes
 - (soh)
