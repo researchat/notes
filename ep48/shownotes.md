@@ -68,19 +68,18 @@ title: 48. XXXXXYYYYY
 - [PAR(pseudoautosomal region)](https://en.wikipedia.org/wiki/Pseudoautosomal_region) ... X染色体とY染色体の相同な領域。同一の染色体に由来しているという名残。
 - [dosage compensation (遺伝子量補償)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8F%E8%A3%9C%E5%84%9F)
 - [Barr and Bertram Nature (1949)](https://www.nature.com/articles/163676a0) ... バー小体を猫のニューロンで観察した論文
-- [Ohno Susumu 19]
-- [Ohno Susumu 1960]
-- [Lyan 1961]
-- [X染色体の不活性化]
-- [エピジェネティクス]
-- [クラインフェルター症候群]
-- [CCL28]
-- [三毛猫]
-- [駒井卓]
-- [三毛猫の論文]
-- [遺伝研の三毛猫]
-- [Robertsonian translocation]
-- [multivalent chain]
+- [Ohno et al. Experimental Cell Research (1959)](https://www.sciencedirect.com/science/article/abs/pii/001448275990031X) ... X染色体のヘテロクロマチン化について
+- [Ohno and Hauschka Cander Research (1960)](https://cancerres.aacrjournals.org/content/20/4/541.long) ... バー小体とX染色体の関係性について
+- [Lyon Nature (1961)](https://www.nature.com/articles/190372a0) ... X染色体の不活性化についてのモデル
+- [X染色体の不活性化](https://ja.wikipedia.org/wiki/X%E6%9F%93%E8%89%B2%E4%BD%93%E3%81%AE%E4%B8%8D%E6%B4%BB%E6%80%A7%E5%8C%96)
+- [エピジェネティクス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9) ... 定義は確定しておらずふらついているため、いつか専門家を集めて討論したい。
+- [クラインフェルター症候群]https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%83%AB%E3%82%BF%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4)
+- [CCL-28](https://www.atcc.org/Products/All/CCL-28.aspx) ... クラインフェルター症候群の患者から採取された培養細胞。XXXXYの染色体を持つため、Xの不活性化を調べるためによく使われる。
+- [三毛猫](https://ja.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B%E7%8C%AB)
+- [駒井卓](https://ja.wikipedia.org/wiki/%E9%A7%92%E4%BA%95%E5%8D%93)
+- [Komai 北海道大學理學部紀要 (1957)](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/27237/1/13(1_4)_P253-258.pdf) ... 配信では少し言い間違えたが、オスの三毛猫が存在することのモデルを考えた論文。オスの三毛猫が存在しないことを示した論文ではない。
+- [遺伝研の三毛猫](https://izu.keizai.biz/headline/303/)
+- [Robertsonian translocation](https://en.wikipedia.org/wiki/Robertsonian_translocation)
 - [ブラジルにいる甲虫] ... X1X2X3Y1Y2Y3
 - [2008 PLoS genetics]
 - [2010 PNAS]
