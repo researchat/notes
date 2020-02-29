@@ -67,7 +67,7 @@ title: 48. XXXXXYYYYY
 - [キアズマ](https://www.weblio.jp/content/%E3%82%AD%E3%82%A2%E3%82%BA%E3%83%9E)
 - [Robertsonian translocation](https://en.wikipedia.org/wiki/Robertsonian_translocation) ... ヒトにおける染色体の転座。転座に従って、chain pairingが発生することもある。
 - [Moura et al., Genetics and Molecular Biology (2008)](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572008000300007) ... ブラジルに住むユークロマギガンテアL.1735という甲虫の染色体を調べた論文。X1X2X3X1X2X3型とX1X2X3Y1Y2Y3型の染色体を持つ。multivalent chain pairingの美しいFigureが見られる (Fig.2)。
-- [Santos and Luykx, 1985](https://www.ncbi.nlm.nih.gov/pubmed/4084214) ... シュワルツカンザイシロアリの染色体。X1X2X1X2型とX1X2Y1Y2型の染色体を持つ。Fig2において美しいmultivalent chain pairingのFigureが見られる(Fig2)。
+- [Santos and Luykx, Biochem Genet. (1985)](https://www.ncbi.nlm.nih.gov/pubmed/4084214) ... シュワルツカンザイシロアリの染色体。X1X2X1X2型とX1X2Y1Y2型の染色体を持つ。Fig2において美しいmultivalent chain pairingのFigureが見られる(Fig2)。
 - [Cleland, Advances in Genetics (1962)](https://www.sciencedirect.com/science/article/abs/pii/S0065266008602874) ... オオマツヨイグサにおけるmultivalent chain pairing
 - [PAR(pseudoautosomal region)](https://en.wikipedia.org/wiki/Pseudoautosomal_region) ... X染色体とY染色体の相同な領域。同一の染色体に由来しているという名残。
 - [dosage compensation (遺伝子量補償)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8F%E8%A3%9C%E5%84%9F)
@@ -97,7 +97,7 @@ title: 48. XXXXXYYYYY
 - [2R仮説](https://ja.wikipedia.org/wiki/2R%E4%BB%AE%E8%AA%AC) ... 全ゲノムが重複したとする仮説。通称大野の仮説。
 - [Kellis et al., Nature (2004)](https://www.nature.com/articles/nature02424) ... Manolis Kellisが酵母の近縁種間ゲノム比較によって2R仮説を検証しようとした論文。
 - [DNA music](https://en.wikipedia.org/wiki/Protein_music) ...  このエピソードの公開直前にちょうどこれに関するお便りが来たのでまた近々話します。
-- [大野先生の木村先生への論文]
+- [Ohno, Journal of Molecular Evolution (1997)](https://link.springer.com/article/10.1007/PL00000055) ... 大野先生の木村先生への追悼イントロを含む論文。"My fond memories of gentle Professor Motoo Kimura are many. "から始まる木村先生との思い出が綴られている。
 - [大いなる仮説](https://www.amazon.co.jp/%E5%A4%A7%E3%81%84%E3%81%AA%E3%82%8B%E4%BB%AE%E8%AA%AC%E2%80%95DNA%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8-%E5%A4%A7%E9%87%8E-%E4%B9%BE/dp/4946398678)
 - [進化の特異事象](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E3%81%AE%E7%89%B9%E7%95%B0%E4%BA%8B%E8%B1%A1-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%87%E3%83%A5%E3%83%BC%E3%83%96/dp/4903532054)
 
