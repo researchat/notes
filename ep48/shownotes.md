@@ -98,8 +98,8 @@ title: 48. XXXXXYYYYY
 - [Kellis et al., Nature (2004)](https://www.nature.com/articles/nature02424) ... Manolis Kellisが酵母の近縁種間ゲノム比較によって2R仮説を検証しようとした論文。
 - [DNA music](https://en.wikipedia.org/wiki/Protein_music) ...  このエピソードの公開直前にちょうどこれに関するお便りが来たのでまた近々話します。
 - [Ohno, Journal of Molecular Evolution (1997)](https://link.springer.com/article/10.1007/PL00000055) ... 大野先生の木村先生への追悼イントロを含む論文。"My fond memories of gentle Professor Motoo Kimura are many. "から始まる木村先生との思い出が綴られている。
-- [大いなる仮説](https://www.amazon.co.jp/%E5%A4%A7%E3%81%84%E3%81%AA%E3%82%8B%E4%BB%AE%E8%AA%AC%E2%80%95DNA%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8-%E5%A4%A7%E9%87%8E-%E4%B9%BE/dp/4946398678)
-- [進化の特異事象](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E3%81%AE%E7%89%B9%E7%95%B0%E4%BA%8B%E8%B1%A1-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%87%E3%83%A5%E3%83%BC%E3%83%96/dp/4903532054)
+- [大いなる仮説](https://www.amazon.co.jp/%E5%A4%A7%E3%81%84%E3%81%AA%E3%82%8B%E4%BB%AE%E8%AA%AC%E2%80%95DNA%E3%81%8B%E3%82%89%E3%81%AE%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8-%E5%A4%A7%E9%87%8E-%E4%B9%BE/dp/4946398678) ... 大野乾先生が生命はどこから来たかを議論した本
+- [進化の特異事象](https://www.amazon.co.jp/%E9%80%B2%E5%8C%96%E3%81%AE%E7%89%B9%E7%95%B0%E4%BA%8B%E8%B1%A1-%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%87%E3%83%A5%E3%83%BC%E3%83%96/dp/4903532054) ... ノーベル賞受賞者のChristian de Duveが進化上で起こった様々な生命プロセスの獲得について議論した本
 
 ## Editorial notes
 - (soh)
