@@ -65,9 +65,9 @@ title: 48. XXXXXYYYYY
 - [Grützner et al. Nature (2004)](https://www.nature.com/articles/nature03021) ... DOP-PCRを基にしたFISHを行うことでカモノハシの性染色体を調べた論文
 - [DMRT1](https://ghr.nlm.nih.gov/gene/DMRT1) ... 性決定遺伝子の一つ
 - [キアズマ](https://www.weblio.jp/content/%E3%82%AD%E3%82%A2%E3%82%BA%E3%83%9E)
-- [Robertsonian translocation](https://en.wikipedia.org/wiki/Robertsonian_translocation)
-- [甲虫]
-- [シロアリ]
+- [Robertsonian translocation](https://en.wikipedia.org/wiki/Robertsonian_translocation) ... ヒトにおける染色体の転座。転座に従って、chain pairingが発生することもある。
+- [Moura et al. Genetics and Molecular Biology (2008)](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572008000300007) ... ブラジルに住むユークロマギガンテアL.1735という甲虫の染色体を調べた論文。X1X2X3X1X2X3型とX1X2X3Y1Y2Y3型の染色体を持つ。multivalent chain pairingの美しいFigureが見られる (Fig.2)。
+- [Santos and Luykx, 1985](https://www.ncbi.nlm.nih.gov/pubmed/4084214) ... シュワルツカンザイシロアリの染色体。X1X2X1X2型とX1X2Y1Y2型の染色体を持つ。Fig2において美しいmultivalent chain pairingのFigureが見られる(Fig2)。
 - [オオマツヨイグサ]
 - [PAR(pseudoautosomal region)](https://en.wikipedia.org/wiki/Pseudoautosomal_region) ... X染色体とY染色体の相同な領域。同一の染色体に由来しているという名残。
 - [dosage compensation (遺伝子量補償)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8F%E8%A3%9C%E5%84%9F)
