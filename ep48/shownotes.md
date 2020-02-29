@@ -52,7 +52,7 @@ title: 48. XXXXXYYYYY
 - [無糸分裂(amitosis)](https://www.weblio.jp/content/%E7%84%A1%E7%B3%B8%E5%88%86%E8%A3%82) ... ゾウリムシやテトラヒメナなどの原生生物の大核において見られる分裂様式
 - [スティロニキア](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%AD%E3%83%8B%E3%82%AD%E3%82%A2)
 - [トゲツメミズケムシ](https://www.edu-ctr.pref.kanagawa.jp/kyouka/seibutu/micro/parts/10.html)
-- スティロニキアの論文
+- [Ammermann, Archiv für Protistenkunde (1982)](https://www.sciencedirect.com/science/article/abs/pii/S0003936582800547) ... Stylonychia mytilus EHRBGの接合型について。
 - [スイバ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%83%90) ... 性染色体がXX型/XY1Y2型と雌雄で本数が異なる。木原均先生が種子植物において初めて性染色体を報告した植物。染色体数は雌株が2n=14=XX+12, 雄株は2n=15=XY1Y2+12である。
 - [ツマモンヒロバカゲロウ](https://www.jstage.jst.go.jp/article/ggs1921/31/2/31_2_54/_pdf/-char/ja) ... ツマモンヒロバカゲロウ(Plethosmylus decoratus)はX1X1X2X2型/X1X2Y型の性染色体を持っている。
 - [新世界ザル/旧世界ザル](https://www.pri.kyoto-u.ac.jp/PRI-QandA/BKeitouju.html) ... 類人猿の分類
@@ -84,14 +84,14 @@ title: 48. XXXXXYYYYY
 - [Komai, 北海道大學理學部紀要 (1957)](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/27237/1/13(1_4)_P253-258.pdf) ... 配信では少し言い間違えたが、オスの三毛猫が存在することのモデルを考えた論文。オスの三毛猫が存在しないことを示した論文ではない。
 - [遺伝研の三毛猫](https://izu.keizai.biz/headline/303/)
 - [Robertsonian translocation](https://en.wikipedia.org/wiki/Robertsonian_translocation)
-- [2008 PLoS genetics]
-- [2010 PNAS]
-- [カモノハシiPS]
+- [Deakin et al., PLoS genetics (2008)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000140) ... カモノハシにおける遺伝子量補償を探った論文。
+- [Rens et al, PNAS (2010)](https://www.pnas.org/content/107/41/17657.long) ... Xistや遺伝子量補償システムの哺乳類における進化について言及した論文。有袋類と単孔類の培養細胞を用いた研究。
+- [Whitworth et al., Stem Cells and Development (2019)](https://www.liebertpub.com/doi/pdf/10.1089/scd.2018.0179) ... カモノハシのiPS細胞を作った論文。こういった方法でいろいろな細胞を調べる方法が進んでいくと思われる。
 - [岡大守屋先生の遺伝子つなひき法](https://tenure5.vbl.okayama-u.ac.jp/~hisaom/HMwiki/index.php?%E9%81%BA%E4%BC%9D%E5%AD%90%E3%81%A4%E3%81%AA%E3%81%B2%E3%81%8D%E6%B3%95) ... 酵母の中で酵母が耐えられる遺伝子数の上限を探る方法
 - [ENCODE](https://www.encodeproject.org/)
 - [FANTOM](https://fantom.gsc.riken.jp/)
 - [ジャンクDNA](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AFDNA)
-- [rubbish]
+- [Brenner, Current Biology (1998)](https://www.cell.com/current-biology/fulltext/S0960-9822(98)70427-0) ... junkという言葉に対するBrennerの考え方が見える。
 - [Ohno, Brookhaven Symp Biol. (1972)](https://www.ncbi.nlm.nih.gov/pubmed/5065367) ... 大野先生がジャンクDNAを提唱した論文。取り寄せが間に合わず未確認。
 - [大野乾](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8E%E4%B9%BE)
 - [2R仮説](https://ja.wikipedia.org/wiki/2R%E4%BB%AE%E8%AA%AC) ... 全ゲノムが重複したとする仮説。通称大野の仮説。
