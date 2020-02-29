@@ -81,7 +81,7 @@ title: 48. XXXXXYYYYY
 - [CCL-28](https://www.atcc.org/Products/All/CCL-28.aspx) ... クラインフェルター症候群の患者から採取された培養細胞。XXXXYの染色体を持つため、Xの不活性化を調べるためによく使われる。
 - [三毛猫](https://ja.wikipedia.org/wiki/%E4%B8%89%E6%AF%9B%E7%8C%AB)
 - [駒井卓](https://ja.wikipedia.org/wiki/%E9%A7%92%E4%BA%95%E5%8D%93)
-- [Komai 北海道大學理學部紀要 (1957)](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/27237/1/13(1_4)_P253-258.pdf) ... 配信では少し言い間違えたが、オスの三毛猫が存在することのモデルを考えた論文。オスの三毛猫が存在しないことを示した論文ではない。
+- [Komai, 北海道大學理學部紀要 (1957)](https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/27237/1/13(1_4)_P253-258.pdf) ... 配信では少し言い間違えたが、オスの三毛猫が存在することのモデルを考えた論文。オスの三毛猫が存在しないことを示した論文ではない。
 - [遺伝研の三毛猫](https://izu.keizai.biz/headline/303/)
 - [Robertsonian translocation](https://en.wikipedia.org/wiki/Robertsonian_translocation)
 - [2008 PLoS genetics]
