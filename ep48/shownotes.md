@@ -62,13 +62,13 @@ title: 48. XXXXXYYYYY
 - [単孔類](https://kotobank.jp/word/%E5%8D%98%E5%AD%94%E9%A1%9E-95014)
 - [ハリモグラ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%83%A2%E3%82%B0%E3%83%A9) ... 単孔類はカモノハシとハリモグラからなる。性染色体はX1X2X3X4X5X1X2X3X4X5型とX1X2X3X4X5Y1Y2Y3Y4O型である。Y5が存在しない。
 - [有袋類](https://ja.wikipedia.org/wiki/%E6%9C%89%E8%A2%8B%E9%A1%9E)
-- [Grützner et al. Nature (2004)](https://www.nature.com/articles/nature03021) ... DOP-PCRを基にしたFISHを行うことでカモノハシの性染色体を調べた論文
+- [Grützner et al. Nature (2004)](https://www.nature.com/articles/nature03021) ... DOP-PCRを基にしたFISHを行うことでカモノハシの性染色体を調べた論文。chain pairingと染色体進化について言及。
 - [DMRT1](https://ghr.nlm.nih.gov/gene/DMRT1) ... 性決定遺伝子の一つ
 - [キアズマ](https://www.weblio.jp/content/%E3%82%AD%E3%82%A2%E3%82%BA%E3%83%9E)
 - [Robertsonian translocation](https://en.wikipedia.org/wiki/Robertsonian_translocation) ... ヒトにおける染色体の転座。転座に従って、chain pairingが発生することもある。
 - [Moura et al. Genetics and Molecular Biology (2008)](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1415-47572008000300007) ... ブラジルに住むユークロマギガンテアL.1735という甲虫の染色体を調べた論文。X1X2X3X1X2X3型とX1X2X3Y1Y2Y3型の染色体を持つ。multivalent chain pairingの美しいFigureが見られる (Fig.2)。
 - [Santos and Luykx, 1985](https://www.ncbi.nlm.nih.gov/pubmed/4084214) ... シュワルツカンザイシロアリの染色体。X1X2X1X2型とX1X2Y1Y2型の染色体を持つ。Fig2において美しいmultivalent chain pairingのFigureが見られる(Fig2)。
-- [オオマツヨイグサ]
+- [Cleland, Advances in Genetics (1962)](https://www.sciencedirect.com/science/article/abs/pii/S0065266008602874) ... オオマツヨイグサにおけるmultivalent chain pairing
 - [PAR(pseudoautosomal region)](https://en.wikipedia.org/wiki/Pseudoautosomal_region) ... X染色体とY染色体の相同な領域。同一の染色体に由来しているという名残。
 - [dosage compensation (遺伝子量補償)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8F%E8%A3%9C%E5%84%9F)
 - [Barr and Bertram Nature (1949)](https://www.nature.com/articles/163676a0) ... バー小体を猫のニューロンで観察した論文
