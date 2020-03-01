@@ -87,9 +87,9 @@ title: 48. XXXXXYYYYY
 - [Deakin et al., PLoS genetics (2008)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000140) ... カモノハシにおける遺伝子量補償を探った論文。
 - [Rens et al, PNAS (2010)](https://www.pnas.org/content/107/41/17657.long) ... Xistや遺伝子量補償システムの哺乳類における進化について言及した論文。有袋類と単孔類の培養細胞を用いた研究。
 - [Whitworth et al., Stem Cells and Development (2019)](https://www.liebertpub.com/doi/pdf/10.1089/scd.2018.0179) ... カモノハシのiPS細胞を作った論文。こういった方法でいろいろな細胞を調べる方法が進んでいくと思われる。
-- [岡大守屋先生の遺伝子つなひき法](https://tenure5.vbl.okayama-u.ac.jp/~hisaom/HMwiki/index.php?%E9%81%BA%E4%BC%9D%E5%AD%90%E3%81%A4%E3%81%AA%E3%81%B2%E3%81%8D%E6%B3%95) ... 酵母の中で酵母が耐えられる遺伝子数の上限を探る方法
-- [ENCODE](https://www.encodeproject.org/)
-- [FANTOM](https://fantom.gsc.riken.jp/)
+- [岡山大学守屋先生の遺伝子つなひき法](https://tenure5.vbl.okayama-u.ac.jp/~hisaom/HMwiki/index.php?%E9%81%BA%E4%BC%9D%E5%AD%90%E3%81%A4%E3%81%AA%E3%81%B2%E3%81%8D%E6%B3%95) ... 酵母の中で酵母が耐えられる遺伝子数の上限を探る方法。dosage compensationとの関係性がきになる。
+- [ENCODE](https://www.encodeproject.org/) ... RIKENのビッグプロジェクト。ノンコーディグRNAの網羅的探索を行なっている。
+- [FANTOM](https://fantom.gsc.riken.jp/) ... ゲノム上の情報にアノテーションを
 - [ジャンクDNA](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%AFDNA)
 - [Brenner, Current Biology (1998)](https://www.cell.com/current-biology/fulltext/S0960-9822(98)70427-0) ... junkという言葉に対するBrennerの考え方が見える。
 - [Ohno, Brookhaven Symp Biol. (1972)](https://www.ncbi.nlm.nih.gov/pubmed/5065367) ... 大野先生がジャンクDNAを提唱した論文。取り寄せが間に合わず未確認。
