@@ -11,7 +11,7 @@ duration: "01:21:37"
 layout: article
 tags: 
   - 論文
-title: 48. XXXXXYYYYY
+title: 48. SeXXXXXYYYYY Platypus
 ---
 
 ## Show notes
