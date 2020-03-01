@@ -104,4 +104,4 @@ title: 48. XXXXXYYYYY
 ## Editorial notes
 - (soh)
 - レベルEが染色体について教えてくれた (tadasu)
-- (coela)
+- やはりレベルEは素晴らしい(coela)
