@@ -18,9 +18,13 @@ title: 50. My first journal club presentation
 
 ## Show notes
 - [Cells alter their tRNA abundance to selectively regulate protein synthesis during stress conditions. Torrent et al., Science Signaling (2018)](https://www.ncbi.nlm.nih.gov/pubmed/30181241)...今回のエピソードで紹介した論文。無料で読めます。
+- グルタチオン
+- tRNAの修飾
+- tAI ... tRNA Adaptation Index
+- ミトコンドリアtRNA
 
 ## Editorial notes
-- coela
+- コドン、たんぱく質の翻訳効率、翻訳リソースの関係の話は好きなのでまた機会があったら！(coela)
 - tadasu
 - soh
 
