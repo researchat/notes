@@ -17,6 +17,7 @@ title: 50. My first journal club presentation
 ---
 
 ## Show notes
+- [Cells alter their tRNA abundance to selectively regulate protein synthesis during stress conditions. Torrent et al., Science Signaling (2018)](https://www.ncbi.nlm.nih.gov/pubmed/30181241)...今回のエピソードで紹介した論文。無料で読めます。
 
 ## Editorial notes
 - coela
