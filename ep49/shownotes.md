@@ -16,7 +16,17 @@ title: 49. hoge
 
 ## Show notes
 - 死がふたりを分かつまで
+- やくしまるえつこ　私は人類
+- DNA musicのオリジナル
+- Ogi/Megi science 2014
+- PLoS Genetics 2020
+- whole genome duplication
+- gene duplication
+- パラログ
+- オソログ
 
 ## Editorial notes
 
 - エスパーリスナーは　未来に　攻撃を予知した！(coela)
+- (soh)
+- ミームが発現し始めているのかそれともエスパーからの投稿なのか見分けがつきません...(tadasu)
