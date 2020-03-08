@@ -15,6 +15,8 @@ title: 49. hoge
 ---
 
 ## Show notes
+- 死がふたりを分かつまで
 
 ## Editorial notes
 
+- エスパーリスナーは　未来に　攻撃を予知した！(coela)
