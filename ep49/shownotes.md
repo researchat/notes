@@ -26,7 +26,6 @@ title: 49. hoge
 - オソログ
 
 ## Editorial notes
-
 - エスパーリスナーは　未来に　攻撃を予知した！(coela)
-- (soh)
+- Researchat.fmは、リスナーからのお便りで出演者が勉強するpodcast番組です (soh)
 - ミームが発現し始めているのかそれともエスパーからの投稿なのか見分けがつきません...(tadasu)
