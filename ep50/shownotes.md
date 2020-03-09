@@ -26,5 +26,5 @@ title: 50. My first journal club presentation
 ## Editorial notes
 - コドン、たんぱく質の翻訳効率、翻訳リソースの関係の話は好きなのでまた機会があったら！(coela)
 - tadasu
-- soh
+- 次回、Coelaによる奇跡の論文紹介は収録100回目でしょう！ (soh)
 
