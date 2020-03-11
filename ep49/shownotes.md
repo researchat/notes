@@ -24,8 +24,8 @@ title: 49. ESPersimmon
 - [Susumu Ohno, DNA Music (YouTube)](https://www.youtube.com/watch?v=9Q1EkWtff2I)
 - [空間知覚拡張のための“聞こえる化”デバイスの開発](https://www.ipa.go.jp/jinzai/mitou/2015/gaiyou_i-4.html) ... 未踏2015にて発表された「聞こえる化」のデバイス
 - [Genomes OnLine Database: GOLD](https://gold.jgi.doe.gov/) ...  ここで既に読まれた、もしくは現在進行中のゲノムプロジェクトを調べることができます。
-- [Akagi et al., Science (2014)](https://science.sciencemag.org/content/346/6209/646) ... 柿のY染色体のゲノムシーケンシングとRNA-Seqを通して、OgiとMegiという遺伝子を発見した論文。OgiとMegiはパラログであり、Ogiはフレームシフトなどによりタンパク質としての機能は失われ、ncRNAとして働いていると考えられる。植物において初めて性決定遺伝子が同定された。
-- [Akagi et al., PLoS genetics (2020)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008566) ... 今回の柿ゲノム論文。SiMegi(Sister of Megi)を新たなパラログとして同定。Whole genome duplicationとgene duplicationにより、カキノキ属の性決定遺伝子であるOgiとMegiが作られたことが推定された。
+- [Akagi et al., Science (2014)](https://science.sciencemag.org/content/346/6209/646) ... 柿のY染色体のゲノムシーケンシングとRNA-Seqを通して、OGIとMeGIという遺伝子を発見した論文。OGIとMeGIはパラログであり、OGIはフレームシフトなどによりタンパク質としての機能は失われ、ncRNAとして働いていると考えられる。植物において初めて性決定遺伝子が同定された。OGIによるメカニズムの詳しいメカニズムは不明と言いましたがRNAiのような仕組みが働いていると考えられているようです。
+- [Akagi et al., PLoS genetics (2020)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008566) ... 今回の柿ゲノム論文。SiMeGI(Sister of MeGI)を新たなパラログとして同定。Whole genome duplicationとgene duplicationにより、カキノキ属の性決定遺伝子であるOGIとMeGIが作られたことが推定された。
 - whole genome duplication ...  全ゲノム重複。ゲノム全体が二倍になる。
 - [遺伝子重複(gene duplication)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8D%E8%A4%87) ... 遺伝子重複。ある遺伝子が二倍になる。
 - [パラログとオソログ](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8D%E8%A4%87#%E3%83%91%E3%83%A9%E3%83%AD%E3%82%B0%E3%81%A8%E3%82%AA%E3%83%BC%E3%82%BD%E3%83%AD%E3%82%B0)
