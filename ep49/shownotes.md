@@ -7,12 +7,12 @@ audio_file_path: /audio/49.mp3
 audio_file_size: 63830646
 date: 2020-03-12 22:50:00 +0900
 description: 「わたしは人類」と「柿ゲノム」の共通項を無理やり探しました。
-duration: "01:21:37"
+duration: "01:19:11"
 layout: article
 tags: 
   - 雑談
   - 論文
-title: 49. ESPersimmon
+title: 49. ESPersimmons
 ---
 
 ## Show notes
