@@ -4,14 +4,15 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/49.mp3
-audio_file_size: 0
-date: 2020-03-09 22:50:00 +0900
-description: hoge
+audio_file_size: 63830646
+date: 2020-03-12 22:50:00 +0900
+description: 「わたしは人類」と「柿ゲノム」の共通項を無理やり探しました。
 duration: "01:21:37"
 layout: article
 tags: 
-  - hoge
-title: 49. hoge
+  - 雑談
+  - 論文
+title: 49. Letters from ESPers
 ---
 
 ## Show notes
