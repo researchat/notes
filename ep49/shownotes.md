@@ -12,7 +12,7 @@ layout: article
 tags: 
   - 雑談
   - 論文
-title: 49. ESPersimmons
+title: 49. ESPersimmon
 ---
 
 ## Show notes
