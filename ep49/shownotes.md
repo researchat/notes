@@ -23,6 +23,7 @@ title: 49. ESPersimmon
 - [Ohno and Ohno. Immunogenetics (1986)](https://www.ncbi.nlm.nih.gov/pubmed/3744439) ... 大野夫妻によるDNA music論文のオリジナル
 - [Susumu Ohno, DNA Music (YouTube)](https://www.youtube.com/watch?v=9Q1EkWtff2I)
 - [空間知覚拡張のための“聞こえる化”デバイスの開発](https://www.ipa.go.jp/jinzai/mitou/2015/gaiyou_i-4.html) ... 未踏2015にて発表された「聞こえる化」のデバイス
+- [Genomes OnLine Database: GOLD](https://gold.jgi.doe.gov/) ...  ここで既に読まれた、もしくは現在進行中のゲノムプロジェクトを調べることができます。
 - [Akagi et al., Science (2014)](https://science.sciencemag.org/content/346/6209/646) ... 柿のY染色体のゲノムシーケンシングとRNA-Seqを通して、OgiとMegiという遺伝子を発見した論文。OgiとMegiはパラログであり、Ogiはフレームシフトなどによりタンパク質としての機能は失われ、ncRNAとして働いていると考えられる。植物において初めて性決定遺伝子が同定された。
 - [Akagi et al., PLoS genetics (2020)](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008566) ... 今回の柿ゲノム論文。SiMegi(Sister of Megi)を新たなパラログとして同定。Whole genome duplicationとgene duplicationにより、カキノキ属の性決定遺伝子であるOgiとMegiが作られたことが推定された。
 - whole genome duplication ...  全ゲノム重複。ゲノム全体が二倍になる。
