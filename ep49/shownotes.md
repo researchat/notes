@@ -29,6 +29,7 @@ title: 49. ESPersimmon
 - [遺伝子重複(gene duplication)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8D%E8%A4%87) ... 遺伝子重複。ある遺伝子が二倍になる。
 - [パラログとオソログ](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8D%E8%A4%87#%E3%83%91%E3%83%A9%E3%83%AD%E3%82%B0%E3%81%A8%E3%82%AA%E3%83%BC%E3%82%BD%E3%83%AD%E3%82%B0)
 - [Akagi et al., Plant Cell (2018)](http://www.plantcell.org/content/30/4/780.long) ... キウイフルーツにおける性決定遺伝子「Shy girl」を同定した論文。
+- [Kiuchi et al., Nature (2014)](https://www.nature.com/articles/nature13315) ... カイコにおける性決定システムとncRNAに関する論文。
 
 ## Editorial notes
 - エスパーリスナーは　未来に　攻撃を予知した！(coela)
