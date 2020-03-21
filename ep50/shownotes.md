@@ -18,7 +18,7 @@ title: 50. My first journal club presentation
 
 ## Show notes
 - [Cells alter their tRNA abundance to selectively regulate protein synthesis during stress conditions. Torrent et al., Science Signaling (2018)](https://www.ncbi.nlm.nih.gov/pubmed/30181241)...今回のエピソードで紹介した論文。フリーのオンラインアクセスがあります。
-- [コドン (Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%89%E3%83%B3) ... 遺伝暗号については[ep7](https://researchat.fm/episode/7)でも話しています！
+- [コドン (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%89%E3%83%B3) ... 遺伝暗号については[ep7](https://researchat.fm/episode/7)でも話しています！
 - [tRNA (Wikipedia)](https://ja.wikipedia.org/wiki/%E8%BB%A2%E7%A7%BBRNA)
 - [RT-qPCR (Wikipedia)](https://en.wikipedia.org/wiki/Real-time_polymerase_chain_reaction) ... 本論文でtRNAの定量に使われた手法。
 - [グルタチオン(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%81%E3%82%AA%E3%83%B3) ... グルタミン酸、システイン、グリシンから構成されるトリペプチド。ストレス環境での生育に重要な物質で、リボソームを介さない系で合成される。
