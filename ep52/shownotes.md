@@ -30,7 +30,7 @@ title: 52. It is what it is
 - [Researchat.fm ep37](https://researchat.fm/episode/37) ... 前回のdessan出演回。分子生物学の基礎について話しています。
 - [Researchat.fm ep24](https://researchat.fm/episode/24) ... PCRの発明者でノーベル賞を受賞したKary Mullis追悼回。こちらでもPCRについて詳しく話しています。
 - [TAKARAのPCRの説明とそのプロトコル](http://www.takara-bio.co.jp/kensa/pdfs/book_1.pdf) ... PCRキットを販売するTAKARAのPCRの説明とそのプロトコル。非常にわかりやすい。トラブルシューティングもしっかりと書かれているのでPCRが動かない時はしっかりプロトコルを読もう！
-![dessanによるPCRまとめ図]](/images/blog/PCR_summary.png)
+- [dessanによるPCRまとめ図](/images/blog/PCR_summary.png)
 
 ## Editorial notes
 - 私の部屋で撮ったのでハウスメイトにビビって最初のほうは音声が小さいです。申し訳ありません。(dessan)
