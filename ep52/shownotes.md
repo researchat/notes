@@ -2,15 +2,15 @@
 actor_ids:
   - dessan
   - tadasu
-audio_file_path: /audio/52.mp3
+audio_file_path: /audio/51.mp3
 audio_file_size: 53419479
-date: 2020-04-06 22:50:00 +0900
+date: 2020-04-06 5:30:00 +0900
 description: dessanをゲストに迎え、PCRの原理について基礎から話しました。
 duration: "00:50:03"
 layout: article
 tags:
   - PCR
-title: 52. It is what it is
+title: 51. It is what it is
 ---
 
 ## Show notes
