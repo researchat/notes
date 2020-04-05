@@ -22,7 +22,7 @@ title: 51. It is what it is
 - [DNA複製](https://ja.wikipedia.org/wiki/DNA%E8%A4%87%E8%A3%BD) ... 生物が細胞を倍加していく上で、遺伝情報を担うDNAも二倍にする必要がある。
 - [プライマー](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC_(%E7%94%9F%E7%89%A9)) ... DNAポリメラーゼは基本的に一本鎖DNAをそのまま複製することはできず、一旦二本鎖にする必要がある。その時に使われるのがプライマーと呼ばれる短い塩基配列である。生体内では基本短鎖RNAでPCR上では短鎖DNAが用いられる。
 - [サーマルサイクラー](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%9E%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%A9%E3%83%BC) ... PCRのためにサンプルの温度を上下させるための機械
-- [電気泳動](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E6%B3%B3%E5%8B%95) ... 荷電している分子を電場中で移動させることで、DNAやタンパク質を分離する方法。
+- [電気泳動](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E6%B3%B3%E5%8B%95) ... 荷電している分子を電場中で移動させる。これによりDNAやタンパク質を分離する方法。
 - [RNAウィルス](https://ja.wikipedia.org/wiki/RNA%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9) ... 遺伝物質としてRNAを用いているウィルスのこと。
 - [エチジウムブロマイド](https://ja.wikipedia.org/wiki/%E8%87%AD%E5%8C%96%E3%82%A8%E3%83%81%E3%82%B8%E3%82%A6%E3%83%A0) ... 二本鎖DNAに架橋する。紫外線を当てると蛍光を発するため、拡散の検出などに用いられる。
 - [qPCR(定量PCR)](https://ja.wikipedia.org/wiki/%E5%AE%9A%E9%87%8FPCR)
