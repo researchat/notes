@@ -30,6 +30,7 @@ title: 52. Split into a row
 - [Preferred Networks、1024個のGPUでディープラーニングの世界最高速を実現と発表](https://it.impressbm.co.jp/articles/-/15271)
 - [NARUTO -ナルト- 疾風伝](https://www.tv-tokyo.co.jp/anime/naruto/index2.html)
 - [ImageNet](http://www.image-net.org/)...学習用の画像データセット
+- [畳み込みニューラルネット(Wikipedia)](https://ja.wikipedia.org/wiki/%E7%95%B3%E3%81%BF%E8%BE%BC%E3%81%BF%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)
 - [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)...手書き文字認識用のデータセット
 - [誤差逆伝播法 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%AF%E3%83%97%E3%83%AD%E3%83%91%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - [スーパーコンピュータ「京」はとてつもなく速い](https://www.fujitsu.com/jp/about/businesspolicy/tech/k/whatis/system/)
@@ -38,5 +39,8 @@ title: 52. Split into a row
 - [GUNSLINGER GIRL (全15巻)](https://www.amazon.co.jp/dp/B00UGJV7XO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)...Kotoneさんおすすめのマンガ
 
 ## Editorial notes
+- (kotone)
 - 機械学習ネタ、これまでとは異なるテーマでとても良かったですね (soh)
+- (coela)
+- 他分野の話を聴くのは楽しい〜〜〜(tadasu)
 
