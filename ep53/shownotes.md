@@ -15,8 +15,9 @@ title: 53.
 ---
 
 ## Show notes
-- [ウメハラ]
-- [パッド]
+- [梅原大吾](https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E5%A4%A7%E5%90%BE)
+- [ゲームパッド](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%83%E3%83%89)
+- [ファイティングエッジ]
 - [ヒットボックス]
 - [vim]
 - [emacs]
