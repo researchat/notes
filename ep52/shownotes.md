@@ -5,10 +5,10 @@ actor_ids:
   - coela
   - tadasu
 audio_file_path: /audio/52.mp3
-audio_file_size: 70609295
+audio_file_size: 70069134
 date: 2020-04-12 10:30:00 +0900
 description: ゲストにkotoneさんを招き、ディープラーニング、機械学習とそのアルゴリズムや計算用マシンについて話しました。
-duration: "01:09:43"
+duration: "01:09:52"
 layout: article
 tags:
   - Deep Learning
