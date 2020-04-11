@@ -37,7 +37,5 @@ title: 52. Split into a row
 - [スパコン撤去で「今は無き京前」？　駅名が話題](https://www.kobe-np.co.jp/news/sougou/201902/0012064729.shtml)
 
 ## Editorial notes
-- kotone
 - 機械学習ネタ、これまでとは異なるテーマでとても良かったですね (soh)
-- coela
-- tadasu
+
