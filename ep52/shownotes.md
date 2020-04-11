@@ -29,5 +29,6 @@ title: 52. Split into a row
 - [Preferred Networks、1024個のGPUでディープラーニングの世界最高速を実現と発表](https://it.impressbm.co.jp/articles/-/15271)
 - [NARUTO -ナルト- 疾風伝](https://www.tv-tokyo.co.jp/anime/naruto/index2.html)
 - [ImageNet](http://www.image-net.org/)...学習用の画像データセット
+- [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)...手書き文字認識用のデータセット
 
 ## Editorial notes
