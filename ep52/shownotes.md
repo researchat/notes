@@ -28,5 +28,6 @@ title: 52. Split into a row
 - [ディープラーニング入門 Chainer チュートリアル](https://tutorials.chainer.org/ja/)
 - [株式会社 Preferred Networks](https://preferred.jp/ja/)
 - [NVIDIA CUDA-X GPU-Accelerated Libraries for AI and HPC](https://developer.nvidia.com/gpu-accelerated-libraries)
+- [Preferred Networks、1024個のGPUでディープラーニングの世界最高速を実現と発表](https://it.impressbm.co.jp/articles/-/15271)
 
 ## Editorial notes
