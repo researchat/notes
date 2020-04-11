@@ -25,6 +25,7 @@ title: 52. Split into a row
 - [GPU (Wikipedia)](https://ja.wikipedia.org/wiki/Graphics_Processing_Unit)
 - [ディープラーニング入門 Chainer チュートリアル](https://tutorials.chainer.org/ja/)
 - [株式会社 Preferred Networks](https://preferred.jp/ja/)
+- [Chainer](https://tutorials.chainer.org/ja/)
 - [NVIDIA CUDA-X GPU-Accelerated Libraries for AI and HPC](https://developer.nvidia.com/gpu-accelerated-libraries)
 - [Preferred Networks、1024個のGPUでディープラーニングの世界最高速を実現と発表](https://it.impressbm.co.jp/articles/-/15271)
 - [NARUTO -ナルト- 疾風伝](https://www.tv-tokyo.co.jp/anime/naruto/index2.html)
