@@ -35,6 +35,7 @@ title: 52. Split into a row
 - [スーパーコンピュータ「京」はとてつもなく速い](https://www.fujitsu.com/jp/about/businesspolicy/tech/k/whatis/system/)
 - [スーパーコンピュータ「富岳」プロジェクト](https://www.r-ccs.riken.jp/jp/post-k/project.html)
 - [スパコン撤去で「今は無き京前」？　駅名が話題](https://www.kobe-np.co.jp/news/sougou/201902/0012064729.shtml)
+- [GUNSLINGER GIRL (全15巻)](https://www.amazon.co.jp/dp/B00UGJV7XO/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)...Kotoneさんおすすめのマンガ
 
 ## Editorial notes
 - 機械学習ネタ、これまでとは異なるテーマでとても良かったですね (soh)
