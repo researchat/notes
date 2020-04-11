@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/52.mp3
 audio_file_size: 54803995
 date: 2020-04-08 05:30:00 +0900
-description: ゲストにkotoneさんを招き、ディープラーニング、強化学習とそのアルゴリズムや計算用マシンについて話しました。
+description: ゲストにkotoneさんを招き、ディープラーニング、機械学習とそのアルゴリズムや計算用マシンについて話しました。
 duration: "01:18:05"
 layout: article
 tags:
