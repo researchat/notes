@@ -27,5 +27,6 @@ title: 52. Split into a row
 - [GPU](https://ja.wikipedia.org/wiki/Graphics_Processing_Unit)
 - [ディープラーニング入門 Chainer チュートリアル](https://tutorials.chainer.org/ja/)
 - [株式会社 Preferred Networks](https://preferred.jp/ja/)
+- [NVIDIA CUDA-X GPU-Accelerated Libraries for AI and HPC](https://developer.nvidia.com/gpu-accelerated-libraries)
 
 ## Editorial notes
