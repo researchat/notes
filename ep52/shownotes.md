@@ -30,5 +30,6 @@ title: 52. Split into a row
 - [NARUTO -ナルト- 疾風伝](https://www.tv-tokyo.co.jp/anime/naruto/index2.html)
 - [ImageNet](http://www.image-net.org/)...学習用の画像データセット
 - [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)...手書き文字認識用のデータセット
+- [誤差逆伝播法 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%83%E3%82%AF%E3%83%97%E3%83%AD%E3%83%91%E3%82%B2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 
 ## Editorial notes
