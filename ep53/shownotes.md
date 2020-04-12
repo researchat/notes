@@ -28,7 +28,7 @@ title: 53.
 - [やるおで学ぶ]
 - [多湖輝]
 - [イシューからはじめよ]
-- [Fate/Grand Order](https://www.fate-go.jp/) ... おすすめのスマホゲーム
+- [Fate/Grand Order](https://www.fate-go.jp/) ... coelaおすすめのスマホゲーム
 - [せかいしを横で学ぶ]
 - [桃鉄]
 - [クマムシさん](http://www.kumamushisan.net/)
