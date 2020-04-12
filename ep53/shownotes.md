@@ -19,8 +19,8 @@ title: 53.
 - [ゲームパッド](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%91%E3%83%83%E3%83%89)
 - [ファイティングエッジ刃](https://hori.jp/products/p4/FE4/) ... プロゲーマーsakoさんが開発に関わり、大会でも使用しているアーケードコントローラー。最近coelaも買いました。
 - [Hit Box](https://www.hitboxarcade.com/) ... ボタンしかないアーケードコントローラー（レバー操作もボタンで行う）。プロゲーマーの梅原大吾選手も大会で使用している。
-- [vim](https://www.vim.org/) 
-- [emacs](https://www.gnu.org/software/emacs/) 
+- [vim](https://www.vim.org/) ... テキストエディタ
+- [emacs](https://www.gnu.org/software/emacs/) ... テキストエディタ
 - [Yeti Blue](https://www.amazon.co.jp/dp/B002VA464S/?tag=researchatf04-22) ... researchatメンバーが収録につかっているマイク
 - [WEB DEVELOPER ROADMAP 2020](https://github.com/kamranahmedse/developer-roadmap) ... Webデベロッパになるために必要な知識・技術のロードマップ。
 - [roadmap.sh](https://roadmap.sh) ... 同作者によるロードマップまとめページ。フルスタックエンジニア・QAエンジニア版も準備中な模様。
