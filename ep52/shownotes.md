@@ -38,9 +38,10 @@ title: 52. Split into a row
 - [スーパーコンピュータ「富岳」プロジェクト](https://www.r-ccs.riken.jp/jp/post-k/project.html)
 - [スパコン撤去で「今は無き京前」？　駅名が話題](https://www.kobe-np.co.jp/news/sougou/201902/0012064729.shtml)
 - [GUNSLINGER GIRL (全15巻)](https://www.amazon.co.jp/dp/B00UGJV7XO/?tag=researchatf04-22)...Kotoneさんおすすめのマンガ
+- [Researchat.fm お便りフォーム](https://researchat.fm/form.html)...Researchat.fmではリスナーの方からのお便りを募集中です。よろしくお願いします。
 
 ## Editorial notes
-- (kotone)
+- 生命科学の内容がメインのポッドキャストに呼んでいただきありがとうございました。とても楽しく収録させていただいたので皆さまにも楽しんでいただければ幸いです。いずれアイマスの話もリベンジしたいですね (kotone)
 - 機械学習ネタ、これまでとは異なるテーマでとても良かったですね (soh)
 - (coela)
 - 他分野の話を聴くのは楽しい〜〜〜(tadasu)
