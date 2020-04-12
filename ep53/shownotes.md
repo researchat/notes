@@ -41,7 +41,7 @@ title: 53.
 - [the molecular of the cell]
 - [Essential]
 - [PRML](https://www.amazon.co.jp/dp/4621061224/?tag=researchatf04-22) ... 「パターン認識と機械学習」。ビショップ本とも。機械学習のバイブル的な存在。
-- [PRML二章] ... 死の谷
+- PRML二章 ... 死の谷
 - [PRMLを読む本]
 - [DeepL](https://www.deepl.com/ja/home)
 - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) ... NCBIが提供する論文検索用サービス。ほぼすべての生物関係の研究者がこのサービスのお世話になっていると思われる。
