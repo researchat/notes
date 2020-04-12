@@ -32,7 +32,7 @@ title: 53.
 - [せかいしを横で学ぶ]
 - [桃鉄]
 - [クマムシさん](http://www.kumamushisan.net/)
-- [researchatくん](https://twitter.com/researchat_fm/header_photo) ... twitterアカウントのヘッダーにいつの間にかいたresearchatのマスコット（？）
+- [researchatくん](https://twitter.com/researchat_fm/header_photo) ... researchatのtwitterアカウントヘッダーにいつの間にか居たresearchatのマスコット（？）
 - [CasX君](https://twitter.com/researchat_fm/status/1248718294246404096?s=20) ... tadasu考案のゆるきゃら
 - [もやしもん](https://www.amazon.co.jp/dp/B06XPC1KLW/?tag=researchatf04-22) ... 菌が（肉眼で）見える主人公が農業大学で生活していく漫画。かわいい菌がいっぱい出てきます。 
 - [プロゲーマーボンちゃん](https://www.youtube.com/channel/UCJn2kguDu7hLn8rQGCUMgXQ) ... プロゲーマーボンちゃんのYoutubeチャンネル。初心者向けのコンテンツがたくさんあります。
