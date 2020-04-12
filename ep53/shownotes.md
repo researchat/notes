@@ -22,7 +22,7 @@ title: 53.
 - [vim](https://www.vim.org/) ... テキストエディタ
 - [emacs](https://www.gnu.org/software/emacs/) ... テキストエディタ
 - [Yeti Blue](https://www.amazon.co.jp/dp/B002VA464S/?tag=researchatf04-22) ... researchatメンバーが収録につかっているマイク
-- [WEB DEVELOPER ROADMAP 2020](https://github.com/kamranahmedse/developer-roadmap) ... Webデベロッパになるために必要な知識・技術のロードマップ。
+- [WEB DEVELOPER ROADMAP 2020](https://github.com/kamranahmedse/developer-roadmap) ... Webデベロッパに必要な知識・技術のロードマップ。
 - [roadmap.sh](https://roadmap.sh) ... 同作者によるロードマップまとめページ。フルスタックエンジニア・QAエンジニア版も準備中な模様。
 - [ひろゆき]
 - [やるおで学ぶ]
