@@ -2,11 +2,11 @@
 actor_ids:
   - kotone
   - soh
-  - coela
   - tadasu
+  - coela
 audio_file_path: /audio/52.mp3
 audio_file_size: 70069134
-date: 2020-04-12 10:30:00 +0900
+date: 2020-04-12 11:14:00 +0900
 description: ゲストにkotoneさんを招き、ディープラーニング、機械学習とそのアルゴリズムや計算用マシンについて話しました。
 duration: "01:09:52"
 layout: article
@@ -51,6 +51,4 @@ title: 52. Split into a row
 ## Editorial notes
 - 生命科学の内容がメインのポッドキャストに呼んでいただきありがとうございました。とても楽しく収録させていただいたので皆さまにも楽しんでいただければ幸いです。いずれアイマスの話もリベンジしたいですね (kotone)
 - 機械学習ネタ、これまでとは異なるテーマでとても良かったですね (soh)
-- (coela)
 - 他分野の話を聴くのは楽しい〜〜〜(tadasu)
-
