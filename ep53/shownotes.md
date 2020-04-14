@@ -35,7 +35,8 @@ title: 53. Road map to Rome
 - [クマムシさん](http://www.kumamushisan.net/)
 - [researchatくん](https://twitter.com/researchat_fm/header_photo) ... researchatのtwitterアカウントヘッダーにいつの間にか居たresearchatのマスコット（？）
 - [CasX君](https://twitter.com/researchat_fm/status/1248718294246404096?s=20) ... tadasu考案のゆるきゃら
-- [もやしもん](https://www.amazon.co.jp/dp/B06XPC1KLW/?tag=researchatf04-22) ... 菌が（肉眼で）見える主人公が農業大学で生活していく漫画。かわいい菌がいっぱい出てきます。 
+- [もやしもん](https://www.amazon.co.jp/dp/B06XPC1KLW/?tag=researchatf04-22) ... 菌が（肉眼で）見える主人公が農業大学で生活していく漫画。かわいい菌がいっぱい出てきます。
+- [ウルトラ怪獣擬人化計画](http://kaiju-gk.jp/) 
 - [プロゲーマーボンちゃん](https://www.youtube.com/channel/UCJn2kguDu7hLn8rQGCUMgXQ) ... Street Fighter V のトッププロゲーマー、ボンちゃんのYoutubeチャンネル。初心者向けのコンテンツがたくさんあります。
 - [ヨビノリたくみ](https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ)
 - [苑田尚之](https://kwjkt.wicurio.com/index.php?%E8%8B%91%E7%94%B0%20%E5%B0%9A%E4%B9%8B) ... 最強の苑田の物理。coelaは薫陶を受けた。
