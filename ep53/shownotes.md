@@ -31,7 +31,7 @@ title: 53.
 - [イシューからはじめよ](https://www.amazon.co.jp/%E3%82%A4%E3%82%B7%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%82%88-%E2%80%95-%E7%9F%A5%E7%9A%84%E7%94%9F%E7%94%A3%E3%81%AE%E3%80%8C%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E6%9C%AC%E8%B3%AA%E3%80%8D-%E5%AE%89%E5%AE%85%E5%92%8C%E4%BA%BA-ebook/dp/B00MTL340G/?tag=researchatf04-22) ... 問題解決のための最強本。これを読めばあなたの人生観が変わります！！！(宣伝)
 - [Fate/Grand Order](https://www.fate-go.jp/) ... coelaおすすめのスマホゲーム
 - [ヨコから見る世界史](https://www.amazon.co.jp/dp/B07JVR76WM/?tag=researchatf04-22)
-- [桃太郎電鉄]https://www.amazon.co.jp/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E6%A1%83%E5%A4%AA%E9%83%8E%E9%9B%BB%E9%89%842010-%E6%88%A6%E5%9B%BD%E3%83%BB%E7%B6%AD%E6%96%B0%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E5%A4%A7%E9%9B%86%E5%90%88-%E3%81%AE%E5%B7%BB-Wii/dp/B004D29GVK/?tag=researchatf04-22)
+- [桃太郎電鉄](https://www.amazon.co.jp/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-%E6%A1%83%E5%A4%AA%E9%83%8E%E9%9B%BB%E9%89%842010-%E6%88%A6%E5%9B%BD%E3%83%BB%E7%B6%AD%E6%96%B0%E3%81%AE%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%E5%A4%A7%E9%9B%86%E5%90%88-%E3%81%AE%E5%B7%BB-Wii/dp/B004D29GVK/?tag=researchatf04-22)
 - [クマムシさん](http://www.kumamushisan.net/)
 - [researchatくん](https://twitter.com/researchat_fm/header_photo) ... researchatのtwitterアカウントヘッダーにいつの間にか居たresearchatのマスコット（？）
 - [CasX君](https://twitter.com/researchat_fm/status/1248718294246404096?s=20) ... tadasu考案のゆるきゃら
