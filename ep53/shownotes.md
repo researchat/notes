@@ -44,7 +44,7 @@ title: 53.
 - [Essential細胞生物学](https://www.amazon.co.jp/Essential%E7%B4%B0%E8%83%9E%E7%94%9F%E7%89%A9%E5%AD%A6-%E5%8E%9F%E6%9B%B8%E7%AC%AC4%E7%89%88-%E4%B8%AD%E6%9D%91-%E6%A1%82%E5%AD%90/dp/4524261990/?tag=researchatf04-22) ... Molecular Biology of the Cellなんかから始めるとほぼほぼ挫折するのでまずはここから。
 - [パターン認識と機械学習(PRML)](https://www.amazon.co.jp/dp/4621061224/?tag=researchatf04-22) ... 「パターン認識と機械学習」。ビショップ本とも。機械学習のバイブル的な存在。
 - PRML二章 ... 死の谷。ほぼ全ての戦士の心がここで折れる。
-- [パターン認識と機械学習の学習―ベイズ理論に負けないための数学]https://www.amazon.co.jp/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%AD%A6%E7%BF%92%E2%80%95%E3%83%99%E3%82%A4%E3%82%BA%E7%90%86%E8%AB%96%E3%81%AB%E8%B2%A0%E3%81%91%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AE%E6%95%B0%E5%AD%A6-%E5%85%89%E6%88%90-%E6%BB%8B%E7%94%9F/dp/4873100933/?tag=researchatf04-22) ... PRMLを読む前に読む本
+- [パターン認識と機械学習の学習―ベイズ理論に負けないための数学](https://www.amazon.co.jp/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E5%AD%A6%E7%BF%92%E2%80%95%E3%83%99%E3%82%A4%E3%82%BA%E7%90%86%E8%AB%96%E3%81%AB%E8%B2%A0%E3%81%91%E3%81%AA%E3%81%84%E3%81%9F%E3%82%81%E3%81%AE%E6%95%B0%E5%AD%A6-%E5%85%89%E6%88%90-%E6%BB%8B%E7%94%9F/dp/4873100933/?tag=researchatf04-22) ... PRMLを読む前に読む本
 - [DeepL](https://www.deepl.com/ja/home)
 - [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) ... NCBIが提供する論文検索用サービス。ほぼすべての生物関係の研究者がこのサービスのお世話になっていると思われる。
 - [AirPods Pro](https://www.apple.com/jp/airpods-pro/)
