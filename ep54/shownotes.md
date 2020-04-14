@@ -23,8 +23,8 @@ title: 54. TBA
 - [パリティビットの意味と誤り検出、誤り訂正の方法](https://mathwords.net/paritycheck)...誤り訂正に関する解説。
 - [ハミング符号 : データの誤り検知/訂正をインタラクティブに学ぶ](https://postd.cc/hamming-codes/)...MARFISHのプローブの設計において用いられた誤り訂正符号の一つ。
 - [Researchat.fm お便りフォーム](https://researchat.fm/form.html)...Researchat.fmではリスナーの方からのお便りを募集中です。よろしくお願いします。
-
+- [無能なナナ](https://www.amazon.co.jp/gp/product/B074CHB743/?tag=researchatf04-22) ... おすすめマンガ
 ## Editorial notes
 - soh
-- coela
+- RNAの局在は非常に興味深いテーマですね、めっちゃ勉強になりました。(coela)
 - tadasu
