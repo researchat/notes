@@ -3,10 +3,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/53.mp3
-audio_file_size: 83046736
-date: 2020-04-12 05:30:00 +0900
+audio_file_size: 77799205
+date: 2020-04-15 06:40:00 +0900
 description: 仕事タスクを最適化できない問題、ロードマップと攻略、門戸の広げ方、教科書の読み方とウェブ授業、DeepLの使用感について話しました。
-duration: "01:11:58"
+duration: "01:07:21"
 layout: article
 tags:
   - 雑談
