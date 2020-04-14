@@ -38,10 +38,11 @@ title: 53.
 - [もやしもん](https://www.amazon.co.jp/dp/B06XPC1KLW/?tag=researchatf04-22) ... 菌が（肉眼で）見える主人公が農業大学で生活していく漫画。かわいい菌がいっぱい出てきます。 
 - [プロゲーマーボンちゃん](https://www.youtube.com/channel/UCJn2kguDu7hLn8rQGCUMgXQ) ... Street Fighter V のトッププロゲーマー、ボンちゃんのYoutubeチャンネル。初心者向けのコンテンツがたくさんあります。
 - [ヨビノリたくみ](https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ)
-- [そのだ]
-- [the molecular of the cell]
-- [Essential]
-- [PRML](https://www.amazon.co.jp/dp/4621061224/?tag=researchatf04-22) ... 「パターン認識と機械学習」。ビショップ本とも。機械学習のバイブル的な存在。
+- [苑田尚之](https://kwjkt.wicurio.com/index.php?%E8%8B%91%E7%94%B0%20%E5%B0%9A%E4%B9%8B) ... 最強の苑田の物理。coelaは薫陶を受けた。
+- [Molecular Biology of the Cell](https://www.amazon.co.jp/Molecular-Biology-Cell-Bruce-Alberts/dp/0815344643/?tag=researchatf04-22) ... バイオを志す学徒であれば必読の一冊。分厚すぎる...意識高い勢はもちろん英語。
+- [細胞の分子生物学](https://www.amazon.co.jp/%E7%B4%B0%E8%83%9E%E3%81%AE%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6-%E7%AC%AC6%E7%89%88-%E7%AC%AC1%E7%AB%A0-%E7%B4%B0%E8%83%9E%E3%81%A8%E3%82%B2%E3%83%8E%E3%83%A0-%E7%B4%B0%E8%83%9E%E3%81%AE%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6-%E7%AC%AC6%E7%89%88-ALBERTS-ebook/dp/B07FMPJ451/?tag=researchatf04-22) ... やっぱり英語版はハードル高すぎだよね、人用の日本語版。
+- [Essential細胞生物学](https://www.amazon.co.jp/Essential%E7%B4%B0%E8%83%9E%E7%94%9F%E7%89%A9%E5%AD%A6-%E5%8E%9F%E6%9B%B8%E7%AC%AC4%E7%89%88-%E4%B8%AD%E6%9D%91-%E6%A1%82%E5%AD%90/dp/4524261990/?tag=researchatf04-22) ... Molecular Biology of the Cellなんかから始めるとほぼほぼ挫折するのでまずはここから。
+- [パターン認識と機械学習(PRML)](https://www.amazon.co.jp/dp/4621061224/?tag=researchatf04-22) ... 「パターン認識と機械学習」。ビショップ本とも。機械学習のバイブル的な存在。
 - PRML二章 ... 死の谷
 - [PRMLを読む本]
 - [DeepL](https://www.deepl.com/ja/home)
