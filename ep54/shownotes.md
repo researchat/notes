@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/54.mp3
 audio_file_size: XXXXX
-date: 2020-04-15 11:14:00 +0900
+date: 2020-04-18 11:14:00 +0900
 description: RNA分子の局在を一斉に捉えるイメージング技術とそれをささえる巧妙な方法について原著論文を解説しました。
 duration: "01:00:00"
 layout: article
@@ -23,6 +23,7 @@ title: 54. TBA
 - [パリティビットの意味と誤り検出、誤り訂正の方法](https://mathwords.net/paritycheck)...誤り訂正に関する解説。
 - [ハミング符号 : データの誤り検知/訂正をインタラクティブに学ぶ](https://postd.cc/hamming-codes/)...MARFISHのプローブの設計において用いられた誤り訂正符号の一つ。
 - [Researchat.fm お便りフォーム](https://researchat.fm/form.html)...Researchat.fmではリスナーの方からのお便りを募集中です。よろしくお願いします。
+- [elmo囲い](https://ja.wikipedia.org/wiki/Elmo%E5%9B%B2%E3%81%84)
 - [無能なナナ](https://www.amazon.co.jp/gp/product/B074CHB743/?tag=researchatf04-22) ... おすすめマンガ
 ## Editorial notes
 - soh
