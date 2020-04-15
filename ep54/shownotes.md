@@ -28,4 +28,4 @@ title: 54. TBA
 ## Editorial notes
 - soh
 - RNAの局在は非常に興味深いテーマですね、めっちゃ勉強になりました。(coela)
-- tadasu
+- coela先輩は本当に意識が高いんですね。すばらしいスピーチでした。(tadasu)
