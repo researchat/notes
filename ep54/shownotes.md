@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/54.mp3
-audio_file_size: XXXXX
+audio_file_size: 58201011
 date: 2020-04-18 11:14:00 +0900
 description: RNA分子の局在を一斉に捉えるイメージング技術とそれをささえる巧妙な方法について原著論文を解説しました。
-duration: "01:00:00"
+duration: "00:52:25"
 layout: article
 tags:
   - RNAイメージング
