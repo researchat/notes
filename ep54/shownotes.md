@@ -14,7 +14,7 @@ tags:
   - イメージング
   - アルゴリズム
   - 誤り訂正
-title: 54. TBA
+title: 54. Increase exponentially
 ---
 
 ## Show notes
