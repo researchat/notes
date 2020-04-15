@@ -18,14 +18,17 @@ title: 54. TBA
 ---
 
 ## Show notes
+- [elmo囲い](https://ja.wikipedia.org/wiki/Elmo%E5%9B%B2%E3%81%84)
+- [電王戦](https://denou.jp/)
 - [Single-cell in situ RNA profiling by sequential hybridization. Lubeck et al Nature Methods 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4085791/)...CaiらによるSeqFISHのオリジナル論文。無料で読めます。
 - [Spatially resolved, highly multiplexed RNA profiling in single cells. Chen et al Science 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4662681/)...MARFISHのオリジナル論文。こちらも無料で読めます。
 - [パリティビットの意味と誤り検出、誤り訂正の方法](https://mathwords.net/paritycheck)...誤り訂正に関する解説。
 - [ハミング符号 : データの誤り検知/訂正をインタラクティブに学ぶ](https://postd.cc/hamming-codes/)...MARFISHのプローブの設計において用いられた誤り訂正符号の一つ。
 - [Researchat.fm お便りフォーム](https://researchat.fm/form.html)...Researchat.fmではリスナーの方からのお便りを募集中です。よろしくお願いします。
-- [elmo囲い](https://ja.wikipedia.org/wiki/Elmo%E5%9B%B2%E3%81%84)
-- [無能なナナ](https://www.amazon.co.jp/gp/product/B074CHB743/?tag=researchatf04-22) ... おすすめマンガ
+- [無能なナナ](https://www.amazon.co.jp/gp/product/B074CHB743/?tag=researchatf04-22)...おすすめマンガ
+- [JAPAN PODCAST AWARDS](https://www.japanpodcastawards.com/)
+
 ## Editorial notes
-- soh
-- RNAの局在は非常に興味深いテーマですね、めっちゃ勉強になりました。(coela)
-- coela先輩は本当に意識が高いんですね。すばらしいスピーチでした。(tadasu)
+- うまく解説できたか心配ですが、ぜひ興味があるひとはこれを取っ掛かりに論文にもチャレンジしてみてくだい (soh)
+- RNAの局在は非常に興味深いテーマですね、めっちゃ勉強になりました (coela)
+- coela先輩は本当に意識が高いんですね。すばらしいスピーチでした (tadasu)
