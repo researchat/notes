@@ -23,7 +23,6 @@ title: 54. TBA
 - [Single-cell in situ RNA profiling by sequential hybridization. Lubeck et al Nature Methods 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4085791/)...CaiらによるSeqFISHのオリジナル論文。無料で読めます。
 - [Ep16. Beyond imaging (Researchat.fm)](https://researchat.fm/episode/16)...エピソード16回ではイメージングせずに位置情報を再構成するDNA Microscopyについて解説しています。
 - [WHAT IS SEQFISH?](https://www.seqfish.com/technology)...CaiらによるSeqFISH技術紹介のページ。とてもわかり易いです。
-- [電王戦](https://denou.jp/)
 - [Spatially resolved, highly multiplexed RNA profiling in single cells. Chen et al Science 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4662681/)...MARFISHのオリジナル論文。こちらも無料で読めます。
 - [パリティビットの意味と誤り検出、誤り訂正の方法](https://mathwords.net/paritycheck)...誤り訂正に関する解説。
 - [ハミング符号 : データの誤り検知/訂正をインタラクティブに学ぶ](https://postd.cc/hamming-codes/)...MARFISHのプローブの設計において用いられた誤り訂正符号の一つ。
