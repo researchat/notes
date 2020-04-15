@@ -31,6 +31,6 @@ title: 54. Increase exponentially
 - [JAPAN PODCAST AWARDS](https://www.japanpodcastawards.com/)
 
 ## Editorial notes
-- うまく解説できたか心配ですが、ぜひ興味があるひとはこれを取っ掛かりに論文にもチャレンジしてみてくだい (soh)
+- うまく解説できたか心配ですが、興味があるひとはこれを取っ掛かりに論文にもチャレンジするのもよいかもしれません (soh)
 - RNAの局在は非常に興味深いテーマですね、めっちゃ勉強になりました (coela)
 - coela先輩は本当に意識が高いんですね。すばらしいスピーチでした (tadasu)
