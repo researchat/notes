@@ -1,0 +1,3 @@
+|  名前  |  画像 | 既刊 | 完結済み | 
+| ------ | ----- | ---- |          |
+|  無能なナナ  |  <a target="_blank"  href="https://www.amazon.co.jp/gp/product/B01MZF80RW/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=B01MZF80RW&linkCode=as2&tag=researchatf04-22&linkId=47238a95a28090d7b5fb4324a65d1858"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=B01MZF80RW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=researchatf04-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=researchatf04-22&l=am2&o=9&a=B01MZF80RW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  | 6 | ✗ |
