@@ -16,8 +16,6 @@
 |姫様“拷問”の時間です|[![姫様“拷問”の時間です](https://images-fe.ssl-images-amazon.com/images/I/512D1pNSR8L._SY300_.jpg)](https://www.amazon.co.jp/dp/B084Z5JWK5?ref_=dbs_s_ks_series_rwt)|2|no|[45](episode/45)|
 |血と灰の女王|[![血と灰の女王](https://images-fe.ssl-images-amazon.com/images/I/51legA0x+TL._SY300_.jpg)](https://www.amazon.co.jp/dp/B074CKX3ZV?ref_=dbs_s_ks_series_rwt)|10|no|[45](episode/45)|
 |へうげもの|[![へうげもの](https://images-fe.ssl-images-amazon.com/images/I/51ohSU13s7L._SY300_.jpg)](https://www.amazon.co.jp/dp/B074C5CFPL?ref_=dbs_s_ks_series_rwt)|25|yes|[45](episode/45)|
-The server couldn't fulfill the request.
-Error code:  503
 |エルフを狩るモノたち|[![エルフを狩るモノたち](https://images-fe.ssl-images-amazon.com/images/I/61fcGHTbpeL._SY300_.jpg)](https://www.amazon.co.jp/gp/product/B074C379D2?ref_=dbs_p_pwh_rwt_anx_b_lnk&storeType=ebooks)|23|yes|[40](episode/40)|
 |エルフを狩るモノたち2|[![エルフを狩るモノたち2](https://images-fe.ssl-images-amazon.com/images/I/61n2aeamHsL._SY300_.jpg)](https://www.amazon.co.jp/dp/B0749S9CJX?ref_=dbs_s_ks_series_rwt)|10|yes|[40](episode/40)|
 |スペクトラルウィザード|[![スペクトラルウィザード](https://images-fe.ssl-images-amazon.com/images/I/61E-sbLGZ9L._SY300_.jpg)](https://www.amazon.co.jp/dp/B07ZG5BJW6?ref_=dbs_s_ks_series_rwt)|2|unknown|[40](episode/40)|
@@ -44,8 +42,6 @@ Error code:  503
 |人形の国|[![人形の国](https://images-fe.ssl-images-amazon.com/images/I/51f6sGbXTuL._SY300_.jpg)](https://www.amazon.co.jp/dp/B079VWQVQ6?ref_=dbs_s_ks_series_rwt)|5|no|[11](episode/11)|
 |BLAME!|[![BLAME!](https://images-fe.ssl-images-amazon.com/images/I/51EgQDIQg3L._SY300_.jpg)](https://www.amazon.co.jp/dp/B07571PDR7?ref_=dbs_s_ks_series_rwt)|6|yes|[11](episode/11)|
 |銃夢|[![銃夢](https://images-fe.ssl-images-amazon.com/images/I/51KZl-sbINL._SY300_.jpg)](https://www.amazon.co.jp/dp/B074CMKXLT?ref_=dbs_s_ks_series_rwt)|9|yes|[11](episode/11)|
-The server couldn't fulfill the request.
-Error code:  503
 |北北西に曇と往け|[![北北西に曇と往け](https://images-fe.ssl-images-amazon.com/images/I/51l-i2ISEoL._SY300_.jpg)](https://www.amazon.co.jp/dp/B07BNZ86S2?ref_=dbs_s_ks_series_rwt)|4|no|[6](episode/6)|
 |マージナル・オペレーション|[![マージナル・オペレーション](https://images-fe.ssl-images-amazon.com/images/I/51mowBeDTML._SY300_.jpg)](https://www.amazon.co.jp/dp/B074C8KNPT?ref_=dbs_s_ks_series_rwt)|14|no|[5](episode/5)|
 |めしにしましょう|[![めしにしましょう](https://images-fe.ssl-images-amazon.com/images/I/61ynUEX4n8L._SY300_.jpg)](https://www.amazon.co.jp/dp/B074CF8CW6?ref_=dbs_s_ks_series_rwt)|8|yes|[5](episode/5)|
