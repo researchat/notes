@@ -12,9 +12,7 @@ duration: "01:XX:XX"
 layout: article
 tags:
   - クモ
-  - イメージング
-  - アルゴリズム
-  - 誤り訂正
+  - 研究
 title: 55. Spider
 ---
 
