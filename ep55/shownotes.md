@@ -33,7 +33,7 @@ title: 55. Spiderなんたら
 - ジョロウグモ: 秋に成体となる大型のクモ。おそらく最もポピュラーなクモの一つ。
 - オオヒメグモ: 人家やビルなどの人工物の近くによくいるクモ。円網ではなく、一見不規則な不規則網を張
   る。ゲノムが解読されている 、成体になるまでの期間が短い(2 ~ 3 ヶ月)、飼育がしやすいという理由から、発生の研究
-  に使われており、JT生命誌研究館の小田広樹氏らによって発生生物学的なツールが精力的に整備されている。 [(Oda and Akiyama-Oda 2020)](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-020-00152-z)
+  に使われており、[JT生命誌研究館](https://www.brh.co.jp/)の[小田広樹氏ら](https://www.brh.co.jp/research/lab04/)によって発生生物学的なツールが精力的に整備されている。 [(Oda and Akiyama-Oda 2020)](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-020-00152-z)
 - CRISPR
 - 寄生蜂
 - クモヒメバチ
