@@ -13,7 +13,7 @@ layout: article
 tags:
   - クモ
   - 研究
-title: 55. Spider
+title: 55. Spiderなんたら
 ---
 
 ## Show notes
