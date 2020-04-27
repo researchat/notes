@@ -47,7 +47,6 @@ title: 55. Spiderなんたら
 - クモの種類: [World Spider Catalog](https://wsc.nmbe.ch/) によると、これを書いている時点で世界のクモの種類は 48422 種。
 - [テラフォーマーズ (Amazon)](https://www.amazon.co.jp/gp/product/B0756ZDXJW/?tag=researchatf04-22)
 - [ミノムシ](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8E%E3%83%A0%E3%82%B7)
-- ふきそうぐも？
 - [キムラグモ](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A0%E3%83%A9%E3%82%B0%E3%83%A2) ... 九州、南西諸島に生息するハラフシグモ科のクモ。生きた化石と呼ばれ、移動能力が低く古くか
   存在しており、地理的な分化をしていることが知られている [(Tanikawa 2013)](https://www.jstage.jst.go.jp/article/asjaa/62/1/62_33/_article/-char/ja)。
 - [ミズグモ](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%82%B0%E3%83%A2) ... 世界で唯一水中で生活するクモ。現在はハグモ科に分類されている [(World Spider Catalog)](https://wsc.nmbe.ch/species/8306)。
@@ -57,7 +56,7 @@ title: 55. Spiderなんたら
 - [ザトウムシとB染色体](https://www.toho-u.ac.jp/sci/bio/column/018375.html)
 - [闘蟋―中国のコオロギ文化 (Amazon)](https://www.amazon.co.jp/%E9%97%98%E8%9F%8B%E2%80%95%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%82%B3%E3%82%AA%E3%83%AD%E3%82%AE%E6%96%87%E5%8C%96-%E3%81%82%E3%81%98%E3%81%82%E3%83%96%E3%83%83%E3%82%AF%E3%82%B9-%E7%80%AC%E5%B7%9D-%E5%8D%83%E7%A7%8B/dp/4469231851/?tag=researchatf04-22) ... "「闘蟋」―それはコオロギを闘わせ、ひと秋をかけて“虫王”を決める遊び。飼い主たちは、戦士の育成に持てる金と時間と知識のすべてを注ぎ、熱中のあまり家屋敷を失ったものは数知れず、一国を滅ぼした宰相さえいた。一二〇〇年の時を超え、男たちを魅了し続ける中国の闘うコオロギとは。 " この紹介文を読んでこの本を読みたくならないものなどいないだろう！！！
 - [賈似道](https://ja.wikipedia.org/wiki/%E8%B3%88%E4%BC%BC%E9%81%93) ... 南宋末期の政治家。闘蟋に入れ込み過ぎたことが知られている。その入れ込みから唐の時代からの闘蟋の歴史を書き記した百科事典、促織経を書き記す。しかしそのあと南宋はモンゴル帝国の前に屈する。
-- ブッチ、DIO
+- プッチ神父、DIO ... みなさんご存知のジョジョの敵キャラ
 - とりたべるクモ ... 沖縄ではオオジョロウグモが鳥を食べているところが[目撃される](https://www.okinawatimes.co.jp/articles/-/56525)ことがある。クモに食べられた鳥について、これまでの報告をまとめた論文 [(Walther 2016)](https://avianres.biomedcentral.com/articles/10.1186/s40657-016-0051-4) もある。これを見るとオオジョロウグモはよく鳥を食べているようだ。ちなみにコウモリも食べるらしい [(Nyffeler and Knörnschild 2013)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0058120)。
 - [ハエトリグモ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A8%E3%83%88%E3%83%AA%E3%82%B0%E3%83%A2) ... かわいい
 - [ハエトリグモハンドブック](https://www.amazon.co.jp/%E3%83%8F%E3%82%A8%E3%83%88%E3%83%AA%E3%82%B0%E3%83%A2%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-%E9%A0%88%E9%BB%92-%E9%81%94%E5%B7%B3/dp/4829981490/?tag=researchatf04-22)
