@@ -25,7 +25,7 @@ title: 55. Spiderなんたら
 - [クラスタリング係数](https://www.weblio.jp/content/%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E4%BF%82%E6%95%B0)
 - extended phenotype
 - orb web 円網種
-- はらなんちゃらぐも
+- ハラフシグモ
 - 投げ縄くも
 - 大姫グモ
 - 女郎グモ
