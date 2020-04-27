@@ -37,7 +37,7 @@ title: 55. Spiderなんたら
 - [クモヒメバチ](https://www.kobe-u.ac.jp/research_at_kobe/NEWS/news/2015_08_06_01.html)
 - [クモヒメバチに操作されるギンメッキゴミグモの全造網過程の動画 (YouTube)](https://www.youtube.com/watch?v=G7YW8Fkei48)
 - [ゴミグモ](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%9F%E3%82%B0%E3%83%A2) ... 円網の中心にゴミを貼り付けてカモフラージュすることからこの名前がある。
-- 縦糸、横糸、枠糸: 円網を構成する糸の呼称。ネバネバしているのは横糸のみ。
+- 縦糸、横糸、枠糸 ... 円網を構成する糸の呼称。ネバネバしているのは横糸のみ。
 - [中島みゆき　糸 (Amazon)](https://www.amazon.co.jp/%E5%91%BD%E3%81%AE%E5%88%A5%E5%90%8D-%E7%B3%B8-%E4%B8%AD%E5%B3%B6%E3%81%BF%E3%82%86%E3%81%8D/dp/B00005FRZD/?tag=researchatf04-22)
 - [幽★遊★白書 (Amazon)](https://www.amazon.co.jp/gp/product/B01C3Q0UO4/ref=series_rw_dp_sw/?tag=researchatf04-22) ... 冨樫義博先生の名作。美しい魔闘家鈴木については幽遊白書を参考のこと(大した話ではない)。
 - [バルーニング](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0_(%E5%8B%95%E7%89%A9)) ... クモが風に乗って遠くまで移動する方法。
@@ -50,7 +50,7 @@ title: 55. Spiderなんたら
 - ふきそうぐも？
 - [キムラグモ](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A0%E3%83%A9%E3%82%B0%E3%83%A2) ... 九州、南西諸島に生息するハラフシグモ科のクモ。生きた化石と呼ばれ、移動能力が低く古くか
   存在しており、地理的な分化をしていることが知られている [(Tanikawa 2013)](https://www.jstage.jst.go.jp/article/asjaa/62/1/62_33/_article/-char/ja)。
-- [ミズグモ](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%82%B0%E3%83%A2)
+- [ミズグモ](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%82%B0%E3%83%A2) ... 世界で唯一水中で生活するクモ。現在はハグモ科に分類されている [(World Spider Catalog)](https://wsc.nmbe.ch/species/8306)。
 - [ダーウィンズ・バーク・スパイダー](https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%90%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC) ... 2010年にマダガスカルから報告された、世界で最もタフな糸を持つとされているクモ [(Agnarsson, Kuntner, and Blackledge 2010)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011234)。川をまたぐように巣を張ることで知られている。造網行動について報告した論文にある、クモが糸を大量に出している[動画](https://doi.org/10.1371/journal.pone.0026847.s001)は必見 [(Gregorič et al. 2011)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026847)。
 - クモの目 ... クモは単眼のみを持つ。配置と数は科によって異なり、種同定に使われる。
 - [ザトウムシ](https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%88%E3%82%A6%E3%83%A0%E3%82%B7)
