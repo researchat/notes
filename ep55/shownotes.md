@@ -5,10 +5,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/55.mp3
-audio_file_size: X
+audio_file_size: 75611324
 date: 2020-04-28 11:14:00 +0900
 description: クモになぜか詳しいゲストをお呼びして、クモについて話しました。
-duration: "01:XX:XX"
+duration: "01:08:12"
 layout: article
 tags:
   - クモ
