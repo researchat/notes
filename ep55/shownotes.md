@@ -24,6 +24,8 @@ title: 55. Spiderなんたら
 - [ネットワーク科学: ひと・もの・ことの関係性をデータから解き明かす新しいアプローチ (Amazon)](https://www.amazon.co.jp/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E7%A7%91%E5%AD%A6-%E3%81%B2%E3%81%A8%E3%83%BB%E3%82%82%E3%81%AE%E3%83%BB%E3%81%93%E3%81%A8%E3%81%AE%E9%96%A2%E4%BF%82%E6%80%A7%E3%82%92%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E8%A7%A3%E3%81%8D%E6%98%8E%E3%81%8B%E3%81%99%E6%96%B0%E3%81%97%E3%81%84%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81-Albert%E2%80%90L%C2%B4aszl%C2%B4-Barab%C2%B4asi/dp/4320124472/?tag=researchatf04-22) ... Barabásiらによるネットワーク科学の教科書
 - [クラスタリング係数](https://www.weblio.jp/content/%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E4%BF%82%E6%95%B0)
 - [The Extended Phenotype: The Long Reach of the Gene](https://www.amazon.co.jp/Extended-Phenotype-Oxford-Landmark-Science/dp/0198788916/?tag=researchatf04-22) ... Richard Dawkinsによる外部表現型に関する解説本
+- [Bond et al. 2014 (Current Biology)](https://www.sciencedirect.com/science/article/pii/S0960982214007507) ... クモの巣の分類と分子系統進化に関する論文。クモの巣を作る能力は複数回獲得されたのか、それとも複数回失われたかについての議論。
+- [Coddington et al. 2019 (PeerJ)](https://peerj.com/articles/6703/) ... Bondグループによる最新の論文。
 - [クモの巣について](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A2%E3%81%AE%E7%B6%B2) ...  クモの巣について。こちらを読むと理解が捗ります。
 - [ハラフシグモ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A9%E3%83%95%E3%82%B7%E3%82%B0%E3%83%A2%E7%A7%91) ...  ハラフシグモ科のクモ。腹部に体節の痕跡がある。かわいい。
 - [ナゲナワグモ](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B2%E3%83%8A%E3%83%AF%E3%82%B0%E3%83%A2) ... 粘球のついた投げ縄を使って獲物を捕まえるクモの総称。日本にはムツトゲイセキグモ、マメ
@@ -42,6 +44,8 @@ title: 55. Spiderなんたら
 - [幽★遊★白書 (Amazon)](https://www.amazon.co.jp/gp/product/B01C3Q0UO4/ref=series_rw_dp_sw/?tag=researchatf04-22) ... 冨樫義博先生の名作。美しい魔闘家鈴木については幽遊白書を参考のこと(大した話ではない)。
 - [バルーニング](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AB%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0_(%E5%8B%95%E7%89%A9)) ... クモが風に乗って遠くまで移動する方法。
 - [maz](https://twitter.com/dynamicsoar) ... 生物の飛行と遊泳の研究を行う若手研究者。生物の飛行と遊泳に興味がある人はmazさんのtwitterを見よう！researchat.fmで手に入れている飛行と遊泳に関する情報はほぼこの人のtwitterがソース。
+- [Cho et al. 2018 (PLoS Biology)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004405) ... クモのバルーニングと風洞実験に関する論文
+- [Watch a ‘ballooning’ spider take flight (YouTube)](https://www.youtube.com/watch?v=JrS0igctMi0) ... 上記の論文に関連したクモのバルーニングの様子に関する動画
 - 偽円網 ... ボロアミグモ科の Fecenia が造る網は、円網種が造る円網と構造が類似しているためこう呼ばれ
   る。徘徊性のクモであるが、円網と似た網を造るところが興味深い。 [(Blackledge et al. 2012)](https://www.nature.com/articles/srep00833)
 - クモの種類: [World Spider Catalog](https://wsc.nmbe.ch/) によると、これを書いている時点で世界のクモの種類は 48422 種。
