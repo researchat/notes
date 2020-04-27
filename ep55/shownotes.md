@@ -17,7 +17,7 @@ title: 55. Spiderなんたら
 ---
 
 ## Show notes
-- [Albert-László Barabási](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si) ... scale-freeを中心とするネットワーク科学研究者
+- [Albert-László Barabási](https://en.wikipedia.org/wiki/Albert-L%C3%A1szl%C3%B3_Barab%C3%A1si) ... scale-free networkで知られるネットワーク科学研究者
 - [Uri Alon](http://www.weizmann.ac.il/mcb/UriAlon/homepage) ... システム生物学の研究者。
 - [Uri Alonによるシステム生物学の授業 (YouTube)](https://www.youtube.com/watch?v=N6VZeWuME_A) ... 以前から更新されているUri Alonによるシステム生物学の授業。授業の中でリラックスのために深呼吸を促すこともある。
 - [システム生物学入門 (Amazon)](https://www.amazon.co.jp/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%9F%E7%89%A9%E5%AD%A6%E5%85%A5%E9%96%80-%E7%94%9F%E7%89%A9%E5%9B%9E%E8%B7%AF%E3%81%AE%E8%A8%AD%E8%A8%88%E5%8E%9F%E7%90%86-Uri-Alon/dp/4320056736/?tag=researchatf04-22) ... Uri Alonによるシステム生物学に関する入門教科書。
