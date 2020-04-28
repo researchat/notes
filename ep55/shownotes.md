@@ -28,11 +28,8 @@ title: 55. Spiderなんたら
 - [Coddington et al. 2019 (PeerJ)](https://peerj.com/articles/6703/) ... Bondグループによる最新の論文。
 - [クモの巣について](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A2%E3%81%AE%E7%B6%B2) ...  クモの巣について。こちらを読むと理解が捗ります。
 - [ハラフシグモ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%A9%E3%83%95%E3%82%B7%E3%82%B0%E3%83%A2%E7%A7%91) ...  ハラフシグモ科のクモ。腹部に体節の痕跡がある。かわいい。
-- [ナゲナワグモ](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B2%E3%83%8A%E3%83%AF%E3%82%B0%E3%83%A2) ... 粘球のついた投げ縄を使って獲物を捕まえるクモの総称。日本にはムツトゲイセキグモ、マメ
-  イタイセキグモが生息している [(谷川 1997)](https://www.jstage.jst.go.jp/article/asjaa1936/46/2/46_2_101/_article/-char/ja)。ムツトゲイセキグモの生態については、新海らによる報告に詳しい [(新海 and 新海 2002)](https://www.jstage.jst.go.jp/article/asjaa1936/51/2/51_2_149/_article/-char/ja/)
-- [オオヒメグモ](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%92%E3%83%A1%E3%82%B0%E3%83%A2) ... 人家やビルなどの人工物の近くによくいるクモ。円網ではなく、一見不規則な不規則網を張
-  る。ゲノムが解読されている 、成体になるまでの期間が短い(2 ~ 3 ヶ月)、飼育がしやすいという理由から、発生の研究
-  に使われており、[JT生命誌研究館](https://www.brh.co.jp/)の[小田広樹氏ら](https://www.brh.co.jp/research/lab04/)によって発生生物学的なツールが精力的に整備されている。 [(Oda and Akiyama-Oda 2020)](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-020-00152-z)
+- [ナゲナワグモ](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B2%E3%83%8A%E3%83%AF%E3%82%B0%E3%83%A2) ... 粘球のついた投げ縄を使って獲物を捕まえるクモの総称。日本にはムツトゲイセキグモ、マメイタイセキグモが生息している [(谷川 1997)](https://www.jstage.jst.go.jp/article/asjaa1936/46/2/46_2_101/_article/-char/ja)。ムツトゲイセキグモの生態については、新海らによる報告に詳しい [(新海 and 新海 2002)](https://www.jstage.jst.go.jp/article/asjaa1936/51/2/51_2_149/_article/-char/ja/)
+- [オオヒメグモ](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%AA%E3%83%92%E3%83%A1%E3%82%B0%E3%83%A2) ... 人家やビルなどの人工物の近くによくいるクモ。円網ではなく、一見不規則な不規則網を張る。ゲノムが解読されている 、成体になるまでの期間が短い(2 ~ 3 ヶ月)、飼育がしやすいという理由から、発生の研究に使われており、[JT生命誌研究館](https://www.brh.co.jp/)の[小田広樹氏ら](https://www.brh.co.jp/research/lab04/)によって発生生物学的なツールが精力的に整備されている。 [(Oda and Akiyama-Oda 2020)](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-020-00152-z)
 - [ジョロウグモ](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%AD%E3%82%A6%E3%82%B0%E3%83%A2) ... 秋に成体となる大型のクモ。おそらく最もポピュラーなクモの一つ。
 - [CRISPR/Cas9](https://en.wikipedia.org/wiki/CRISPR) ... ゲノム編集に使われるシステム。[ep2](https://researchat.fm/episode/2)などを参照のこと。
 - [寄生バチ](https://ja.wikipedia.org/wiki/%E5%AF%84%E7%94%9F%E3%83%90%E3%83%81)
@@ -46,13 +43,11 @@ title: 55. Spiderなんたら
 - [maz](https://twitter.com/dynamicsoar) ... 生物の飛行と遊泳の研究を行う若手研究者。生物の飛行と遊泳に興味がある人はmazさんのtwitterを見よう！researchat.fmで手に入れている飛行と遊泳に関する情報はほぼこの人のtwitterがソース。
 - [Cho et al. 2018 (PLoS Biology)](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004405) ... クモのバルーニングと風洞実験に関する論文
 - [Watch a ‘ballooning’ spider take flight (YouTube)](https://www.youtube.com/watch?v=JrS0igctMi0) ... 上記の論文に関連したクモのバルーニングの様子に関する動画
-- 偽円網 ... ボロアミグモ科の Fecenia が造る網は、円網種が造る円網と構造が類似しているためこう呼ばれ
-  る。徘徊性のクモであるが、円網と似た網を造るところが興味深い。 [(Blackledge et al. 2012)](https://www.nature.com/articles/srep00833)
+- 偽円網 ... ボロアミグモ科の Fecenia が造る網は、円網種が造る円網と構造が類似しているためこう呼ばれる。徘徊性のクモであるが、円網と似た網を造るところが興味深い。 [(Blackledge et al. 2012)](https://www.nature.com/articles/srep00833)
 - クモの種類: [World Spider Catalog](https://wsc.nmbe.ch/) によると、これを書いている時点で世界のクモの種類は 48422 種。
 - [テラフォーマーズ (Amazon)](https://www.amazon.co.jp/gp/product/B0756ZDXJW/?tag=researchatf04-22)
 - [ミノムシ](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8E%E3%83%A0%E3%82%B7)
-- [キムラグモ](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A0%E3%83%A9%E3%82%B0%E3%83%A2) ... 九州、南西諸島に生息するハラフシグモ科のクモ。生きた化石と呼ばれ、移動能力が低く古くか
-  存在しており、地理的な分化をしていることが知られている [(Tanikawa 2013)](https://www.jstage.jst.go.jp/article/asjaa/62/1/62_33/_article/-char/ja)。
+- [キムラグモ](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A0%E3%83%A9%E3%82%B0%E3%83%A2) ... 九州、南西諸島に生息するハラフシグモ科のクモ。生きた化石と呼ばれ、移動能力が低く古くか存在しており、地理的な分化をしていることが知られている [(Tanikawa 2013)](https://www.jstage.jst.go.jp/article/asjaa/62/1/62_33/_article/-char/ja)。
 - [ミズグモ](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%BA%E3%82%B0%E3%83%A2) ... 世界で唯一水中で生活するクモ。現在はハグモ科に分類されている [(World Spider Catalog)](https://wsc.nmbe.ch/species/8306)。
 - [ダーウィンズ・バーク・スパイダー](https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%90%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%91%E3%82%A4%E3%83%80%E3%83%BC) ... 2010年にマダガスカルから報告された、世界で最もタフな糸を持つとされているクモ [(Agnarsson, Kuntner, and Blackledge 2010)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011234)。川をまたぐように巣を張ることで知られている。造網行動について報告した論文にある、クモが糸を大量に出している[動画](https://doi.org/10.1371/journal.pone.0026847.s001)は必見 [(Gregorič et al. 2011)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026847)。
 - クモの目 ... クモは単眼のみを持つ。配置と数は科によって異なり、種同定に使われる。
