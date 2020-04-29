@@ -1,6 +1,10 @@
+# -*- coding: utf-8 -*-
 import csv
 tsvFile = open("../reference/manga_annotataed_db.tsv")
 tsv = csv.reader(tsvFile, delimiter = '\t')
+print ("|  名前  |  画像 | 既刊 | 完結済み | 紹介エピソード|")
+print ("| ------ | ----- | ---- | -------- | ------------- |")
+ 
 for i, s in enumerate(tsv):
     eplink = []
     for t in s[-1].split(','):
