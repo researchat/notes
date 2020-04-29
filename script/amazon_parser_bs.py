@@ -97,8 +97,8 @@ class AmazonProductAdvertisingAPI:
     def get_author(self, soup):
         return soup.find('itemattributes').find('author').text.strip()
 
-print ("|  名前  |  画像 | 既刊 | 完結済み | 紹介エピソード|")
-print ("| ------ | ----- | ---- | -------- | ------------- |")
+#print ("|  名前  |  画像 | 既刊 | 完結済み | 紹介エピソード|")
+#print ("| ------ | ----- | ---- | -------- | ------------- |")
  
 tsvFile = open("../reference/manga_db.tsv")
 tsv = csv.reader(tsvFile, delimiter = '\t')
@@ -158,7 +158,9 @@ for i, s in enumerate(tsv):
             book_div = bs.find("div",id="booksImageBlock_feature_div")
             imglink = book_div.find("img").get("src")
     #print ("|" + s[0] + '|' + '[![{}]({})]({})'.format(s[0],imglink,s[2]) + "|" + kansuu + "|" + s[3] + "|" + "[{}](episode/{})".format(s[1],s[1]) + "|")
-    print ("\t".join([s[0],imglink,s[2],kansuu,s[3] , s[1]]))
+    hoge = s[2].split("?")
+
+    print ("\t".join([s[0],imglink,hoge[0],kansuu,s[3] , s[1]]))
 
     time.sleep(1)
 
