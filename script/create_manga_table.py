@@ -10,7 +10,7 @@ for i, s in enumerate(tsv):
     eplink = []
     for t in s[5].split(','):
         eplink.append("[{}](https://researchat.fm/episode/{})".format(t,t))
-        s[2] = s[2] + "?" + tag
+        s[2] = s[2] + "?tag=" + tag
     print ("|" + '[{}]({})'.format(s[0],s[2]) + '|' + '<a href="{}" > <img src="{}" height=120 alt="{}"></a>'.format(s[2],s[1],s[0]) + "|" + s[3] + "|" + s[4] + "|" + ",".join(eplink) + "|")
         
 
