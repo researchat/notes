@@ -12,9 +12,9 @@ for i, s in enumerate(tsv):
         eplink.append("[Episode{}](https://researchat.fm/episode/{})".format(t,t))
         s[2] = s[2] + "?tag=" + tag
     if s[4] == 'yes':
-        s[3] = '全'+ s[3] + '巻'
+        s[3] = s[3] + '巻（完結済み）'
     else :
-        s[3] = '既刊'+ s[3] + '巻'
+        s[3] = s[3] + '巻'
 
     print ("|" + '[{}]({})'.format(s[0],s[2]) + '|' + '<a href="{}" > <img src="{}" height=120 alt="{}"></a>'.format(s[2],s[1],s[0]) + "|" + s[3] + "|" + ",".join(eplink) + "|")
         
