@@ -112,11 +112,11 @@ for i, s in enumerate(tsv):
         try:
             htmldata = urllib.request.urlopen(request)
         except HTTPError as e:
-            print('The server couldn\'t fulfill the request.')
-            print('Error code: ', e.code)
+ #           print('The server couldn\'t fulfill the request.')
+ #           print('Error code: ', e.code)
         except URLError as e:
-            print('We failed to reach a server.')
-            print('Reason: ', e.reason)
+ #           print('We failed to reach a server.')
+ #           print('Reason: ', e.reason)
         else:
             sss = True
         if sss:
