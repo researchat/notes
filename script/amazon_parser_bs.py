@@ -148,17 +148,17 @@ for i, s in enumerate(tsv):
     #    print(amazonaf.get_title())
         #print(create_amazon_imagelink(match2.groups()))
 
-        print ("|" + s[0] + '|' + '[![{}]({})]({})'.format(s[0],imglink,s[2]) + "|" + kansuu + "|" + s[3] + "|" + "[{}](episode/{})".format(s[1],s[1]) + "|")
 
     else:
         ikkan_link = bs.find("img",id="ebooksImgBlkFront")
 
         if ikkan_link:
             imglink = ikkan_link.get("src")
-            print ("|" + s[0] + '|' + '[![{}]({})]({})'.format(s[0],imglink,s[2]) + "|" + "1" + "|" + s[3] + "|" + "[{}](episode/{})".format(s[1],s[1]) + "|")
         else:
             book_div = bs.find("div",id="booksImageBlock_feature_div")
             imglink = book_div.find("img").get("src")
-            print ("|" + s[0] + '|' + '[![{}]({})]({})'.format(s[0],imglink,s[2]) + "|" + "1" + "|" + s[3] + "|" + "[{}](episode/{})".format(s[1],s[1]) + "|")
+    #print ("|" + s[0] + '|' + '[![{}]({})]({})'.format(s[0],imglink,s[2]) + "|" + kansuu + "|" + s[3] + "|" + "[{}](episode/{})".format(s[1],s[1]) + "|")
+    print ("\t".join([s[0],imglink,s[2],kansuu,s[3] , s[1]]))
+
     time.sleep(1)
 
