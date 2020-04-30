@@ -16,6 +16,7 @@ for i, s in enumerate(tsv):
     else :
         s[3] = s[3] + '巻'
 
-    print ("|" + '[{}]({})'.format(s[0],s[2]) + '|' + '<a href="{}" > <img src="{}" height=120 alt="{}"></a>'.format(s[2],s[1],s[0]) + "|" + s[3] + "|" + ",".join(eplink) + "|")
+    #print ("|" + '[{}]({})'.format(s[0],s[2]) + '|' + '<a href="{}" > <img src="{}" height=120 alt="{}"></a>'.format(s[2],s[1],s[0]) + "|" + s[3] + "|" + ",".join(eplink) + "|")
+    print ("|" + '[{}]({})'.format(s[0],s[2]) + '|' + '[![{}]({})]({})'.format(s[2],s[0],s[0])  + "|" + s[3] + "|" + ",".join(eplink) + "|")
         
 
