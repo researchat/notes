@@ -112,9 +112,11 @@ for i, s in enumerate(tsv):
         try:
             htmldata = urllib.request.urlopen(request)
         except HTTPError as e:
+            pass
  #           print('The server couldn\'t fulfill the request.')
  #           print('Error code: ', e.code)
         except URLError as e:
+            pass
  #           print('We failed to reach a server.')
  #           print('Reason: ', e.reason)
         else:
@@ -151,6 +153,7 @@ for i, s in enumerate(tsv):
 
     else:
         ikkan_link = bs.find("img",id="ebooksImgBlkFront")
+        kansuu = s[4]
 
         if ikkan_link:
             imglink = ikkan_link.get("src")
