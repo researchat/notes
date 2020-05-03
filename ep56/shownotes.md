@@ -35,3 +35,7 @@ title: 56.
 
 
 ## Editorial notes
+- (nakamura)
+- (soh)
+- (coela)
+- 途中からちゃんとテック系ポッドキャストになっていたのでよかったです(tadasu)
