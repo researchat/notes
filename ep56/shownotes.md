@@ -7,12 +7,12 @@ actor_ids:
 audio_file_path: /audio/56.mp3
 audio_file_size: X
 date: 2020-05-04 11:14:00 +0900
-description: 
+description: クモについて詳しいゲストと、フリーハンドで丸と直線を描くトレーニング、メールで進むかまいたちの夜、自作PC、論文管理の難しさ、趣味としてのポッドキャスト、コーディング環境とデータの管理について話しました。
 duration: "01:0X:XX"
 layout: article
 tags:
   - 雑談
-title: 56. 
+title: 56. Readable Lab notebook
 ---
 
 ## Show notes
@@ -31,6 +31,29 @@ title: 56.
 - [AWS]
 - [光るメモリ]
 - [光るキーボード]
+- [LGの5Kディスプレイ(Ultra Fine display)]
+- [Mac 50万ディスプレイ　6K]
+- [車輪　マックブックぷろ]
+- [安いキャスター]
+- [油式冷却]
+- [水冷]
+- [tsubame]
+- [フロリナート]
+- [zotero]
+- [mendeley]
+- [goodnote]
+- [Yeti]
+- [Anchor]
+- [Stand.fm]
+- [Click]... python
+- [jupiter notebook]
+ -[Docker]
+- [elm]
+- [readable code]
+- [地球平面説]
+- [さいこぱすのやつ]
+- [殺人犯の視聴率]
+- [ハイパー ハードボイルド グルメリポート]
 
 
 
@@ -38,4 +61,4 @@ title: 56.
 - (nakamura)
 - (soh)
 - (coela)
-- 途中からちゃんとテック系ポッドキャストになっていたのでよかったです(tadasu)
+- readable lab notebookほしいなぁ(tadasu)
