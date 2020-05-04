@@ -17,11 +17,11 @@ title: 56. Readable Lab notebook
 
 ## Show notes
 
-- [幻影旅団]
+- [幻影旅団](https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3)
 - [HxH]
 - [フリーハンドで丸と直線を書く]
-- [手塚おさむ]
-- [メールでやるかまいたちのよる]  ... javaとPHP
+- [手塚治虫](https://ja.wikipedia.org/wiki/%E6%89%8B%E5%A1%9A%E6%B2%BB%E8%99%AB)
+- [かまいたちの夜ニワンゴ版](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%BE%E3%81%84%E3%81%9F%E3%81%A1%E3%81%AE%E5%A4%9C_%E3%83%8B%E3%83%AF%E3%83%B3%E3%82%B4%E7%89%88)  ... javaとPHP
 - [Linux]
 - [Ubuntu]
 - [RIZEN]
