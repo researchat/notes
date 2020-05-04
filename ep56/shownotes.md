@@ -5,10 +5,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/56.mp3
-audio_file_size: X
+audio_file_size: 53401761
 date: 2020-05-04 11:14:00 +0900
 description: クモについて詳しいゲストと、フリーハンドで丸と直線を描くトレーニング、メールで進むかまいたちの夜、自作PC、論文管理の難しさ、趣味としてのポッドキャスト、コーディング環境とデータの管理について話しました。
-duration: "01:0X:XX"
+duration: "01:18:59"
 layout: article
 tags:
   - 雑談
