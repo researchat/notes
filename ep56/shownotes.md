@@ -37,7 +37,7 @@ title: 56. Readable Lab notebook
 - [油式冷却]
 - [水冷]
 - [TSUBAME](https://www.gsic.titech.ac.jp/tsubame)
-- [フロリナート])https://www.3mcompany.jp/3M/ja_JP/company-jp/all-3m-products/?N=5002385+8711017+8736409+8745514+3294803017&rt=r3)
+- [フロリナート](https://www.3mcompany.jp/3M/ja_JP/company-jp/all-3m-products/?N=5002385+8711017+8736409+8745514+3294803017&rt=r3)
 - [zotero](https://www.zotero.org/)
 - [mendeley](https://www.mendeley.com/?interaction_required=true)
 - [GoodNotes](https://www.goodnotes.com/)
