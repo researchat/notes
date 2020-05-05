@@ -17,7 +17,7 @@ title: 56. Readable lab notebook
 
 
 ## Show notes
-- Readable Lab NotebookのTipsを集めたいので、ご協力いただける方はtwitterにつぶやいただくか(我々が検索可能な形であればうれしいです)、[お便りコーナー](https://researchat.fm/form.html)から連絡いただけると助かります。そのうちまた紹介したいと思います。
+- Readable Lab NotebookのTipsを集めたいので、ご協力いただける方はtwitterにつぶやいていただくか(我々が検索可能な形であればうれしいです)、[お便りコーナー](https://researchat.fm/form.html)から連絡いただけると助かります。そのうちまた紹介したいと思います。
 - [幻影旅団](https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3)
 - [HUNTER×HUNTER (Amazon)](https://www.amazon.co.jp/gp/product/B074BZ2354?tag=researchatf04-22)
 - フリーハンドで丸と直線を書く...デザイナーの山中俊治さんによると、
@@ -56,7 +56,7 @@ title: 56. Readable lab notebook
 - [リーダブルコード (Amazon)](https://www.amazon.co.jp/dp/4873115655?tag=researchatf04-22)
 - [Plasmids 101: How to Name Your Plasmid in 3 Easy Steps](https://blog.addgene.org/plasmids-101-how-to-name-your-plasmid-in-3-easy-steps)...Addgeneにもドンピシャのブログがありました。ぜひ参考に。
 - [地球平面協会のウェブサイト](https://www.tfes.org/)...地球平面説は、ガリレオの時代の話が有名ですが、これは現代の話。
-- [ビハインド・ザ・カーブ ー地球平面説ー (Netflix)](https://www.netflix.com/jp/title/81015076)...地球は平面だと信じる人達を追ったドキュメンタリー。見終わるとモヤッとした気分になります。namuraさん紹介でsohもおすすめ。
+- [ビハインド・ザ・カーブ ー地球平面説ー (Netflix)](https://www.netflix.com/jp/title/81015076)...地球は平面だと信じる人達を追ったドキュメンタリー。見終わるとモヤッとした気分になります。Nakamuraさん紹介でsohもおすすめ。
 - [殺人鬼との対話：テッド・バンディの場合 (Netflix)](https://www.netflix.com/jp/title/80226612)...多分これのことを言っていたんだと思うNetflix はこの手のサイコパス物が充実していて、他には[ピザ配達人爆死事件の番組](https://www.netflix.com/jp/title/80158319)もおすすめ
 - [殺人犯の視聴率 (Netflix)](https://www.netflix.com/jp/title/80217946)...マナウスで大人気のテレビ番組司会者、ウォレス・ソウザ。彼とクルーは報道番組「カナル・リブレ」を通じて、犯罪撲滅のため日々戦っていた。しかしある日……
 - [ハイパー ハードボイルド グルメリポート](https://www.tv-tokyo.co.jp/hyperhard/)...ヤバいところに行っヤバイ人と飯を食う番組。ディレクターの上出遼平さんの[インタビュー](https://www.wwdjapan.com/articles/1065879)も面白い。[書籍](https://www.amazon.co.jp/dp/B08616YJWF?tag=researchatf04-22)が出たそうです。
