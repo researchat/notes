@@ -68,7 +68,7 @@ title: 56. Readable Lab notebook
 
 
 ## Editorial notes
-- (nakamura)
+- 光るPCはロマンだと思ってます (nakamura)
 - (soh)
 - (coela)
 - readable lab notebookほしいなぁ(tadasu)
