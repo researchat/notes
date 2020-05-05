@@ -28,7 +28,7 @@ title: 56. Readable Lab notebook
 - [Ubuntu](https://ubuntu.com/)
 - [AMD Ryzen 7 3700X](https://www.amazon.co.jp/dp/B07V7346JF/?tag=researchatf04-22)
 - [NVIDIA Tesla V100 32GB](https://www.amazon.co.jp/dp/B07C5K688X?tag=researchatf04-22)
-- [GTX 1070 Ti](https://www.amazon.co.jp/dp/B076Z92D1Y/?tag=researchatf04-22): このあたりがお値段も手頃で良い。
+- [GTX 1070 Ti](https://www.amazon.co.jp/dp/B076Z92D1Y/?tag=researchatf04-22) ... このあたりがお値段も手頃で良い。
 - [CUDA](https://developer.nvidia.com/cuda-downloads)
 - [AWS](https://aws.amazon.com/jp/)
 - 光るメモリ ... [こういうの](https://www.youtube.com/watch?v=GsDwfq5UnS0)。どうだ明るくなったろう。
