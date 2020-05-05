@@ -17,7 +17,7 @@ title: 56. Readable lab notebook
 
 
 ## Show notes
-- Readable Lab NotebookのTipsを集めたいので、ご協力いただける方はtwitterに #researchatfm タグをつけてつぶやいただくか、[お便りコーナー](https://researchat.fm/form.html)から連絡いただけると助かります。そのうちまた紹介したいと思います。
+- Readable Lab NotebookのTipsを集めたいので、ご協力いただける方はtwitterにつぶやいただくか(我々が検索可能な形であればうれしいです)、[お便りコーナー](https://researchat.fm/form.html)から連絡いただけると助かります。そのうちまた紹介したいと思います。
 - [幻影旅団](https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3)
 - [HUNTER×HUNTER (Amazon)](https://www.amazon.co.jp/gp/product/B074BZ2354?tag=researchatf04-22)
 - フリーハンドで丸と直線を書く...デザイナーの山中俊治さんによると、
