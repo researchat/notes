@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/56.mp3
 audio_file_size: 54003305
 date: 2020-05-05 11:14:00 +0900
-description: クモについて詳しいゲストと、フリーハンドで丸と直線を描くトレーニング、メールで進むかまいたちの夜、自作PC、論文管理の難しさ、趣味としてのポッドキャスト、コーディング環境とデータの管理について話しました。
+description: クモについて詳しいゲストを迎え、フリーハンドで丸と直線を描くトレーニング、メールで進むかまいたちの夜、自作PC、論文管理の難しさ、趣味としてのポッドキャスト、コーディング環境とデータの管理について話しました。
 duration: "01:18:51"
 layout: article
 tags:
@@ -68,6 +68,6 @@ title: 56. Readable lab notebook
 
 ## Editorial notes
 - 光るPCはロマンだと思ってます (nakamura)
-- (soh)
+- 昼飯作っていて最初らへんの収録に乗り遅れました (soh)
 - (coela)
 - readable lab notebookほしいなぁ(tadasu)
