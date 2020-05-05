@@ -15,6 +15,13 @@ tags:
 title: 56. Readable Lab notebook
 ---
 
+
+##Title
+- Readable Lab notebook
+- Twelve legged spider
+- Flashing Memory
+
+
 ## Show notes
 - Readable Lab NotebookのTipsを集めたいので、ご協力いただける方は#researchatfmでつぶやいただくか、[お便りコーナー](https://researchat.fm/form.html)から連絡いただけると助かります。そのうちまた紹介したいと思います。
 - [幻影旅団](https://ja.wikipedia.org/wiki/%E5%B9%BB%E5%BD%B1%E6%97%85%E5%9B%A3)
