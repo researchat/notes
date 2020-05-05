@@ -53,12 +53,12 @@ title: 56. Readable Lab notebook
 - [elm](https://elm-lang.org/)
 - [リーダブルコード (Amazon)](https://www.amazon.co.jp/dp/4873115655?tag=researchatf04-22)
 - 地球平面説 ... ガリレオの時代の話が有名ですが、これは現代の話。地球平面協会のウェブサイトは[こちら](https://www.tfes.org/)
-- [ビハインド・ザ・カーブ ー地球平面説ー](https://www.netflix.com/jp/title/81015076) ... 地球は平面だと
+- [ビハインド・ザ・カーブ ー地球平面説ー (Netflix)](https://www.netflix.com/jp/title/81015076) ... 地球は平面だと
   信じる人達を追ったドキュメンタリー。見終わるとモヤッとした気分になります。
-- [殺人鬼との対話：テッド・バンディの場合](https://www.netflix.com/jp/title/80226612) ... 多分これのこと
+- [殺人鬼との対話：テッド・バンディの場合 (Netflix)](https://www.netflix.com/jp/title/80226612) ... 多分これのこと
   を言っていたんだと思う。Netflix はこの手のサイコパス物が充実していて、他には[ピザ配達人爆死事件の番組](https://www.netflix.com/jp/title/80158319)もお
   すすめ
-- [殺人犯の視聴率](https://www.netflix.com/jp/title/80217946) ... マナウスで大人気のテレビ番組司会者、
+- [殺人犯の視聴率 (Netflix)](https://www.netflix.com/jp/title/80217946) ... マナウスで大人気のテレビ番組司会者、
   ウォレス・ソウザ。彼とクルーは報道番組「カナル・リブレ」を通じて、犯罪撲滅のため日々戦っていた。し
   かしある日……
 - [ハイパー ハードボイルド グルメリポート](https://www.tv-tokyo.co.jp/hyperhard/) ... ヤバいところに行っ
