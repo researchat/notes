@@ -64,5 +64,5 @@ title: 56. Readable lab notebook
 ## Editorial notes
 - 光るPCはロマンだと思ってます (nakamura)
 - 昼飯作っていて最初らへんの収録に乗り遅れました (soh)
-- (coela)
+- 次作るキーボードはめっちゃ光らせるって決めてる(coela)
 - readable lab notebook ほしいなぁ(tadasu)
