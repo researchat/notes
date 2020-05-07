@@ -36,8 +36,8 @@ title: 56. Readable lab notebook
 - [光るキーボード](https://www.amazon.co.jp/dp/B07N8XXVYJ?tag=researchatf04-22)...明るい！
 - [LG 27 inch UltraFine 5K Display](https://www.amazon.co.jp/dp/B07XNRFWVX?tag=researchatf04-22)
 - [Apple Pro Display XDR](https://www.amazon.co.jp/dp/B082M59XZB?tag=researchatf04-22)
-- [車輪 マックブックぷろ]
-- [安いキャスター]
+- [MacBookProの車輪](https://www.amazon.co.jp/dp/B08766FH54?tag=researchatf04-22)
+- [MacBookProの脚](https://www.amazon.co.jp/dp/B087668PDX?tag=researchatf04-22)
 - [液浸冷却 サーバを丸ごと液体に浸して冷やす「液浸冷却システム」【FUJITSU JOURNAL】](https://www.youtube.com/watch?v=3E3hRk2-Yng)...解説があります。ドッキリに使えそう。
 - [MOD PIT 02: The end results (水冷式)](https://youtu.be/uG45SBnR4Og?t=190)...見てると欲しくなりますよね。
 - [EK's ultimate CPU water block](https://www.ekwb.com/)...格好いい。
