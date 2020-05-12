@@ -33,7 +33,7 @@ title: 57. All papers are created equal
 - [Cell Press, STAR Methods](https://www.cell.com/star-methods)
 - [ripgrep-all (Github)](https://github.com/phiresky/ripgrep-all)..."rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc."とのこと。めちゃ便利そうですね。
 - [fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ](https://wonderwall.hatenablog.com/entry/2017/10/06/063000)...コマンドラインから曖昧検索をするツール
-- [エスペランド語](https://www.jei.or.jp/5hunkan-kouza/)...一般社団法人日本エスペランド協会なんてものがあるんですね。
+- [エスペラント語](https://www.jei.or.jp/5hunkan-kouza/)...一般社団法人日本エスペラント協会なんてものがあるんですね。
 - [形式言語の構文と意味](http://home.a00.itscom.net/hatada/lp2016/chap02/formal-language.html)
 - [Unix哲学 (Wikipedia)](https://ja.wikipedia.org/wiki/UNIX%E5%93%B2%E5%AD%A6)
 - [Betweenness centrality](https://en.wikipedia.org/wiki/Betweenness_centrality)...グラフにおけるノードの重要性を評価する指標の一つ。
