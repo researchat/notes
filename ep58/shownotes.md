@@ -37,6 +37,7 @@ title: 57. All papers are created equal
 - [形式言語の構文と意味](http://home.a00.itscom.net/hatada/lp2016/chap02/formal-language.html)
 - [Unix哲学 (Wikipedia)](https://ja.wikipedia.org/wiki/UNIX%E5%93%B2%E5%AD%A6)
 - [Betweenness centrality](https://en.wikipedia.org/wiki/Betweenness_centrality)...グラフにおけるノードの重要性を評価する指標の一つ。
+- [researchat.fm ep4](https://researchat.fm/episode/4) ... 情報収集について話しました。
 
 ## Editorial notes
 - 名言？が多い回でした。論文に貴賎なしとはとてもいい言葉だと思いました (soh)
