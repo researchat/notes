@@ -29,6 +29,7 @@ title: 57. All papers are created equal
 - [Gene to Cells](https://www.mbsj.jp/gtc/)...日本分子生物学会の発行する論文誌
 - [Cold Spring Harbor Lab Press](https://www.cshlpress.com/default.tpl?cart=1589264267820746297)
 - [ABC予想の京大 望月先生のホームページ](http://www.kurims.kyoto-u.ac.jp/~motizuki/)
+- [abc予想の主張を理解する (Youtube)](https://www.youtube.com/watch?v=PIUCfN08p8M)...教育系Youtuberヨビノリさんのこの解説動画はとてもわかり易くてよかったです。
 - [Cell Press, STAR Methods](https://www.cell.com/star-methods)
 - [ripgrep-all (Github)](https://github.com/phiresky/ripgrep-all)..."rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc."とのこと。めちゃ便利そうですね。
 - [fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ](https://wonderwall.hatenablog.com/entry/2017/10/06/063000)...コマンドラインから曖昧検索をするツール
