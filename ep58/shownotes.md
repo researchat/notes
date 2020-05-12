@@ -16,32 +16,26 @@ title: 57. All papers are created equal
 ---
 
 ## Shownotes
-- Nature Review Cancer
-- Nature Review Genetics
-- Boston Chromatin Club
-- Carl Diseroth
-- Optogenetics
-- DNA microscopy
-- DNA of things WIRED
+- [Nature Review Cancer](https://www.nature.com/nrc/)...Natureが出版しているレビュー誌の一つ。
+- [Nature Review Genetics](https://www.nature.com/nrg/)...Natureが出版しているレビュー誌の一つ。
+- [Boston Chromatin Club Blog](https://seeber.fas.harvard.edu/blog)
+- [Karl Deisseroth (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%80%E3%82%A4%E3%82%BB%E3%83%AD%E3%82%B9)...光遺伝学の開祖
+- [DNA microscopy, researchat.fm](https://researchat.fm/episode/16)...これについては、エピソード16で解説しています。
+- [物体にデータをエンコードできる「モノのDNA」の時代が、小さなウサギのフィギュアから始まった (WIRED)](https://wired.jp/2020/03/02/these-plastic-bunnies-got-a-dna-upgrade-next-up-the-world/)
 - KOD PCR
-- Erik lander
-- Leonald ardelman RSA
-- Researchmap
-- OCRID
-- Peer-review
-- Blind review (author)
-- Review contribusion
-- Gene to cells
-- Cold spring harbor journal
-- 望月先生 ABC予想
-- STAR Methods
-- rg keyword
-- pdf grep rip grep all
-- rg-all
-- fasy finder
-- エスペランド語
+- [Eric Lander (Wikipedia)](https://en.wikipedia.org/wiki/Eric_Lander)...Genomicsを作った重鎮
+- [Leonard Adleman (Wikipedia)](https://en.wikipedia.org/wiki/Leonard_Adleman)...AdlemanはDNA computingという分野を作った。これについては、[エピソード24](https://researchat.fm/episode/24)で紹介しています。
+- [Researchmap](https://researchmap.jp/)
+- [OCRID](https://orcid.org/)
+- [Gene to cells](https://www.mbsj.jp/gtc/)...日本分子生物学会の発行する論文誌
+- [Cold Spring Harbor Lab Press](https://www.cshlpress.com/default.tpl?cart=1589264267820746297)
+- [ABC予想の京大 望月先生のホームページ](http://www.kurims.kyoto-u.ac.jp/~motizuki/)
+- [Cell Press, STAR Methods](https://www.cell.com/star-methods)
+- [ripgrep-all (Github)](https://github.com/phiresky/ripgrep-all)..."rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc."とのこと。めちゃ便利そうですね。
+- [fzf（fuzzy finder）の便利な使い方をREADME, Wikiを読んで学ぶ](https://wonderwall.hatenablog.com/entry/2017/10/06/063000)...コマンドラインから曖昧検索をするツール
+- [エスペランド語](https://www.jei.or.jp/5hunkan-kouza/)...一般社団法人日本エスペランド協会
 - 形式言語
-- Unix sofware philosophy
+- [Unix哲学 (Wikipedia)](https://ja.wikipedia.org/wiki/UNIX%E5%93%B2%E5%AD%A6)
 - 権威主義
 - Betweenness
 
