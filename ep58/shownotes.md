@@ -40,5 +40,5 @@ title: 57. All papers are created equal
 
 ## Editorial notes
 - 名言？が多い回でした。論文に貴賎なしとはとてもいい言葉だと思いました (soh)
-- tadasu
-- coela
+- きれいごとを話しすぎた感がありますが、そんなに世の中うまくいかないことは承知しております。自分の行動にも矛盾ありまくりなのがよくわかりました。(tadasu)
+- (coela)
