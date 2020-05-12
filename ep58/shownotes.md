@@ -12,10 +12,38 @@ layout: article
 tags:
   - 雑談
   - 論文
-title: 57. TBA
+title: 57. All papers are created equal
 ---
 
 ## Shownotes
+Nature Review Cancer
+Nature Review Genetics
+Boston Chromatin Club
+Carl Diseroth
+Optogenetics
+DNA microscopy
+DNA of things WIRED
+KOD PCR
+Erik lander
+Leonald ardelman RSA
+Researchmap
+OCRID
+Peer-review
+Blind review (author)
+Review contribusion
+Gene to cells
+Cold spring harbor journal
+望月先生 ABC予想
+STAR Methods
+rg keyword
+pdf grep rip grep all
+rg-all
+fasy finder
+エスペランド語
+形式言語
+Unix sofware philosophy
+権威主義
+Betweenness
 
 ## Editorial notes
 - soh
