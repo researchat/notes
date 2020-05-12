@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/57.mp3
-audio_file_size: 
+audio_file_size: 123242292
 date: 2020-05-12 11:14:00 +0900
 description: 科学論文の探し方、読み方とその楽しみ、そして理想の論文について三人で熱っぽく話しました。
-duration: "0x:xx:xx"
+duration: "02:08:22"
 layout: article
 tags:
   - 雑談
