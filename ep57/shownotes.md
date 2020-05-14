@@ -15,8 +15,10 @@ title: 58.
 ---
 
 ## Show notes
-- [第2回異世界分子生物学会](https://booth.pm/ja/items/1759673)
-- [第1回異世界分子生物学会](https://booth.pm/ja/items/1359037)
+- [第2回異世界分子生物学会(本)](https://booth.pm/ja/items/1759673)
+- [第2回異世界分子生物学会(電子)](https://booth.pm/ja/items/1865232)
+- [第1回異世界分子生物学会(本)](https://booth.pm/ja/items/1359037)
+- [第1回異世界分子生物学会(電子)](https://booth.pm/ja/items/1411255)
 - [日本分子生物学会](https://www.mbsj.jp/)
 - [怪獣生物学入門](https://www.amazon.co.jp/dp/4797680431/?tag=researchatf04-22) ... 理研 倉谷滋先生が描く、怪獣デザインとは何か。SF作品に登場する架空の生物のリアリティーについて第一線の発生生物学者が解説する。これこそ異世界発生生物学会といえる。
 - [researchat.fm ep38](https://researchat.fm/episode/38) ... dessanといろいろ語った回。dessanが異世界分子生物学会に投稿した作品についてはこのエピソードで話されています。
