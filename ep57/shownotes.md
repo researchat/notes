@@ -15,7 +15,7 @@ title: 58.
 ---
 
 ## Show notes
-- [第2回異世界分子生物学会(本)](https://booth.pm/ja/items/1759673) ... 感想は #異世界分子生物学会 でよろしくお願いします。
+- [第2回異世界分子生物学会(本)](https://booth.pm/ja/items/1759673) ... 感想は [#異世界分子生物学会](https://twitter.com/hashtag/%E7%95%B0%E4%B8%96%E7%95%8C%E5%88%86%E5%AD%90%E7%94%9F%E7%89%A9%E5%AD%A6%E4%BC%9A) でよろしくお願いします。
 - [第2回異世界分子生物学会(電子)](https://booth.pm/ja/items/1865232)
 - [第1回異世界分子生物学会(本)](https://booth.pm/ja/items/1359037)
 - [第1回異世界分子生物学会(電子)](https://booth.pm/ja/items/1411255)
