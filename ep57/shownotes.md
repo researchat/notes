@@ -15,7 +15,7 @@ title: 58.
 ---
 
 ## Show notes
-- [第2回異世界分子生物学会(本)](https://booth.pm/ja/items/1759673)
+- [第2回異世界分子生物学会(本)](https://booth.pm/ja/items/1759673) ... 感想は #異世界分子生物学会 でよろしくお願いします。
 - [第2回異世界分子生物学会(電子)](https://booth.pm/ja/items/1865232)
 - [第1回異世界分子生物学会(本)](https://booth.pm/ja/items/1359037)
 - [第1回異世界分子生物学会(電子)](https://booth.pm/ja/items/1411255)
@@ -25,7 +25,7 @@ title: 58.
 - [思弁的実在論](https://ja.wikipedia.org/wiki/%E6%80%9D%E5%BC%81%E7%9A%84%E5%AE%9F%E5%9C%A8%E8%AB%96)
 - [Christian de Duve](https://en.wikipedia.org/wiki/Christian_de_Duve)
 - [進化の特異事象](https://www.amazon.co.jp/dp/4903532054?tag=researchatf04-22)
-- [質疑応答]https://twitter.com/hashtag/%E7%AC%AC%E4%BA%8C%E5%9B%9E%E7%95%B0%E4%B8%96%E7%95%8C%E5%88%86%E7%94%9F_%E8%B3%AA%E7%96%91%E5%BF%9C%E7%AD%94) ... 異世界分子生物学会における質疑応答用のハッシュタグ
+- [質疑応答](https://twitter.com/hashtag/%E7%AC%AC%E4%BA%8C%E5%9B%9E%E7%95%B0%E4%B8%96%E7%95%8C%E5%88%86%E7%94%9F_%E8%B3%AA%E7%96%91%E5%BF%9C%E7%AD%94) ... 異世界分子生物学会における質疑応答用のハッシュタグ
 - [真性半陰陽](https://kotobank.jp/word/%E7%9C%9F%E6%80%A7%E5%8D%8A%E9%99%B0%E9%99%BD-792419)
 - [オメガバース](https://dic.pixiv.net/a/%E3%82%AA%E3%83%A1%E3%82%AC%E3%83%90%E3%83%BC%E3%82%B9)
 - [国産み](https://ja.wikipedia.org/wiki/%E5%9B%BD%E7%94%A3%E3%81%BF)
