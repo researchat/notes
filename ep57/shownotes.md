@@ -6,7 +6,7 @@ audio_file_path: /audio/58.mp3
 audio_file_size: X
 date: 2020-05-16 11:14:00 +0900
 description: 第二回異世界分子生物学会について話しました。
-duration: "01:05:35"
+duration: "01:XX:XX"
 layout: article
 tags:
   - 研究
