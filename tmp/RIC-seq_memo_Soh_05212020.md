@@ -13,7 +13,7 @@ https://doi.org/10.1038/s41586-020-2249-1
 - ビオチン化されたキメラRNAをその後、pull downして、cDNA変換したあとに超並列シーケンサーでキメラのリードを大量に得る。おおよそ100ntくらいのキメラのRNAが取れる。
 - Q: DNaseI treatmentしてgenomic DNAを消した後、In situ cDNA合成->制限酵素処理->adapter ligationのほうがシンプルだけどだめなのかな。
 
-### RIC-seq faithfully captures RNA secondary structures and tertiary interactions
+### RIC-seq faithfully captures RNA secondary structures and tertiary interactions (Fig1)
 
 Fig 1a: 
 コンセプトの説明。
@@ -38,7 +38,7 @@ Q: RIC-seqだけで、de novoに大量に3Dモデリングぽいことができ�
 
 Fig 1i: RIC-seqの精度について、既知構造28S rRNAについて、おおよそAUC=0.89くらいで当たられることが分かった。
 
-### Global view of protein-mediated RNA–RNA interactions
+### Global view of protein-mediated RNA–RNA interactions (Fig2)
 Fig 2a: 全染色体上にmapされたRIP-seqリードから再構成されたglobal interaction mapの全体像。
 NEAT1とMALAT1の二つのRNAについて、遠位の相互作用が観察された。
 
@@ -53,17 +53,16 @@ Fig 2f: 全体でみるとこのNEAT1やMALAT1はtop5に入るくらい大量に
 
 Fig 2g: 同定されたRNA hubのうち、10%くらいがsuper enhancer (定義なんだっけ…)と一致するようだ。
 
+### Enhancer–promoter connectivity map based on pairwise-interacting RNAs (Fig3)
+- Fig3はEnhancer–PromoterとPromoter–Promoter interactionが転写されたRNAの情報から見えるという解析
+- とくにSuper-enhancerは、Typical enhancerよりも色々なpromoter RNAと相互作用しているなど (Fig3d–g)。
+
+### The super-enhancer CCAT1-5L regulates MYC transcription via chromatin looping (Fig4)
+- CCAT1-5LというncRNAの一種がMYCの上流から発現しており、これがループを形成していてMYCの転写制御に関わっているということを示した。
+
 ### Memo
 - HiCから得られるデータからは3次元的な染色体の構造を再構成することができるようだ。おおよそ以下のような方法でやるっぽい。
    - まずHiCから得られるchimeric readsからcontact mapを作る。contact mapは、距離が近いAとBほど頻度 (リード数)が高い。
    - ここから、距離行列へと変換 (ナイーブには頻度の逆数が距離になると仮定できるから)する。
    - そのあと、この距離行列を多次元尺度構成法 (Multi-dimensional scaling, MDS)によって、空間構造への推定を行う。
    - これによって３次元空間における互いのDNA断片の距離が分かるというもの。
-
-
-
-
-
-
-
-
