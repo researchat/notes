@@ -11,6 +11,7 @@ https://doi.org/10.1038/s41586-020-2249-1
 - 細胞を固定したあと、NMaseでfreeなRNAを分解して、RBPに保護されたRNAだけが細胞中に残るようにして、さらにリン酸化されたビオチン化シチジンを3’末端につけて、二つのRNA同士をRNA ligationで結合させる。
 - これによって、キメラになったRNA分子は必ずその結合点がCになる。RNA_A―C―RNA_Bみたいな感じ。
 - ビオチン化されたキメラRNAをその後、pull downして、cDNA変換したあとに超並列シーケンサーでキメラのリードを大量に得る。おおよそ100ntくらいのキメラのRNAが取れる。
+- Q: DNaseI treatmentしてgenomic DNAを消した後、In situ cDNA合成->制限酵素処理->adapter ligationのほうがシンプルだけどだめなのかな。
 
 ### RIC-seq faithfully captures RNA secondary structures and tertiary interactions
 
@@ -32,6 +33,7 @@ HEKでやったPARIS (別のin vivo二次構造解析手法)とも結構一致�
 Fig 1g: この結果はqPCRによるone-by-oneなvalidation assayでも確かめられた。
 
 Fig 1h: RIC-seqから得られたシグナル (contact map)は、タンパクやRNAの立体構造を解析する技術であるCryo-EMによる結果と一致するのか？を定量的に28S rRNAについて調べた。クライオで解けた構造、とくに20Å以下のRNAの相互作用をRIC-seqは捉えている―200bpくらいに相当するようだ―ということが分かった。この中には、kissing loopや長い相互作用などがちゃんと含まれていた。
+
 Q: RIC-seqだけで、de novoに大量に3Dモデリングぽいことができるんだろうか？
 
 Fig 1i: RIC-seqの精度について、既知構造28S rRNAについて、おおよそAUC=0.89くらいで当たられることが分かった。
