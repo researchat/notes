@@ -5,13 +5,13 @@ actor_ids:
 audio_file_path: /audio/58.mp3
 audio_file_size: X
 date: 2020-05-16 11:14:00 +0900
-description: 第二回異世界分子生物学会について話しました。
+description: 第二回異世界分子生物学会の周辺について話しました。
 duration: "01:XX:XX"
 layout: article
 tags:
   - 研究
   - 異世界分子生物学会
-title: 58. 
+title: 58. Standing on the shoulders of Beasts
 ---
 
 ## Show notes
