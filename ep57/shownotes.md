@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: /audio/58.mp3
 audio_file_size: 73431249
-date: 2020-05-16 11:14:00 +0900
+date: 2020-05-23 07:00:00 +0900
 description: 第二回異世界分子生物学会の周辺について話しました。
 duration: "01:28:27"
 layout: article
