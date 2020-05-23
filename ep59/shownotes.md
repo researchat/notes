@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/59.mp3
 audio_file_size: 49148655
 date: 2020-05-25 09:30:00 +0900
-description: RNA分子の空間的な近接性を同定するRIC-Seqという手法について、原著論文を紹介しました。
+description: RNA分子の空間的な近接性を同定するRIC-seqという手法について、原著論文を紹介しました。
 duration: "02:08:22"
 layout: article
 tags:
