@@ -20,4 +20,4 @@ title: 59. TBA
 ## Editorial notes
 - soh
 - coela
-- tadasu
+- Hi-Cはproximityというよりはcontact probabilityというべきだったなと思っております。(tadasu)
