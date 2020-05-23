@@ -20,4 +20,4 @@ title: 59. TBA
 ## Editorial notes
 - soh
 - coela
-- Hi-Cはproximityというよりはcontact probabilityというべきだったなと思っております。(tadasu)
+- Hi-Cはproximityをベースにはしているはずなのですが、実際の距離はわからないので、オリジナル論文に従ってcontact probabilityというべきだったなと思っております。ただcontactとは？？？(tadasu)
