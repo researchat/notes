@@ -25,6 +25,6 @@ title: 59. TBA
 - [疾患におけるA-to-I RNA編集酵素ADAR1の役割 (生化学 2016年)](https://seikagaku.jbsoc.or.jp/10.14952/SEIKAGAKU.2016.880593/data/index.html)...RNA編集についての詳しくてわかり易い日本語解説論文
 
 ## Editorial notes
-- soh
+- 技術もさることながらその論文のストーリーがとてもよかった (soh)
 - coela
 - Hi-Cはproximityをベースにはしているはずなのですが、実際の距離はわからないので、オリジナル論文に従ってcontact probabilityというべきだったなと思っております。ただcontactとは？？？(tadasu)
