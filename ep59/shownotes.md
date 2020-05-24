@@ -19,6 +19,7 @@ title: 59.
 - [核酸の二次構造 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A0%B8%E9%85%B8%E3%81%AE%E4%BA%8C%E6%AC%A1%E6%A7%8B%E9%80%A0)
 - [RNA結合タンパク質 MBLライフサイエンス](https://ruo.mbl.co.jp/bio/product/epigenetics/article/RNA-binding-proteins.html)
 - [ノンコーディングRNA動態解明の最前線 (pdf)](https://www.jsac.or.jp/bunseki/pdf/bunseki2016/201606wadai.pdf)
+- [Micrococcal Nuclease, NMase (NEB)](https://www.nebj.jp/products/detail/240)
 - [Ep16, Researchat.fm](https://researchat.fm/episode/16)...エピソード16では分子の近接性から空間構造を再構成するさまざまな方法について解説しています。
 - [Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome. Science 2009](https://pubmed.ncbi.nlm.nih.gov/19815776/)...HiC法のオリジナル論文。
 - [平成29年度 NGSハンズオン講習会 Hi-C解析](https://biosciencedbc.jp/gadget/human/170901_higashi_170831.pdf)...HiCのデータ解析についてはこの資料がよくまとまっている。
