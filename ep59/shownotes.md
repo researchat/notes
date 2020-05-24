@@ -26,5 +26,5 @@ title: 59. TBA
 
 ## Editorial notes
 - 技術もさることながらその論文のストーリーがとてもよかった (soh)
-- coela
+- PUBG-seqとか出てこないかな(coela)
 - Hi-Cはproximityをベースにはしているはずなのですが、実際の距離はわからないので、オリジナル論文に従ってcontact probabilityというべきだったなと思っております。ただcontactとは？？？(tadasu)
