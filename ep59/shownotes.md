@@ -21,8 +21,8 @@ title: 59. Sequencing RNA proximity
 - [ノンコーディングRNA動態解明の最前線 (pdf)](https://www.jsac.or.jp/bunseki/pdf/bunseki2016/201606wadai.pdf)
 - [Micrococcal Nuclease, NMase (NEB)](https://www.nebj.jp/products/detail/240)
 - [Ep16, Researchat.fm](https://researchat.fm/episode/16)...エピソード16では分子の近接性から空間構造を再構成するさまざまな方法について解説しています。
-- [Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome. _Science_ 2009](https://pubmed.ncbi.nlm.nih.gov/19815776/)...HiC法のオリジナル論文。
-- [平成29年度 NGSハンズオン講習会 Hi-C解析](https://biosciencedbc.jp/gadget/human/170901_higashi_170831.pdf)...HiCのデータ解析についてはこの資料がよくまとまっている。
+- [Comprehensive Mapping of Long-Range Interactions Reveals Folding Principles of the Human Genome. _Science_ 2009](https://pubmed.ncbi.nlm.nih.gov/19815776/)...Hi-C法のオリジナル論文。
+- [平成29年度 NGSハンズオン講習会 Hi-C解析](https://biosciencedbc.jp/gadget/human/170901_higashi_170831.pdf)...Hi-Cのデータ解析についてはこの資料がよくまとまっている。
 - [RNA Duplex Map in Living Cells Reveals Higher-Order Transcriptome Structure. _Cell_ 2016](https://www.cell.com/cell/fulltext/S0092-8674(16)30422-6)...RIC-seq論文のなかで類似手法として比較されたPARISという方法の原著論文。
 - [クライオ電子顕微鏡について](https://www.gatan.com/jp/techniques/%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%AAem)
 - [AUC/ROC曲線 (三重大 奥村先生)](https://oku.edu.mie-u.ac.jp/~okumura/stat/ROC.html)
