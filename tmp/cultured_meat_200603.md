@@ -309,7 +309,7 @@ Beyond Burger®, Beyond Sausage®, Beyond Beef®
 ニューウェーブシュリンプは、海藻やその他の天然素材から作られた持続可能な植物性のエビの代替品です。それは、幅広いレシピで互換性があります。さらに、貝類や大豆アレルゲンは一切使用していません。
 ### New Harvest　
 
-###代用肉 vs Cultured meat
+### 代用肉 vs Cultured meat
 [03/06/2020 Will Beyond Meat and Impossible Foods Survive Lab Meat’s Challenge?](https://www.fool.com/investing/2020/03/06/will-beyond-meat-and-impossible-foods-survive-lab.aspx)
 
 - 一部のアナリストは、培養肉（ラボミートや合成肉として知られる）の新たな科学が、近い将来、ビヨンド・ミート（NASDAQ:BYND）、インポッシブル・フーズ（Impossible Foods）などのような「植物由来の肉」生産者の市場シェアを脅かす可能性があると予測しています。
