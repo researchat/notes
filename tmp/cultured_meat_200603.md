@@ -205,4 +205,22 @@ B2C（Business-to-Consumer）がメインであるが、
 - CM の商業化は、従来の食肉との価格差を埋めることに大きく依存しているため、CM 業界では、技術的な問題を解決するために、学際的な分野の専門家の流入が必要であり、コストの低減につながる。
 
 ## 代替肉の概要
+### Beyond meat
+Beyond Burger®, Beyond Sausage®, Beyond Beef®
 
+ビヨンドミートの原材料一覧 ... ビヨンドミート社の主力商品であるビヨンドバーガー（2019年最新版）の、原材料一覧をみてみます。
+- 水、えんどう豆分離タンパク、キャノーラ油（圧搾）、精製ココナッツオイル、玄米タンパク、天然香料、ココアバター、緑豆タンパク、メチルセルロース、ジャガイモ澱粉、りんご抽出物、ざくろ抽出物、塩、塩化カリウム、酢、濃縮レモン汁、ヒマワリレシチン、ビーツ抽出液（着色）、人参
+- 英語版：Water, Pea Protein Isolate*, Expeller-Pressed Canola Oil, Refined Coconut Oil, Rice Protein, Natural Flavors, Cocoa Butter, Mung Bean Protein, Methylcellulose, Potato Starch, Apple Extract, Pomegranate Extract, Salt, Potassium Chloride, Vinegar, Lemon Juice Concentrate, Sunflower Lecithin, Beet Juice Extract (for color), Carrot.
+- 20種類と多いビヨンドミートの原材料＆添加物
+- また、生肉の色（ピンク）を再現するために、ビーツ（Beets）と呼ばれるカブに似た赤紫色の植物から抽出した天然色素（着色料）を使用している。
+- [Q&A](https://www.beyondmeat.com/faqs/) ... All of our US-based retail products are currently Non-GMO Project Verified, including The Beyond Burger®, Beyond Sausage®, Beyond Beef® and Beyond Beef® Crumbles.
+- Beyond meat meets Dunkin' ... ビヨンドソーセージサンドは、100％植物由来のビヨンドミートの朝食用ソーセージパティと、ダンキンのために特別に作られたスパイスの組み合わせで、ダンキンの味と食感をお楽しみいただけます。10gの植物性タンパク質を含むビヨンドソーセージサンドウィッチは、イングリッシュマフィンに卵とアメリカンチーズを添えてお召し上がりいただけます。従来のダンキン・ソーセージ、卵、チーズの朝食用サンドイッチよりも、total fatが29％、飽和脂肪が33％少なく、カロリー、コレステロール、ナトリウムが少なくなっています。
+- 05/19/2020 Beyond Meat Gets a Bullish Boost From BTIG .. 
+  - 3月中旬にCOVID-19の流行が宣言されて以来、Beyond Meatの株式は170%急上昇しているが、ウォールストリートはこのフェイクミートメーカーにはそれ以上の上昇の可能性があると見ている。
+   - コロナウイルスの蔓延により、食肉加工施設で発生したアウトブレイクが閉鎖につながっているため、Beyond Meatはこの危機の中で消費者のマインドシェアを高めるユニークな機会を得ているという議論がある。
+   - 食肉不足はビヨンド・ミートの大ブレイクになるかもしれませんが、BTIGはスターバックス（NASDAQ:SBUX）、ダンキン（NASDAQ:DNKN）、さらにはマクドナルド（NYSE:MCD）のようなレストランとの提携にも注目しており、カナダで試験的に取り組んでいるため、全国的にメニューが目立つようになるかもしれない。
+   - BTIG の価格目標は、Beyond Meat の現在の 130 ドルの株式に強気の 33% アップサイドを想定しており、植物ベースの食肉代替品に積み上げているアナリストとの勢いは、投資家をさらに呼び込む可能性がある。
+### impossible foods
+### JUST
+### Good Catch Foods
+### New Wave Foods
