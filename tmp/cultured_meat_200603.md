@@ -70,20 +70,19 @@ NASAは2001年から実験を行っており、当初は七面鳥の細胞から
 ルッツラーは、ブラインドチェックであっても、大豆のコピーではなく、肉用の製品を食べたと答えただろうと付け加えた。
 
 ### Cultured meatで何が達成されるか ([ref: Tuomisto and de Mattos, Environ. Sci. Technol. (2011)](https://pubs.acs.org/doi/10.1021/es200130u))
-人口問題
+人口増加による様々な問題とCultured meatによる解決
 - 2050年、世界の人口は97億人になる[ref: 国連](https://population.un.org/wpp/Publications/Files/WPP2019_Highlights.pdf)
   - 77億人(2019)
   - 109億人(2100)
 - それにしたがい、食料生産量は70%増加する
 - 食肉生産の能力は、土地と水の資源が限られているために制限されている。
 - Cultured meatは、より少ない資源を使用しながら、増え続ける食肉の需要を満たすための潜在的な解決策である。
-- Cultured meat生産の予備的なライフサイクル評価では、従来の食肉生産と比較して、
+- Cultured meat生産の予備的なライフサイクル評価では、従来の食肉生産と比較して以下を達成することができる。
   - エネルギー使用量: 7～45％減
   - 土地使用量: 99％減
   - 水使用量: 96％減
   - 温室効果ガス排出量: 78～96％減
-ref: [Tuomisto and de Mattos, Environ. Sci. Technol. (2011) https://pubs.acs.org/doi/10.1021/es200130u] Oxford University
-
+  
 
 ### Cultured meatの値段
 - 2013年 $30万(3000万円以上)(ハンバーガー用の1パティーあたり)
