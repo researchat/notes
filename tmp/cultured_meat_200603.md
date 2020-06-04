@@ -204,6 +204,10 @@ B2C（Business-to-Consumer）がメインであるが、
 - その他の研究では、培地中の栄養素や廃棄物の量をリアルタイムセンサーで追跡し、コスト削減のために培地をいつ、どのくらいリサイクルするかを正確に判断する研究も行われている。
 - CM の商業化は、従来の食肉との価格差を埋めることに大きく依存しているため、CM 業界では、技術的な問題を解決するために、学際的な分野の専門家の流入が必要であり、コストの低減につながる。
 
+## Cellular Argiculture (細胞農業) [ref: Cellular Agriculture (Wikipedia:en)](https://en.wikipedia.org/wiki/Cellular_agriculture)
+細胞農業は、バイオテクノロジー、組織工学、分子生物学、合成生物学を組み合わせた細胞培養による農産物の生産に焦点を当てており、従来の農業からでなければ得られなかったタンパク質、脂肪、組織を生産する新しい方法を創造し、設計することを目的としている。 業界のほとんどは、養殖家畜を飼育・屠殺するのではなく、細胞培養で生産された肉、牛乳、卵などの動物製品に焦点を当てている。 最もよく知られている細胞農業の概念は、培養肉である。
+- Meat, Dairy(乳製品), Eggs, Gelatin, Coffee, Horseshoe Crab Blood	(カブトガニ, 成分を含む青い血液は、毒素エンドトキシンの検査薬として使われている), Fish, Fragrances(フレグランス), Silk, Leather, Pet Food
+
 ## 代替肉の概要
 ### Beyond meat
 Beyond Burger®, Beyond Sausage®, Beyond Beef®
