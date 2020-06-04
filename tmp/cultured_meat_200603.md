@@ -22,7 +22,8 @@ Cultured meatは日本ではまだまだ話題になっていませんが、海�
 動物の細胞を体外培養して製造される。その製造方法から、クリーンミート、in vitro ミート、cell-based meat (細胞ベースの肉)、slaughter-free meat (屠殺不要な肉)、laboratory-grown meat (実験室で生産された肉) 、cultivated meat (栽培された肉) and synthetic meat (合成肉)とよばれる。
 
 ### Cultured meatの歴史 (ref: [Cultured meat (Wikipedia:en)](https://en.wikipedia.org/wiki/Cultured_meat))
-Cultured meatは長年、想像の産物であった。例えば、イギリスの元首相であり作家でもあったウィンストン・チャーチルは1931年に "適切な培地の下で、これらの部分を別々に育てることで、胸肉や手羽先を食べるために鶏を丸ごと育てるという不条理から逃れよう。"と提案している (Fifty Years Hence, The Strand Magazine (December 1931))。
+Cultured meatは長年、想像の産物であった。例えば、イギリスの元首相であり作家でもあったウィンストン・チャーチルは1931年に "適切な培地の下で、これらの部分を別々に育てることで、胸肉や手羽先を食べるために鶏を丸ごと育てるという不条理から逃れよう。"と提案している。
+- Fifty Years Hence, The Strand Magazine (December 1931)
 
 1971年、アメリカの生物研究者であるRussel Ross博士がJornal of Cell Biologyに筋繊維の培養についての論文を発表している。
 - [Russel Ross, Jornal of Cell Biology (1971) ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2108435/)
