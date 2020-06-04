@@ -123,3 +123,11 @@ Cultured meat生産へのアプローチは、2 つの主要な生産システ�
 - オーストラリアが1社　<-  これ絶対カンガルーだろ！
 
 2015年から2020年初頭までのCultured meat企業への公開資本投資額は約$320,000,000に達している
+
+豚肉や牛肉などの畜産物生産に約2億4,429万ドル、次いで水産物生産に約4,950万ドルが投入されている
+
+B2C（Business-to-Consumer）がメインであるが、
+- 細胞培養液や成長因子の製造（Multus Media、Heuros、Luyef、Biftek、Future Fields、Cultured Blood）、
+- 細胞株の作製（Cell Farm Foods）
+- 細胞の製造（Future Meat Technologies）
+- 原料としての脂肪（CUBIQ Foods）など、他の B2B（Business-to-B2B）モデルも登場し始めている。
