@@ -131,3 +131,9 @@ B2C（Business-to-Consumer）がメインであるが、
 - 細胞株の作製（Cell Farm Foods）
 - 細胞の製造（Future Meat Technologies）
 - 原料としての脂肪（CUBIQ Foods）など、他の B2B（Business-to-B2B）モデルも登場し始めている。
+
+産業の成長を支援するためには追加の公的資金が必要であり、すでにいくつかの政府が介入している。
+- インド政府は、Centre for Excellence in Cellular Agricultureivの設立に60万米ドルを約束している。
+- シンガポール食品庁は食品研究のために 1 億 800 万米ドルを宣言している（CM のための未公表額も含む）。
+- ベルギーのフランドル政府は CM 研究コンソーシアムに 360 万ユーロを投資している。
+- 日本の科学技術振興機構(JST)は、Integriculture(日本の会社)に未公開の金額を投資している
