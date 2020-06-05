@@ -20,6 +20,7 @@ Cultured meatは日本ではまだまだ話題になっていませんが、海�
 ## Cultured Meatの概要
 ### Cultured Meatとは何か (ref: [Cultured meat (Wikipedia:en)](https://en.wikipedia.org/wiki/Cultured_meat))
 動物の細胞を体外培養して製造される。特に、動物の幹細胞を成長させて、動物を屠殺することなく食用の食肉製品にすることを可能にする技術のことである。その製造方法から、クリーンミート、in vitro ミート、cell-based meat (細胞ベースの肉)、slaughter-free meat (屠殺不要な肉)、laboratory-grown meat (実験室で生産された肉) 、cultivated meat (栽培された肉) and synthetic meat (合成肉)とよばれる。現在、世界には50社以上の企業が広がっており、従来の動物性肉と同等の美味しさと手頃な価格の培養食肉製品の製造に取り組んでいる。しかし、成功を収めるためには、細胞・分子生物学、組織工学、化学工学など、様々な分野からの科学者の飛躍的な流入が必要である。
+- 日本ではIntegriCultureとNU Proteinの2社
 		
 ### Cultured meatの歴史 (ref: [Cultured meat (Wikipedia:en)](https://en.wikipedia.org/wiki/Cultured_meat))
 Cultured meatは長年、想像の産物であった。例えば、イギリスの元首相であり作家でもあったウィンストン・チャーチルは1931年に "適切な培地の下で、これらの部分を別々に育てることで、胸肉や手羽先を食べるために鶏を丸ごと育てるという不条理から逃れよう。"と提案している。
