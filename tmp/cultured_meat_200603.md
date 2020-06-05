@@ -260,6 +260,7 @@ Cultured meat生産へのアプローチは、2 つの主要な生産システ�
 ## Cellular Argiculture (細胞農業) [ref: Cellular Agriculture (Wikipedia:en)](https://en.wikipedia.org/wiki/Cellular_agriculture)
 細胞農業は、バイオテクノロジー、組織工学、分子生物学、合成生物学を組み合わせた細胞培養による農産物の生産に焦点を当てており、従来の農業からでなければ得られなかったタンパク質、脂肪、組織を生産する新しい方法を創造し、設計することを目的としている。 業界のほとんどは、養殖家畜を飼育・屠殺するのではなく、細胞培養で生産された肉、牛乳、卵などの動物製品に焦点を当てている。 最もよく知られている細胞農業の概念は、培養肉である。
 - Meat, Dairy(乳製品), Eggs, Gelatin, Coffee, Horseshoe Crab Blood	(カブトガニ, 成分を含む青い血液は、毒素エンドトキシンの検査薬として使われている), Fish, Fragrances(フレグランス), Silk, Leather, Pet Food
+- Afineur ... コピルアクを作る。バクテリアによってコーヒーを発酵させる。
 
 ## 代替肉の概要 meat analogue, plant-based meat substitute
 ### Beyond meat
