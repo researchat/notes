@@ -11,6 +11,8 @@ duration: "01:XX:XX"
 layout: article
 tags:
   - 論文紹介
+  - テクノロジー
+  - 食事
 title: 60. Lab meating
 ---
 
