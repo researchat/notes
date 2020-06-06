@@ -64,7 +64,7 @@ title: 60. Lab meating
 - [Will Beyond Meat and Impossible Foods Survive Lab Meat’s Challenge? (03/06/2020)](https://www.fool.com/investing/2020/03/06/will-beyond-meat-and-impossible-foods-survive-lab.aspx) ... 培養肉はBeyond MeatやImpossible Foodsなどの植物性代替肉を超えられるか。
 - [‘Cultured’ meat could create more problems than it solves](https://theconversation.com/cultured-meat-could-create-more-problems-than-it-solves-127702) ... 培養肉がもたらすプラスチックディッシュなどによる環境汚染について
 - [レビ記](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%93%E8%A8%98) ... 旧約聖書中の一書で、伝統的に三番目に置かれてきた。モーセ五書のうちの一書。11章にコーシャーミールについての記述がある。その中の11:22において、イナゴ食について書かれている。
-- [洗礼者ヨハネ(バプテスマのヨハネ)] ... イエス・キリストの直弟子（使徒）である「使徒(エヴァンジェリスト)ヨハネ」とは別人。
+- [洗礼者ヨハネ(バプテスマのヨハネ)](https://ja.wikipedia.org/wiki/%E6%B4%97%E7%A4%BC%E8%80%85%E3%83%A8%E3%83%8F%E3%83%8D) ... イエスに洗礼を授けたとされる人物。マタイ福音書にはイナゴとはちみつを主に食べていたと書かれている。イエス・キリストの直弟子（使徒）である「使徒(エヴァンジェリスト)ヨハネ」とは別人。
 - [Kosher Foods](https://en.wikipedia.org/wiki/Kosher_foods) ... ユダヤの戒律の中で決められた食事ルールに則った食事。
 - [Biblical Protein](https://biblicalprotein.com/) ... イナゴを食べよう。
 
