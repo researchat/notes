@@ -63,9 +63,12 @@ title: 60. Lab meating
 - [New Wave Foods](https://www.newwavefoods.com/) ... 海藻やその他の天然素材から作られた持続可能な植物性のエビの代替品を開発している。
 - [Will Beyond Meat and Impossible Foods Survive Lab Meat’s Challenge? (03/06/2020)](https://www.fool.com/investing/2020/03/06/will-beyond-meat-and-impossible-foods-survive-lab.aspx) ... 培養肉はBeyond MeatやImpossible Foodsなどの植物性代替肉を超えられるか。
 - [‘Cultured’ meat could create more problems than it solves](https://theconversation.com/cultured-meat-could-create-more-problems-than-it-solves-127702) ... 培養肉がもたらすプラスチックディッシュなどによる環境汚染について
-
+- [レビ記](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%93%E8%A8%98) ... 旧約聖書中の一書で、伝統的に三番目に置かれてきた。モーセ五書のうちの一書。11章にコーシャーミールについての記述がある。その中の11:22において、イナゴ食について書かれている。
+- [洗礼者ヨハネ(バプテスマのヨハネ)] ... イエス・キリストの直弟子（使徒）である「使徒(エヴァンジェリスト)ヨハネ」とは別人。
+- [Kosher Foods](https://en.wikipedia.org/wiki/Kosher_foods) ... ユダヤの戒律の中で決められた食事ルールに則った食事。
+- [Biblical Protein](https://biblicalprotein.com/) ... イナゴを食べよう。
 
 ## Editorial notes
 - (soh)
 - (coela)
-- (tadasu)
+- 一度調べたいと思っていたので、かなりとっちらかってしまいましたが、悔いはありません。(tadasu)
