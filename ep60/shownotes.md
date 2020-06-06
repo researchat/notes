@@ -17,12 +17,16 @@ title: 60. Lab meating
 ## Shownotes
 - [Choudhury et al., Trends in Biotechnology (2020)](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(20)30056-1) ... 最新のCultured meat(培養肉)界隈につして
 - [How it's made: Cultivated Meat](http://elliotswartz.com/cellbasedmeat/cleanmeat301) ... 上記論文を書いた著者のblog。Cultured meatについての全ての情報が書かれている。必読。
+- [Cultured Meat Company](https://docs.google.com/spreadsheets/d/1JUMBfHa2E4MgX7EVt5SVrSTqP2JKKwZVELYIf8wMmI0/edit#gid=698328806) ... Cultured meat関連会社まとめ。上記のblogがまとめている神情報。これ無料で大丈夫ですか？日本からはIntegricultureとNU Proteinの2社がエントリー(2020/06/06
 - [Cultured meat (Wikipedia:en)](https://en.wikipedia.org/wiki/Cultured_meat)
 - [Tuomisto and de Mattos, Environ. Sci. Technol. (2011)](https://pubs.acs.org/doi/10.1021/es200130u)) ... Cultured meatにより達成される課題のまとめ
 - [Mark Post](https://en.wikipedia.org/wiki/Mark_Post) ... 2013年に培養肉ハンバーガーを初めて出した。
 - [Mosa Meat](https://www.mosameat.com/) ... Mark Post教授率いる培養肉のベンチャー企業。FBS無し培地による細胞培養に成功している。
 - [Memphis Meats](https://www.memphismeats.com/)
 - [Aleph Farms](https://aleph-farms.com/)
+- [BIOMILQ](https://www.biomilq.com/) ... 母乳を細胞農業によって作ろうとしている会社
+- [VOW Foods](https://www.vowfood.com/) ... オーストラリアの培養肉会社。カンガルー肉も作っている？
+- [@round](http://around-kamakura.com/) ... 鎌倉にあるオーストラリア料理店。tadasuとsohは2011/03/03に食事した。
 - [国連による人口の情報(2019)](https://population.un.org/wpp/Publications/Files/WPP2019_Highlights.pdf)
 - 2050年、世界の人口は97億人になる
   - 77億人(2019)
