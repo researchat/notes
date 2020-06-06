@@ -70,6 +70,7 @@ title: 60. Lab meating
 - [洗礼者ヨハネ(バプテスマのヨハネ)](https://ja.wikipedia.org/wiki/%E6%B4%97%E7%A4%BC%E8%80%85%E3%83%A8%E3%83%8F%E3%83%8D) ... イエスに洗礼を授けたとされる人物。マタイ福音書にはイナゴとはちみつを主に食べていたと書かれている。イエス・キリストの直弟子（使徒）である「使徒(エヴァンジェリスト)ヨハネ」とは別人。
 - [Kosher Foods](https://en.wikipedia.org/wiki/Kosher_foods) ... ユダヤの戒律の中で決められた食事ルールに則った食事。
 - [Biblical Protein](https://biblicalprotein.com/) ... イナゴを食べよう。
+- [Sayamaさん(@Sayamabio)のtweet](https://twitter.com/Sayamabio/status/1260721832430198784) ... いつも素晴らしいBiotechnology関連の情報をくださるsayamaさんのツイッターで最初に書いた論文とblogの情報を知りました。ありがとうございます。
 
 ## Editorial notes
 - (soh)
