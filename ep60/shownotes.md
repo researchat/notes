@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/60.mp3
 audio_file_size: XXXXX
 date: 2020-06-08 09:00:00 +0900
-description: 動物の体外で培養された細胞により作られた培養肉、植物性の代替肉や代替卵、旧約聖書とイナゴ食について話しました。
+description: 動物の体外で培養された細胞により作られた培養肉、植物性の代替肉や代替卵について話しました。
 duration: "01:XX:XX"
 layout: article
 tags:
