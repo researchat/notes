@@ -74,5 +74,5 @@ title: 60. Lab meating
 
 ## Editorial notes
 - おれも早く実食したい (soh)
-- (coela)
+- ヤックデカルチャーミート(coela)
 - 一度調べたいと思っていたので、かなりとっちらかってしまいましたが、悔いはありません。(tadasu)
