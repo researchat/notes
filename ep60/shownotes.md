@@ -21,7 +21,7 @@ title: 60. Lab meating
 - [How it's made: Cultivated Meat](http://elliotswartz.com/cellbasedmeat/cleanmeat301) ... 上記論文を書いた著者のblog。Cultured meatについての全ての情報が書かれている。必読。
 - [Sayamaさん(@Sayamabio)のtweet](https://twitter.com/Sayamabio/status/1260721832430198784) ... いつも素晴らしいBiotechnology関連の情報をくださるsayamaさんのツイッターで上記の論文とblogの情報を知りました。ありがとうございます。
 - [Cultured Meat Company](https://docs.google.com/spreadsheets/d/1JUMBfHa2E4MgX7EVt5SVrSTqP2JKKwZVELYIf8wMmI0/edit#gid=698328806) ... Cultured meat関連会社まとめ。上記のblogがまとめている神情報。これ無料で大丈夫ですか？日本からはIntegricultureとNU Proteinの2社がエントリー(2020/06/06
-- [Cultured meat (Wikipedia:en)](https://en.wikipedia.org/wiki/Cultured_meat)
+- [Cultured meat (Wikipedia:en)](https://en.wikipedia.org/wiki/Cultured_meat) ... 培養肉
 - [Tuomisto and de Mattos, Environ. Sci. Technol. (2011)](https://pubs.acs.org/doi/10.1021/es200130u)) ... Cultured meatにより達成される課題のまとめ
 - [Mark Post](https://en.wikipedia.org/wiki/Mark_Post) ... 2013年に培養肉ハンバーガーを初めて出した。
 - [Mosa Meat](https://www.mosameat.com/) ... Mark Post教授率いる培養肉のベンチャー企業。FBS無し培地による細胞培養に成功している。
