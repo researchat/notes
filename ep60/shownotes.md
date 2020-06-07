@@ -58,7 +58,7 @@ title: 60. Lab meating
 - [テロメア](https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AD%E3%83%A1%E3%82%A2) ... 真核生物の染色体は線状であるため、テロメラーゼとよばれるテロメアを伸張するタンパク質が発現していないとドンドン短くなる。
 - [ハダカデバネズミ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%80%E3%82%AB%E3%83%87%E3%83%90%E3%83%8D%E3%82%BA%E3%83%9F)
 - [Cellular Agriculture (Wikipedia:en)](https://en.wikipedia.org/wiki/Cellular_agriculture) ... 細胞農業は、バイオテクノロジー、組織工学、分子生物学、合成生物学を組み合わせた細胞培養による農産物の生産に焦点を当てており、従来の農業からでなければ得られなかったタンパク質、脂肪、組織を生産する新しい方法を創造し、設計することを目的としている。 業界のほとんどは、養殖家畜を飼育・屠殺するのではなく、細胞培養で生産された肉、牛乳、卵などの動物製品に焦点を当てている。 最もよく知られている細胞農業の概念は、培養肉である。Meat, Dairy(乳製品), Eggs, Gelatin, Coffee, Horseshoe Crab Blood	(カブトガニ, 成分を含む青い血液は、毒素エンドトキシンの検査薬として使われている), Fish, Fragrances(フレグランス), Silk, Leather, Pet Foodが含まれる。
-- [AFINEUR](https://www.afineur.com/) ... コピルアクを作る。バクテリアによってコーヒーを発酵させる。
+- [AFINEUR](https://www.afineur.com/) ... コピルアクにインスピレーションをうけ、バクテリアによってコーヒーを発酵させるこで新時代のコーヒーを作るスタートアップ。
 - [Meat Analogue](https://en.wikipedia.org/wiki/Meat_analogue) ... 代替肉。fake meatやmeat substitutesなど、呼び名がいろいろある。多くは植物性代替肉を指す。
 - [Beyond Meat](https://www.beyondmeat.com/) ... 植物性代替肉の大手。アメリカの多くのスーパーマーケットで購入可能
 - Beyond Meatの原材料一覧 ... Beyond Meat社の主力商品であるビヨンドバーガー原材料一覧: 水、えんどう豆分離タンパク、キャノーラ油、ココナッツオイル、玄米タンパク、天然香料、ココアバター、緑豆タンパク、メチルセルロース、ジャガイモ澱粉、りんご抽出物、ざくろ抽出物、塩、塩化カリウム、酢、濃縮レモン汁、ヒマワリレシチン、ビーツ抽出液、人参
