@@ -73,6 +73,6 @@ title: 60. Lab meating
 - [Biblical Protein](https://biblicalprotein.com/) ... イナゴを食べよう。
 
 ## Editorial notes
-- (soh)
+- おれも早く実食したい (soh)
 - (coela)
 - 一度調べたいと思っていたので、かなりとっちらかってしまいましたが、悔いはありません。(tadasu)
