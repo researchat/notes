@@ -4,15 +4,15 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/60.mp3
-audio_file_size: XXXXX
-date: 2020-06-08 09:00:00 +0900
+audio_file_size: 77239415
+date: 2020-06-08 07:00:00 +0900
 description: 動物の体外で培養された細胞により作られた培養肉、植物性の代替肉や代替卵について話しました。
-duration: "01:XX:XX"
+duration: "01:37:18"
 layout: article
 tags:
   - 論文紹介
-  - テクノロジー
-  - 食事
+  - バイオテクノロジー
+  - フード
 title: 60. Lab meating
 ---
 
@@ -47,7 +47,10 @@ title: 60. Lab meating
 - [Integricultureの現状 2019年の記事](https://thespoon.tech/japanese-startup-integriculture-will-sell-cultured-foie-gras-by-2021-and-teach-you-to-make-it-at-home/)
 - [SpaceSalt™](https://integriculture.jp/news/251/)
 - [培養フォアグラ(2019/08/29)](https://integriculture.jp/news/294/)
+- [Shojinmeat Project](https://shojinmeat.com/wordpress/) ... 自宅で作るオープンソース純粋培養肉
+- [Effective 肉の温度測定 (肉と鍋)](https://www.amazon.co.jp/dp/B0755M4JCD/?tag=researchatf04-22) ... 最高の本。科学と料理。低温調理を自宅でやるためには？最高の本。
 - [培地の紹介](https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/SAJ/Brochure/1/j_recipeccmediumguide.pdf)
+- [リナート・ダルベッコ](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%88%E3%83%BB%E3%83%89%E3%82%A5%E3%83%AB%E3%83%99%E3%83%83%E3%82%B3)
 - [FBS (Fetal Bovine Serum)](https://www.thermofisher.com/us/en/home/references/gibco-cell-culture-basics/cell-culture-environment/culture-media/fbs-basics.html)
 - [BlueNalu](https://www.bluenalu.com/) ... 培養シーフードを作る会社。FBS無しの培地で細胞培養可能になった。
 - [NOVA MEAT](https://www.novameat.com/) ... 3D printingによって肉を作成。ただ、NOVA meatは現状植物由来の代替肉のようです。
@@ -70,7 +73,7 @@ title: 60. Lab meating
 - [レビ記](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%93%E8%A8%98) ... 旧約聖書中の一書で、伝統的に三番目に置かれてきた。モーセ五書のうちの一書。11章にコーシャーミールについての記述がある。その中の11:22において、イナゴ食について書かれている。
 - [洗礼者ヨハネ(バプテスマのヨハネ)](https://ja.wikipedia.org/wiki/%E6%B4%97%E7%A4%BC%E8%80%85%E3%83%A8%E3%83%8F%E3%83%8D) ... イエスに洗礼を授けたとされる人物。マタイ福音書にはイナゴとはちみつを主に食べていたと書かれている。イエス・キリストの直弟子（使徒）である「使徒(エヴァンジェリスト)ヨハネ」とは別人。
 - [Kosher Foods](https://en.wikipedia.org/wiki/Kosher_foods) ... ユダヤの戒律の中で決められた食事ルールに則った食事。
-- [Biblical Protein](https://biblicalprotein.com/) ... イナゴを食べよう。
+- [Biblical Protein](https://biblicalprotein.com/) ... 名前がすごい。イナゴを食べよう。
 
 ## Editorial notes
 - おれも早く実食したい (soh)
