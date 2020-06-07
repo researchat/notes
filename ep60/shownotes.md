@@ -49,6 +49,7 @@ title: 60. Lab meating
 - [培養フォアグラ(2019/08/29)](https://integriculture.jp/news/294/)
 - [Shojinmeat Project](https://shojinmeat.com/wordpress/) ... 自宅で作るオープンソース純粋培養肉
 - [Effective 肉の温度測定 (肉と鍋)](https://www.amazon.co.jp/dp/B0755M4JCD/?tag=researchatf04-22) ... 最高の本。科学と料理。低温調理を自宅でやるためには？最高の本。
+- 肝細胞と幹細胞 ... 混じってややこしくなりました。
 - [培地の紹介](https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/SAJ/Brochure/1/j_recipeccmediumguide.pdf)
 - [リナート・ダルベッコ](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%88%E3%83%BB%E3%83%89%E3%82%A5%E3%83%AB%E3%83%99%E3%83%83%E3%82%B3)
 - [FBS (Fetal Bovine Serum)](https://www.thermofisher.com/us/en/home/references/gibco-cell-culture-basics/cell-culture-environment/culture-media/fbs-basics.html)
