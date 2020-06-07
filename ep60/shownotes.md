@@ -19,6 +19,7 @@ title: 60. Lab meating
 ## Shownotes
 - [Choudhury et al., Trends in Biotechnology (2020)](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(20)30056-1) ... 最新のCultured meat(培養肉)界隈につして
 - [How it's made: Cultivated Meat](http://elliotswartz.com/cellbasedmeat/cleanmeat301) ... 上記論文を書いた著者のblog。Cultured meatについての全ての情報が書かれている。必読。
+- [Sayamaさん(@Sayamabio)のtweet](https://twitter.com/Sayamabio/status/1260721832430198784) ... いつも素晴らしいBiotechnology関連の情報をくださるsayamaさんのツイッターで上記の論文とblogの情報を知りました。ありがとうございます。
 - [Cultured Meat Company](https://docs.google.com/spreadsheets/d/1JUMBfHa2E4MgX7EVt5SVrSTqP2JKKwZVELYIf8wMmI0/edit#gid=698328806) ... Cultured meat関連会社まとめ。上記のblogがまとめている神情報。これ無料で大丈夫ですか？日本からはIntegricultureとNU Proteinの2社がエントリー(2020/06/06
 - [Cultured meat (Wikipedia:en)](https://en.wikipedia.org/wiki/Cultured_meat)
 - [Tuomisto and de Mattos, Environ. Sci. Technol. (2011)](https://pubs.acs.org/doi/10.1021/es200130u)) ... Cultured meatにより達成される課題のまとめ
@@ -70,7 +71,6 @@ title: 60. Lab meating
 - [洗礼者ヨハネ(バプテスマのヨハネ)](https://ja.wikipedia.org/wiki/%E6%B4%97%E7%A4%BC%E8%80%85%E3%83%A8%E3%83%8F%E3%83%8D) ... イエスに洗礼を授けたとされる人物。マタイ福音書にはイナゴとはちみつを主に食べていたと書かれている。イエス・キリストの直弟子（使徒）である「使徒(エヴァンジェリスト)ヨハネ」とは別人。
 - [Kosher Foods](https://en.wikipedia.org/wiki/Kosher_foods) ... ユダヤの戒律の中で決められた食事ルールに則った食事。
 - [Biblical Protein](https://biblicalprotein.com/) ... イナゴを食べよう。
-- [Sayamaさん(@Sayamabio)のtweet](https://twitter.com/Sayamabio/status/1260721832430198784) ... いつも素晴らしいBiotechnology関連の情報をくださるsayamaさんのツイッターで最初に書いた論文とblogの情報を知りました。ありがとうございます。
 
 ## Editorial notes
 - (soh)
