@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/60.mp3
-audio_file_size: 77239415
+audio_file_size: 75832449
 date: 2020-06-08 07:00:00 +0900
-description: 動物の体外で培養された細胞により作られた培養肉、植物性の代替肉や代替卵について話しました。
-duration: "01:37:18"
+description: 動物の体外で培養された細胞により作られた培養肉、さらに植物性の代替肉や代替卵について話しました。
+duration: "01:37:22"
 layout: article
 tags:
   - 論文紹介
