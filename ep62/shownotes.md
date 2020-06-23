@@ -33,8 +33,8 @@ title: 62. Graffiti of Octopi
 - [ケーシー高峰](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%BC%E9%AB%98%E5%B3%B0)
 - [新庄北高校](https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%BD%A2%E7%9C%8C%E7%AB%8B%E6%96%B0%E5%BA%84%E5%8C%97%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1) ... ビートきよしさんもこの学校出身というのを言おうかと思ったのですが二人が知っているわけないのでやめました。
 - [ユリ・ゲラー](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%AA%E3%83%BB%E3%82%B2%E3%83%A9%E3%83%BC)
-- [ユリゲラー　nature]
-- [DUO3.0]()
+- [Targ and Puthoff, Nature (1974)](https://www.nature.com/articles/251602a0) ... ユリ・ゲラーの透視実験に関するNature論文。叩かれまくっている。
+- [DUO3.0](https://www.amazon.co.jp/dp/4900790052/?tag=researchatf04-22) ... みんな大好きDUO3.0
 - [graffiti](https://en.wikipedia.org/wiki/Graffiti)
 - [バンクシー vs キングロボ](https://startum.space/art/banksy%EF%BC%86king-robbo/)
 - [キース・ヘリング](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%98%E3%83%AA%E3%83%B3%E3%82%B0) ... UNIQLOのあの画
@@ -47,20 +47,19 @@ title: 62. Graffiti of Octopi
 - [タギング](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AE%E3%83%B3%E3%82%B0)
 - [TAKI 183](https://en.wikipedia.org/wiki/TAKI_183)
 - [Julio 204](https://en.wikipedia.org/wiki/Julio_204)
-デニスクローリー
-foursquare
-セカイカメラ
-vandalism
-kidult 
-penisman
-penismanfan
-折田像
-graffiti graffito
-tempi tempo
-joh roganのセットアップ
+- [Denis Crowley](https://en.wikipedia.org/wiki/Dennis_Crowley)
+- [Denis CrowleyとMario](https://www.cnn.com/2010/TECH/innovation/06/04/foursquare.dennis.crowley/index.html) ... ちょっと記憶違いがあったかもしれませんが、大枠は間違っていないはず...
+- [Foursquare](https://ja.foursquare.com/)
+- [セカイカメラ](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AB%E3%82%A4%E3%82%AB%E3%83%A1%E3%83%A9)
+- [KIDULT](https://www.youtube.com/watch?v=1-m27orLIOc) ... よい子は真似しないように
+- [penisman](https://www.nydailynews.com/news/national/ny-arrested-arizona-penis-man-claims-there-are-more-penis-men-20200128-uet57r6egrhfhiaontvnllwv3m-story.html) ... あまりにもど直球すぎる。
+- [折田先生像](https://ja.wikipedia.org/wiki/%E6%8A%98%E7%94%B0%E5%85%88%E7%94%9F%E5%83%8F) ... 風物詩
+- graffito ... graffitiの単数形
+- tempo ... 実はtempoも単数形で複数形はtempiになる。
+- [Joe Roganのポッドキャスト収録セットアップ](https://jrelibrary.com/articles/joe-rogan-experience-podcast-equipment-studio-setup/)
 
 
 ## Editorial notes
 - (soh)
-- 英語をもう少し勉強したい (tadasu)
+- まだ博士課程にいたtamakiさんがPokemonGOを始めた時、ポケモンやりすぎるとマスター止まりですよ？と言い放った私が通ります。(tadasu)
 - (coela)
