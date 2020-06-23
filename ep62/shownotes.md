@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/62.mp3
 audio_file_size: 66305411
 date: 2020-06-24 07:00:00 +0900
-description: 英語の不規則複数形変化とGraffitiについて話しました。
+description: 英単語の複数形不規則変化とGraffitiについて話しました。
 duration: "00:59:22"
 layout: article
 tags:
