@@ -26,7 +26,8 @@ title: 62. Graffiti of Octopi
 - um -> a ... medium -> media
 - on -> a ... phenomenon -> phenomena, criterion -> criteria, mitochondrion -> mitochondria, automaton -> automata, archaeon archaea
 - [野坂オートマタ美術館](http://www.automata.co.jp/) ... 最高の美術館。オートマタをこれでもかというぐらい堪能できます。
-- [手紙を書くオートマタ](https://en.wikipedia.org/wiki/Jaquet-Droz_automata)
+- [手紙を書くオートマタ](https://en.wikipedia.org/wiki/Jaquet-Droz_automata) ... 天才時計職人、Pierre Jaquet-Drozの作。時計とオートマタ、興味深すぎるのでまた今度話したい。
+- [The Writer Automataの動画](https://www.youtube.com/watch?v=OehTO9l1Hp8)
 - ma -> mata ... chiasma -> chiasmata, diploma -> diplomata -> enigma -> enigmata, stigma -> stigmata
 - [ポケモンの名前(海外)](https://wiki.pokemonwiki.com/wiki/%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%81%AE%E5%A4%96%E5%9B%BD%E8%AA%9E%E5%90%8D%E4%B8%80%E8%A6%A7)
 - Abra, Kadabra, Alakazam ... ケーシィ、ユンゲラー、フーディンのこと
