@@ -54,7 +54,7 @@ title: 62. Graffiti of Octopi
 - [Foursquare](https://ja.foursquare.com/)
 - [セカイカメラ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AB%E3%82%A4%E3%82%AB%E3%83%A1%E3%83%A9)
 - [KIDULT (Youtube)](https://www.youtube.com/watch?v=1-m27orLIOc) ... よい子は真似しないように
-- [Penis an](https://www.nydailynews.com/news/national/ny-arrested-arizona-penis-man-claims-there-are-more-penis-men-20200128-uet57r6egrhfhiaontvnllwv3m-story.html) ... あまりにもど直球すぎる。
+- [Penis man](https://www.nydailynews.com/news/national/ny-arrested-arizona-penis-man-claims-there-are-more-penis-men-20200128-uet57r6egrhfhiaontvnllwv3m-story.html) ... あまりにもど直球すぎる。
 - [折田先生像 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%8A%98%E7%94%B0%E5%85%88%E7%94%9F%E5%83%8F) ... 風物詩
 - Graffito ... graffitiの単数形
 - Tempo ... 実はtempoも単数形で複数形はtempiになる。
