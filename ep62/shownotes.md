@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/62.mp3
 audio_file_size: 66305411
 date: 2020-06-24 07:00:00 +0900
-description: 英単語の複数形不規則変化とグラフィティについて話しました。
+description: 英単語の不規則な複数形とグラフィティについて話しました。
 duration: "00:59:22"
 layout: article
 tags:
@@ -44,7 +44,7 @@ title: 62. Graffiti of Octopi
 - モニカー
 - [Kilroy was here (Wikipedia)](https://en.wikipedia.org/wiki/Kilroy_was_here) ... キルロイ参上
 - [Foo was here (Wikipedia)](https://en.wikipedia.org/wiki/Foo_was_here) ... 第一次世界大戦後にオーストラリアで爆発的に流行ったとされているがなぜかぐぐってもほぼ引っかからない奇妙な落書き(ということを書いているコラムも存在する。Fooはどこにいったの？)
-- Mr Chad
+- [Mr Chad](https://www.bbc.co.uk/history/ww2peopleswar/stories/19/a3568719.shtml)
 - [タギング (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AE%E3%83%B3%E3%82%B0)
 - [TAKI 183 (Wikipedia)](https://en.wikipedia.org/wiki/TAKI_183)
 - [Julio 204 (Wikipedia)](https://en.wikipedia.org/wiki/Julio_204)
@@ -60,6 +60,6 @@ title: 62. Graffiti of Octopi
 - [Joe Roganのポッドキャスト収録セットアップ](https://jrelibrary.com/articles/joe-rogan-experience-podcast-equipment-studio-setup/)
 
 ## Editorial notes
-- Researchatのグラフティは橋の下に書いてはいけませんよ (soh)
+- Researchatのグラフィティは橋の下に書いてはいけませんよ (soh)
 - まだ博士課程にいたtamakiさんがPokemonGOを始めた時、ポケモンやりすぎるとマスター止まりですよ？と言い放った私が通ります。(tadasu)
 - (coela)
