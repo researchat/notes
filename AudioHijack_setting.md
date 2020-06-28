@@ -10,8 +10,8 @@ Audio Hijack+SoundFlowerを使うと簡単に実現できそうだ。
 ## 機材など
 - Audio inferface Zoom H6: 6-input (4本のXLR端子、付属するステレオXYマイク)のオーディオインターフェース
 - Dynamic mic: SHURE SM58 (何でもよい)
-- Audio Hijack: Macに入力される音声を自由かつ直感的にルーティングすることができる
-- SoundFlower: Macに仮想オーディオを作成することができるプラグインをインストールしておく
+- Audio Hijack (https://rogueamoeba.com/audiohijack/): Macに入力される音声を自由かつ直感的にルーティングすることができる (65USD)
+- SoundFlower (https://github.com/mattingalls/Soundflower/releases): Macに仮想オーディオを作成することができるプラグインをインストールしておく
 - Discord: ボイスチャット
 
 ## Zoom H6の設定
@@ -33,14 +33,13 @@ Macに接続したZoomのサンプリングレートと入力ボリューム: Zo
 <img width="500" alt="Screen Shot 2020-06-28 at 17 59 36" src="https://user-images.githubusercontent.com/1855860/85943187-59f2a400-b969-11ea-8cf7-cc0910c1a4be.png">
 
 ## Audio Hijackの設定
-以下のような感じにルーティングする。Recordingを開始しないとモニタリングすることができなくて不便なので、レコーディングブロックをOFFにしてレコーディングを開始するとファイルへ保存しないでモニタリングすることができる。
+以下のような感じにルーティングする。Recordingを開始しないとモニタリングすることができなくて不便なので、レコーディングブロックをOFFにしてレコーディングを開始するとファイルへ保存しないでモニタリングすることができる。めちゃくちゃわかりやすい。コンプレッサーやdenoise機能もあるがそれは使わない。
 
 <img width="800" alt="Screen Shot 2020-06-28 at 18 06 17" src="https://user-images.githubusercontent.com/1855860/85943414-e6519680-b96a-11ea-9db6-8b2b5f21a4a1.png">
 
 以下のような感じで、recordingを開始することで音声がルーティングされる。
 
 ![hoge](https://user-images.githubusercontent.com/1855860/85944005-bd330500-b96e-11ea-84b7-1b0b1248c0b5.gif)
-
 
 ## TBA
 Discordから出力される音声をローカルのゲストが聞くためには、Macのイヤフォンジャックからスプリッターで分配すれば良さそう。
