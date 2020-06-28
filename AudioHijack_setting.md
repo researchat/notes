@@ -25,6 +25,7 @@ Setting -> Voice&Audio -> Soundflower (2ch)に設定する
 ## Macの設定を確認
 Audio MIDI Setup.appで以下を設定する
 Macに接続したZoomのサンプリングレートと入力ボリューム: Zoom H6とSoundFlower (2ch)をそれぞれ48kHzになっていることを確認。
+
 <img width="500" alt="Screen Shot 2020-06-28 at 17 59 26" src="https://user-images.githubusercontent.com/1855860/85943209-83133480-b969-11ea-8e9f-b3854e059cdc.png">
 <img width="500" alt="Screen Shot 2020-06-28 at 17 59 36" src="https://user-images.githubusercontent.com/1855860/85943187-59f2a400-b969-11ea-8cf7-cc0910c1a4be.png">
 
