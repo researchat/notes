@@ -29,5 +29,11 @@ Macに接続したZoomのサンプリングレートと入力ボリューム: Zo
 <img width="500" alt="Screen Shot 2020-06-28 at 17 59 26" src="https://user-images.githubusercontent.com/1855860/85943209-83133480-b969-11ea-8e9f-b3854e059cdc.png">
 <img width="500" alt="Screen Shot 2020-06-28 at 17 59 36" src="https://user-images.githubusercontent.com/1855860/85943187-59f2a400-b969-11ea-8cf7-cc0910c1a4be.png">
 
+## Audio Hijackの設定
+以下のような感じにルーティングする。Recordingを開始しないとモニタリングすることができなくて不便なので、レコーディングブロックをOFFにしてレコーディングを開始するとファイルへ保存しないでモニタリングすることができる。
 
+<img width="928" alt="Screen Shot 2020-06-28 at 18 06 17" src="https://user-images.githubusercontent.com/1855860/85943414-e6519680-b96a-11ea-9db6-8b2b5f21a4a1.png">
+
+## TBA
+Discordから出力される音声をローカルのゲストが聞くためには、Macのイヤフォンジャックからスプリッターで分配すれば良さそう。
 
