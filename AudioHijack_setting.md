@@ -20,13 +20,12 @@ Low cut (80 kHz以下をカット)とcompressorは内蔵のものを使う。
 
 <img width="500" alt="img" src="https://user-images.githubusercontent.com/1855860/85943662-64626d00-b96c-11ea-8e0f-cad8ce3beb44.jpg">
 
-
 ## Discordの設定
-Setting -> Voice&Audio -> Soundflower (2ch)に設定する
+Setting -> Voice&Audio -> Soundflower (2ch)に設定する。
 これによって、仮想オーディオインターフェースに集めた音声（Zoom H6）を入力にすることができる
 
 ## Macの設定を確認
-Audio MIDI Setup.appで以下を設定する
+Audio MIDI Setup.appで以下を設定する。
 Macに接続したZoomのサンプリングレートと入力ボリューム: Zoom H6とSoundFlower (2ch)をそれぞれ48kHzになっていることを確認。
 
 <img width="500" alt="Screen Shot 2020-06-28 at 17 59 26" src="https://user-images.githubusercontent.com/1855860/85943209-83133480-b969-11ea-8e9f-b3854e059cdc.png">
@@ -42,5 +41,5 @@ Macに接続したZoomのサンプリングレートと入力ボリューム: Zo
 ![hoge](https://user-images.githubusercontent.com/1855860/85944005-bd330500-b96e-11ea-84b7-1b0b1248c0b5.gif)
 
 ## TBA
-Discordから出力される音声をローカルのゲストが聞くためには、Macのイヤフォンジャックからスプリッターで分配すれば良さそう。
+- Discordから出力される音声をローカルのゲストが聞くためには、Macのイヤフォンジャックからスプリッターで分配すれば良さそう。
 
