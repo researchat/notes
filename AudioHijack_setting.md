@@ -18,6 +18,9 @@ Audio Hijack+SoundFlowerを使うと簡単に実現できそうだ。
 Multi Track ModeでUSB経由でMacに接続する。48kHz 16bitで出力するように設定。
 Low cut (80 kHz以下をカット)とcompressorは内蔵のものを使う。
 
+<img width="500" alt="img" src="https://user-images.githubusercontent.com/1855860/85943662-64626d00-b96c-11ea-8e0f-cad8ce3beb44.jpg">
+
+
 ## Discordの設定
 Setting -> Voice&Audio -> Soundflower (2ch)に設定する
 これによって、仮想オーディオインターフェースに集めた音声（Zoom H6）を入力にすることができる
