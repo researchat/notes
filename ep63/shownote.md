@@ -25,6 +25,7 @@ title: 63. TBA
 - [Base excision repair (BER) (Wikipedia)](https://en.wikipedia.org/wiki/Base_excision_repair)...DNA修復の重要なパスウェイの一つ。APOBECによって変換されたウラシルはこのパスウェイによって修復される。
 - [DNA Repair Profiling Reveals Nonrandom Outcomes at Cas9-Mediated Breaks. Molecular Cell, 2016](https://pubmed.ncbi.nlm.nih.gov/27499295/)...Cas9によって引き起こされる欠失変異のパターンはランダムではない、ということを始めて報告した論文。
 - [Predictable and precise template-free CRISPR editing of pathogenic variants. Nature, 2018](https://www.nature.com/articles/s41586-018-0686-x)...大量のゲノム編集アッセイによってゲノム編集のパターンを計測し、そこから機械学習モデルを作成することで、ゲノム編集パターンの予測に成功した最初の論文。
+- [Microhomology-mediated end-joining-dependent integration of donor DNA in cells and animals using TALENs and CRISPR/Cas9](https://www.nature.com/articles/ncomms6560) ... Cas9切断後の修復pathwayに関する研究
 - [29歳独身中堅冒険者の日常 (マンガ)](https://www.amazon.co.jp/dp/B01GPQWG1S)...今回紹介したCoelaのおすすめマンガ。
 
 ## Editorial notes
