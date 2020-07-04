@@ -11,7 +11,7 @@ duration: "00:44:53"
 layout: article
 tags:
   - Cas9
-title: 63. TBA
+title: 63. 改良型のCRISPR–Cas9によるゲノム編集ツールAFIDと変異パターンの予測について原著論文を紹介しました。
 ---
 
 ## Shownotes
@@ -23,8 +23,8 @@ title: 63. TBA
 - [Uracil-DNA Glycosylase (UNG)](https://lifescience.toyobo.co.jp/detail/detail.php?product_detail_id=261)...Cas9のC末端に融合されたタンパク質の一つ。分子生物学の実験に使われたりしています。
 - [AP site (apurinic/apyrimidinic site) (Wikipedia)](https://en.wikipedia.org/wiki/AP_site)...核酸塩基が抜けた部位のこと。ウラシルはUDGによってAP siteになることが知られています。
 - [Base excision repair (BER) (Wikipedia)](https://en.wikipedia.org/wiki/Base_excision_repair)...DNA修復の重要なパスウェイの一つ。APOBECによって変換されたウラシルはこのパスウェイによって修復される。
-- Prediction of Cas9 ineuced patterns
-- [DNA Repair Profiling Reveals Nonrandom Outcomes at Cas9-Mediated Breaks. Molecular Cell 2016](https://pubmed.ncbi.nlm.nih.gov/27499295/)...Cas9によって引き起こされる欠失変異のパターンはランダムではない、ということを始めて報告した論文。
+- [DNA Repair Profiling Reveals Nonrandom Outcomes at Cas9-Mediated Breaks. Molecular Cell, 2016](https://pubmed.ncbi.nlm.nih.gov/27499295/)...Cas9によって引き起こされる欠失変異のパターンはランダムではない、ということを始めて報告した論文。
+- [Predictable and precise template-free CRISPR editing of pathogenic variants. Nature, 2018](https://www.nature.com/articles/s41586-018-0686-x)...大量のゲノム編集アッセイによってゲノム編集のパターンを計測し、そこから機会学習モデルを作成することで、ゲノム編集パターンの予測に成功した最初の論文。
 - [２９歳独身中堅冒険者の日常 (マンガ)](https://www.amazon.co.jp/dp/B01GPQWG1S)...今回紹介したCoelaのおすすめマンガ。
 
 ## Editorial notes
