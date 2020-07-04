@@ -6,12 +6,12 @@ actor_ids:
 audio_file_path: /audio/63.mp3
 audio_file_size: 43085321
 date: 2020-07-05 09:00:00 +0900
-description: 
+description: 改良型のCRISPR–Cas9によるゲノム編集ツールAFIDと変異パターンの予測について原著論文を紹介しました。
 duration: "00:44:53"
 layout: article
 tags:
   - Cas9
-title: 63. 改良型のCRISPR–Cas9によるゲノム編集ツールAFIDと変異パターンの予測について原著論文を紹介しました。
+title: 63. TBA
 ---
 
 ## Shownotes
