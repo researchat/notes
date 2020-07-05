@@ -5,6 +5,9 @@
 ## 概要
 Macに接続されたZoom H6 (Audio interface)で録音した音声をミックスして、Discordで配信する。同時にゲストの声はローカルのゲストもモニターできるようにする。これをAudio Hijack+SoundFlowerを使うことで実現する。
 
+<img width="500" alt="Screen Shot 2020-07-05 at 18 06 07" src="https://user-images.githubusercontent.com/1855860/86529259-3f30aa00-beea-11ea-8ce3-11b996b4a90b.png">
+
+
 ## 機材など
 - Audio inferface Zoom H6: 6-input (4本のXLR端子、付属するステレオXYマイク)のレコーダー兼オーディオインターフェース
 - マイク: ダイナミックマイク SHURE SM58を使用しているがXLR入力であれば何でもよい。
