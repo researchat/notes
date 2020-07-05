@@ -11,13 +11,15 @@ duration: "00:44:53"
 layout: article
 tags:
   - Cas9
-title: 63. TBA
+  - CRISPR
+  - マンガ
+title: 63. Hijacking a repair system
 ---
 
 ## Shownotes
 - [Precise, predictable multi-nucleotide deletions in rice and wheat using APOBEC–Cas9, *Nature Biotechnology* 2020](https://www.nature.com/articles/s41587-020-0566-4)...今回はこの論文を紹介しました。APOBEC–Cas9 fusion-induced deletion systems (AFIDs)と呼ばれるゲノム編集技術です。
 - [Non-homologous end joining (NMEJ)](https://en.wikipedia.org/wiki/Non-homologous_end_joining)...Cas9で誘導される二本鎖DNA切断が修復される仕組みの一つ。
-- [Researchat.fmで話した過去のCas9関連エピソード](https://researchat.fm)...これまでに[ep2](https://researchat.fm/episode/2)、[ep22](https://researchat.fm/episode/22)、[ep33](https://researchat.fm/episode/33)などでCas9やゲノム編集について話しています。
+- [Researchat.fmで話した過去のCas9関連エピソード](https://researchat.fm)...これまでに[ep2](https://researchat.fm/episode/2)、[ep22](https://researchat.fm/episode/22)、[ep31](https://researchat.fm/episode/31)などでCas9やゲノム編集について話しています。
 - [31. Editing the unedited, Researchat.fm](https://researchat.fm/episode/31)...PrimeEditingと呼ばれるゲノム編集技術について原著論文を解説しました。
 - [APOBEC3と病態：APOBEC3によるゲノム変異と発がん (Journal of Japanese Biochemical Society 88(5): 576-581 (2016))](https://seikagaku.jbsoc.or.jp/10.14952/SEIKAGAKU.2016.880576/data/index.html)...今回の論文で使われているAPOBECについての詳しい日本語のレビュー論文です。
 - [Uracil-DNA Glycosylase (UNG)](https://lifescience.toyobo.co.jp/detail/detail.php?product_detail_id=261)...Cas9のC末端に融合されたタンパク質の一つ。分子生物学の実験に使われたりしています。
@@ -29,6 +31,6 @@ title: 63. TBA
 - [29歳独身中堅冒険者の日常 (マンガ)](https://www.amazon.co.jp/dp/B01GPQWG1S)...今回紹介したCoelaのおすすめマンガ。
 
 ## Editorial notes
-- Soh
+- いい加減Tamakiさん紹介のマンガでも読むか... (soh)
 - CRISPRシステムが受精直後の受精卵でも働く理由が知りたい。そもそも受精直後の卵でDNA修復経路が働いている理由とは...???(tadasu)
 - Coela
