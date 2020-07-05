@@ -35,7 +35,7 @@ Macに接続されたZoom H6 (Audio interface)で録音した音声をミック�
 ## Audio Hijackの設定
 以下のような感じにルーティングする。レコーディングを開始しないとAudio Hijackの中でモニタリングすることができず、とても不便なので、レコーディングブロックをOFFにしてからレコーディングを開始するとファイルへ保存しないでモニタリングすることができる。コンプレッサーやdenoise機能もあるがそれは使わない。編集はのちのポストプロダクションで行うためである。
 
-<img width="800" alt="Screen Shot 2020-06-28 at 18 06 17" src="https://user-images.githubusercontent.com/1855860/85943414-e6519680-b96a-11ea-9db6-8b2b5f21a4a1.png">
+<img width="500" alt="Screen Shot 2020-06-28 at 18 06 17" src="https://user-images.githubusercontent.com/1855860/85943414-e6519680-b96a-11ea-9db6-8b2b5f21a4a1.png">
 
 以下のような感じで、ルーティングを開始することで音声がルーティングされる。
 
