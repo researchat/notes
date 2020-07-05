@@ -39,8 +39,8 @@ Macに接続されたZoom H6 (Audio interface)で録音した音声をミック�
 ![hoge](https://user-images.githubusercontent.com/1855860/85944005-bd330500-b96e-11ea-84b7-1b0b1248c0b5.gif)
 
 ## モニタリング
-- Discordから出力されるリモートゲストの音声を2人以上のローカルのゲストが聞くためには、Macの3.5mmイヤフォン出力をステレオ・ヘッドホンアンプで分岐させればよい (https://www.amazon.co.jp/gp/product/B000KIPT30)。最大で4人まで同じDiscordの音声を聞くことができる。
-- Behringer HA400 MICROAMPなど。これは6.3mm標準フォンなので3.5mm変換プラグも必要になる。
+- Discordから出力されるリモートゲストの音声を2人以上のローカルのゲストが聞くためには、Macの3.5mmイヤフォン出力をステレオ・ヘッドホンアンプで分岐させればよい （https://www.amazon.co.jp/gp/product/B000KIPT30）
+- Behringer HA400 MICROAMPなど。これは6.3mm標準フォンなので3.5mm変換プラグも必要になる。これで最大で4人まで同じDiscordの音声を聞くことができる。
 
 ![download](https://user-images.githubusercontent.com/1855860/86528806-82891980-bee6-11ea-9344-bac5e0757824.jpg)
 
