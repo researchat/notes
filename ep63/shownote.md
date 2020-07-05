@@ -28,9 +28,9 @@ title: 63. Hijacking a repair system
 - [DNA Repair Profiling Reveals Nonrandom Outcomes at Cas9-Mediated Breaks. Molecular Cell, 2016](https://pubmed.ncbi.nlm.nih.gov/27499295/)...Cas9によって引き起こされる欠失変異のパターンはランダムではない、ということを始めて報告した論文。
 - [Predictable and precise template-free CRISPR editing of pathogenic variants. Nature, 2018](https://www.nature.com/articles/s41586-018-0686-x)...大量のゲノム編集アッセイによってゲノム編集のパターンを計測し、そこから機械学習モデルを作成することで、ゲノム編集パターンの予測に成功した最初の論文。
 - [Microhomology-mediated end-joining-dependent integration of donor DNA in cells and animals using TALENs and CRISPR/Cas9](https://www.nature.com/articles/ncomms6560) ... MMEJのpathwayを利用したゲノム編集
-- [29歳独身中堅冒険者の日常 (マンガ)](https://www.amazon.co.jp/dp/B01GPQWG1S/?tag=researchatf04-22)...今回紹介したCoelaのおすすめマンガ。
+- [29歳独身中堅冒険者の日常 (マンガ)](https://www.amazon.co.jp/dp/B01GPQWG1S/?tag=researchatf04-22)...今回紹介したcoelaのおすすめマンガ。
 
 ## Editorial notes
 - いい加減Tamakiさん紹介のマンガでも読むか... (soh)
 - CRISPRシステムが受精直後の受精卵でも働く理由が知りたい。そもそも受精直後の卵でDNA修復経路が働いている理由とは...???(tadasu)
-- Coela
+- マンガとかアニメのキャラより年齢が上になってきた…やはり悟空は偉大(coela)
