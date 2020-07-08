@@ -22,24 +22,23 @@ title: 64.
 - [ストリートファイターII](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BCII)
 - [梅原大吾](https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E5%A4%A7%E5%90%BE)
 - ドラゴンボール
-- FPS
-- valorant
-- ゲームブック
-- 円城塔
-- にゃんたんのゲームブック
-- TRPG
-- 遊戯王
-- SF5
-- tekken7
-- mortal combat11
-- グラブルバーサス
+- [FPS](https://en.wikipedia.org/wiki/First-person_shooter)
+- [VALORANT](https://playvalorant.com/en-us/)
+- [ゲームブック](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%96%E3%83%83%E3%82%AF)
+- [円城塔](https://ja.wikipedia.org/wiki/%E5%86%86%E5%9F%8E%E5%A1%94)
+- [にゃんたんのゲームブック](https://www.poplar.co.jp/book/search/result/archive/5250089.html)
+- [TRPG](https://en.wikipedia.org/wiki/Tabletop_role-playing_game)
+- [遊☆戯☆王](https://www.amazon.co.jp/dp/B074C2HNQ2?tag=researchatf04-22)
+- [Street Fighter V](https://www.amazon.co.jp/dp/B081QHDVQH?tag=researchatf04-22)
+- [鉄拳7](https://www.amazon.co.jp/dp/B01MSADRLN?tag=researchatf04-22)
+- [Mortal Combat 11](https://www.amazon.co.jp/dp/B07L6KD1K3?tag=researchatf04-22)
+- [グラブルファンタジーヴァーサス](https://www.amazon.co.jp/dp/B07W33QMM4?tag=researchatf04-22)
 - RAGE
-- twitch
-- mildom
-- ふ〜ど
-- 倉持由香
+- [Twitch](https://www.twitch.tv/)
+- [Mildom](https://www.mildom.com/)
+- [ふ〜ど](https://ja.wikipedia.org/wiki/%E3%81%B5%E3%80%9C%E3%81%A9)
+- [倉持由香](https://ja.wikipedia.org/wiki/%E5%80%89%E6%8C%81%E7%94%B1%E9%A6%99)
 - jikoken TV
-- オンライン指導
 - discord
 - ひなまつり
 - ダンジョン飯
