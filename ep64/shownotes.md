@@ -18,9 +18,9 @@ title: 64.
 
 
 ## Shownotes
-- VF2
-- SF2
-- 梅原大吾
+- [バーチャファイター2](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC2)
+- [ストリートファイターII](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BCII)
+- [梅原大吾](https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E5%A4%A7%E5%90%BE)
 - ドラゴンボール
 - FPS
 - valorant
