@@ -1,3 +1,4 @@
+
 ---
 actor_ids:
   - soh
@@ -16,59 +17,59 @@ title: 64. Hijacking a repair system
 ---
 
 ## Shownotes
-VF2
-SF2
-梅原大吾
-ドラゴンボール
-FPS
-valorant
-ゲームブック
-円城塔
-にゃんたんのゲームブック
-TRPG
-遊戯王
-SF5
-tekken7
-mortal combat11
-グラブルバーサス
-RAGE
-twitch
-mildom
-ふ〜ど
-倉持由香
-jikoken TV
-オンライン指導
-discord
-ひなまつり
-ダンジョン飯
-くいりょうこ
-竜の学校は山のうえ
-りゅうのかわいいななつのこ
-ねてらりうむ
-こーきーべかこん
-谷崎潤一郎
-春琴抄
-ろじこいはな
-こうじはなうた
-なぐなくりむぞん
-いせかいおじさん
-音夢語り
-べつしき
-さるがっそう
-へんぜみ
-モーニング2
-ライ麦畑でつかまえて
-いんよう
-https://twitter.com/momiyama2019/status/1271837688363053056
-幽遊白書
-冨樫義博
-あしかがCAST
-listen note
-penis man (ep62)
-いんよう: RNA-Seq
-白金: プロテイン
+- VF2
+- SF2
+- 梅原大吾
+- ドラゴンボール
+- FPS
+- valorant
+- ゲームブック
+- 円城塔
+- にゃんたんのゲームブック
+- TRPG
+- 遊戯王
+- SF5
+- tekken7
+- mortal combat11
+- グラブルバーサス
+- RAGE
+- twitch
+- mildom
+- ふ〜ど
+- 倉持由香
+- jikoken TV
+- オンライン指導
+- discord
+- ひなまつり
+- ダンジョン飯
+- くいりょうこ
+- 竜の学校は山のうえ
+- りゅうのかわいいななつのこ
+- ねてらりうむ
+- こーきーべかこん
+- 谷崎潤一郎
+- 春琴抄
+- ろじこいはな
+- こうじはなうた
+- なぐなくりむぞん
+- いせかいおじさん
+- 音夢語り
+- べつしき
+- さるがっそう
+- へんぜみ
+- モーニング2
+- ライ麦畑でつかまえて
+- いんよう
+- https://twitter.com/momiyama2019/status/1271837688363053056
+- 幽遊白書
+- 冨樫義博
+- あしかがCAST
+- listen note
+- penis man (ep62)
+- いんよう: RNA-Seq
+- 白金: プロテイン
 
 ## Editorial notes
 - (soh)
-- 聴いていただいているリスナーの皆様には感謝しかありません。(tadasu)
+- 聴いていただいているリスナーの皆様には感謝しかありません。どこから聴いてくださっても自由です！(tadasu)
 - (coela)
