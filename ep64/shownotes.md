@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/64.mp3
 audio_file_size: X
 date: 2020-07-09 09:55:00 +0900
-description: ゲームの旬と今プレイするための理由付け、オンラインでの指導、おすすめの漫画紹介(大盛)、受動的・能動的情報摂取、ポッドキャストのプレイリストについて話しました。
+description: エンタメの旬、オンライン指導、おすすめの漫画紹介(大盛)、受動的・能動的情報摂取、ポッドキャストのプレイリストについて話しました。
 duration: "00:XX:XX"
 layout: article
 tags:
