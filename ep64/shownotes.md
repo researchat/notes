@@ -1,20 +1,21 @@
-
 ---
 actor_ids:
   - soh
   - tadasu
   - coela
 audio_file_path: /audio/64.mp3
-audio_file_size: 
+audio_file_size: X
 date: 2020-07-09 09:55:00 +0900
-description:ゲームの旬と今プレイする理由、オンラインでの指導、おすすめの漫画紹介(大盛)、受動的・能動的情報摂取、ポッドキャストのプレイリストについて話しました。
+description: ゲームの旬と今プレイするための理由付け、オンラインでの指導、おすすめの漫画紹介(大盛)、受動的・能動的情報摂取、ポッドキャストのプレイリストについて
 duration: "00:XX:XX"
 layout: article
 tags:
   - マンガ
   - ポッドキャスト
-title: 64. Hijacking a repair system
+title: 64. 
 ---
+
+
 
 ## Shownotes
 - VF2
