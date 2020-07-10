@@ -38,7 +38,7 @@ title: 64.
 - [Mildom](https://www.mildom.com/)
 - [ふ〜ど](https://ja.wikipedia.org/wiki/%E3%81%B5%E3%80%9C%E3%81%A9)
 - [倉持由香](https://ja.wikipedia.org/wiki/%E5%80%89%E6%8C%81%E7%94%B1%E9%A6%99)
-- jikoken TV
+- [jikoken TV](https://jikoken.tokyo/)
 - discord
 - ひなまつり
 - ダンジョン飯
