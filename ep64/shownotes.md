@@ -58,7 +58,7 @@ title: 64. Seasonal Entertainment（仮）
 - [いんよう (ポッドキャスト番組)](https://anchor.fm/inntoyoh)
 - [ジャンプ+のアプリに対する大学生のコメント](https://twitter.com/momiyama2019/status/1271837688363053056)
 - [冨樫義博](https://ja.wikipedia.org/wiki/%E5%86%A8%E6%A8%AB%E7%BE%A9%E5%8D%9A)
-- [アシカガCAST](https://anchor.fm/ashikaga)
+- [アシカガCAST (ポッドキャスト番組)](https://anchor.fm/ashikaga)
 - [アシカガCASTさんによるListen Notesをつかったポッドキャストプレイリストの作成方](https://twitter.com/ashikagacast/status/1248171537951150080) ... やってみるぞ！
 - [Listen Notes](https://www.listennotes.com/)
 - penis man ... [ep62](https://researchat.fm/episode/62) に登場
