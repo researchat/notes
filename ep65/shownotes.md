@@ -58,4 +58,4 @@ title: 65. Lateral Thinking in Biotechnology
 ## Editorial notes
 - (soh)
 - (tadasu)
-- (coela)
+- 任天堂さんにはいつもお世話になっています。D論が煮詰まっていたときは「ワンパラ書いたらブレスオブザワイルドの祠一個やっていい」ルールでモチベーションを保ちました(coela)
