@@ -47,16 +47,16 @@ title: 64.
 - [ホーキーベカコン](https://www.amazon.co.jp/dp/B07NYP18VJ) ... twitterで公開中の[本編]と[番外編](https://twitter.com/aekanar/status/1091660168461398016?s=20)
 - [谷崎潤一郎](https://ja.wikipedia.org/wiki/谷崎潤一郎)
 - [春琴抄](https://www.amazon.co.jp/dp/B01H13QFW0) ... 上記ホーキーベカコンの原案、2016年に谷崎純一郎の著作権が切れパブリックドメインとなった
-- 路地恋花(https://www.amazon.co.jp/dp/B009YDLEU4) ... 以前のエピソードでも紹介した京都の職人長屋を舞台とした漫画
-- 小路花唄(https://www.amazon.co.jp/gp/product/B01N2LDH35) ... 路地恋花の続編
-- ラグナクリムゾン(https://www.amazon.co.jp/dp/B0763H25RB)
-- 異世界おじさん ... epXXで紹介
-- 乙嫁語り(https://www.amazon.co.jp/dp/B0097280D6)
-- 別式(https://www.amazon.co.jp/dp/B01N2T0NQ3)
-- 宇宙賃貸サルガッ荘(https://www.amazon.co.jp/dp/B00HK7001U)
-- 変ゼミ(https://www.amazon.co.jp/gp/product/B00A2MCV1C)
-- モーニングhttps://morning.kodansha.co.jp/morningtwo/)
-- ライ麦畑でつかまえて
+- [路地恋花](https://www.amazon.co.jp/dp/B009YDLEU4) ... epエピソードでも紹介した京都の職人長屋を舞台とした漫画
+- [小路花唄](https://www.amazon.co.jp/gp/product/B01N2LDH35) ... 路地恋花の続編
+- [ラグナクリムゾン](https://www.amazon.co.jp/dp/B0763H25RB)
+- [異世界おじさん] ... [ep10](https://researchat.fm/episode/10)で紹介
+- [乙嫁語り](https://www.amazon.co.jp/dp/B0097280D6)
+- [別式](https://www.amazon.co.jp/dp/B01N2T0NQ3)
+- [宇宙賃貸サルガッ荘](https://www.amazon.co.jp/dp/B00HK7001U)
+- [変ゼミ](https://www.amazon.co.jp/gp/product/B00A2MCV1C)
+- [モーニング](https://morning.kodansha.co.jp/morningtwo/)
+- [ライ麦畑でつかまえて]
 - [いんよう (ポッドキャスト番組)](https://anchor.fm/inntoyoh)
 - https://twitter.com/momiyama2019/status/1271837688363053056
 - 幽遊白書
