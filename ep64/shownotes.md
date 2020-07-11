@@ -48,7 +48,7 @@ title: 64. Seasonal Entertainment（仮）
 - [路地恋花](https://www.amazon.co.jp/dp/B009YDLEU4?tag=researchatf04-22) ... 以前紹介した京都の職人長屋を舞台とした漫画
 - [小路花唄](https://www.amazon.co.jp/gp/product/B01N2LDH35?tag=researchatf04-22) ... 路地恋花の続編
 - [ラグナクリムゾン](https://www.amazon.co.jp/dp/B0763H25RB?tag=researchatf04-22)
-- [異世界おじさん] ... [ep10](https://researchat.fm/episode/10)で紹介
+- [異世界おじさん](https://www.amazon.co.jp/gp/product/B07R8GQ8DZ?tag=researchatf04-22) ... [ep10](https://researchat.fm/episode/10)で紹介
 - [乙嫁語り](https://www.amazon.co.jp/dp/B0097280D6?tag=researchatf04-22)
 - [別式](https://www.amazon.co.jp/dp/B01N2T0NQ3?tag=researchatf04-22)
 - [宇宙賃貸サルガッ荘](https://www.amazon.co.jp/dp/B00HK7001U?tag=researchatf04-22)
