@@ -40,14 +40,14 @@ title: 64.
 - discord
 - [ヒナまつり](https://www.amazon.co.jp/dp/B00C40EU46)
 - [ダンジョン飯](https://www.amazon.co.jp/dp/B00S0E4JW8/)
-- [久井涼子](https://ja.wikipedia.org/wiki/九井諒子)
-- [竜の学校は山のうえ](https://www.amazon.co.jp/gp/product/B00DLT047Q)
-- [竜のかわいい七つの子](https://www.amazon.co.jp/gp/product/B00BEPJ2SG)
-- [ひきだしにテラリウム](https://www.amazon.co.jp/gp/product/B00E59A03O)
+- [久井涼子](https://ja.wikipedia.org/wiki/九井諒子) ... ダンジョン飯の作者
+- [竜の学校は山のうえ](https://www.amazon.co.jp/gp/product/B00DLT047Q) ... 久井涼子先生の短編
+- [竜のかわいい七つの子](https://www.amazon.co.jp/gp/product/B00BEPJ2SG) ... 久井涼子先生の短編
+- [ひきだしにテラリウム](https://www.amazon.co.jp/gp/product/B00E59A03O) ... 久井涼子先生の短編
 - [ホーキーベカコン](https://www.amazon.co.jp/dp/B07NYP18VJ) ... twitterで公開中の[本編]と[番外編](https://twitter.com/aekanar/status/1091660168461398016?s=20)
 - [谷崎潤一郎](https://ja.wikipedia.org/wiki/谷崎潤一郎)
-- [春琴抄](https://www.amazon.co.jp/dp/B01H13QFW0) ... 上記ホーキーベカコンの原案、2016年に谷崎純一郎の著作権が切れパブリックドメインとなった
-- [路地恋花](https://www.amazon.co.jp/dp/B009YDLEU4) ... epエピソードでも紹介した京都の職人長屋を舞台とした漫画
+- [春琴抄](https://www.amazon.co.jp/dp/B01H13QFW0) ... 上記ホーキーベカコンの原案、2016年に谷崎純一郎先生の著作権が切れパブリックドメインとなった
+- [路地恋花](https://www.amazon.co.jp/dp/B009YDLEU4) ... 以前紹介した京都の職人長屋を舞台とした漫画
 - [小路花唄](https://www.amazon.co.jp/gp/product/B01N2LDH35) ... 路地恋花の続編
 - [ラグナクリムゾン](https://www.amazon.co.jp/dp/B0763H25RB)
 - [異世界おじさん] ... [ep10](https://researchat.fm/episode/10)で紹介
@@ -55,8 +55,8 @@ title: 64.
 - [別式](https://www.amazon.co.jp/dp/B01N2T0NQ3)
 - [宇宙賃貸サルガッ荘](https://www.amazon.co.jp/dp/B00HK7001U)
 - [変ゼミ](https://www.amazon.co.jp/gp/product/B00A2MCV1C)
-- [モーニング](https://morning.kodansha.co.jp/morningtwo/)
-- [ライ麦畑でつかまえて]
+- [モーニングtwo](https://morning.kodansha.co.jp/morningtwo/)
+- [ライ麦畑でつかまえて](https://www.amazon.co.jp/dp/4560070512)
 - [いんよう (ポッドキャスト番組)](https://anchor.fm/inntoyoh)
 - https://twitter.com/momiyama2019/status/1271837688363053056
 - 幽遊白書
