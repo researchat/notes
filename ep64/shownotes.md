@@ -15,8 +15,6 @@ tags:
 title: 64. 
 ---
 
-
-
 ## Shownotes
 - [バーチャファイター2 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC2)
 - [ストリートファイターII (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BCII)
@@ -36,8 +34,8 @@ title: 64.
 - RAGE
 - [Twitch](https://www.twitch.tv/)
 - [Mildom](https://www.mildom.com/)
-- [ふ〜ど (Amazon)](https://ja.wikipedia.org/wiki/%E3%81%B5%E3%80%9C%E3%81%A9)
-- [倉持由香 (Amazon)](https://ja.wikipedia.org/wiki/%E5%80%89%E6%8C%81%E7%94%B1%E9%A6%99)
+- [ふ〜ど (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%81%B5%E3%80%9C%E3%81%A9)
+- [倉持由香 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%80%89%E6%8C%81%E7%94%B1%E9%A6%99)
 - [jikoken TV](https://jikoken.tokyo/)
 - discord
 - ひなまつり
@@ -59,7 +57,7 @@ title: 64.
 - へんぜみ
 - モーニング2
 - ライ麦畑でつかまえて
-- いんよう
+- [いんよう (ポッドキャスト番組)](https://anchor.fm/inntoyoh)
 - https://twitter.com/momiyama2019/status/1271837688363053056
 - 幽遊白書
 - 冨樫義博
