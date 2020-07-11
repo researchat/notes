@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/64.mp3
-audio_file_size: X
-date: 2020-07-09 09:55:00 +0900
+audio_file_size: 59326125
+date: 2020-07-12 09:55:00 +0900
 description: エンタメの旬、オンライン指導、おすすめの漫画紹介(大盛)、受動的・能動的情報摂取、ポッドキャストのプレイリストについて話しました。
-duration: "00:XX:XX"
+duration: "01:22:35"
 layout: article
 tags:
   - マンガ
