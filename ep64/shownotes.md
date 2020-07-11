@@ -38,25 +38,25 @@ title: 64.
 - [倉持由香 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%80%89%E6%8C%81%E7%94%B1%E9%A6%99)
 - [jikoken TV](https://jikoken.tokyo/)
 - discord
-- [ヒナまつり](https://www.amazon.co.jp/dp/B00C40EU46)
-- [ダンジョン飯](https://www.amazon.co.jp/dp/B00S0E4JW8/)
+- [ヒナまつり](https://www.amazon.co.jp/dp/B00C40EU46?tag=researchatf04-22)
+- [ダンジョン飯](https://www.amazon.co.jp/dp/B00S0E4JW8?tag=researchatf04-22)
 - [久井涼子](https://ja.wikipedia.org/wiki/九井諒子) ... ダンジョン飯の作者
-- [竜の学校は山のうえ](https://www.amazon.co.jp/gp/product/B00DLT047Q) ... 久井涼子先生の短編
-- [竜のかわいい七つの子](https://www.amazon.co.jp/gp/product/B00BEPJ2SG) ... 久井涼子先生の短編
-- [ひきだしにテラリウム](https://www.amazon.co.jp/gp/product/B00E59A03O) ... 久井涼子先生の短編
-- [ホーキーベカコン](https://www.amazon.co.jp/dp/B07NYP18VJ) ... twitterで公開中の[本編]と[番外編](https://twitter.com/aekanar/status/1091660168461398016?s=20)
+- [竜の学校は山のうえ](https://www.amazon.co.jp/gp/product/B00DLT047Q?tag=researchatf04-22) ... 久井涼子先生の短編
+- [竜のかわいい七つの子](https://www.amazon.co.jp/gp/product/B00BEPJ2SG?tag=researchatf04-22) ... 久井涼子先生の短編
+- [ひきだしにテラリウム](https://www.amazon.co.jp/gp/product/B00E59A03O?tag=researchatf04-22) ... 久井涼子先生の短編
+- [ホーキーベカコン](https://www.amazon.co.jp/dp/B07NYP18VJ?tag=researchatf04-22) ... twitterで公開中の[本編]と[番外編](https://twitter.com/aekanar/status/1091660168461398016?s=20)
 - [谷崎潤一郎](https://ja.wikipedia.org/wiki/谷崎潤一郎)
-- [春琴抄](https://www.amazon.co.jp/dp/B01H13QFW0) ... 上記ホーキーベカコンの原案、2016年に谷崎純一郎先生の著作権が切れパブリックドメインとなった
-- [路地恋花](https://www.amazon.co.jp/dp/B009YDLEU4) ... 以前紹介した京都の職人長屋を舞台とした漫画
-- [小路花唄](https://www.amazon.co.jp/gp/product/B01N2LDH35) ... 路地恋花の続編
-- [ラグナクリムゾン](https://www.amazon.co.jp/dp/B0763H25RB)
+- [春琴抄](https://www.amazon.co.jp/dp/B01H13QFW0?tag=researchatf04-22) ... 上記ホーキーベカコンの原案、2016年に谷崎純一郎先生の著作権が切れパブリックドメインとなった
+- [路地恋花](https://www.amazon.co.jp/dp/B009YDLEU4?tag=researchatf04-22) ... 以前紹介した京都の職人長屋を舞台とした漫画
+- [小路花唄](https://www.amazon.co.jp/gp/product/B01N2LDH35?tag=researchatf04-22) ... 路地恋花の続編
+- [ラグナクリムゾン](https://www.amazon.co.jp/dp/B0763H25RB?tag=researchatf04-22)
 - [異世界おじさん] ... [ep10](https://researchat.fm/episode/10)で紹介
-- [乙嫁語り](https://www.amazon.co.jp/dp/B0097280D6)
-- [別式](https://www.amazon.co.jp/dp/B01N2T0NQ3)
-- [宇宙賃貸サルガッ荘](https://www.amazon.co.jp/dp/B00HK7001U)
-- [変ゼミ](https://www.amazon.co.jp/gp/product/B00A2MCV1C)
+- [乙嫁語り](https://www.amazon.co.jp/dp/B0097280D6?tag=researchatf04-22)
+- [別式](https://www.amazon.co.jp/dp/B01N2T0NQ3?tag=researchatf04-22)
+- [宇宙賃貸サルガッ荘](https://www.amazon.co.jp/dp/B00HK7001U?tag=researchatf04-22)
+- [変ゼミ](https://www.amazon.co.jp/gp/product/B00A2MCV1C?tag=researchatf04-22)
 - [モーニングtwo](https://morning.kodansha.co.jp/morningtwo/)
-- [ライ麦畑でつかまえて](https://www.amazon.co.jp/dp/4560070512)
+- [ライ麦畑でつかまえて](https://www.amazon.co.jp/dp/4560070512?tag=researchatf04-22)
 - [いんよう (ポッドキャスト番組)](https://anchor.fm/inntoyoh)
 - https://twitter.com/momiyama2019/status/1271837688363053056
 - 幽遊白書
@@ -71,4 +71,4 @@ title: 64.
 ## Editorial notes
 - 収録後すぐに記憶をなくすので内容はいつも新鮮です (soh)
 - 聴いていただいているリスナーの皆様には感謝しかありません。どこから聴いてくださっても自由です！(tadasu)
-- (coela)
+- あと2、3回この量を紹介できれば...!(coela)
