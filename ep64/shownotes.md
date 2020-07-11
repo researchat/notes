@@ -44,7 +44,7 @@ title: 64.
 - [竜の学校は山のうえ](https://www.amazon.co.jp/gp/product/B00DLT047Q?tag=researchatf04-22) ... 久井涼子先生の短編
 - [竜のかわいい七つの子](https://www.amazon.co.jp/gp/product/B00BEPJ2SG?tag=researchatf04-22) ... 久井涼子先生の短編
 - [ひきだしにテラリウム](https://www.amazon.co.jp/gp/product/B00E59A03O?tag=researchatf04-22) ... 久井涼子先生の短編
-- [ホーキーベカコン](https://www.amazon.co.jp/dp/B07NYP18VJ?tag=researchatf04-22) ... twitterで公開中の[本編]と[番外編](https://twitter.com/aekanar/status/1091660168461398016?s=20)
+- [ホーキーベカコン](https://www.amazon.co.jp/dp/B07NYP18VJ?tag=researchatf04-22) ... twitterで公開中の[本編](https://twitter.com/aekanar/status/1048480727363248133?s=20)と[番外編](https://twitter.com/aekanar/status/1091660168461398016?s=20)
 - [谷崎潤一郎](https://ja.wikipedia.org/wiki/谷崎潤一郎)
 - [春琴抄](https://www.amazon.co.jp/dp/B01H13QFW0?tag=researchatf04-22) ... 上記ホーキーベカコンの原案、2016年に谷崎純一郎先生の著作権が切れパブリックドメインとなった
 - [路地恋花](https://www.amazon.co.jp/dp/B009YDLEU4?tag=researchatf04-22) ... 以前紹介した京都の職人長屋を舞台とした漫画
