@@ -12,7 +12,7 @@ layout: article
 tags:
   - マンガ
   - ポッドキャスト
-title: 64. 
+title: 64. Seasonal Entertainment（仮）
 ---
 
 ## Shownotes
