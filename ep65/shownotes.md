@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/65.mp3
-audio_file_size: X
+audio_file_size: 54445176
 date: 2020-07-15 09:55:00 +0900
 description: バイオテクノロジーと枯れた技術の水平思考、ピタゴラスイッチ、507 Mechanical Movementsについて話しました。
-duration: "00:XX:XX"
+duration: "00:48:54"
 layout: article
 tags:
   - バイオテクノロジー
