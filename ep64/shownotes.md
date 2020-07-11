@@ -61,7 +61,7 @@ title: 64. Seasonal Entertainment（仮）
 - [アシカガCAST](https://anchor.fm/ashikaga)
 - [アシカガCASTさんによるListen Notesをつかったポッドキャストプレイリストの作成方](https://twitter.com/ashikagacast/status/1248171537951150080) ... やってみるぞ！
 - [Listen Notes](https://www.listennotes.com/)
-- penis man (ep62)
+- penis man ... [ep62](https://researchat.fm/episode/62) に登場
 - [いんよう！: 第95回【変異解析とRNA-seqと行列と機械学習の話】](https://podcasts.apple.com/jp/podcast/%E7%AC%AC95%E5%9B%9E-%E5%A4%89%E7%95%B0%E8%A7%A3%E6%9E%90%E3%81%A8rna-seq%E3%81%A8%E8%A1%8C%E5%88%97%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E8%A9%B1/id1419695844?i=1000477280392)
 - [白金鉱業.FM: 20. Alphaの系譜を持つアルゴリズム タンパク質立体構造を解くAlphaFold](https://shirokane-kougyou.fm/episode/31)
 
