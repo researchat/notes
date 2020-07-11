@@ -36,7 +36,8 @@ title: 64. Seasonal Entertainment
 - [倉持由香 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%80%89%E6%8C%81%E7%94%B1%E9%A6%99)
 - [jikoken TV](https://jikoken.tokyo/)
 - [Discord](https://discord.com)
-- [ヒナまつり](https://www.amazon.co.jp/dp/B00C40EU46?tag=researchatf04-22)
+
+- [ヒナまつり](https://www.amazon.co.jp/dp/B00C40EU46?tag=researchatf04-22) ... いつか紹介しようと思ってたら、単行本に『次巻最終回！』と書かれていて焦っていっぱい漫画紹介することにしました、
 - [ダンジョン飯](https://www.amazon.co.jp/dp/B00S0E4JW8?tag=researchatf04-22)
 - [久井涼子](https://ja.wikipedia.org/wiki/九井諒子) ... ダンジョン飯の作者
 - [竜の学校は山のうえ](https://www.amazon.co.jp/gp/product/B00DLT047Q?tag=researchatf04-22) ... 久井涼子先生の短編
@@ -50,9 +51,11 @@ title: 64. Seasonal Entertainment
 - [ラグナクリムゾン](https://www.amazon.co.jp/dp/B0763H25RB?tag=researchatf04-22)
 - [異世界おじさん](https://www.amazon.co.jp/gp/product/B07R8GQ8DZ?tag=researchatf04-22) ... [ep10](https://researchat.fm/episode/10)で紹介
 - [乙嫁語り](https://www.amazon.co.jp/dp/B0097280D6?tag=researchatf04-22)
+- [森薫「乙嫁語り](https://natalie.mu/comic/pp/otoyomegatari) ... コミックナタリーのインタビュー記事。ヤバイ書き込みの漫画制作動画が盛り沢山です。
 - [別式](https://www.amazon.co.jp/dp/B01N2T0NQ3?tag=researchatf04-22)
-- [宇宙賃貸サルガッ荘](https://www.amazon.co.jp/dp/B00HK7001U?tag=researchatf04-22)
-- [変ゼミ](https://www.amazon.co.jp/gp/product/B00A2MCV1C?tag=researchatf04-22)
+- [別式(Wikipedia)] ... 別式の言葉の由来を説明しきれなかったので補足。『別式（べつしき）は、江戸時代に諸藩の奥向き（幕府の大奥にあたる）で活動した女性の武芸指南役。別式女、刀腰婦、帯剣女とも呼称された』(Wikipediaより) 
+- [宇宙賃貸サルガッ荘](https://www.amazon.co.jp/dp/B00HK7001U?tag=researchatf04-22) ... 別式の作者、TAGRO先生の漫画
+- [変ゼミ](https://www.amazon.co.jp/gp/product/B00A2MCV1C?tag=researchatf04-22) ... 別式の作者、TAGRO先生の漫画
 - [モーニングtwo](https://morning.kodansha.co.jp/morningtwo/)
 - [ライ麦畑でつかまえて](https://www.amazon.co.jp/dp/4560070512?tag=researchatf04-22)
 - [いんよう (ポッドキャスト番組)](https://anchor.fm/inntoyoh)
