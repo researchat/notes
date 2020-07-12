@@ -40,23 +40,24 @@ title: 65. Lateral Thinking in Biotechnology
 - [Adelman, Science (1994)](https://www2.cs.duke.edu/courses/cps296.4/spring04/papers/Adleman94.pdf) ... PCRを利用してグラフの問題を解こうとした論文
 - [Researchat.fm ep47](https://researchat.fm/episode/47) ... SHEROCKについて話しました。
 - [Gootenberg et al., Science (2017)](https://pubmed.ncbi.nlm.nih.gov/28408723/) ... SHEROCKに関する論文
-- RPA
-- DNA microscopy
-- optogenetics
+- [Researchat.fm ep16](https://researchat.fm/episode/16) ... DNA microscopyについて話しました。
+- [Weinstein et al., Cell (2019)](https://www.sciencedirect.com/science/article/pii/S0092867419305471) ... DNA microscopyに関する論文。
+- [Optogenetics(Wikipedia)](https://en.wikipedia.org/wiki/Optogenetics) ... 光遺伝学
+- [ロドプシン](https://bsd.neuroinf.jp/wiki/%E3%83%AD%E3%83%89%E3%83%97%E3%82%B7%E3%83%B3)
 - [van Steensel and Henikoff, Nature Biotechnology (2000)](https://www.nature.com/articles/nbt0400_424) ... DamIDの論文
 - [Feng Zhang](https://mcgovern.mit.edu/profile/feng-zhang/)
 - [佐藤雅彦(Wikipedia)](https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%9B%85%E5%BD%A6_(%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC))
 - [ピタゴラスイッチ](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009020048_00000)
 - [ピタゴラ装置DVDブック1 ](https://www.amazon.co.jp/dp/B000HOL7HY/?tag=researchatf04-22)
 - [シャキーン!](https://www.nhk.jp/p/shakiin/ts/2QQKWV9GM9/)
-- ウゴウゴルーガ
-- [ルーブ・ゴールドバーグ・マシン](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%B3)
+- [ウゴウゴルーガ(Amazon)](https://www.amazon.co.jp/dp/B001OYH6FI/?tag=researchatf04-22)
+- [ルーブ・ゴールドバーグ・マシン](https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%B3) ... 一般的に海外におけるピタゴラ装置はこのように呼ばれている。
 - [NHK放送博物館](http://www.nhk.or.jp/museum/)
 - [507 Mechanical Movements](https://www.amazon.co.jp/dp/B083F744PT/?tag=researchatf04-22) ... Henry Brown
 - [507 Mechanical Movements](http://507movements.com/)... web
-- ワンダースワン
+- [ワンダースワン (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%B3)
 
 ## Editorial notes
 - (soh)
-- (tadasu)
+- バイオテクノロジーに対する憧れと自分の甘さを露呈してしまいました。枯れた技術を持ってくるのが簡単なわけないんです...(tadasu)
 - 任天堂さんにはいつもお世話になっています。D論が煮詰まっていたときは「ワンパラ書いたらブレスオブザワイルドの祠一個やっていい」ルールでモチベーションを保ちました(coela)
