@@ -23,12 +23,12 @@ title: 65. Lateral Thinking in Biotechnology
 - [岩田聡(Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E8%81%A1)
 - [桜井政博(Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A1%9C%E4%BA%95%E6%94%BF%E5%8D%9A)
 - [田尻智(Wikipedia)](https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B0%BB%E6%99%BA)
-- [横井軍平ゲーム館(Amazon)](https://www.amazon.co.jp/dp/4480432930/?tag=researchatf04-22)
+- [横井軍平ゲーム館(Amazon)](https://www.amazon.co.jp/dp/4480432930/?tag=researchatf04-22) ... 横井軍平さんが作ったおもちゃとゲームに対する考えを一通り学ぶことができる。
 - [山内溥(Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%86%85%E6%BA%A5) ... 3代目任天堂社長
 - [ゲーム&ウォッチ(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%26%E3%82%A6%E3%82%AA%E3%83%83%E3%83%81)
 - [ウルトラハンド(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%8F%E3%83%B3%E3%83%89)
 - [ラブテスター(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC)
-- [枯れた技術の水平思考(ニコニコ大百科)](https://dic.nicovideo.jp/a/%E6%9E%AF%E3%82%8C%E3%81%9F%E6%8A%80%E8%A1%93%E3%81%AE%E6%B0%B4%E5%B9%B3%E6%80%9D%E8%80%83)
+- [枯れた技術の水平思考(ニコニコ大百科)](https://dic.nicovideo.jp/a/%E6%9E%AF%E3%82%8C%E3%81%9F%E6%8A%80%E8%A1%93%E3%81%AE%E6%B0%B4%E5%B9%B3%E6%80%9D%E8%80%83) ... 枯れた技術について推しすぎたかもしれませんが、もちろん最先端の技術も必要です。バランスが重要です。素晴らしいアイデアとテクニックであっても使えないのであれば意味がありません。この辺りはそれぞれのスタンスによると思いますが。
 - [水平思考(Wikipedia)](https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B9%B3%E6%80%9D%E8%80%83)
 - [Livet et al., Nature (2007)](https://www.nature.com/articles/nature06293) ... Brainbowに関する論文。蛍光タンパク質とCre-loxシステムの組み合わせによる美しいメソッド
 - CYP,YFP,RFP ... 蛍光タンパク質。それぞれCyan, Yello, Red Fluorescent protein
