@@ -30,20 +30,21 @@ title: 65. Lateral Thinking in Biotechnology
 - [ラブテスター(Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%96%E3%83%86%E3%82%B9%E3%82%BF%E3%83%BC)
 - [枯れた技術の水平思考(ニコニコ大百科)](https://dic.nicovideo.jp/a/%E6%9E%AF%E3%82%8C%E3%81%9F%E6%8A%80%E8%A1%93%E3%81%AE%E6%B0%B4%E5%B9%B3%E6%80%9D%E8%80%83)
 - [水平思考(Wikipedia)](https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%B9%B3%E6%80%9D%E8%80%83)
-- Brainbow
-- CYF,YFP,RFP
-- Cre-LoxP
-- optical barcoding
-- expansion microscopy ... 持ってきたと言っても持ってくることとそのあとの調整が死ぬほど難しいことはわかっておりますので悪しからず。
-- 3C
-- PCR researchat.fm
-- DNA computing
-- SHEROCK
+- [Livet et al., Nature (2007)](https://www.nature.com/articles/nature06293) ... Brainbowに関する論文。蛍光タンパク質とCre-loxシステムの組み合わせによる美しいメソッド
+- CYP,YFP,RFP ... 蛍光タンパク質。それぞれCyan, Yello, Red Fluorescent protein
+- [Cre-lox system](https://www.addgene.org/collections/cre-lox/)
+- optical barcoding ... 蛍光標識により細胞を染め分けてトラッキングする。
+- [Chen et al., Science (2015)](https://science.sciencemag.org/content/347/6221/543) ... expansion microscopyに関する論文。組織内外における微細構造を超解像イメージングによって明らかにするのではなく、元の構造を維持しながら膨らませることによって、通常のイメージングでも可視化することに成功した。
+- [Dekker et al., Science (2002)](https://science.sciencemag.org/content/295/5558/1306) ... PCRによってゲノムの高次構造を明らかにしようとした論文。この後発展を遂げ、Hi-Cという名前でクロマチン業界を席巻している。
+- [Researchat.fm ep24](https://researchat.fm/episode/24) ... PCRを発明したKary Mullisや、DNA computingの話をしました。
+- [Adelman, Science (1994)](https://www2.cs.duke.edu/courses/cps296.4/spring04/papers/Adleman94.pdf) ... PCRを利用してグラフの問題を解こうとした論文
+- [Researchat.fm ep47](https://researchat.fm/episode/47) ... SHEROCKについて話しました。
+- [Gootenberg et al., Science (2017)](https://pubmed.ncbi.nlm.nih.gov/28408723/) ... SHEROCKに関する論文
 - RPA
 - DNA microscopy
 - optogenetics
-- DamID
-- Zhang Feng
+- [van Steensel and Henikoff, Nature Biotechnology (2000)](https://www.nature.com/articles/nbt0400_424) ... DamIDの論文
+- [Feng Zhang](https://mcgovern.mit.edu/profile/feng-zhang/)
 - [佐藤雅彦(Wikipedia)](https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%9B%85%E5%BD%A6_(%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC))
 - [ピタゴラスイッチ](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009020048_00000)
 - [ピタゴラ装置DVDブック1 ](https://www.amazon.co.jp/dp/B000HOL7HY/?tag=researchatf04-22)
