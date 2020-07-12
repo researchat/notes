@@ -17,7 +17,7 @@ title: 65. Lateral Thinking in Biotechnology
 
 
 ## Shownotes
-- [任天堂](https://www.nintendo.com/)
+- [任天堂](https://www.nintendo.com/) ... 任天堂
 - [横井軍平(Wikipedia)](https://ja.wikipedia.org/wiki/%E6%A8%AA%E4%BA%95%E8%BB%8D%E5%B9%B3)
 - [宮本茂(Wikipedia)](https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E8%8C%82)
 - [岩田聡(Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E8%81%A1)
