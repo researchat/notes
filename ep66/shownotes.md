@@ -1,3 +1,21 @@
+---
+actor_ids:
+  - soh
+  - tadasu
+  - coela
+audio_file_path: /audio/66.mp3
+audio_file_size: 62837082
+date: 2020-07-24 05:55:00 +0900
+description: アイデアとノート、ノートの変遷、Zettelkastenについて話しました。
+duration: "01:24:35"
+layout: article
+tags:
+  - 雑談
+title: 66. Don't collect digital dust
+---
+
+## Shownotes
+
 - moleskin
 - [宮崎駿とmoleskin](https://twitter.com/machizo3000/status/797820597552021504)
 - 石井裕
@@ -65,4 +83,7 @@
 - A0のポストイット
 - why
 
-日常におけるノート、ノートの変遷、Zettlekasten、
+## Editorial notes
+- (soh)
+- digital dustもanalog dustも減らす！(tadasu)
+- (coela)
