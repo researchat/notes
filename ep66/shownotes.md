@@ -85,4 +85,4 @@ title: 66. Don't collect digital dust
 ## Editorial notes
 - (soh)
 - digital dustもanalog dustも減らす！(tadasu)
-- (coela)
+- モレスキンのノートポチりました (coela)
