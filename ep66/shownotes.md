@@ -31,19 +31,20 @@ title: 66. Don't collect digital dust
 - [中村俊輔](https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E4%BF%8A%E8%BC%94)
 - [夢をかなえるサッカーノート](https://www.amazon.co.jp/dp/4163717404/?tag=researchatf04-22)
 - [Researchat ep 10](https://researchat.fm/episode/10) ... 自作キーボードについて話した回
-- [ボールペン: jet stream](https://www.amazon.co.jp/dp/B001C09BS4/?tag=researchatf04-22)
+- [ボールペン: Jetstream](https://www.amazon.co.jp/dp/B001C09BS4/?tag=researchatf04-22)
 - [Bicのボールペン](https://www.amazon.co.jp/dp/B004NNKJQA/?tag=researchatf04-22) ... tadasu愛用。ゴリゴリ書ける。
 - [ダイスキン](https://kurashi-no.jp/I0027512) ... DAISOのMoleskin風ノート
 - [filmarks](https://filmarks.com/)
 - [無印4コマノート](https://www.muji.com/jp/ja/store/cmdty/detail/4550182109900)
-- 舟を編む
-- 京大式カード
-- 知的生産の技術
-- 美意識と神様
-- 地球時代の民俗学
-- zettelkasten
-- ツィゴイネルワイゼン
-- ルーマン 
+- [舟を編む](https://www.amazon.co.jp/dp/B00GCHGF72/?tag=researchatf04-22)
+- [京大式カード](https://www.amazon.co.jp/dp/B003FGLVPO/?tag=researchatf04-22)
+- [知的生産の技術](https://www.amazon.co.jp/dp/B014R3S71E/?tag=researchatf04-22)
+- [美意識と神さま](https://www.amazon.co.jp/dp/4122011914/?tag=researchatf04-22)
+- [地球時代の人類学](https://www.amazon.co.jp/dp/B000J7HWQY/?tag=researchatf04-22)
+- [Zettelkasten](https://zettelkasten.de/) ... 知の巨人、ルーマンが用いたアイデア管理・創出の方法。ツェッテルカステンという発音が正しいらしい。
+- [Zettelkasten (Wikipedia)](https://en.wikipedia.org/wiki/Zettelkasten)
+- [ツィゴイネルワイゼン](https://www.amazon.co.jp/dp/B00W20F5OM/?tag=researchatf04-22)
+- [ニクラス・ルーマン (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%B3) 
 - zettlekastenのブログ
 - ルーマンのアーカイブ
 - scrapbook
