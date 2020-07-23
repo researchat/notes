@@ -59,29 +59,28 @@ title: 66. Don't collect digital dust
 - [オートポイエーシス](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9D%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B7%E3%82%B9)
 - [記憶の宮殿](https://lifehacking.jp/2008/09/creating-a-memory-palace/) ... ハンニバルレクター博士が用いている記憶法
 - [MONSTER](https://www.amazon.co.jp/dp/4091809049/?tag=researchatf04-22) ... 浦沢直樹先生の漫画。ルンゲ刑事の独特な記憶法に注目。
-- 卒論〆切TWitter bot ... 原文は「おい、そろそろWordはインストールしたか？」でした。「お前の卒論まだ0 bitだけど大丈夫か？」、「お前卒論でリア充に負けたら何で勝つつもりなんだい？」、「おい、ケーキ食う暇があったら1ページでも書け。」というかなりきつい言葉が並んでいました。
+- 卒論〆切Twitter bot ... 卒論を書くために作ったTwitter bot。原文は「おい、そろそろWordはインストールしたか？」でした。「お前の卒論まだ0 bitだけど大丈夫か？」、「お前卒論でリア充に負けたら何で勝つつもりなんだい？」、「おい、ケーキ食う暇があったら1ページでも書け。」というかなりきつい言葉が並んでいました。
 - [TeX](https://en.wikipedia.org/wiki/TeX)
 - Mac TeX
 - [セント＝ジェルジ・アルベルト](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%EF%BC%9D%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88) ... "Research is to see what everybody has seen and think what nobody has thought."
 - [上記の言葉に関する変遷](https://www.quora.com/Who-made-this-quote-Discovery-consists-of-seeing-what-everybody-has-seen-and-thinking-what-nobody-has-thought
 )
-- Meru
-- Free solo
-- Alex honold
+- [Meru](https://www.amazon.co.jp/dp/B073G9J46L/?tag=researchatf04-22)
+- [Free solo](https://www.amazon.co.jp/dp/B081S5T3QR/?tag=researchatf04-22) ... Alex HonoldがEl Capitanのフリーソロクライミングによる登頂を目指すドキュメンタリー映画
+- [Alex Honold](https://en.wikipedia.org/wiki/Alex_Honnold) ... フリーソロクライマー
 - 7 years in tibet
-- ダライ・ラマ
-- 旅をする木
-- 宮沢賢治
-- ニクラスネグロポンテ
-- 肉筆について　https://next.rikunabi.com/tech/docs/ct_s03600.jsp?p=000789
-- https://ascii.jp/elem/000/000/051/51983/
-- 中原中也
-
-- プロフェッショナル　仕事の流儀
+- [ダライ・ラマ](https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%A9%E3%82%A4%E3%83%BB%E3%83%A9%E3%83%9E)
+- [旅をする木](https://www.amazon.co.jp/dp/4167515024/?tag=researchatf04-22) ... 冒険家星野道夫のエッセイ集
+- [宮沢賢治](https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB)
+- [ニクラス・ネグロポンテ](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%8D%E3%82%B0%E3%83%AD%E3%83%9D%E3%83%B3%E3%83%86)
+- [石井先生と宮沢賢治の肉筆について 1](https://next.rikunabi.com/tech/docs/ct_s03600.jsp?p=000789)
+- [石井先生と宮沢賢治の肉筆について 2](https://ascii.jp/elem/000/000/051/51983/)
+- [中原中也](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%8E%9F%E4%B8%AD%E4%B9%9F) ... 石井先生がよく読んでいたのは中原中也の詩集だった気もする...
+- [プロフェッショナル　仕事の流儀](https://www.nhk.or.jp/professional/2007/0208/index.html) ... 石井裕先生が出演した回。tadasuは大学生になりたてだったのでかじりつくように見た。
 - イース
-- アオイホノオ
-- A0のポストイット
-- why
+- [アオイホノオ](https://www.amazon.co.jp/dp/B089GNY494/?tag=researchatf04-22) ... 島本和彦先生の漫画。ギャラリーフェイクの細野先生の紙を指に覚えさせて買いに行く話があった気がする。
+- [A0のポストイット](https://www.amazon.co.jp/dp/B00006IA99/) ... ポスター風の巨大ポストイット。石井先生が使用しているシーンがプロフェッショナルで放映され、みんな買って使ってみたはず。
+- なぜ(why)を問い続ける ... 石井先生がプロフェッショナルで指導するときに、whyを問い続けろというシーンがある。これを未熟な学生が後輩指導の時などに用いると「それで？それで？で？で？」と何回も聞くので「デデデ大王」と裏で揶揄されることになるので注意。
 
 ## Editorial notes
 - (soh)
