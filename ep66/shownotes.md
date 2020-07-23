@@ -24,6 +24,7 @@ title: 66. Don't collect digital dust
 - [Rollbahnのノート](https://www.amazon.co.jp/dp/B007B8N2YA/?tag=researchatf04-22) ... 以前tadasuが使っていたノート
 - [RHODIAのノート](https://www.amazon.co.jp/dp/B00JO1IFLW/?tag=researchatf04-22) ... こちらも人気が高い
 - [Leuchtturmのノート](https://www.amazon.co.jp/dp/B002TSIMW4/?tag=researchatf04-22) ... こちらも大人気
+- [LAMY Safari  万年筆](https://www.amazon.co.jp/dp/B000UTO0XE/?tag=researchatf04-22) ... 大人気のLAMYの万年筆
 - [Number 勝利を掴む13の方法論 あの人のノートが見たい。](https://number.bunshun.jp/articles/-/247) ... 2009年の記事でした。アスリートのノートを大量掲載した号
 - [本田圭佑](https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%B0%E5%9C%AD%E4%BD%91) ... △
 - [本田大三郎](https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%B0%E5%A4%A7%E4%B8%89%E9%83%8E)
@@ -32,7 +33,7 @@ title: 66. Don't collect digital dust
 - [夢をかなえるサッカーノート](https://www.amazon.co.jp/dp/4163717404/?tag=researchatf04-22)
 - [Researchat.fm ep 10](https://researchat.fm/episode/10) ... 自作キーボードについて話した回。最近自作キーボード流行っているようです。
 - [ボールペン: Jetstream](https://www.amazon.co.jp/dp/B001C09BS4/?tag=researchatf04-22)
-- [Bicのボールペン](https://www.amazon.co.jp/dp/B004NNKJQA/?tag=researchatf04-22) ... tadasu愛用。ゴリゴリ書ける。
+- [Bicのボールペン](https://www.amazon.co.jp/dp/B004NNKJQA/?tag=researchatf04-22) ... tadasu愛用の硬派なボールペン。ゴリゴリ書ける。
 - [ダイスキン](https://kurashi-no.jp/I0027512) ... DAISOのMoleskin風ノート
 - [filmarks](https://filmarks.com/)
 - [無印4コマノート](https://www.muji.com/jp/ja/store/cmdty/detail/4550182109900)
