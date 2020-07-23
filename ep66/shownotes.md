@@ -18,7 +18,7 @@ title: 66. Don't collect digital dust
 
 - [MOLESKIN](https://us.moleskine.com/en/) ... みんな大好きなMOLESKINのノート
 - [MOLESKIN クラシック ハード 方眼 ラージ (Amazon)](https://www.amazon.co.jp/dp/B00NS9YDNK/?tag=researchatf04-22) ... これの色違いを使っています。もらい物ですが...ただ万年筆との相性は悪い。(tadasu)
-- [宮崎駿とMOLESKIN](https://twitter.com/machizo3000/status/797820597552021504) ... @machizo3000 さんのツイートを引用させていただきました。
+- [宮崎駿さんとMOLESKIN](https://twitter.com/machizo3000/status/797820597552021504) ... @machizo3000 さんのツイートを引用させていただきました。
 - [石井裕 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BA%95%E8%A3%95_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E7%A0%94%E7%A9%B6%E8%80%85)) ... [Twitter @ishii_mit](https://twitter.com/ishii_mit)
 - [Hideshi Hamaguchi (Wikipedia)](https://en.wikipedia.org/wiki/Hideshi_Hamaguchi) ... [Twitter @hideshione](https://twitter.com/hideshione)
 - [Rollbahnのノート](https://www.amazon.co.jp/dp/B007B8N2YA/?tag=researchatf04-22) ... 以前tadasuが使っていたノート
