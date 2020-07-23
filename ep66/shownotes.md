@@ -30,7 +30,7 @@ title: 66. Don't collect digital dust
 - [本田多聞](https://ja.wikipedia.org/wiki/%E6%9C%AC%E7%94%B0%E5%A4%9A%E8%81%9E)
 - [中村俊輔](https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E4%BF%8A%E8%BC%94)
 - [夢をかなえるサッカーノート](https://www.amazon.co.jp/dp/4163717404/?tag=researchatf04-22)
-- [Researchat ep 10](https://researchat.fm/episode/10) ... 自作キーボードについて話した回
+- [Researchat.fm ep 10](https://researchat.fm/episode/10) ... 自作キーボードについて話した回。最近自作キーボード流行っているようです。
 - [ボールペン: Jetstream](https://www.amazon.co.jp/dp/B001C09BS4/?tag=researchatf04-22)
 - [Bicのボールペン](https://www.amazon.co.jp/dp/B004NNKJQA/?tag=researchatf04-22) ... tadasu愛用。ゴリゴリ書ける。
 - [ダイスキン](https://kurashi-no.jp/I0027512) ... DAISOのMoleskin風ノート
@@ -41,30 +41,30 @@ title: 66. Don't collect digital dust
 - [知的生産の技術](https://www.amazon.co.jp/dp/B014R3S71E/?tag=researchatf04-22)
 - [美意識と神さま](https://www.amazon.co.jp/dp/4122011914/?tag=researchatf04-22)
 - [地球時代の人類学](https://www.amazon.co.jp/dp/B000J7HWQY/?tag=researchatf04-22)
-- [Zettelkasten](https://zettelkasten.de/) ... 知の巨人、ルーマンが用いたアイデア管理・創出の方法。ツェッテルカステンという発音が正しいらしい。
+- [Zettelkasten](https://zettelkasten.de/) ... 知の巨人、ルーマンが用いたアイデア管理・創出の方法。ツェッテルカステンという発音が正しいらしい。途中から発音がめちゃくちゃになって最後はゼテロカステンと言っていました...すいません...
 - [Zettelkasten (Wikipedia)](https://en.wikipedia.org/wiki/Zettelkasten)
 - [ツィゴイネルワイゼン](https://www.amazon.co.jp/dp/B00W20F5OM/?tag=researchatf04-22)
 - [ニクラス・ルーマン (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AF%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%B3) 
-- zettlekastenのブログ
-- ルーマンのアーカイブ
-- scrapbook
-- scrapboxとzettlekasten
-- 増井としゆき
-- 実はscrapboxにあるresearchat.fmのページ
-- nillpo先生のscrapbox
-- chromosome
-- オートポイエーシス
-- ベイトソン
-- 記憶の宮殿
-- researchat.fmのscrapbox
-- 渡辺式記憶法
-- 速読
-- monster
-- るんげ
-- 卒論ボット
-- TeX
+- [Zettelkastenに関するまとめ記事](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125) ... これを元にしたGigazineの[日本語翻訳記事](https://gigazine.net/news/20200604-zettelkasten-note/)も出ていました。
+- [日本語におけるZettelkastenの記事](https://gigazine.net/news/20200604-zettelkasten-note/) ... Gigazineに出ていました。
+- [ルーマンのZettelkastenアーカイブ](https://niklas-luhmann-archiv.de/bestand/zettelkasten/inhaltsuebersicht) ... ルーマンのZettelkastenの電子アーカイブ。ドイツ語で書かれています。
+- [ルーマンの社会システム理論に関する松岡正剛の解説](https://1000ya.isis.ne.jp/1349.html)
+- [Scrapbox](https://scrapbox.io)
+- [Scrapboxは最高なんだ！](https://scrapbox.io/masui/Scrapbook)
+- [ScrapboxとZettelkasten](https://forum.zettelkasten.de/discussion/895/using-scrapbox-as-a-zettel-notes-archive)
+- [増井俊之](https://scrapbox.io/masui/) ... masuiさん。tadasuの大学院入試の面接官でもあり緊張した。
+- [実は増井さんのScrapboxにあるresearchat.fm](https://scrapbox.io/masui-bookmarks/Researchat.fm) ... 増井さんのブックマーク用scrapboxにあるresearchat.fmのページ...
+- [@nillpo先生による自作キーボードのScrapbox](https://scrapbox.io/MECHKEYS/) ... 見よ！これが自作キーボードだ！と言わんばかりのすごいscrapbox。
+- [The Art of Chromosomes](https://scrapbox.io/chromosome/) ... nillpo先生のscrapboxに刺激を受けてtadasuが作ったscrapbox。まだまだ数が足りていないので足していきたい。もちろん名前は恐れ多いがクヌース先生の著書から頂戴した。
+- [オートポイエーシス](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9D%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B7%E3%82%B9)
+- [記憶の宮殿](https://lifehacking.jp/2008/09/creating-a-memory-palace/) ... ハンニバルレクター博士が用いている記憶法
+- [MONSTER](https://www.amazon.co.jp/dp/4091809049/?tag=researchatf04-22) ... 浦沢直樹先生の漫画。ルンゲ刑事の独特な記憶法に注目。
+- 卒論〆切TWitter bot ... 原文は「おい、そろそろWordはインストールしたか？」でした。「お前の卒論まだ0 bitだけど大丈夫か？」、「お前卒論でリア充に負けたら何で勝つつもりなんだい？」、「おい、ケーキ食う暇があったら1ページでも書け。」というかなりきつい言葉が並んでいました。
+- [TeX](https://en.wikipedia.org/wiki/TeX)
 - Mac TeX
-- ジョルジアルベルト
+- [セント＝ジェルジ・アルベルト](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%EF%BC%9D%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88) ... "Research is to see what everybody has seen and think what nobody has thought."
+- [上記の言葉に関する変遷](https://www.quora.com/Who-made-this-quote-Discovery-consists-of-seeing-what-everybody-has-seen-and-thinking-what-nobody-has-thought
+)
 - Meru
 - Free solo
 - Alex honold
