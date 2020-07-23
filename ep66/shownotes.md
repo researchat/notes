@@ -53,9 +53,9 @@ title: 66. Don't collect digital dust
 - [Scrapboxは最高なんだ！](https://scrapbox.io/masui/Scrapbook)
 - [ScrapboxとZettelkasten](https://forum.zettelkasten.de/discussion/895/using-scrapbox-as-a-zettel-notes-archive)
 - [増井俊之](https://scrapbox.io/masui/) ... masuiさん。tadasuの大学院入試の面接官でもあり緊張した。
-- [実は増井さんのScrapboxにあるresearchat.fm](https://scrapbox.io/masui-bookmarks/Researchat.fm) ... 増井さんのブックマーク用scrapboxにあるresearchat.fmのページ...
-- [@nillpo先生による自作キーボードのScrapbox](https://scrapbox.io/MECHKEYS/) ... 見よ！これが自作キーボードだ！と言わんばかりのすごいscrapbox。
-- [The Art of Chromosomes](https://scrapbox.io/chromosome/) ... nillpo先生のscrapboxに刺激を受けてtadasuが作ったscrapbox。まだまだ数が足りていないので足していきたい。もちろん名前は恐れ多いがクヌース先生の著書から頂戴した。
+- [実は増井さんのScrapboxにあるresearchat.fm](https://scrapbox.io/masui-bookmarks/Researchat.fm) ... 増井さんのブックマーク用Scrapboxにあるresearchat.fmのページ...
+- [@nillpo先生による自作キーボードのScrapbox](https://scrapbox.io/MECHKEYS/) ... 見よ！これが自作キーボードだ！と言わんばかりのすごいScrapbox。by [@nillpo](https://twitter.com/nillpo)
+- [The Art of Chromosomes](https://scrapbox.io/chromosome/) ... nillpo先生のScrapboxに刺激を受けてtadasuが作ったScrapbox。まだまだ数が足りていないので足していきたい。もちろん名前は恐れ多いがクヌース先生の著書から頂戴した。
 - [オートポイエーシス](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9D%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B7%E3%82%B9)
 - [記憶の宮殿](https://lifehacking.jp/2008/09/creating-a-memory-palace/) ... ハンニバルレクター博士が用いている記憶法
 - [MONSTER](https://www.amazon.co.jp/dp/4091809049/?tag=researchatf04-22) ... 浦沢直樹先生の漫画。ルンゲ刑事の独特な記憶法に注目。
