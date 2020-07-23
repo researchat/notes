@@ -71,6 +71,7 @@ title: 66. Don't collect digital dust
 - 7 years in tibet
 - [ダライ・ラマ](https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%A9%E3%82%A4%E3%83%BB%E3%83%A9%E3%83%9E)
 - [旅をする木](https://www.amazon.co.jp/dp/4167515024/?tag=researchatf04-22) ... 冒険家星野道夫のエッセイ集
+- [旅をする本](https://www.kyoyodo.com/article/%E8%AA%AD%E6%9B%B8%E6%84%9F%E6%83%B3%E6%96%87%E3%81%AB%E3%82%82%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%80%8E%E6%97%85%E3%82%92%E3%81%99%E3%82%8B%E6%9C%A8%E3%80%8F%E3%81%9D%E3%81%97%E3%81%A6%E3%80%8E/) ... 実際に旅をする木が旅をする本になった話があったようです。この手の話はたくさんあるようですね。
 - [宮沢賢治](https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%B2%A2%E8%B3%A2%E6%B2%BB)
 - [ニクラス・ネグロポンテ](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%8D%E3%82%B0%E3%83%AD%E3%83%9D%E3%83%B3%E3%83%86)
 - [石井先生と宮沢賢治の肉筆について 1](https://next.rikunabi.com/tech/docs/ct_s03600.jsp?p=000789)
