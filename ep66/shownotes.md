@@ -51,12 +51,13 @@ title: 66. Don't collect digital dust
 - [ルーマンのZettelkastenアーカイブ](https://niklas-luhmann-archiv.de/bestand/zettelkasten/inhaltsuebersicht) ... ルーマンのZettelkastenの電子アーカイブ。ドイツ語で書かれています。
 - [ルーマンの社会システム理論に関する松岡正剛の解説](https://1000ya.isis.ne.jp/1349.html)
 - [Scrapbox](https://scrapbox.io)
-- [Scrapboxは最高なんだ！](https://scrapbox.io/masui/Scrapbook)
+- [Scrapboxとは](https://gihyo.jp/dev/serial/01/masui-columbus/0016)
 - [ScrapboxとZettelkasten](https://forum.zettelkasten.de/discussion/895/using-scrapbox-as-a-zettel-notes-archive)
 - [増井俊之](https://scrapbox.io/masui/) ... masuiさん。tadasuの大学院入試の面接官でもあり緊張した。
 - [実は増井さんのScrapboxにあるresearchat.fm](https://scrapbox.io/masui-bookmarks/Researchat.fm) ... 増井さんのブックマーク用Scrapboxにあるresearchat.fmのページ...
+- [なぜScrapboxはMarkdownを採用していないのか](https://scrapbox.io/masui/%E3%81%AA%E3%81%9CScrapbox%E3%81%AFMarkdown%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E3%81%AE%E3%81%8B)
 - [@nillpo先生による自作キーボードのScrapbox](https://scrapbox.io/MECHKEYS/) ... 見よ！これが自作キーボードだ！と言わんばかりのすごいScrapbox。by [@nillpo](https://twitter.com/nillpo)
-- [The Art of Chromosomes](https://scrapbox.io/chromosome/) ... nillpo先生のScrapboxに刺激を受けてtadasuが作ったScrapbox。まだまだ数が足りていないので足していきたい。もちろん名前は恐れ多いがクヌース先生の著書から頂戴した。
+- [The Art of Chromosomes](https://scrapbox.io/chromosome/) ... nillpo先生のScrapboxに刺激を受けてtadasuが作ったScrapbox。まだまだ数が足りていないので足していきたい。もちろん名前は恐れ多いがクヌース先生の著書から頂戴した。まだリンクの貼り方などがあんまり慣れていないのでもう少し続けたい。
 - [オートポイエーシス](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9D%E3%82%A4%E3%82%A8%E3%83%BC%E3%82%B7%E3%82%B9)
 - [記憶の宮殿](https://lifehacking.jp/2008/09/creating-a-memory-palace/) ... ハンニバルレクター博士が用いている記憶法
 - [MONSTER](https://www.amazon.co.jp/dp/4091809049/?tag=researchatf04-22) ... 浦沢直樹先生の漫画。ルンゲ刑事の独特な記憶法に注目。
