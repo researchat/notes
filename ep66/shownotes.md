@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/66.mp3
 audio_file_size: 66174608
-date: 2020-07-24 05:55:00 +0900
+date: 2020-07-24 21:27:00 +0900
 description: アイデアとノートの取り方、ノートの変遷、Zettelkasten (ノート作成方法)について話しました。
 duration: "01:24:35"
 layout: article
