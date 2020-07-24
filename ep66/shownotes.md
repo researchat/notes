@@ -63,7 +63,7 @@ title: 66. Don't collect digital dust
 - [MONSTER](https://www.amazon.co.jp/dp/4091809049/?tag=researchatf04-22) ... 浦沢直樹先生の漫画。ルンゲ刑事の独特な記憶法に注目。
 - 卒論〆切Twitter bot ... 卒論を書くために作ったTwitter bot。原文は「おい、そろそろWordはインストールしたか？」でした。「お前の卒論まだ0 bitだけど大丈夫か？」、「お前卒論でリア充に負けたら何で勝つつもりなんだい？」、「おい、ケーキ食う暇があったら1ページでも書け。」というかなりきつい言葉が並んでいました。
 - [TeX](https://en.wikipedia.org/wiki/TeX)
-- Mac TeX
+- [Writing a thesis with Tex+Texpad](https://gist.github.com/soh-i/60ca403647f99e47c6eae001485d4e2f) ... Sohが博士論文を書いたときのTeXの設定が全てここにまとまっているぞ。誰かの参考になれば...
 - [セント＝ジェルジ・アルベルト](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%EF%BC%9D%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%B8%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%99%E3%83%AB%E3%83%88) ... "Research is to see what everybody has seen and think what nobody has thought."
 - [上記の言葉に関する変遷](https://www.quora.com/Who-made-this-quote-Discovery-consists-of-seeing-what-everybody-has-seen-and-thinking-what-nobody-has-thought
 )
@@ -86,6 +86,6 @@ title: 66. Don't collect digital dust
 - なぜ(why)を問い続ける ... 石井先生がプロフェッショナルで指導するときに、whyを問い続けろというシーンがある。これを未熟な学生が後輩指導の時などに用いると「それで？それで？で？で？」と何回も聞くので「デデデ大王」と裏で揶揄されることになるので注意。
 
 ## Editorial notes
-- (soh)
+- いい加減、適当なメモ用紙にアイディアを書き、適当に捨てたりするのをやめるところからはじめたい... (soh)
 - digital dustもanalog dustも減らす！(tadasu)
 - モレスキンのノートポチりました (coela)
