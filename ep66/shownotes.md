@@ -11,7 +11,7 @@ duration: "01:24:35"
 layout: article
 tags:
   - 雑談
-title: 66. Don't collect digital dust
+title: 66. Weaving a web of ideas
 ---
 
 ## Shownotes
