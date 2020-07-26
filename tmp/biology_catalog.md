@@ -1,6 +1,5 @@
-## カタログ回
-
-- [NEB Literature Portal](https://international.neb.com/support/catalog-and-literature-request)
+## NEBカタログ回 (Sohのまとめ)
+- [NEB Literature Portal](https://international.neb.com/support/catalog-and-literature-request)...ここからそれぞれのカタログPDFにアクセスできる。
 - [Competent Cell](https://international.neb.com/-/media/nebus/files/brochures/compcell_brochure.pdf?rev=55d0a4e400624bc2a3ade6f23d1d8b9d)
   - NEB 5aやTurboなど
   - "Enhancing Transformation Efficiency"が便利。いろいろなテクニックが載っている。PEGやLigaseの持ち込みが阻害することは以外と知られていない...?
@@ -11,4 +10,4 @@
 - [Molecular Cloning Technical Guide](https://international.neb.com/-/media/nebus/files/brochures/cloning_tech_guide.pdf?rev=5e4ee766c39f49e08fe1a378c4cbd2e0)
   - いわゆる制限酵素で切って入れる方法のほかに、Blant-end cloningやGateway cloningなどがチャートで載っている。FAQなども非常に読み応えがある。
   - 286 Restriction enzymes available from NEB, 50 Type-II enzymes, 11 nicking enzymes
-  
+- Others: NEB Podcast
