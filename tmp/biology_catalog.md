@@ -1,3 +1,14 @@
 ## カタログ回
 
-[NEB Literature Portal](https://international.neb.com/support/catalog-and-literature-request)
+- [NEB Literature Portal](https://international.neb.com/support/catalog-and-literature-request)
+- [Competent Cell](https://international.neb.com/-/media/nebus/files/brochures/compcell_brochure.pdf?rev=55d0a4e400624bc2a3ade6f23d1d8b9d)
+  - NEB 5aやTurboなど
+  - "Enhancing Transformation Efficiency"が便利。いろいろなテクニックが載っている。PEGやLigaseの持ち込みが阻害することは以外と知られていない...?
+- [Golden Gate Assembly](https://international.neb.com/-/media/nebus/files/brochures/golden_gate_assembly_trifold.pdf?rev=a46639d92e6a4953ab28090c57e06400)
+  - Type-II restriction system BsmB1やBbs1など。認識配列から数塩基離れた配列を切断でき、かつ切断箇所はNなので自由自在にoverhangを設計することができる。
+  - たとえばBsaIはNNNN (4N)なので、原理的には512通りのorverhangが作れる。
+  - しかしその効率は異なる、ことを知っている人はすくない。ACATよりもTGCCのほうがligationが高効率にされる、などすべての4bp overhangのチャートが載っている！
+- [Molecular Cloning Technical Guide](https://international.neb.com/-/media/nebus/files/brochures/cloning_tech_guide.pdf?rev=5e4ee766c39f49e08fe1a378c4cbd2e0)
+  - いわゆる制限酵素で切って入れる方法のほかに、Blant-end cloningやGateway cloningなどがチャートで載っている。FAQなども非常に読み応えがある。
+  - 286 Restriction enzymes available from NEB, 50 Type-II enzymes, 11 nicking enzymes
+  
