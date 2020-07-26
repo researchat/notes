@@ -11,3 +11,4 @@
   - いわゆる制限酵素で切って入れる方法のほかに、Blant-end cloningやGateway cloningなどがチャートで載っている。FAQなども非常に読み応えがある。
   - 286 Restriction enzymes available from NEB, 50 Type-II enzymes, 11 nicking enzymes
 - Others: NEB Podcast
+- Q: 制限酵素の認識配列って昔の人はどうやって決定していた...?
