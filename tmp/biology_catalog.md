@@ -4,7 +4,7 @@
   - NEB 5aやTurboなど
   - "Enhancing Transformation Efficiency"が便利。いろいろなテクニックが載っている。PEGやLigaseの持ち込みが阻害することは以外と知られていない...?
 - [Golden Gate Assembly](https://international.neb.com/-/media/nebus/files/brochures/golden_gate_assembly_trifold.pdf?rev=a46639d92e6a4953ab28090c57e06400)
-  - Type-II restriction system BsmB1やBbs1など。認識配列から数塩基離れた配列を切断でき、かつ切断箇所はNなので自由自在にoverhangを設計することができる。
+  - Type-IIS restriction system BsmB1やBbs1など。認識配列から数塩基離れた配列を切断でき、かつ切断箇所はNなので自由自在にoverhangを設計することができる。
   - たとえばBsaIはNNNN (4N)なので、原理的には512通りのorverhangが作れる。
   - しかしその効率は異なる、ことを知っている人はすくない。ACATよりもTGCCのほうがligationが高効率にされる、などすべての4bp overhangのチャートが載っている！
 - [Molecular Cloning Technical Guide](https://international.neb.com/-/media/nebus/files/brochures/cloning_tech_guide.pdf?rev=5e4ee766c39f49e08fe1a378c4cbd2e0)
@@ -12,3 +12,4 @@
   - 286 Restriction enzymes available from NEB, 50 Type-II enzymes, 11 nicking enzymes
 - Others: NEB Podcast
 - Q: 制限酵素の認識配列って昔の人はどうやって決定していた...?
+  - https://www.sbj.or.jp/wp-content/uploads/file/sbj/9403/9403_yomoyama.pdf
