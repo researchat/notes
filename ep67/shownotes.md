@@ -16,53 +16,60 @@ title: 67. XXX
 ---
 
 ## Shownotes
-ep14,15
-ハムスター
-piRNA
-piwi
-ハエのけいだい
-BY4741
-SK1
-酵母
-HO
-エチオピア (カレー)
-Trader Joes
-Dunkin'
-Geisha
-コーヒーメーカー
-ハンドドリップ
-デロンギ　エスプレッソマシーン
-コーンミル
-ナイスカットミル
-みるっこDX
-保温できるマグ　エンバー
-ドリップスケール　https://store.bluebottlecoffee.jp/collections/brewing/products/g017
-堀口コーヒー
-狛江駅
-谷中コーヒー
-丸山コーヒー
-ぜにさわ
-コーヒーの科学
-房総半島
-館山
-柳川ダム
-亀山ダム
-黒部ダム
-プロジェクトX 黒部ダム
-沈まぬ太陽
-金谷港
-宮ヶ瀬ダム
-アクアライン
-青函トンネル
-英仏海峡トンネル
-イーロン・マスクのトンネル
-海底ケーブルの修復
-先物取引の人の回線
-工業地帯のクルーズ https://www.yokohama-cruising.jp/index.php?act=cruise&do=course_calendar&ship_id=004&course_id=00003
-工業地帯の写真家　https://mainichi.jp/articles/20180226/ddl/k27/040/220000c
-九龍城砦
-軍艦島
-ブラジル高層ビル: https://news.nicovideo.jp/watch/nw3511381
-スコッター
+- ep14
+- ep15
+- ハムスター
+- piRNA
+ piwi
+- ハエのけいだい
+- BY4741
+- SK1
+- 酵母
+- エチオピア (カレー)
+- Trader Joes
+- Dunkin'
+- Geisha
+- コーヒーメーカー
+- ハンドドリップ
+- デロンギ　エスプレッソマシーン
+- コーンミル
+- ナイスカットミル
+- みるっこDX
+- 保温できるマグ　エンバー
+- ドリップスケール　https://store.bluebottlecoffee.jp/collections/brewing/products/g017
+- 堀口コーヒー
+- 狛江駅
+- 谷中コーヒー
+- 丸山コーヒー
+- ぜにさわ
+- コーヒーの科学
+- 房総半島
+- 館山
+- 柳川ダム
+- 亀山ダム
+- 黒部ダム
+- プロジェクトX 黒部ダム
+- 沈まぬ太陽
+- 金谷港
+- 宮ヶ瀬ダム
+- アクアライン
+- 青函トンネル
+- 英仏海峡トンネル
+- イーロン・マスクのトンネル
+- 海底ケーブルの修復
+- 先物取引の人の回線
+- 工業地帯のクルーズ https://www.yokohama-cruising.jp/index.php?act=cruise&do=course_calendar&ship_id=004&course_id=00003
+- 工業地帯の写真家　https://mainichi.jp/articles/20180226/ddl/k27/040/220000c
+- 九龍城砦
+- 軍艦島
+- ブラジル高層ビル: https://news.nicovideo.jp/watch/nw3511381
+- スコッター
+- 大英博物館
+- スミソニアン博物館
 
+## Editorial notes
+- (kyon)
+- (soh)
+- (tadasu)
+- (coela)
 
