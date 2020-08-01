@@ -31,7 +31,7 @@ title: 67. XXX
 - Dunkin'
 - Geisha...コーヒーの品種のひとつで、ゲシャ村で自生していた種が起源となり、本来なら「ゲシャ」と呼ばれるところが「ゲイシャ」と伝わり、そのまま広まったと言われている。エチオピアで発見され、その後コスタリカに渡り、パナマなど中米の各地に植えられるようになった。らしい。[丸山珈琲のwebページより一部引用]((https://www.gnavi.co.jp/dressing/article/22245/))
 - [DeLonghiの全自動コーヒーメーカー](https://www.shop-casa-delonghi.com/SHOP/1012401/1012402/list.html)
-- [豆から挽けるコーヒーメーカー](https://www.muji.com/jp/ja/store/cmdty/detail/4549738398165)
+- [豆から挽けるコーヒーメーカー](https://www.muji.com/jp/ja/store/cmdty/detail/4549738398165)...kyon愛用の無印良品のコーヒーメーカー
 - ハンドドリップ
 - コーンミル
 - ナイスカットミル
