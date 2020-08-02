@@ -30,7 +30,7 @@ title: 67. Things We'd Love
 - [豆から挽けるコーヒーメーカー (無印良品)](https://www.muji.com/jp/ja/store/cmdty/detail/4549738398165)...kyon愛用の無印良品のコーヒーメーカー
 - ハンドドリップ
 - コーンミル
-- ナイスカットミル
+- [Kalita ナイスカットミル (Amazon)](https://www.amazon.co.jp/dp/B000NJDT9M/ref=cm_sw_r_tw_dp_x_N2QjFbPHKF4JG)...SohとCoela激推しのコーヒーミル。
 - [コーヒーミルの選び方をプロがおすすめ！電動・手動別19選](https://www.roomie.jp/2019/11/561295/#type)...ナイスカットミルも紹介されている。ちなみにkyonはハンドドリップするとき、ポーレックス コーヒーミルミニを使っています（これも紹介されていた）
 - みるっこDX
 - 保温できるマグ　エンバー
@@ -45,9 +45,9 @@ title: 67. Things We'd Love
 - 館山
 - 柳川ダム
 - [亀山ダム](http://www.city-kimitsu.jp/kanko/spot/sizen/dam-kameyama.html)
-- [黒部ダム](https://www.kurobe-dam.com/)
-- プロジェクトX 黒部ダム
-- 沈まぬ太陽
+- [黒部ダム](https://www.kurobe-dam.com/)...黒部ダムは本当に素晴らしいところです (Soh)
+- [プロジェクトＸ 挑戦者たち 厳冬 黒四ダム　～断崖絶壁の難工事～](https://www.nhk.or.jp/archives/teachers-l/list/id2019081/)
+- [黒部の太陽 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%BB%92%E9%83%A8%E3%81%AE%E5%A4%AA%E9%99%BD)
 - 金谷港...横須賀市にある久里浜港を往来する[東京湾フェリー](https://www.tokyowanferry.com/theme34.html)の発着港
 - [宮ヶ瀬ダム](https://www.miyagase.or.jp/)
 - 東京湾アクアライン...神奈川県川崎市から東京湾を横断して千葉県木更津市へ至る高速道路。kyonオススメの工事概要動画は[こちら](https://www.youtube.com/watch?v=OsX944VXVxs)から。
@@ -55,7 +55,6 @@ title: 67. Things We'd Love
 - 英仏海峡トンネル
 - イーロン・マスクのトンネル
 - 海底ケーブルの修復
-- 先物取引の人の回線
 - [工業地帯のクルーズ](https://www.yokohama-cruising.jp/index.php?act=cruise&do=course_calendar&ship_id=004&course_id=00003)
 - [工業地帯の写真家・小林哲朗さん](https://mainichi.jp/articles/20180226/ddl/k27/040/220000c)
 - [今はなき香港のスラム街｢九龍城砦｣に魅入られた写真家が切り取った世界](https://www.businessinsider.jp/post-1652)
@@ -67,7 +66,7 @@ title: 67. Things We'd Love
 
 ## Editorial notes
 - 前回出演させていただいてからもう1年も経ったのか…次回以降もよろしくお願いします！(kyon)
-- (soh)
+- 黒部ダムは本当に素晴らしいところです (Soh)
 - (tadasu)
 - (coela)
 
