@@ -31,17 +31,17 @@ title: 67. Things We'd Love
 - [豆から挽けるコーヒーメーカー (無印良品)](https://www.muji.com/jp/ja/store/cmdty/detail/4549738398165)...kyon愛用の無印良品のコーヒーメーカー
 - [ハンドドリップ式コーヒー おいしい淹れ方｜道具・豆量・温度・コツを徹底解説](https://www.thecoffeeshop.jp/ct_extraction/coffee-drip-skill/)
 - [コーヒーミルの選び方｜電動と手動の違い・購入するメリット・お手入れ](https://mystyle.ucc.co.jp/magazine/a_1033/)
-- [Kalita ナイスカットミル (Amazon)](https://www.amazon.co.jp/dp/B000NJDT9M/ref=cm_sw_r_tw_dp_x_N2QjFbPHKF4JG)...SohとCoela激推しのコーヒーミル。
+- [Kalita ナイスカットミル (Amazon)](https://www.amazon.co.jp/dp/B000NJDT9M/?tag=researchatf04-22)...SohとCoela激推しのコーヒーミル。
 - [コーヒーミルの選び方をプロがおすすめ！電動・手動別19選](https://www.roomie.jp/2019/11/561295/#type)...ナイスカットミルも紹介されている。ちなみにkyonはハンドドリップするとき、ポーレックス コーヒーミルミニを使っています（これも紹介されていた）
-- [みるっこDX (Amazon)](https://www.amazon.co.jp/%E3%83%95%E3%82%B8%E3%83%AD%E3%83%BC%E3%83%A4%E3%83%AB-%E5%B0%8F%E5%9E%8B%E9%AB%98%E6%80%A7%E8%83%BD%E3%83%9F%E3%83%AB-%E3%81%BF%E3%82%8B%E3%81%A3%E3%81%93DX-%E3%80%90%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%80%91-R-220/dp/B000TIOY1O)
-- [Ember セラミック製温調マグカップ (Amazon)](https://www.amazon.co.jp/Ember-CM17-%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF-%E3%83%9E%E3%82%B0/dp/B0773WG6NK)...CoelaおすすめのUSBで保温できるマグ。
+- [みるっこDX (Amazon)](https://www.amazon.co.jp/dp/B000TIOY1O/?tag=researchatf04-22)
+- [Ember セラミック製温調マグカップ (Amazon)](https://www.amazon.co.jp/dp/B0773WG6NK/?tag=researchatf04-22)...CoelaおすすめのUSBで保温できるマグ。
 - [ドリップスケール](https://store.bluebottlecoffee.jp/collections/brewing/products/g017)
 - [堀口珈琲](https://www.kohikobo.co.jp/)
 - 狛江駅...小田急小田原線の駅。準急と各駅停車しか止まらないので注意！
 - [やなか珈琲](https://www.yanaka-coffeeten.com/)
 - [丸山珈琲](https://www.maruyamacoffee.com/)...限定で出ている[マルケンの恩返しシリーズ](https://www.maruyamacoffee.com/ec/feature/1912)が美味しい上に破格な安さなのでオススメです
 - [ぜにさわコーヒー](https://zenisawa.ocnk.net/)...Sohおすすめの浅煎りの豆を多く取り揃えるコーヒー屋。
-- [コーヒーの科学](https://www.amazon.co.jp/dp/B01C3P4G8G/ref=cm_sw_r_tw_dp_x_q0EjFbKNST2PZ)
+- [コーヒーの科学](https://www.amazon.co.jp/dp/B01C3P4G8G/?tag=researchatf04-22)
 - [亀山ダム](http://www.city-kimitsu.jp/kanko/spot/sizen/dam-kameyama.html)
 - [黒部ダム](https://www.kurobe-dam.com/)
 - [プロジェクトＸ 挑戦者たち 厳冬 黒四ダム　～断崖絶壁の難工事～](https://www.nhk.or.jp/archives/teachers-l/list/id2019081/)
