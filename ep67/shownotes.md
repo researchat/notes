@@ -56,11 +56,11 @@ title: 67. Things We'd Love
 - イーロン・マスクのトンネル
 - 海底ケーブルの修復
 - 先物取引の人の回線
-- 工業地帯のクルーズ https://www.yokohama-cruising.jp/index.php?act=cruise&do=course_calendar&ship_id=004&course_id=00003
-- 工業地帯の写真家　https://mainichi.jp/articles/20180226/ddl/k27/040/220000c
-- 九龍城砦
-- 軍艦島
-- ブラジル高層ビル: https://news.nicovideo.jp/watch/nw3511381
+- [工業地帯のクルーズ](https://www.yokohama-cruising.jp/index.php?act=cruise&do=course_calendar&ship_id=004&course_id=00003)
+- [工業地帯の写真家・小林哲朗さん](https://mainichi.jp/articles/20180226/ddl/k27/040/220000c)
+- [今はなき香港のスラム街｢九龍城砦｣に魅入られた写真家が切り取った世界](https://www.businessinsider.jp/post-1652)
+- [軍艦島 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%AB%AF%E5%B3%B6_(%E9%95%B7%E5%B4%8E%E7%9C%8C))
+- [ブラジル高層ビル](https://news.nicovideo.jp/watch/nw3511381)
 - スコッター
 - 大英博物館
 - スミソニアン博物館
