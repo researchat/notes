@@ -28,8 +28,8 @@ title: 67. Things We'd Love
 - ゲイシャ...コーヒーの品種のひとつで、ゲシャ村で自生していた種が起源となり、本来なら「ゲシャ」と呼ばれるところが「ゲイシャ」と伝わり、そのまま広まったと言われている。エチオピアで発見され、その後コスタリカに渡り、パナマなど中米の各地に植えられるようになった、らしい。[丸山珈琲のwebページより一部引用](https://www.gnavi.co.jp/dressing/article/22245/)
 - [DeLonghiの全自動コーヒーメーカー](https://www.shop-casa-delonghi.com/SHOP/1012401/1012402/list.html)
 - [豆から挽けるコーヒーメーカー (無印良品)](https://www.muji.com/jp/ja/store/cmdty/detail/4549738398165)...kyon愛用の無印良品のコーヒーメーカー
-- ハンドドリップ
-- コーンミル
+- [ハンドドリップ式コーヒー おいしい淹れ方｜道具・豆量・温度・コツを徹底解説](https://www.thecoffeeshop.jp/ct_extraction/coffee-drip-skill/)
+- [コーヒーミルの選び方｜電動と手動の違い・購入するメリット・お手入れ](https://mystyle.ucc.co.jp/magazine/a_1033/)
 - [Kalita ナイスカットミル (Amazon)](https://www.amazon.co.jp/dp/B000NJDT9M/ref=cm_sw_r_tw_dp_x_N2QjFbPHKF4JG)...SohとCoela激推しのコーヒーミル。
 - [コーヒーミルの選び方をプロがおすすめ！電動・手動別19選](https://www.roomie.jp/2019/11/561295/#type)...ナイスカットミルも紹介されている。ちなみにkyonはハンドドリップするとき、ポーレックス コーヒーミルミニを使っています（これも紹介されていた）
 - [みるっこDX (Amazon)](https://www.amazon.co.jp/%E3%83%95%E3%82%B8%E3%83%AD%E3%83%BC%E3%83%A4%E3%83%AB-%E5%B0%8F%E5%9E%8B%E9%AB%98%E6%80%A7%E8%83%BD%E3%83%9F%E3%83%AB-%E3%81%BF%E3%82%8B%E3%81%A3%E3%81%93DX-%E3%80%90%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%80%91-R-220/dp/B000TIOY1O)
@@ -49,7 +49,7 @@ title: 67. Things We'd Love
 - [宮ヶ瀬ダム](https://www.miyagase.or.jp/)
 - 東京湾アクアライン...神奈川県川崎市から東京湾を横断して千葉県木更津市へ至る高速道路。kyonオススメの工事概要動画は[こちら](https://www.youtube.com/watch?v=OsX944VXVxs)から。
 - [青函トンネル (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%9D%92%E5%87%BD%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB)
-- 英仏海峡トンネル (ドーバー海峡トンネル)](https://ja.wikipedia.org/wiki/%E8%8B%B1%E4%BB%8F%E6%B5%B7%E5%B3%A1%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB)
+- [英仏海峡トンネル (ドーバー海峡トンネル)](https://ja.wikipedia.org/wiki/%E8%8B%B1%E4%BB%8F%E6%B5%B7%E5%B3%A1%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB)
 - [イーロン・マスクが披露した地下トンネルは、本当に「都市交通の未来」へと続くのか？ (WIRED)](https://wired.jp/2018/12/23/elon-musk-boring-company-car-flinging-tunnel/)
 - [光海底ケーブル修理方法](http://www.k-kcs.co.jp/solutionRepairingMethod.html)
 - [工業地帯のクルーズ](https://www.yokohama-cruising.jp/index.php?act=cruise&do=course_calendar&ship_id=004&course_id=00003)
@@ -61,7 +61,7 @@ title: 67. Things We'd Love
 - [スミソニアン博物館 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9F%E3%82%BD%E3%83%8B%E3%82%A2%E3%83%B3%E5%8D%9A%E7%89%A9%E9%A4%A8)
 
 ## Editorial notes
-- 前回出演させていただいてからもう1年も経ったのか…次回以降もよろしくお願いします！(kyon)
+- 前回出演させていただいてからもう1年も経ったのか...次回以降もよろしくお願いします！(kyon)
 - 黒部ダムは本当に素晴らしいところです (Soh)
 - (tadasu)
 - (coela)
