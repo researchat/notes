@@ -25,7 +25,7 @@ title: 67. Things We'd Love
 - [SK1 (SDG)](https://www.yeastgenome.org/strain/S000204513)
 - [エチオピア (カレー)](https://tabelog.com/tokyo/A1310/A131003/13000638/)...付け合せのジャガイモがうまい
 - [Dunkin']()...Tadasuが愛するダンキンのアイスコーヒーについては、[エピソード12](https://researchat.fm/episode/12)で話しました。
-- ゲイシャ...コーヒーの品種のひとつで、ゲシャ村で自生していた種が起源となり、本来なら「ゲシャ」と呼ばれるところが「ゲイシャ」と伝わり、そのまま広まったと言われている。エチオピアで発見され、その後コスタリカに渡り、パナマなど中米の各地に植えられるようになった、らしい。[丸山珈琲のwebページより一部引用]((https://www.gnavi.co.jp/dressing/article/22245/))
+- ゲイシャ...コーヒーの品種のひとつで、ゲシャ村で自生していた種が起源となり、本来なら「ゲシャ」と呼ばれるところが「ゲイシャ」と伝わり、そのまま広まったと言われている。エチオピアで発見され、その後コスタリカに渡り、パナマなど中米の各地に植えられるようになった、らしい。[丸山珈琲のwebページより一部引用](https://www.gnavi.co.jp/dressing/article/22245/)
 - [DeLonghiの全自動コーヒーメーカー](https://www.shop-casa-delonghi.com/SHOP/1012401/1012402/list.html)
 - [豆から挽けるコーヒーメーカー (無印良品)](https://www.muji.com/jp/ja/store/cmdty/detail/4549738398165)...kyon愛用の無印良品のコーヒーメーカー
 - ハンドドリップ
@@ -49,9 +49,9 @@ title: 67. Things We'd Love
 - [宮ヶ瀬ダム](https://www.miyagase.or.jp/)
 - 東京湾アクアライン...神奈川県川崎市から東京湾を横断して千葉県木更津市へ至る高速道路。kyonオススメの工事概要動画は[こちら](https://www.youtube.com/watch?v=OsX944VXVxs)から。
 - [青函トンネル (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%9D%92%E5%87%BD%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB)
-- 英仏海峡トンネル
-- イーロン・マスクのトンネル
-- 海底ケーブルの修復
+- 英仏海峡トンネル (ドーバー海峡トンネル)](https://ja.wikipedia.org/wiki/%E8%8B%B1%E4%BB%8F%E6%B5%B7%E5%B3%A1%E3%83%88%E3%83%B3%E3%83%8D%E3%83%AB)
+- [イーロン・マスクが披露した地下トンネルは、本当に「都市交通の未来」へと続くのか？ (WIRED)](https://wired.jp/2018/12/23/elon-musk-boring-company-car-flinging-tunnel/)
+- [光海底ケーブル修理方法](http://www.k-kcs.co.jp/solutionRepairingMethod.html)
 - [工業地帯のクルーズ](https://www.yokohama-cruising.jp/index.php?act=cruise&do=course_calendar&ship_id=004&course_id=00003)
 - [工業地帯の写真家・小林哲朗さん](https://mainichi.jp/articles/20180226/ddl/k27/040/220000c)
 - [今はなき香港のスラム街｢九龍城砦｣に魅入られた写真家が切り取った世界](https://www.businessinsider.jp/post-1652)
