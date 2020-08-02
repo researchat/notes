@@ -35,7 +35,7 @@ title: 67. Things We'd Love
 - [コーヒーミルの選び方をプロがおすすめ！電動・手動別19選](https://www.roomie.jp/2019/11/561295/#type)...ナイスカットミルも紹介されている。ちなみにkyonはハンドドリップするとき、ポーレックス コーヒーミルミニを使っています（これも紹介されていた）
 - [みるっこDX (Amazon)](https://www.amazon.co.jp/%E3%83%95%E3%82%B8%E3%83%AD%E3%83%BC%E3%83%A4%E3%83%AB-%E5%B0%8F%E5%9E%8B%E9%AB%98%E6%80%A7%E8%83%BD%E3%83%9F%E3%83%AB-%E3%81%BF%E3%82%8B%E3%81%A3%E3%81%93DX-%E3%80%90%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%89%E3%80%91-R-220/dp/B000TIOY1O)
 - [Ember セラミック製温調マグカップ (Amazon)](https://www.amazon.co.jp/Ember-CM17-%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF-%E3%83%9E%E3%82%B0/dp/B0773WG6NK)...CoelaおすすめのUSBで保温できるマグ。
-- ドリップスケール　https://store.bluebottlecoffee.jp/collections/brewing/products/g017
+- [ドリップスケール](https://store.bluebottlecoffee.jp/collections/brewing/products/g017)
 - [堀口珈琲](https://www.kohikobo.co.jp/)
 - 狛江駅...小田急小田原線の駅。準急と各駅停車しか止まらないので注意！
 - [やなか珈琲](https://www.yanaka-coffeeten.com/)
