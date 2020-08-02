@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/67.mp3
 audio_file_size: xxx
 date: 2020-07-24 21:27:00 +0900
-description: 自粛期間中の実験動物の飼育、コーヒー、バイクによるツーリングについて話しました。
+description: Kyonさんをゲストに迎え、自粛期間中の実験動物の飼育、コーヒーの楽しみ方、ツーリングや海底トンネル工事の魅力などについて好き勝手に話しました。
 duration: "01:24:35"
 layout: article
 tags:
