@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/67.mp3
 audio_file_size: 53927600
 date: 2020-08-03 10:30:00 +0900
-description: Kyonさんをゲストに迎え、自粛期間中の実験動物の飼育、コーヒーの楽しみ方、ツーリングや海底トンネル工事の魅力などについて好き勝手に話しました。
+description: kyonさんをゲストに迎え、自粛期間中の実験動物の飼育、コーヒーの楽しみ方、ツーリングや海底トンネル工事の魅力などについて好き勝手に話しました。
 duration: "00:56:10"
 layout: article
 tags:
@@ -44,8 +44,8 @@ title: 67. Things We'd Love
 - [コーヒーの科学](https://www.amazon.co.jp/dp/B01C3P4G8G/?tag=researchatf04-22)
 - [亀山ダム](http://www.city-kimitsu.jp/kanko/spot/sizen/dam-kameyama.html)
 - [黒部ダム](https://www.kurobe-dam.com/)
-- [プロジェクトＸ 挑戦者たち 厳冬 黒四ダム　～断崖絶壁の難工事～](https://www.nhk.or.jp/archives/teachers-l/list/id2019081/)
-- [黒部の太陽 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%BB%92%E9%83%A8%E3%81%AE%E5%A4%AA%E9%99%BD)
+- [プロジェクトＸ 挑戦者たち 厳冬 黒四ダム　～断崖絶壁の難工事～](https://www.amazon.co.jp/dp/B0049SOOE2/?tag=researchatf04-22)
+- [黒部の太陽 (Amazon)](https://www.amazon.co.jp/dp/4784092161/?tag=researchatf04-22)
 - 金谷港...横須賀市にある久里浜港を往来する[東京湾フェリー](https://www.tokyowanferry.com/theme34.html)の発着港
 - [宮ヶ瀬ダム](https://www.miyagase.or.jp/)
 - 東京湾アクアライン...神奈川県川崎市から東京湾を横断して千葉県木更津市へ至る高速道路。kyonオススメの工事概要動画は[こちら](https://www.youtube.com/watch?v=OsX944VXVxs)から。
@@ -64,6 +64,6 @@ title: 67. Things We'd Love
 ## Editorial notes
 - 前回出演させていただいてからもう1年も経ったのか...次回以降もよろしくお願いします！(kyon)
 - 黒部ダムは本当に素晴らしいところです (Soh)
-- (tadasu)
+- 放談しました(tadasu)
 - (coela)
 
