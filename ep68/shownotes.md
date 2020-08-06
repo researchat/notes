@@ -11,8 +11,8 @@ description: kyonさんをゲストに迎え、自作のモノクローナル抗
 duration: "00:56:10"
 layout: article
 tags:
-  - 雑談
-  - コーヒー
+  - 研究
+  - 抗体
 title: 68. XXXX
 ---
 
