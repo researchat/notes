@@ -32,9 +32,10 @@ title: 68. A primer for homebrew antibody
 - ハイブリドーマ
 - PIWI family
 - アジュバント
+- ナノボディー
+- [蛇毒抗体の人](https://gigazine.net/news/20171213-inject-snake-vemon-25-years/)
 - ポリエチレングリコール
 - エレクトロポレーション
-- ナノボディー
 - 横国 栗原先生 MIHS法?
 
 ## Editorial notes
