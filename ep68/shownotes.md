@@ -36,10 +36,11 @@ title: 68. A primer for homebrew antibody
 - [蛇毒抗体の人](https://gigazine.net/news/20171213-inject-snake-vemon-25-years/)
 - ポリエチレングリコール
 - エレクトロポレーション
+- [Neon™ Transfection System](https://www.thermofisher.com/order/catalog/product/MPK5000#/MPK5000) ...  針みたいなエレポ
 - 横国 栗原先生 MIHS法?
 
 ## Editorial notes
 - (kyon)
 - いつか抗体も自作したくなった (Soh)
-- バンバン抗体つくりましょう(tadasu)
+- バンバン抗体つくりましょう。途中だいぶぼんやりしていて的外れな質問をしてしまった...(細胞融合もうちょい話したかった感)(tadasu)
 - (coela)
