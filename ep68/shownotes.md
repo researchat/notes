@@ -33,6 +33,7 @@ title: 68. A primer for homebrew antibody
 - PIWI family
 - アジュバント
 - ナノボディー
+- [Hamers-Casterman et al., Nature (1993)](https://www.nature.com/articles/363446a0) ... ラクダ科の動物の抗体について初めて報告した論文
 - [蛇毒抗体の人](https://gigazine.net/news/20171213-inject-snake-vemon-25-years/)
 - ポリエチレングリコール
 - エレクトロポレーション
