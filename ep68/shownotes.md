@@ -24,7 +24,6 @@ title: 68. A primer for homebrew antibody
 - 抗体とは
 - 正解セット
 - エピトープ
-- ナノボディー
 - ウェスタン
 - 免疫沈降
 - ミエローマ
@@ -35,6 +34,7 @@ title: 68. A primer for homebrew antibody
 - アジュバント
 - ポリエチレングリコール
 - エレクトロポレーション
+- ナノボディー
 - 横国 栗原先生 MIHS法?
 
 ## Editorial notes
