@@ -4,9 +4,9 @@ actor_ids:
   - tadasu
   - coela
   - kyon
-audio_file_path: /audio/67.mp3
+audio_file_path: /audio/68.mp3
 audio_file_size: 53927600
-date: 2020-08-07 10:30:00 +0900
+date: 2020-08-08 10:30:00 +0900
 description: kyonさんをゲストに迎え、自作のモノクローナル抗体をつくるプロトコルとその魅力について教えてもらいました。
 duration: "00:56:10"
 layout: article
