@@ -41,7 +41,7 @@ title: 68. A primer for homebrew antibody
 - MIHS法...横浜国立大学の栗原靖之先生のグループが開発したハイブリドーマの作製方法
 
 ## Editorial notes
-- 完全に余談ですが、実験のやる気がでない日は[この動画](https://youtu.be/_7uCcRfrQ0A)が脳内再生されます。Forget about doing a western blot~♪(kyon)
+- 完全に余談ですが、実験のやる気がでない日は[この動画](https://youtu.be/_7uCcRfrQ0A)が脳内再生されます。Forget about doing a western blot~♪ (kyon)
 - いつか抗体も自作したくなった (Soh)
 - バンバン抗体つくりましょう。途中だいぶぼんやりしていて的外れな質問をしてしまった...(細胞融合もうちょい話したかった感)(tadasu)
 - (coela)
