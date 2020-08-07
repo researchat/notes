@@ -17,7 +17,7 @@ title: 68. A primer for homebrew antibody
 ---
 
 ## Shownotes
-- 抗体 (antibody)...免疫グロブリンの総称。参考ページ:[抗体とは](https://ruo.mbl.co.jp/bio/support/method/antibody.html) (MBLのwebページ])、[抗体とは？](https://www.chugai-pharm.co.jp/ptn/bio/antibody/antibodyp05.html) (中外製薬webページ)
+- 抗体 (antibody)...免疫グロブリンの総称。参考ページ:[抗体とは](https://ruo.mbl.co.jp/bio/support/method/antibody.html) (MBLのwebページ)、[抗体とは？](https://www.chugai-pharm.co.jp/ptn/bio/antibody/antibodyp05.html) (中外製薬webページ)
 - [抗体ガイド 4. ポリクローナル抗体とモノクローナル抗体](https://www.abcam.co.jp/protocols/a-comparison-between-polyclonal-and-monoclonal-2)(abcamのwebページ)
 - [モノクローナル抗体の作り方](https://www.chugai-pharm.co.jp/ptn/bio/antibody/antibodyp12.html) (中外製薬webページ)
 - 重鎖・短鎖...抗体を構成する部位。参考ページ: [Sigmaのwebページ](https://www.sigmaaldrich.com/japan/lifescience/antibody/antibody-basics.html)
