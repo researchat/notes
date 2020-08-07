@@ -17,19 +17,17 @@ title: 68. A primer for homebrew antibody
 ---
 
 ## Shownotes
-- モノクロ抗体
-- ポリクロ抗体
-- 重鎖
-- 短鎖
-- 抗体とは
-- 正解セット
-- エピトープ
-- ウェスタン
+- 抗体(antibody)...免疫グロブリンの総称。参考ページ : [抗体とは](https://ruo.mbl.co.jp/bio/support/method/antibody.html) (MBLのwebページより])、[抗体とは？](https://www.chugai-pharm.co.jp/ptn/bio/antibody/antibodyp05.html) (中外製薬webページより)
+- [抗体ガイド 4. ポリクローナル抗体とモノクローナル抗体](https://www.abcam.co.jp/protocols/a-comparison-between-polyclonal-and-monoclonal-2)...abcamのwebページより
+- 重鎖・短鎖...抗体を構成する部位。詳しくは[Sigmaのwebページ](https://www.sigmaaldrich.com/japan/lifescience/antibody/antibody-basics.html)を参照
+- エピトープ...抗体が
+- ウェスタンブロッティング
 - 免疫沈降
 - ミエローマ
 - B細胞
 - 細胞融合
 - ハイブリドーマ
+- 腹腔
 - PIWI family
 - アジュバント
 - ナノボディー
