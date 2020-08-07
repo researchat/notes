@@ -32,7 +32,6 @@ title: 68. A primer for homebrew antibody
 - ハイブリドーマ...B細胞とミエローマが融合した細胞
 - PIWI family...kyonが研究対象にしている遺伝子。詳細はep.14へGO!
 - アジュバント...ワクチンと一緒に投与することで、免疫効果を高める
-- ナノボディー
 - [Hamers-Casterman et al., Nature (1993)](https://www.nature.com/articles/363446a0) ... ラクダ科の動物の抗体について初めて報告した論文
 - [蛇毒抗体の人](https://gigazine.net/news/20171213-inject-snake-vemon-25-years/)
 - [ポリエチレングリコール (PEG)](https://bit.ly/2PsY4Am) (Wikipedia)
