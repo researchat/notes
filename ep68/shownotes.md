@@ -43,4 +43,4 @@ title: 68. A primer for homebrew antibody
 - 完全に余談ですが、実験のやる気がでない日は[この動画](https://youtu.be/_7uCcRfrQ0A)が脳内再生されます。Forget about doing a western blot~♪ (kyon)
 - いつか抗体も自作したくなった (Soh)
 - バンバン抗体つくりましょう。途中だいぶぼんやりしていて的外れな質問をしてしまった...(細胞融合もうちょい話したかった感)(tadasu)
-- (coela)
+- 抗体と言えばブレンパワードのアンチボディ格好良いですよね(coela)
