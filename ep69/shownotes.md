@@ -43,9 +43,10 @@ title: 69. Don't Ask Me How I Did It 仮
 - [カレー](http://web.archive.org/web/20100328012844/http://oixi.jp/happy/archive/11)
 - [ファイナルカレー](https://cakes.mu/series/3733)
 - [staub ストウブ](https://www.amazon.co.jp/dp/B000BPLCPG/?tag=researchatf04-22) ... kyonちゃんおすすめのホーロー鍋
+- [バーミキュラ](https://www.amazon.co.jp/dp/B011B8HL8I/?tag=researchatf04-22)
 - [炊飯器]
 - [バルミューダ 3合炊き電気炊飯器 BALMUDA The Gohan](https://www.amazon.co.jp/dp/B01NBX0HC7?tag=researchatf04-22/)
-- [hmskさんによるホームブリューイング](https://twitter.com/i/events/1274210423047258112)
+- [hmskさんによるホームブリューイング](https://twitter.com/i/events/1274210423047258112) ... 自炊勢も突き詰めるとここまで行くという稀有な例。我々もこの高みを目指していきたい。訪問して是非自ビールをいただきたい。
 - [野生の酵母が異数性に強い理由（というより実験室酵母が異数性に弱い理由）が判明した](https://tenure5.vbl.okayama-u.ac.jp/HM_blog/?p=3932) ... 守屋先生による酵母に関する記事。
 - [コーレーグース](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B0%E3%82%B9)
 - [スヰートポーヅ](https://tabelog.com/tokyo/A1310/A131003/13000637/) ... 最高の餃子。閉店。
@@ -58,7 +59,8 @@ title: 69. Don't Ask Me How I Did It 仮
 - [兆徳](https://tabelog.com/tokyo/A1323/A132301/13051394/)
 - [モランボンの餃子の皮](http://www.moranbong.co.jp/product/t_chinese/)
 - [Koh Kentetsu Kitchen](https://www.youtube.com/channel/UC3p5OTQsMEnmZktWUkw_Y0A)
-
+- [ずぼら料理教室](https://www.youtube.com/channel/UCmB6D1avvT8ZziWqvnyMxEQ)
+- [ストウブビストロ　はるひごはん](http://haruhigohan.com/)
 
 ## Editorial notes
 - kyon
