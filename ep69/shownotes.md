@@ -53,7 +53,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - [世界のお酒でコーレーグースをつくる](https://www.dee-okinawa.com/topics/2010/12/ko-re-gusu.html)
 - [OIST(沖縄科学技術大学院大学)](https://www.oist.jp/) ...  沖縄にある最先端の大学院大学　本当にすごい！
 - [萬座](https://www.amazon.co.jp/dp/B0053BG9ZQ/?tag=researchatf04-22/) ... OISTがある恩納村周辺で作られている泡盛。これがいいよと、島とうがらしと共に送られきた。
-
+- [空港食堂](https://tabelog.com/okinawa/A4701/A470103/47000364/) ... 那覇空港にある食堂
 
 
 ## Editorial notes
