@@ -68,6 +68,11 @@ title: 69. Don't Ask Me How I Did It 仮
 - [長州力【公式】RIKI CHANNEL](https://www.youtube.com/channel/UCcjEXmMRb28ehKVy6viJLNA)
 - [貴ちゃんねるず](https://www.youtube.com/channel/UCbXUEjBdbrn4BEbLSKJuSpw)
 - [藤森慎吾のYouTubeチャンネル](https://www.youtube.com/channel/UC25Ah0_XF2lOUwWV9VSfl2g)
+- [Picking Up UBER Riders In A Mclaren!](https://www.youtube.com/watch?v=6pdFJKZZT7M) ... マクラーレンでUberが迎えに来る
+- [Picking Up UBER Riders In A Lamborghini!](https://www.youtube.com/watch?v=sOpRXbwFry4) ... ランボルギーニでUberが迎えに来る
+- [石田九段一門チャンネル](https://www.youtube.com/channel/UCMNpR4Sv4ZudD3tBjDUUiQQ)
+- [森内俊之の森内チャンネル](https://www.youtube.com/channel/UCAwDrM75UAddwluabae4A6g)
+- [女流棋士・香川愛生チャンネル](https://www.youtube.com/channel/UCDsB5oS-K8To0NAz4iWVNKQ)
 
 ## Editorial notes
 - kyon
