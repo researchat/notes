@@ -54,6 +54,9 @@ title: 69. Don't Ask Me How I Did It 仮
 - [OIST(沖縄科学技術大学院大学)](https://www.oist.jp/) ...  沖縄にある最先端の大学院大学　本当にすごい！
 - [萬座](https://www.amazon.co.jp/dp/B0053BG9ZQ/?tag=researchatf04-22/) ... OISTがある恩納村周辺で作られている泡盛。これがいいよと、島とうがらしと共に送られきた。
 - [空港食堂](https://tabelog.com/okinawa/A4701/A470103/47000364/) ... 那覇空港にある食堂
+- [中央亭](https://tabelog.com/shizuoka/A2205/A220501/22003420/) ... 最 of the 高の餃子。dancyuの餃子特集で巻頭を飾った名店。沼津駅から徒歩で行けます。
+- [兆徳](https://tabelog.com/tokyo/A1323/A132301/13051394/)
+- [モランボンの餃子の皮](http://www.moranbong.co.jp/product/t_chinese/)
 
 
 ## Editorial notes
