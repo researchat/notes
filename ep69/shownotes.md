@@ -65,6 +65,9 @@ title: 69. Don't Ask Me How I Did It 仮
 - [きまぐれクック](https://www.youtube.com/channel/UCaak9sggUeIBPOd8iK_BXcQ)
 - [前田式テールスープの作り方](https://www.youtube.com/watch?v=p0f8BVqhAJs)
 - [肉骨茶](https://ja.wikipedia.org/wiki/%E8%82%89%E9%AA%A8%E8%8C%B6)
+- [長州力【公式】RIKI CHANNEL](https://www.youtube.com/channel/UCcjEXmMRb28ehKVy6viJLNA)
+- [貴ちゃんねるず](https://www.youtube.com/channel/UCbXUEjBdbrn4BEbLSKJuSpw)
+- [藤森慎吾のYouTubeチャンネル](https://www.youtube.com/channel/UC25Ah0_XF2lOUwWV9VSfl2g)
 
 ## Editorial notes
 - kyon
