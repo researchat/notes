@@ -38,7 +38,8 @@ title: 69. Don't Ask Me How I Did It 仮
 - エタ沈
 - 無水料理
 - Cパッド
-- 「最終的には徹底的に引き算したいんだよね。それが30代カレーの目指すとこです。」 ... 某氏の名言
+- [ドライカレーのレシピ](http://katsuma.hatenablog.com/entry/2012/03/05/195824) ... これを学生の時に食べてびっくりした。そこから真面目にカレーに取り組むようになりました(tadasu)。
+- 「最終的には徹底的に引き算したいんだよね。それが30代カレーの目指すとこです。」 ... 上記某氏の名言。結果的にどのようなカレーが出来上がったのか一度お伺いしたい。
 - [カレー](http://web.archive.org/web/20100328012844/http://oixi.jp/happy/archive/11)
 - [ファイナルカレー](https://cakes.mu/series/3733)
 - [staub ストウブ](https://www.amazon.co.jp/dp/B000BPLCPG/?tag=researchatf04-22) ... kyonちゃんおすすめのホーロー鍋
