@@ -63,6 +63,8 @@ title: 69. Don't Ask Me How I Did It 仮
 - [ストウブビストロ　はるひごはん](http://haruhigohan.com/)
 - [へんな魚おじさんのひとり言](https://www.youtube.com/channel/UCVGyr3a4vK39eQVxWoq70fg)
 - [きまぐれクック](https://www.youtube.com/channel/UCaak9sggUeIBPOd8iK_BXcQ)
+- [前田式テールスープの作り方](https://www.youtube.com/watch?v=p0f8BVqhAJs)
+- [肉骨茶](https://ja.wikipedia.org/wiki/%E8%82%89%E9%AA%A8%E8%8C%B6)
 
 ## Editorial notes
 - kyon
