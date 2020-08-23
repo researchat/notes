@@ -37,7 +37,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - 鍛冶師・憑二斉 ... ブラックジャックの研ぎ師
 - エタ沈
 - 無水料理
-- Cパッド
+- [Cpad社](https://cookpad.com/)
 - [ドライカレーのレシピ](http://katsuma.hatenablog.com/entry/2012/03/05/195824) ... これを学生の時に食べてびっくりした。そこから真面目にカレーに取り組むようになりました(tadasu)。
 - 「最終的には徹底的に引き算したいんだよね。それが30代カレーの目指すとこです。」 ... 上記某氏の名言。結果的にどのようなカレーが出来上がったのか一度お伺いしたい。
 - [カレー](http://web.archive.org/web/20100328012844/http://oixi.jp/happy/archive/11)
@@ -57,10 +57,11 @@ title: 69. Don't Ask Me How I Did It 仮
 - [中央亭](https://tabelog.com/shizuoka/A2205/A220501/22003420/) ... 最 of the 高の餃子。dancyuの餃子特集で巻頭を飾った名店。沼津駅から徒歩で行けます。
 - [兆徳](https://tabelog.com/tokyo/A1323/A132301/13051394/)
 - [モランボンの餃子の皮](http://www.moranbong.co.jp/product/t_chinese/)
+- [Koh Kentetsu Kitchen](https://www.youtube.com/channel/UC3p5OTQsMEnmZktWUkw_Y0A)
 
 
 ## Editorial notes
 - kyon
 - スヰートポーヅは青春の味になりました...寂しい...(soh)
-- 一人夜中なのでテンションが上がってしまい、kyonさんの話を邪魔して申し訳ありませんでした。クソ邪魔で本当に申し訳ない笑 (tadasu)
+- 一人夜中なのでテンションが上がってしまい、kyonさんの話を邪魔して申し訳ありませんでした。クソ邪魔で本当にkyonさんファンには申し訳ない笑 (tadasu)
 - coela
