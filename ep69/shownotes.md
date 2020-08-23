@@ -31,8 +31,8 @@ title: 69. Don't Ask Me How I Did It 仮
 - [自家蛍光](http://pdbu-support.bio-rad.co.jp/fcguide/0502.html)
 - [96穴ガラスプレート](https://www.nikkei-pro.co.jp/news/detail/glass_micro_plate_001.htm)
 - [MatTek](https://www.mattek.com/products/glass-bottom-dishes/)
-- [iwaki]
-- [matsunami]
+- [IWAKI](http://iwaki.atgc.co.jp/div/catalog159/ga3186/a5/p1.html)
+- [Matsunami](https://www.matsunami-usa.com/product/glass-bottom-dishes/)
 - [ピンセットを研ぐ](https://togetter.com/li/932499)
 - 鍛冶師・憑二斉 ... ブラックジャックの研ぎ師
 - エタ沈
