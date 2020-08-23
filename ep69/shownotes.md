@@ -62,6 +62,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - [ずぼら料理教室](https://www.youtube.com/channel/UCmB6D1avvT8ZziWqvnyMxEQ)
 - [ストウブビストロ　はるひごはん](http://haruhigohan.com/)
 - [へんな魚おじさんのひとり言](https://www.youtube.com/channel/UCVGyr3a4vK39eQVxWoq70fg)
+- [きまぐれクック](https://www.youtube.com/channel/UCaak9sggUeIBPOd8iK_BXcQ)
 
 ## Editorial notes
 - kyon
