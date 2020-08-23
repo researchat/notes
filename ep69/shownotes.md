@@ -61,6 +61,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - [Koh Kentetsu Kitchen](https://www.youtube.com/channel/UC3p5OTQsMEnmZktWUkw_Y0A)
 - [ずぼら料理教室](https://www.youtube.com/channel/UCmB6D1avvT8ZziWqvnyMxEQ)
 - [ストウブビストロ　はるひごはん](http://haruhigohan.com/)
+- [へんな魚おじさんのひとり言](https://www.youtube.com/channel/UCVGyr3a4vK39eQVxWoq70fg)
 
 ## Editorial notes
 - kyon
