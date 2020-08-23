@@ -35,10 +35,11 @@ title: 69. Don't Ask Me How I Did It 仮
 - [matsunami]
 - [ピンセットを研ぐ](https://togetter.com/li/932499)
 - 鍛冶師・憑二斉 ... ブラックジャックの研ぎ師
+- エタ沈
 
 
 ## Editorial notes
 - kyon
 - スヰートポーヅは青春の味になりました...寂しい...(soh)
-- tadasu
+- kyonさんの話を邪魔して申し訳ありませんでした。(tadasu)
 - coela
