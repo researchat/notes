@@ -27,12 +27,13 @@ title: 69. Don't Ask Me How I Did It 仮
 - [ピペットチップ](https://axel.as-1.co.jp/asone/s/A0070200/)
 - [LoBindチューブ](https://online-shop.eppendorf.jp/JP-ja/Laboratory-Consumables-44512/Tubes-44515/Protein-LoBind-Tubes-PF-56251.html)
 - [パラフィルムの上でやる](https://twitter.com/researchat_fm/status/1246939090395824129)
+- [パラフィルムの上でやる2](https://twitter.com/hiroko_bannai/status/1246997750073290754) ... Hiroko Bannai先生のツイートを引用させていただきました。
 - [自家蛍光](http://pdbu-support.bio-rad.co.jp/fcguide/0502.html)
 - [96穴ガラスプレート](https://www.nikkei-pro.co.jp/news/detail/glass_micro_plate_001.htm)
 - [MatTek](https://www.mattek.com/products/glass-bottom-dishes/)
 - [iwaki]
 - [matsunami]
-
+- 
 
 
 ## Editorial notes
