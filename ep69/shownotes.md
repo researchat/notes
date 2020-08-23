@@ -26,6 +26,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - [Oリング](https://ja.wikipedia.org/wiki/O%E3%83%AA%E3%83%B3%E3%82%B0)
 - [ピペットチップ](https://axel.as-1.co.jp/asone/s/A0070200/)
 - [LoBindチューブ](https://online-shop.eppendorf.jp/JP-ja/Laboratory-Consumables-44512/Tubes-44515/Protein-LoBind-Tubes-PF-56251.html)
+- [パラフィルムの上でやる](https://twitter.com/researchat_fm/status/1246939090395824129)
 
 
 ## Editorial notes
