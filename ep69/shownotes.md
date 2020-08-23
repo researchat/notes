@@ -34,6 +34,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - [iwaki]
 - [matsunami]
 - [ピンセットを研ぐ](https://togetter.com/li/932499)
+- 鍛冶師・憑二斉 ... ブラックジャックの研ぎ師
 
 
 ## Editorial notes
