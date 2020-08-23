@@ -17,6 +17,7 @@ title: 69. Don't Ask Me How I Did It 仮
 ---
 
 ## Shownotes
+- ピペットマン
 - gilson
 - eppendolf
 - [レイニン Liquidator 96](https://www.mt.com/jp/ja/home/products/pipettes/high-throughput-platforms/liquidator-96-pipetting.html)
