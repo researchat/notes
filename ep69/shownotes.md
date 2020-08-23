@@ -47,7 +47,12 @@ title: 69. Don't Ask Me How I Did It 仮
 - [バルミューダ 3合炊き電気炊飯器 BALMUDA The Gohan](https://www.amazon.co.jp/dp/B01NBX0HC7?tag=researchatf04-22/)
 - [hmskさんによるホームブリューイング](https://twitter.com/i/events/1274210423047258112)
 - [野生の酵母が異数性に強い理由（というより実験室酵母が異数性に弱い理由）が判明した](https://tenure5.vbl.okayama-u.ac.jp/HM_blog/?p=3932) ... 守屋先生による酵母に関する記事。
-
+- [コーレーグース](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B0%E3%82%B9)
+- [スヰートポーヅ](https://tabelog.com/tokyo/A1310/A131003/13000637/) ... 最高の餃子。閉店。
+- [マルオの醤油](https://www.amazon.co.jp/dp/B00BF59JFQ/?tag=researchatf04-22/) ... tadasuが好む醤油
+- [世界のお酒でコーレーグースをつくる](https://www.dee-okinawa.com/topics/2010/12/ko-re-gusu.html)
+- [OIST(沖縄科学技術大学院大学)](https://www.oist.jp/) ...  沖縄にある最先端の大学院大学　本当にすごい！
+- [萬座](https://www.amazon.co.jp/dp/B0053BG9ZQ/?tag=researchatf04-22/) ... OISTがある恩納村周辺で作られている泡盛。これがいいよと、島とうがらしと共に送られきた。
 
 
 
