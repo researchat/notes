@@ -36,10 +36,18 @@ title: 69. Don't Ask Me How I Did It 仮
 - [ピンセットを研ぐ](https://togetter.com/li/932499)
 - 鍛冶師・憑二斉 ... ブラックジャックの研ぎ師
 - エタ沈
+- 無水料理
+- Cパッド
+- 「最終的には徹底的に引き算したいんだよね。それが30代カレーの目指すとこです。」 ... 某氏の名言
+- [カレー](http://web.archive.org/web/20100328012844/http://oixi.jp/happy/archive/11)
+- [ファイナルカレー](https://cakes.mu/series/3733)
+- [staub ストウブ](https://www.amazon.co.jp/dp/B000BPLCPG/?tag=researchatf04-22) ... kyonちゃんおすすめのホーロー鍋
+- [炊飯器]
+
 
 
 ## Editorial notes
 - kyon
 - スヰートポーヅは青春の味になりました...寂しい...(soh)
-- kyonさんの話を邪魔して申し訳ありませんでした。(tadasu)
+- 一人夜中なのでテンションが上がってしまい、kyonさんの話を邪魔して申し訳ありませんでした。(tadasu)
 - coela
