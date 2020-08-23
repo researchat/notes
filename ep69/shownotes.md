@@ -33,7 +33,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - [MatTek](https://www.mattek.com/products/glass-bottom-dishes/)
 - [iwaki]
 - [matsunami]
-- 
+- [ピンセットを研ぐ](https://togetter.com/li/932499)
 
 
 ## Editorial notes
