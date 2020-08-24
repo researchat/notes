@@ -13,7 +13,7 @@ layout: article
 tags:
   - 研究
   - 料理
-title: 69. Don't Ask Me How I Did It 仮 
+title: 69. Don't Ask Me How I Did It
 ---
 
 ## Shownotes
@@ -42,38 +42,38 @@ title: 69. Don't Ask Me How I Did It 仮
 - 「最終的には徹底的に引き算したいんだよね。それが30代カレーの目指すとこです。」 ... 上記某氏の名言。結果的にどのようなカレーが出来上がったのか一度お伺いしたい。
 - [カレー](http://web.archive.org/web/20100328012844/http://oixi.jp/happy/archive/11)
 - [ファイナルカレー](https://cakes.mu/series/3733)
-- [staub ストウブ](https://www.amazon.co.jp/dp/B000BPLCPG/?tag=researchatf04-22) ... kyonちゃんおすすめのホーロー鍋
-- [バーミキュラ](https://www.amazon.co.jp/dp/B011B8HL8I/?tag=researchatf04-22)
+- [staub ストウブ (Amazon)](https://www.amazon.co.jp/dp/B000BPLCPG/?tag=researchatf04-22) ... kyonちゃんおすすめのホーロー鍋
+- [バーミキュラ (Amazon)](https://www.amazon.co.jp/dp/B011B8HL8I/?tag=researchatf04-22)
 - [かまどさん電気](https://www.siroca.co.jp/kamadosandenki/)
-- [かまどさん電気](https://www.amazon.co.jp/dp/B07B3JSM46/?tag=researchatf04-22)
+- [かまどさん電気 (Amazon)](https://www.amazon.co.jp/dp/B07B3JSM46/?tag=researchatf04-22)
 - [バルミューダ 3合炊き電気炊飯器 BALMUDA The Gohan](https://www.amazon.co.jp/dp/B01NBX0HC7?tag=researchatf04-22/)
 - [hmskさんによるホームブリューイング](https://twitter.com/i/events/1274210423047258112) ... 自炊勢も突き詰めるとここまで行くという稀有な例。我々もこの高みを目指していきたい。訪問して是非自ビールをいただきたい。
 - [野生の酵母が異数性に強い理由（というより実験室酵母が異数性に弱い理由）が判明した](https://tenure5.vbl.okayama-u.ac.jp/HM_blog/?p=3932) ... 守屋先生による酵母に関する記事。
 - [コーレーグース](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B0%E3%82%B9)
-- [スヰートポーヅ](https://tabelog.com/tokyo/A1310/A131003/13000637/) ... 最高の餃子。閉店。
+- [スヰートポーヅ (食べログ)](https://tabelog.com/tokyo/A1310/A131003/13000637/) ... 最高の餃子だった。閉店。tadasuとsohは昔一緒に食べに行ったりした。
 - [マルオの醤油](https://www.amazon.co.jp/dp/B00BF59JFQ/?tag=researchatf04-22/) ... tadasuが好む醤油
 - [世界のお酒でコーレーグースをつくる](https://www.dee-okinawa.com/topics/2010/12/ko-re-gusu.html)
 - [OIST(沖縄科学技術大学院大学)](https://www.oist.jp/) ...  沖縄にある最先端の大学院大学　本当にすごい！
-- [萬座](https://www.amazon.co.jp/dp/B0053BG9ZQ/?tag=researchatf04-22/) ... OISTがある恩納村周辺で作られている泡盛。これがいいよと、島とうがらしと共に送られきた。
-- [空港食堂](https://tabelog.com/okinawa/A4701/A470103/47000364/) ... 那覇空港にある食堂
-- [中央亭](https://tabelog.com/shizuoka/A2205/A220501/22003420/) ... 最 of the 高の餃子。dancyuの餃子特集で巻頭を飾った名店。沼津駅から徒歩で行けます。
-- [兆徳](https://tabelog.com/tokyo/A1323/A132301/13051394/)
+- [萬座 (Amazon)](https://www.amazon.co.jp/dp/B0053BG9ZQ/?tag=researchatf04-22/) ... OISTがある恩納村周辺で作られている泡盛。これがいいよと、島とうがらしと共に送られきた。
+- [空港食堂 (食べログ)](https://tabelog.com/okinawa/A4701/A470103/47000364/) ... 那覇空港にある食堂
+- [中央亭 (食べログ)](https://tabelog.com/shizuoka/A2205/A220501/22003420/) ... 最 of the 高の餃子。dancyuの餃子特集で巻頭を飾った名店。沼津駅から徒歩で行けます。
+- [兆徳 (食べログ)](https://tabelog.com/tokyo/A1323/A132301/13051394/) ... KyonとSohが大絶賛するチャーハンと甘酢あんかけ餃子など。ぜひ行ってみてください。並びますが。
 - [モランボンの餃子の皮](http://www.moranbong.co.jp/product/t_chinese/)
-- [Koh Kentetsu Kitchen](https://www.youtube.com/channel/UC3p5OTQsMEnmZktWUkw_Y0A)
-- [ずぼら料理教室](https://www.youtube.com/channel/UCmB6D1avvT8ZziWqvnyMxEQ)
+- [Koh Kentetsu Kitchen (YouTube)](https://www.youtube.com/channel/UC3p5OTQsMEnmZktWUkw_Y0A)
+- [ずぼら料理教室 (YouTube)](https://www.youtube.com/channel/UCmB6D1avvT8ZziWqvnyMxEQ)
 - [ストウブビストロ　はるひごはん](http://haruhigohan.com/)
-- [へんな魚おじさんのひとり言](https://www.youtube.com/channel/UCVGyr3a4vK39eQVxWoq70fg)
-- [きまぐれクック](https://www.youtube.com/channel/UCaak9sggUeIBPOd8iK_BXcQ)
-- [前田式テールスープの作り方](https://www.youtube.com/watch?v=p0f8BVqhAJs)
+- [へんな魚おじさんのひとり言 (YouTube)](https://www.youtube.com/channel/UCVGyr3a4vK39eQVxWoq70fg)
+- [きまぐれクック (YouTube)](https://www.youtube.com/channel/UCaak9sggUeIBPOd8iK_BXcQ)
+- [前田式テールスープの作り方 (YouTube)](https://www.youtube.com/watch?v=p0f8BVqhAJs)
 - [肉骨茶](https://ja.wikipedia.org/wiki/%E8%82%89%E9%AA%A8%E8%8C%B6)
-- [長州力【公式】RIKI CHANNEL](https://www.youtube.com/channel/UCcjEXmMRb28ehKVy6viJLNA)
-- [貴ちゃんねるず](https://www.youtube.com/channel/UCbXUEjBdbrn4BEbLSKJuSpw)
-- [藤森慎吾のYouTubeチャンネル](https://www.youtube.com/channel/UC25Ah0_XF2lOUwWV9VSfl2g)
-- [Picking Up UBER Riders In A Mclaren!](https://www.youtube.com/watch?v=6pdFJKZZT7M) ... マクラーレンでUberが迎えに来る
-- [Picking Up UBER Riders In A Lamborghini!](https://www.youtube.com/watch?v=sOpRXbwFry4) ... ランボルギーニでUberが迎えに来る
-- [石田九段一門チャンネル](https://www.youtube.com/channel/UCMNpR4Sv4ZudD3tBjDUUiQQ)
-- [森内俊之の森内チャンネル](https://www.youtube.com/channel/UCAwDrM75UAddwluabae4A6g)
-- [女流棋士・香川愛生チャンネル](https://www.youtube.com/channel/UCDsB5oS-K8To0NAz4iWVNKQ)
+- [長州力【公式】RIKI CHANNEL (YouTube)](https://www.youtube.com/channel/UCcjEXmMRb28ehKVy6viJLNA)
+- [貴ちゃんねるず (YouTube)](https://www.youtube.com/channel/UCbXUEjBdbrn4BEbLSKJuSpw)
+- [藤森慎吾のYouTubeチャンネル (YouTube)](https://www.youtube.com/channel/UC25Ah0_XF2lOUwWV9VSfl2g) ... マネージャーと二人で話す回がおすすめだよ
+- [Picking Up UBER Riders In A Mclaren! (YouTube)](https://www.youtube.com/watch?v=6pdFJKZZT7M) ... マクラーレンでUberが迎えに来る
+- [Picking Up UBER Riders In A Lamborghini! (YouTube)](https://www.youtube.com/watch?v=sOpRXbwFry4) ... ランボルギーニでUberが迎えに来る
+- [石田九段一門チャンネル (YouTube)](https://www.youtube.com/channel/UCMNpR4Sv4ZudD3tBjDUUiQQ)
+- [森内俊之の森内チャンネル (YouTube)](https://www.youtube.com/channel/UCAwDrM75UAddwluabae4A6g)
+- [女流棋士・香川愛生チャンネル (YouTube)](https://www.youtube.com/channel/UCDsB5oS-K8To0NAz4iWVNKQ)
 
 ## Editorial notes
 - 3回に渡ってお邪魔しました！みなさんのおかげでどの話題を出しても盛り上がり、終始楽しい収録でした！今夜は焼売作ります (kyon)
