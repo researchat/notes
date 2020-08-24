@@ -17,10 +17,10 @@ title: 69. Don't Ask Me How I Did It 仮
 ---
 
 ## Shownotes
-- ピペットマン
+- [ピペットマン](https://www.technosaurus.co.jp/categories/view/86)
 - [知らないの？とバカにされないための正しいピペッティング操作とテクニック](https://www.thermofisher.com/blog/learning-at-the-bench/pipetting-guide2/) ... フォワード法だけではなくリバース法も使っていこうぜ！
-- gilson
-- eppendolf
+- [Gilson](https://www.gilson.com/default/shop-products/pipettes/pipettes-overview.html)
+- [Eppendolf](https://www.eppendorf.com/US-en/)
 - [レイニン Liquidator 96](https://www.mt.com/jp/ja/home/products/pipettes/high-throughput-platforms/liquidator-96-pipetting.html)
 - [Gilson プレートマスター](https://www.technosaurus.co.jp/categories/view/736)
 - [Oリング](https://ja.wikipedia.org/wiki/O%E3%83%AA%E3%83%B3%E3%82%B0)
