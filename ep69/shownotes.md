@@ -44,7 +44,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - [ファイナルカレー](https://cakes.mu/series/3733)
 - [staub ストウブ](https://www.amazon.co.jp/dp/B000BPLCPG/?tag=researchatf04-22) ... kyonちゃんおすすめのホーロー鍋
 - [バーミキュラ](https://www.amazon.co.jp/dp/B011B8HL8I/?tag=researchatf04-22)
-- [炊飯器]
+- [かまどさん電気](https://www.siroca.co.jp/kamadosandenki/)
 - [バルミューダ 3合炊き電気炊飯器 BALMUDA The Gohan](https://www.amazon.co.jp/dp/B01NBX0HC7?tag=researchatf04-22/)
 - [hmskさんによるホームブリューイング](https://twitter.com/i/events/1274210423047258112) ... 自炊勢も突き詰めるとここまで行くという稀有な例。我々もこの高みを目指していきたい。訪問して是非自ビールをいただきたい。
 - [野生の酵母が異数性に強い理由（というより実験室酵母が異数性に弱い理由）が判明した](https://tenure5.vbl.okayama-u.ac.jp/HM_blog/?p=3932) ... 守屋先生による酵母に関する記事。
