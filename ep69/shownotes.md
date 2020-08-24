@@ -35,7 +35,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - [Matsunami](https://www.matsunami-usa.com/product/glass-bottom-dishes/)
 - [ピンセットを研ぐ](https://togetter.com/li/932499)
 - 鍛冶師・憑二斉 ... ブラックジャックの研ぎ師
-- エタ沈
+- [エタノール沈殿あれこれ](https://www.sbj.or.jp/wp-content/uploads/file/sbj/8905/8905_yomoyama-1.pdf)
 - 無水料理
 - [Cpad社](https://cookpad.com/)
 - [ドライカレーのレシピ](http://katsuma.hatenablog.com/entry/2012/03/05/195824) ... これを学生の時に食べてびっくりした。そこから真面目にカレーに取り組むようになりました(tadasu)。
@@ -75,7 +75,7 @@ title: 69. Don't Ask Me How I Did It 仮
 - [女流棋士・香川愛生チャンネル](https://www.youtube.com/channel/UCDsB5oS-K8To0NAz4iWVNKQ)
 
 ## Editorial notes
-- kyon
+- 3回に渡ってお邪魔しました！みなさんのおかげでどの話題を出しても盛り上がり、終始楽しい収録でした！今日は焼売作ります (kyon)
 - スヰートポーヅは青春の味になりました...寂しい...(soh)
 - 一人夜中なのでテンションが上がってしまい、kyonさんの話を邪魔して申し訳ありませんでした。クソ邪魔で本当にkyonさんファンには申し訳ない笑 (tadasu)
 - coela
