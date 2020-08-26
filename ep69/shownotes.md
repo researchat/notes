@@ -5,10 +5,10 @@ actor_ids:
   - coela
   - kyon
 audio_file_path: /audio/69.mp3
-audio_file_size: 68407797
-date: 2020-08-24 10:30:00 +0900
+audio_file_size: 68015647
+date: 2020-08-26 19:05:00 +0900
 description: kyonさんをゲストに迎え、実験道具のこだわりと誤差、おすすめの餃子、無水料理や料理の楽しみなどについて話しました。
-duration: "01:35:00"
+duration: "01:34:28"
 layout: article
 tags:
   - 研究
@@ -36,7 +36,7 @@ title: 69. Pro tips for tips
 - [ピンセットを研ぐ](https://togetter.com/li/932499)
 - 鍛冶師・憑二斉 ... ブラックジャックの研ぎ師
 - [エタノール沈殿あれこれ](https://www.sbj.or.jp/wp-content/uploads/file/sbj/8905/8905_yomoyama-1.pdf)
-- 無水料理
+- [無水料理](https://kinarino.jp/cat4-%E3%82%B0%E3%83%AB%E3%83%A1/36935-%E3%80%8E%E7%84%A1%E6%B0%B4%E8%AA%BF%E7%90%86%E3%80%8F%E3%81%AE%E3%81%84%E3%81%84%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A3%E3%81%A6%EF%BC%9F%E3%80%8C%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%83%AC%E3%82%B7%E3%83%94%E3%80%8D%E3%81%A8%E3%80%8C%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%AE%E7%84%A1%E6%B0%B4%E9%8D%8B%E3%80%8D%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B)
 - [Cpad社](https://cookpad.com/)
 - [ドライカレーのレシピ](http://katsuma.hatenablog.com/entry/2012/03/05/195824) ... これを学生の時に食べてびっくりした。そこから真面目にカレーに取り組むようになりました(tadasu)。
 - 「最終的には徹底的に引き算したいんだよね。それが30代カレーの目指すとこです。」 ... 上記某氏の名言。結果的にどのようなカレーが出来上がったのか一度お伺いしたい。
