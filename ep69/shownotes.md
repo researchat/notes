@@ -13,7 +13,7 @@ layout: article
 tags:
   - 研究
   - 料理
-title: 69. Don't Ask Me How I Did It
+title: 69. Pro tips for tips
 ---
 
 ## Shownotes
