@@ -37,4 +37,14 @@
 - Others: NEB Podcast
 - Q: 制限酵素の認識配列って昔の人はどうやって決定していた...?
   - https://www.sbj.or.jp/wp-content/uploads/file/sbj/9403/9403_yomoyama.pdf
+ 
+## NEBカタログ回 (tadasuほげほげ)
+- 5-methyl dCTP
+- NEB Tube Opener
+- ICruI
+- ISceI
+- Nicking Endnuclease
+- MmeIとEcoP15I
+- UDG
+- DNA ligase, DNA/RNA
 
