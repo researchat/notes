@@ -38,7 +38,7 @@ title: 70. Existing Legend
 - [バルドル](https://ja.wikipedia.org/wiki/バルドル) ... 世界中の生物・無生物から傷付けられないはずだったが、ヤドリギの木だけは例外だった。
 - [グラディウス](https://ja.wikipedia.org/wiki/グラディウス_(武器)) ... 古代ローマで使用された剣。特殊の剣を指す言葉ではない。同名の名作シューティングゲームもあります。
 - [ツヴァイハンダー](https://ja.wikipedia.org/wiki/ツヴァイヘンダー) ... 剣の種類、特定の剣を指す言葉ではない。
-- [クレイモア](https://ja.wikipedia.org/wiki/クレイモア) ... 剣の種類、特定の剣を指す言葉ではない。実は2種類ある。余談ですが同名の[漫画](https://www.amazon.co.jp/dp/B009PL85H0)もオススメです。
+- [クレイモア](https://ja.wikipedia.org/wiki/クレイモア) ... 剣の種類、特定の剣を指す言葉ではない。実は2種類ある。余談ですが同名の[漫画](https://www.amazon.co.jp/dp/B009PL85H0?tag=researchatf04-22)もオススメです。
 - [ショーテル](https://ja.wikipedia.org/wiki/ショーテル) ... 剣の種類、特定の剣を指す言葉ではない。
 - ファイナルファンタジーシリーズ ... いろんな伝説の武器が登場
 - [ヴァルキリープロファイル](http://www.valkyrieprofile.com/LENNETH/) ... 北欧神話を題材としたプレイステーションの名作ゲーム。フレイ様の「全く褒められたものではないわ」はトラウマ。リンクはスマホ移植版。
