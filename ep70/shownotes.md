@@ -12,7 +12,7 @@ layout: article
 tags:
   - 雑談
   - 武器
-title: 70. 
+title: 70. Existing Legend
 ---
 
 ## Shownotes
@@ -51,7 +51,7 @@ title: 70.
 - [カール大帝](https://ja.wikipedia.org/wiki/カール大帝) ... 初代神聖ローマ皇帝。フランス語でシャルルマーニュ。シャルルマーニュ関連は伝説と史実の両方があるのでややこしい。
 - [アーサー王](https://ja.wikipedia.org/wiki/アーサー王) ... 円卓の騎士、エクスカリバーなどが有名なアーサー王伝説に登場する王様。
 - [エクスカリバー](https://ja.wikipedia.org/wiki/アーサー王) ... 語る事が無いぐらい有名な剣
-- [死海文書の偽物]　33:43
+- [死海文書の偽物](https://www.cnn.co.jp/showbiz/35150865.html)
 - [デュランダル](https://ja.wikipedia.org/wiki/デュランダル) ... フランスの叙事詩ローランの歌に登場する英雄・ローランが持つ剣。イーリアスに登場するヘクトールが所持していた剣と同一のものとされることもある。[ロカマドールの岩に今も刺さっているという話](https://www.ancient-origins.net/artifacts-other-artifacts/ten-legendary-swords-ancient-world-003335)やそれはレプリカであるという話があるらしい。
 - [ローラン](https://ja.wikipedia.org/wiki/ローラン_(シャルルマーニュ伝説)) ... シャルルマーニュに仕えた聖騎士
 - [イーリアス](https://ja.wikipedia.org/wiki/イーリアス) ... 最古期の古代ギリシア詩作品
