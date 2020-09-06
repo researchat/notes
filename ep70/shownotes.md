@@ -40,7 +40,7 @@ title: 70.
 - [クレイモア](https://ja.wikipedia.org/wiki/クレイモア) ... 剣の種類、特定の剣を指す言葉ではない。実は2種類ある。余談ですが同名の[漫画](https://www.amazon.co.jp/dp/B009PL85H0)もオススメです。
 - [ショーテル](https://ja.wikipedia.org/wiki/ショーテル) ... 剣の種類、特定の剣を指す言葉ではない。実は2種類ある。
 - ファイナルファンタジーシリーズ ... いろんな伝説の武器が登場
-- [ヴァルキリープロファイル] ... 北欧神話を題材としたプレイステーションの名作ゲーム。フレイ様の「全く褒められたものではないわ」はトラウマ。
+- [ヴァルキリープロファイル](http://www.valkyrieprofile.com/LENNETH/) ... 北欧神話を題材としたプレイステーションの名作ゲーム。フレイ様の「全く褒められたものではないわ」はトラウマ。リンクはスマホ移植版。
 - [刀剣乱舞](http://games.dmm.com/detail/tohken/)
 - [天下五剣](https://ja.wikipedia.org/wiki/天下五剣)　... 童子切・鬼丸・三日月・大典太・数珠丸
 - [映画刀剣乱舞-継承-](https://www.amazon.co.jp/dp/B07SQ5ZZ6P)
@@ -65,12 +65,9 @@ title: 70.
 - [ロンドン塔の宝物館](https://ja.wikipedia.org/wiki/ロンドン塔)
 - [カリナン] (https://ja.wikipedia.org/wiki/カリナン) ... ロンドン塔で展示されている世界最大のダイヤモンド。530.20カラット。
 - [4C](https://ja.wikipedia.org/wiki/4C_(ダイヤモンド))... 宝飾用ダイヤモンドの品質を評価する国際基準。色（color）、透明度（clarity）、重さ（carat）、研磨（cut）の4点。
-
-
-- [詳細不明の二本剣]　　...  甲斐駒ケ岳
+- [甲斐駒ケ岳の二本剣](https://ja.wikipedia.org/wiki/甲斐駒ヶ岳#/media/ファイル:MtKaikoma_2swords.JPG)　　...  甲斐駒ケ岳に刺さっている二本の剣
 - [七支刀](https://ja.wikipedia.org/wiki/七支刀)
 - [蜻蛉切](https://ja.wikipedia.org/wiki/蜻蛉切) ... 本田忠勝が使用した槍。天下名三槍の一つ。
-
 - [ダマスカス](https://ja.wikipedia.org/wiki/ダマスカス鋼) ... 都市の名前並びにそこで造られていた鋼。
 - [ガンダリウム合金](https://ja.wikipedia.org/wiki/ガンダリウム合金) ... 詳細は省くがガンダムに使われている合金
 
