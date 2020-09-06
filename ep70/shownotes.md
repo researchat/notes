@@ -19,7 +19,7 @@ title: 70. Existing Legend
 - [草薙剣](https://ja.wikipedia.org/wiki/天叢雲剣) ... 別名天叢雲剣
 - [三種の神器](https://ja.wikipedia.org/wiki/三種の神器) ... 八咫鏡、草薙剣、八尺瓊勾玉。三種の神器といえばKOFを思い出しますね。
 - [一向一揆](https://ja.wikipedia.org/wiki/一向一揆)
-- [THE CELL](https://www.amazon.co.jp/dp/0815344325) ... 分子生物学における代表的な鈍器の一つ
+- [THE CELL](https://www.amazon.co.jp/dp/0815344325/?tag=researchatf04-22) ... 分子生物学における代表的な鈍器の一つ
 - [放射性炭素年代測定](https://ja.wikipedia.org/wiki/放射性炭素年代測定) ... C14の存在比率で年代測定をする手法
 - [空海](https://ja.wikipedia.org/wiki/空海)
 - [熱田神宮](https://ja.wikipedia.org/wiki/熱田神宮) ... 草薙剣の実物が祀られている
@@ -43,7 +43,7 @@ title: 70. Existing Legend
 - [ヴァルキリープロファイル](http://www.valkyrieprofile.com/LENNETH/) ... 北欧神話を題材としたプレイステーションの名作ゲーム。フレイ様の「全く褒められたものではないわ」はトラウマ。リンクはスマホ移植版。
 - [刀剣乱舞](http://games.dmm.com/detail/tohken/)
 - [天下五剣](https://ja.wikipedia.org/wiki/天下五剣)　... 童子切・鬼丸・三日月・大典太・数珠丸
-- [映画刀剣乱舞-継承-](https://www.amazon.co.jp/dp/B07SQ5ZZ6P)
+- [映画刀剣乱舞-継承-](https://www.amazon.co.jp/dp/B07SQ5ZZ6P/?tag=researchatf04-22)
 - [Fateシリーズ](http://typemoon.com)
 - [村正](https://ja.wikipedia.org/wiki/村正) ... 具体的な日本刀の名前ではなく刀工の名前
 - [干将莫耶](https://ja.wikipedia.org/wiki/干将・莫耶) ... 中国の名剣、並びに製作者の夫婦の名前
@@ -86,12 +86,12 @@ title: 70. Existing Legend
 - [アルゴナウタイ](https://ja.wikipedia.org/wiki/アルゴナウタイ) ... ギリシャ神話でアルゴー船に搭乗した英雄の総称。英語ではアルゴノーツ。
 - [Argonaut](https://en.wikipedia.org/wiki/Argonaute) ... RNAサイレンシングに関わるタンパク質。RNAサイレンシングに関してはep45でも話してます！
 - [リチャードドーキンス](https://ja.wikipedia.org/wiki/リチャード・ドーキンス)
-- [The Extended Phenotype](https://www.amazon.co.jp/dp/B01K2BLPN2)
+- [The Extended Phenotype](https://www.amazon.co.jp/dp/B01K2BLPN2/?tag=researchatf04-22)
 - [UMA](https://ja.wikipedia.org/wiki/未確認動物)
 - [タキタロウ](https://ja.wikipedia.org/wiki/タキタロウ) ... 釣りキチ三平にO池の滝太郎として登場
 - [倉谷滋](https://www.riken.jp/research/labs/chief/evol_morphol/index.html)
-- [キングダム](https://www.amazon.co.jp/dp/B009LHBVQ0)
-- [終末のワルキューレ](https://www.amazon.co.jp/dp/B07CWPG8B3) ... 今回のおすすめ漫画
+- [キングダム](https://www.amazon.co.jp/dp/B009LHBVQ0/?tag=researchatf04-22)
+- [終末のワルキューレ](https://www.amazon.co.jp/dp/B07CWPG8B3/?tag=researchatf04-22) ... 今回のおすすめ漫画
 
 ## Editorial notes
 - 古事記をまた読み返したくなりました (soh)
