@@ -85,7 +85,7 @@ title: 70. Existing Legend
 - [テセウス](https://ja.wikipedia.org/wiki/テーセウス) ... ギリシャ神話の英雄。ミノタウルス退治などのエピソードが有名。
 - [テセウスの船](https://ja.wikipedia.org/wiki/テセウスの船) ... パラドックスの一つ。
 - [アルゴナウタイ](https://ja.wikipedia.org/wiki/アルゴナウタイ) ... ギリシャ神話でアルゴー船に搭乗した英雄の総称。英語ではアルゴノーツ。
-- [Argonaut](https://en.wikipedia.org/wiki/Argonaute) ... RNAサイレンシングに関わるタンパク質。RNAサイレンシングに関してはep45でも話してます！
+- [Argonaut](https://en.wikipedia.org/wiki/Argonaute) ... RNAサイレンシングに関わるタンパク質。RNAサイレンシングに関してはep45でも話してます！r
 - [リチャードドーキンス](https://ja.wikipedia.org/wiki/リチャード・ドーキンス)
 - [The Extended Phenotype](https://www.amazon.co.jp/dp/B01K2BLPN2/?tag=researchatf04-22)
 - [UMA](https://ja.wikipedia.org/wiki/未確認動物)
@@ -97,5 +97,5 @@ title: 70. Existing Legend
 ## Editorial notes
 - 古事記をまた読み返したくなりました (soh)
 - あまりにも何を話しているのかわからなくて泣きました。他分野の学会に参加した気分でした。ヨイショすらできなかったので面白いと感じた方はおたよりかTwitterでcoelaさんを褒めていただくとcoelaさんも喜ぶと思います。そうすると第三回もすぐあるかもしれません。(tadasu)
-- 専門外なのですが色々調べたので褒めてください(coela)
+- 第三回はもう少しみんなに興味持って貰えそうなネタ考えとくわ！！(coela)
 
