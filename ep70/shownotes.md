@@ -41,7 +41,7 @@ title: 70. Existing Legend
 - [クレイモア](https://ja.wikipedia.org/wiki/クレイモア) ... 剣の種類、特定の剣を指す言葉ではない。実は2種類ある。余談ですが同名の[漫画](https://www.amazon.co.jp/dp/B009PL85H0?tag=researchatf04-22)もオススメです。
 - [ショーテル](https://ja.wikipedia.org/wiki/ショーテル) ... 剣の種類、特定の剣を指す言葉ではない。
 - ファイナルファンタジーシリーズ ... いろんな伝説の武器が登場
-- [ヴァルキリープロファイル](http://www.valkyrieprofile.com/LENNETH/) ... 北欧神話を題材としたプレイステーションの名作ゲーム。フレイ様の「全く褒められたものではないわ」はトラウマ。リンクはスマホ移植版。
+- [ヴァルキリープロファイル](http://www.valkyrieprofile.com/LENNETH/) ... 北欧神話を題材としたプレイステーションの名作ゲーム。フレイ様の「まったく褒められたものではないわね」はトラウマ。リンクはスマホ移植版。
 - [刀剣乱舞](http://games.dmm.com/detail/tohken/)
 - [天下五剣](https://ja.wikipedia.org/wiki/天下五剣)　... 童子切・鬼丸・三日月・大典太・数珠丸
 - [映画刀剣乱舞-継承-](https://www.amazon.co.jp/dp/B07SQ5ZZ6P/?tag=researchatf04-22)
