@@ -48,12 +48,12 @@ title: 70.
 - [村正](https://ja.wikipedia.org/wiki/村正) ... 具体的な日本刀の名前ではなく刀工の名前
 - [干将莫耶](https://ja.wikipedia.org/wiki/干将・莫耶) ... 中国の名剣、並びに製作者の夫婦の名前
 - [ジョワユーズ](https://ja.wikipedia.org/wiki/ジョワユーズ) ... シャルルマーニュ伝説でシャルルマーニュが所持していた剣。ルーブル美術館にあります！
-- [カール大帝](https://ja.wikipedia.org/wiki/カール大帝) ... 初代神聖ローマ皇帝。フランス語でシャルルマーニュ。
+- [カール大帝](https://ja.wikipedia.org/wiki/カール大帝) ... 初代神聖ローマ皇帝。フランス語でシャルルマーニュ。シャルルマーニュ関連は伝説と史実の両方があるのでややこしい。
 - [アーサー王](https://ja.wikipedia.org/wiki/アーサー王) ... 円卓の騎士、エクスカリバーなどが有名なアーサー王伝説に登場する王様。
 - [エクスカリバー]https://ja.wikipedia.org/wiki/アーサー王) ... 語る事が無いぐらい有名な剣
 - [死海文書の偽物]　33:43
-- [デュランダル](https://ja.wikipedia.org/wiki/デュランダル) ... フランスの叙事詩ローランの歌に登場する英雄・ローランが持つ剣。イーリアスに登場するヘクトールが所持していた剣と同一のものとされることもある。
-- [ローラン](https://ja.wikipedia.org/wiki/ローラン_(シャルルマーニュ伝説))
+- [デュランダル](https://ja.wikipedia.org/wiki/デュランダル) ... フランスの叙事詩ローランの歌に登場する英雄・ローランが持つ剣。イーリアスに登場するヘクトールが所持していた剣と同一のものとされることもある。[ロカマドールの岩に今も刺さっているという話](https://www.ancient-origins.net/artifacts-other-artifacts/ten-legendary-swords-ancient-world-003335)やそれはレプリカであるという話があるらしい。
+- [ローラン](https://ja.wikipedia.org/wiki/ローラン_(シャルルマーニュ伝説)) ... シャルルマーニュに仕えた聖騎士
 - [イーリアス](https://ja.wikipedia.org/wiki/イーリアス) ... 最古期の古代ギリシア詩作品
 - [ヘクトール](https://ja.wikipedia.org/wiki/ヘクトール) ... ギリシャ神話の英雄
 - [トロイア戦争](https://ja.wikipedia.org/wiki/トロイア戦争) ... トロイの木馬で有名
