@@ -16,6 +16,7 @@ title: 70. Existing Legend
 ---
 
 ## Shownotes
+- [前回の武器回 researchat.fm ep30 Battle Aura](https://researchat.fm/episode/30)
 - [草薙剣](https://ja.wikipedia.org/wiki/天叢雲剣) ... 別名天叢雲剣
 - [三種の神器](https://ja.wikipedia.org/wiki/三種の神器) ... 八咫鏡、草薙剣、八尺瓊勾玉。三種の神器といえばKOFを思い出しますね。
 - [一向一揆](https://ja.wikipedia.org/wiki/一向一揆)
