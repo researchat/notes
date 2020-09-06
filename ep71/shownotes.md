@@ -1,0 +1,69 @@
+- ENCODE
+- ゲノミクス
+- バイオインフォマティクス
+- ゲノム
+- コーディングリージョン
+- ヒトゲノム
+- トランスポゾン
+- 遺伝子
+- ジャンクDNA
+- ノンコーディングRNA
+- 調節領域
+- レポーターアッセイ
+- ゲノム編集
+- アトラス
+- DNA
+- クロマチン 
+- 染色体
+- 転写
+- サイレンサー
+- 活性化
+- 不活性化
+- エピジェネティクス
+- caspase
+- アポトーシス
+- EF1a
+- ハウスキーピング
+- ホルムアルデヒド
+- K562
+- 293T
+- HepG2
+- ルシフェラーゼアッセイ
+- ヒストン
+- ヒストン修飾
+- ヒストンH1
+- PiCh
+- ChIP
+- Hi-C
+- ChiA-PET
+- FANTOM
+- road map
+- body map
+- human atlas
+- マークザッカーバーグ
+- 4D nucleome
+- TCGA
+- iPS
+- ゲノム編集とは何か
+- CRISPR
+- ZFN
+- TALEN
+- セントラルドグマ
+- SHEROCK
+- DETOCTER
+- 細胞系譜
+- dCas9 imaging
+- MolCell
+- gene drive
+- genome
+- genes
+- 分子遺伝学
+- ワトソンの遺伝子の分子生物学
+- こうせいせつ
+- 前成説
+- シャノンの情報量
+- ほぼ中立説
+- DNA-of-things
+- Developmental Biology Gilbert
+- Molecular Biology of the Cell
+
