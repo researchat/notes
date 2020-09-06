@@ -33,12 +33,12 @@ title: 70.
 - [天之尾羽張剣](https://ja.wikipedia.org/wiki/天之尾羽張) ... イザナギが使用した十握剣。カグツチを斬った。
 - [天羽々斬剣](https://ja.wikipedia.org/wiki/天羽々斬) ... スサノオが使用した十握剣。ヤマタノオロチを斬った。
 - [八咫烏](https://ja.wikipedia.org/wiki/八咫烏)
-- [ミスティルテイン](https://ja.wikipedia.org/wiki/ミスティルテイン) ... 古ノルド語・アイスランド語、スウェーデン語・デンマーク語、ノルウェー語でヤドリギの木。北欧神話でバルドルを殺すのに使用された。
+- [ミスティルテイン](https://ja.wikipedia.org/wiki/ミスティルテイン) ... 古ノルド語・アイスランド語、スウェーデン語・デンマーク語、ノルウェー語でヤドリギの木を差す。北欧神話でバルドルを殺すのに使用された。
 - [バルドル](https://ja.wikipedia.org/wiki/バルドル) ... 世界中の生物・無生物から傷付けられないはずだったが、ヤドリギの木だけは例外だった。
 - [グラディウス](https://ja.wikipedia.org/wiki/グラディウス_(武器)) ... 古代ローマで使用された剣。特殊の剣を指す言葉ではない。同名の名作シューティングゲームもあります。
 - [ツヴァイハンダー](https://ja.wikipedia.org/wiki/ツヴァイヘンダー) ... 剣の種類、特定の剣を指す言葉ではない。
 - [クレイモア](https://ja.wikipedia.org/wiki/クレイモア) ... 剣の種類、特定の剣を指す言葉ではない。実は2種類ある。余談ですが同名の[漫画](https://www.amazon.co.jp/dp/B009PL85H0)もオススメです。
-- [ショーテル](https://ja.wikipedia.org/wiki/ショーテル) ... 剣の種類、特定の剣を指す言葉ではない。実は2種類ある。
+- [ショーテル](https://ja.wikipedia.org/wiki/ショーテル) ... 剣の種類、特定の剣を指す言葉ではない。
 - ファイナルファンタジーシリーズ ... いろんな伝説の武器が登場
 - [ヴァルキリープロファイル](http://www.valkyrieprofile.com/LENNETH/) ... 北欧神話を題材としたプレイステーションの名作ゲーム。フレイ様の「全く褒められたものではないわ」はトラウマ。リンクはスマホ移植版。
 - [刀剣乱舞](http://games.dmm.com/detail/tohken/)
@@ -83,27 +83,23 @@ title: 70.
 - [方天画戟](https://ja.wikipedia.org/wiki/方天画戟) ... よくゲームなどで呂布が持っている武器。これも厳密には特定の武器を指す言葉ではない。
 - [青龍偃月刀](https://ja.wikipedia.org/wiki/青龍偃月刀) ... よくゲームなどで関羽が持っている武器。これも厳密には特定の武器を指す言葉ではない。
 - [蛇矛](https://ja.wikipedia.org/wiki/蛇矛) ... よくゲームなどで張飛が持っている武器。これも厳密には特定の武器を指す言葉ではない。
-- イージスの盾
-- イージス艦
-- ペルセウス
-- ep45
-- テセウス
-- テセウスの船
-- ヘラクレス
-- Argonaute
-- Argonaut ... RNA
-
-- ドーキンス
-- extended phenotype
-- UMA
-- O池の瀧太郎
-- 倉谷滋
-- キングダム
-- 終末のワルキューレ
-- シモヘイヘ(ハユハ)
+- [イージス](https://ja.wikipedia.org/wiki/アイギス) ... アイギス、エイジスとも。ギリシャ神話で女神アテナが持つ防具。
+- [イージス艦](https://ja.wikipedia.org/wiki/イージス艦)
+- [ペルセウス](https://ja.wikipedia.org/wiki/ペルセウス) ... ギリシャ神話の英雄。ゴルゴーン(メデューサ)を退治など様々なエピソードがある。
+- [テセウス](https://ja.wikipedia.org/wiki/テーセウス) ... ギリシャ神話の英雄。ミノタウルス退治などのエピソードが有名。
+- [テセウスの船](https://ja.wikipedia.org/wiki/テセウスの船) ... パラドックスの一つ。
+- [アルゴナウタイ](https://ja.wikipedia.org/wiki/アルゴナウタイ) ... ギリシャ神話でアルゴー船に搭乗した英雄の総称。英語ではアルゴノーツ。
+- [Argonaut](https://en.wikipedia.org/wiki/Argonaute) ... RNAサイレンシングに関わるタンパク質。RNAサイレンシングに関してはep45でも話してます！
+- [リチャードドーキンス](https://ja.wikipedia.org/wiki/リチャード・ドーキンス)
+- [The Extended Phenotype](https://www.amazon.co.jp/dp/B01K2BLPN2)
+- [UMA](https://ja.wikipedia.org/wiki/未確認動物)
+- [タキタロウ](https://ja.wikipedia.org/wiki/タキタロウ) ... 釣りキチ三平にO池の滝太郎として登場
+- [倉谷滋](https://www.riken.jp/research/labs/chief/evol_morphol/index.html)
+- [キングダム](https://www.amazon.co.jp/dp/B009LHBVQ0)
+- [終末のワルキューレ](https://www.amazon.co.jp/dp/B07CWPG8B3) ... 今回のおすすめ漫画
 
 ## Editorial notes
 - 古事記をまた読み返したくなりました (soh)
 - あまりにも何を話しているのかわからなくて泣きました。他分野の学会に参加した気分でした。ヨイショすらできなかったので面白いと感じた方はおたよりかTwitterでcoelaさんを褒めていただくとcoelaさんも喜ぶと思います。そうすると第三回もすぐあるかもしれません。(tadasu)
-- (coela)
+- 専門外なのですが色々調べたので褒めてください(coela)
 
