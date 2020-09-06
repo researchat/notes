@@ -58,16 +58,16 @@ title: 70.
 - [ヘクトール](https://ja.wikipedia.org/wiki/ヘクトール) ... ギリシャ神話の英雄
 - [トロイア戦争](https://ja.wikipedia.org/wiki/トロイア戦争) ... トロイの木馬で有名
 - [天の逆鉾](https://ja.wikipedia.org/wiki/天逆鉾) ... 日本の中世神話に登場する矛。レプリカが高千穂山頂部に刺さっている(オリジナルの柄は地中にあるらしい)。坂本龍馬が引っこ抜いた話が有名。
-- [イタリアの修道院に刺さってる剣]　...　サンガルガーノ
-- [カーテナ]
+- [イタリアの修道院に刺さってる剣](https://www.ancient-origins.net/artifacts-other-artifacts/ten-legendary-swords-ancient-world-003335)　...　サン・ガルガーノ修道院には岩に刺さった剣が保管されている。
+- [カーテナ](https://ja.wikipedia.org/wiki/カーテナ) ... イギリス王家に代々伝わる剣。剣の先が折れたような形をしており無先刀、無鋒剣、慈悲の剣などと呼ばれる。戴冠宝器の一つ。ピューリタン革命で失われたが後に作り直された。現在ロンドン塔の宝物館に保管されている。アーサー王伝説に登場するトリスタンが使用したとされる伝承がある。
+- [トリスタン] ... 「トリスタンとイゾルデ」や「アーサー王物語」に登場する騎士。
+- [連合王国の戴冠宝器](https://ja.wikipedia.org/wiki/連合王国の戴冠宝器) ... 141個ある。中には聖界正義の剣（Sword of Spiritual Justice）、俗界正義の剣（Sword of Temporal Justice）、献納の宝剣（Jewelled Sword of Offering）、国剣（Great Sword of State）などカッチョイイ名前の剣がある。
+- [ロンドン塔の宝物館](https://ja.wikipedia.org/wiki/ロンドン塔)
+- [カリナン] (https://ja.wikipedia.org/wiki/カリナン) ... ロンドン塔で展示されている世界最大のダイヤモンド。530.20カラット。
+- [4C](https://ja.wikipedia.org/wiki/4C_(ダイヤモンド))... 宝飾用ダイヤモンドの品質を評価する国際基準。色（color）、透明度（clarity）、重さ（carat）、研磨（cut）の4点。
+
+
 - [詳細不明の二本剣]　　...  甲斐駒ケ岳
-- [レイピア]
-- [ロンドン塔の宝物館]
-- [世界最大のダイヤモンド] ... カリナン
-- 4C ... カラット、カラー、クラリティー、カット
-- [トリスタンとイゾルデ]
-- ソードオブスピリチュアルジャスティスなど
-- [連合王国の戴冠宝器](https://ja.wikipedia.org/wiki/連合王国の戴冠宝器)
 - [七支刀](https://ja.wikipedia.org/wiki/七支刀)
 - [蜻蛉切](https://ja.wikipedia.org/wiki/蜻蛉切) ... 本田忠勝が使用した槍。天下名三槍の一つ。
 
