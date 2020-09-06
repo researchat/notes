@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/70.mp3
-audio_file_size: 
-date: 2020-09-04 19:05:00 +0900
-description: 
-duration: "01:34:28"
+audio_file_size: 67304520
+date: 2020-09-07 08:00:00 +0900
+description: 現存する伝説の武器について話しました。
+duration: "01:28:36"
 layout: article
 tags:
   - 雑談
