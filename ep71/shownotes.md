@@ -1,3 +1,20 @@
+---
+actor_ids:
+  - soh
+  - tadasu
+  - coela
+audio_file_path: /audio/71.mp3
+audio_file_size: 
+date: 2020-09-07 08:00:00 +0900
+description: 
+duration: "01:3X:36"
+layout: article
+tags:
+  - 論文
+title: 71. 
+---
+
+## Shownotes
 - ENCODE
 - ゲノミクス
 - バイオインフォマティクス
@@ -67,3 +84,7 @@
 - Developmental Biology Gilbert
 - Molecular Biology of the Cell
 
+## Shownotes
+- (soh)
+- (tadasu)
+- (coela)
