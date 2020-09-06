@@ -63,7 +63,7 @@ title: 70. Existing Legend
 - [トリスタン] ... 「トリスタンとイゾルデ」や「アーサー王物語」に登場する騎士。
 - [連合王国の戴冠宝器](https://ja.wikipedia.org/wiki/連合王国の戴冠宝器) ... 141個ある。中には聖界正義の剣（Sword of Spiritual Justice）、俗界正義の剣（Sword of Temporal Justice）、献納の宝剣（Jewelled Sword of Offering）、国剣（Great Sword of State）などカッチョイイ名前の剣がある。
 - [ロンドン塔の宝物館](https://ja.wikipedia.org/wiki/ロンドン塔)
-- [カリナン] (https://ja.wikipedia.org/wiki/カリナン) ... ロンドン塔で展示されている世界最大のダイヤモンド。530.20カラット。
+- [カリナン](https://ja.wikipedia.org/wiki/カリナン) ... ロンドン塔で展示されている世界最大のダイヤモンド。530.20カラット。
 - [4C](https://ja.wikipedia.org/wiki/4C_(ダイヤモンド))... 宝飾用ダイヤモンドの品質を評価する国際基準。色（color）、透明度（clarity）、重さ（carat）、研磨（cut）の4点。
 - [甲斐駒ケ岳の二本剣](https://ja.wikipedia.org/wiki/甲斐駒ヶ岳#/media/ファイル:MtKaikoma_2swords.JPG)　　...  甲斐駒ケ岳に刺さっている二本の剣
 - [七支刀](https://ja.wikipedia.org/wiki/七支刀)
