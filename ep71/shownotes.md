@@ -4,15 +4,15 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/71.mp3
-audio_file_size: 
-date: 2020-09-07 08:00:00 +0900
+audio_file_size: 73959583
+date: 2020-09-07 23:23:00 +0900
 description: ENCODEプロジェクトにおけるサイレンサー探索の論文紹介と現代生物学の複雑性と多様性について話しました。
-duration: "01:3X:36"
+duration: "01:31:56"
 layout: article
 tags:
   - 論文
   - 雑談
-title: 71. 
+title: 71. Data Doesn't Speak for Itself
 ---
 
 ## Shownotes
