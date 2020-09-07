@@ -53,11 +53,9 @@ title: 71.
 - [ep47 Researchat.fm](https://researchat.fm/episode/47)...エピソード47ではCas13を用いた微量の核酸検出SHERLOCKやDETECTRについて紹介しています。
 - [Advances in Chromatin and Chromosome Research: Perspectives from Multiple Fields. _Molecular Cell_, 2020](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30469-X)
 - [37. Biological Enigma, Researchat.fm](https://researchat.fm/episode/37)...分子生物学の基礎についても話しました。
-- [Gene drive (Wikipedai)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96)
+- [Gene drive (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96)
 - [ワトソンの遺伝子の分子生物学 (Amazon)](https://www.amazon.co.jp/dp/4501630302/?tag=researchatf04-22/)
-- こうせいせつ
-- 前成説
-- シャノンの情報量
+- [前成説 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%88%90%E8%AA%AC)
 - [分子進化のほぼ中立説　偶然と淘汰の進化モデル (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B00POVFQKO/?tag=researchatf04-22/)
 - [DNA-of-things, Researchat.fm](https://researchat.fm/episode/36)
 - [Developmental Biology (Amazon)](https://www.amazon.co.jp/Developmental-Biology-Scott-F-Gilbert/dp/1605354708/?tag=researchatf04-22/)
