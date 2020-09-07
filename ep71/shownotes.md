@@ -51,7 +51,7 @@ title: 71.
 - マークザッカーバーグ
 - [The Cancer Genome Atlas Program (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)...がんゲノムの大量のデータを収集している国際プロジェクト
 - iPS
-- ゲノム編集とは何か
+- [ゲノム編集とは何か (Amazon)](https://www.amazon.co.jp/dp/B01K1L7NHA?tag=researchatf04-22/)
 - CRISPR
 - ZFN
 - TALEN
@@ -65,13 +65,13 @@ title: 71.
 - genome
 - genes
 - 分子遺伝学
-- ワトソンの遺伝子の分子生物学
+- [ワトソンの遺伝子の分子生物学 (Amazon)](https://www.amazon.co.jp/dp/4501630302/?tag=researchatf04-22/)
 - こうせいせつ
 - 前成説
 - シャノンの情報量
-- ほぼ中立説
-- DNA-of-things
-- Developmental Biology Gilbert
+- [分子進化のほぼ中立説　偶然と淘汰の進化モデル (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B00POVFQKO/?tag=researchatf04-22/)
+- [DNA-of-things, Researchat.fm](https://researchat.fm/episode/36)
+- [Developmental Biology (Amazon)](https://www.amazon.co.jp/Developmental-Biology-Scott-F-Gilbert/dp/1605354708/?tag=researchatf04-22/)
 - Molecular Biology of the Cell
 
 ## Shownotes
