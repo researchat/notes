@@ -19,15 +19,16 @@ title: 71.
 - [ENCODE](https://www.encodeproject.org/)...ENCODEとはEncyclopedia of DNA Elementsの略！
 - [ENCODE (Wikipedia)](https://en.wikipedia.org/wiki/ENCODE)
 - [ヒトゲノムの機能解明に向けたENCODEの試み (pdf)](https://katosei.jsbba.or.jp/download_pdf.php?aid=3)
-- [Initial sequencing and analysis of the human genome. Nature 2001](https://www.nature.com/articles/35057062)...ヒトゲノム解読の論文
-- [The Sequence of the Human Genome. Science 2001](https://science.sciencemag.org/content/291/5507/1304)...ヒトゲノム解読の論文
+- [Initial sequencing and analysis of the human genome. _Nature_ 2001](https://www.nature.com/articles/35057062)...ヒトゲノム解読の論文
+- [The Sequence of the Human Genome. _Science_ 2001](https://science.sciencemag.org/content/291/5507/1304)...ヒトゲノム解読の論文
 - [ENCODE 4](https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements)...ENCODEのPhase 4についてはここにaimなどが書いてある。
 - [ENCODE3勉強会](https://connpass.com/event/184586/)...Sohも論文読みをしました。
 - [ENCODE 3 paper collection](https://www.nature.com/collections/dggcchgghg)...ENCODE 3の論文リストはここにあります。
 - [DNase I hypersensitive site (Wikipedia)](https://en.wikipedia.org/wiki/DNase_I_hypersensitive_site)
-- [Systematic identification of silencers in human cells. Nature Genetics, 2020](https://www.nature.com/articles/s41588-020-0578-5)...今回Sohが解説する論文はこれです。
+- [Systematic identification of silencers in human cells. _Nature Genetics_, 2020](https://www.nature.com/articles/s41588-020-0578-5)...今回Sohが解説する論文はこれです。
 - [転写制御因子 (脳科学辞典)](https://bsd.neuroinf.jp/wiki/%E8%BB%A2%E5%86%99%E5%88%B6%E5%BE%A1%E5%9B%A0%E5%AD%90)
-- [STARR-seq (Wikipedai)]...ゲノム中に含まれるエンハンサーやプロモーター配列をバーコードと次世代シーケンサーを用いて大量にアッセイする方法の一つ。オリジナルの論文はここ: [Genome-Wide Quantitative Enhancer Activity Maps Identified by STARR-seq, Science 2013](https://science.sciencemag.org/content/339/6123/1074)
+- [STARR-seq (Wikipedia)](https://en.wikipedia.org/wiki/STARR-seq)...ゲノム中に含まれるエンハンサーやプロモーター配列をバーコードと次世代シーケンサーを用いて大量にアッセイする方法の一つ。オリジナルの論文はここ: [Genome-Wide Quantitative Enhancer Activity Maps Identified by STARR-seq, _Science_ 2013](https://science.sciencemag.org/content/339/6123/1074)
+- [Caspase-9 (Wikipedia)](https://en.wikipedia.org/wiki/Caspase-9)...Caspase9はアポトーシスを担う重要なタンパク質の一つ。
 - バイオインフォマティクス
 - ゲノム
 - コーディングリージョン
