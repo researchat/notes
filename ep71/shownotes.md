@@ -24,7 +24,10 @@ title: 71.
 - [ENCODE 4](https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements)...ENCODEのPhase 4についてはここにaimなどが書いてある。
 - [ENCODE3勉強会](https://connpass.com/event/184586/)...Sohも論文読みをしました。
 - [ENCODE 3 paper collection](https://www.nature.com/collections/dggcchgghg)...ENCODE 3の論文リストはここにあります。
-- ゲノミクス
+- [DNase I hypersensitive site (Wikipedia)](https://en.wikipedia.org/wiki/DNase_I_hypersensitive_site)
+- [Systematic identification of silencers in human cells. Nature Genetics, 2020](https://www.nature.com/articles/s41588-020-0578-5)...今回Sohが解説する論文はこれです。
+- [転写制御因子 (脳科学辞典)](https://bsd.neuroinf.jp/wiki/%E8%BB%A2%E5%86%99%E5%88%B6%E5%BE%A1%E5%9B%A0%E5%AD%90)
+- [STARR-seq (Wikipedai)]...ゲノム中に含まれるエンハンサーやプロモーター配列をバーコードと次世代シーケンサーを用いて大量にアッセイする方法の一つ。オリジナルの論文はここ: [Genome-Wide Quantitative Enhancer Activity Maps Identified by STARR-seq, Science 2013](https://science.sciencemag.org/content/339/6123/1074)
 - バイオインフォマティクス
 - ゲノム
 - コーディングリージョン
