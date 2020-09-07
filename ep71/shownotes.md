@@ -36,14 +36,12 @@ title: 71.
 - [293T](https://www.saibou.jp/service/kensaku/detail.php?catalogno=EC12022001-F0)...ヒト胎児腎由来の培養細胞株
 - [HepG2](https://cellbank.nibiohn.go.jp/~cellbank/cgi-bin/search_res_det.cgi?ID=2936)...ヒト肝癌由来の細胞株の一つ。
 - [ルシフェラーゼアッセイ](https://www.thermofisher.com/jp/ja/home/life-science/protein-biology/protein-biology-learning-center/protein-biology-resource-library/pierce-protein-methods/luciferase-reporters.html)
-- ヒストン
-- ヒストン修飾
-- ヒストンH1
-- PiCh
-- ChIP
-- Hi-C
-- ChiA-PET
-- FANTOM
+- [pGL4.51[luc2/CMV/Neo] Vector](https://www.promega.jp/resources/protocols/product-information-sheets/a/pgl451-vector-protocol/)...スクリーニングで見つかったサイレンサーはこのベクターを用いてルシフェラーゼアッセイによってその活性が調べられた。
+- [ヒストン修飾 (Abcam)](https://www.abcam.co.jp/epigenetics/histone-modifications-a-guide-1)
+- [ヒストン (Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%B9%E3%83%88%E3%83%B3)
+- Hi-C...Hi-Cについては[エピソード9](https://researchat.fm/episode/9)などで話しました。
+- [ChiA-PET (Wikipedia)](https://en.wikipedia.org/wiki/ChIA-PET)
+- [FANTOM](https://fantom.gsc.riken.jp/jp/)..."FANTOMは、理化学研究所のマウスゲノム百科事典プロジェクトで収集された完全長cDNAのアノテーション（機能注釈）を行うことを目的に、林崎良英博士が中心となり2000年に結成された国際研究コンソーシアムです"
 - road map
 - body map
 - human atlas
