@@ -25,8 +25,9 @@ title: 71. Data Doesn't Speak for Itself
 - [ENCODE3勉強会](https://connpass.com/event/184586/)...Sohも論文読みをしました。
 - [ENCODE 3 paper collection](https://www.nature.com/collections/dggcchgghg)...ENCODE 3の論文リストはここにあります。
 - [DNase I hypersensitive site (Wikipedia)](https://en.wikipedia.org/wiki/DNase_I_hypersensitive_site)
-- [Systematic identification of silencers in human cells. _Nature Genetics_, 2020](https://www.nature.com/articles/s41588-020-0578-5)...今回Sohが解説する論文はこれです。
-- [転写制御因子 (脳科学辞典)](https://bsd.neuroinf.jp/wiki/%E8%BB%A2%E5%86%99%E5%88%B6%E5%BE%A1%E5%9B%A0%E5%AD%90)
+- [Systematic identification of silencers in human cells. _Nature Genetics_, 2020](https://www.nature.com/articles/s41588-020-0578-5)...今回Sohが解説する論文はこれです。　
+- [転写制御因子 (脳科学辞典)](https://bsd.neuroinf.jp/wiki/%E8%BB%A2%E5%86%99%E5%88%B6%E5%BE%A1%E5%9B%A0%E5%AD%90) ... プロモーターやエンハンサー、サイレンサーまわりについて。遺伝子発現とは、遺伝子というDNA上にコードされた情報がいかにRNA、タンパク質として実体を伴って機能するかということであるのだが、この量を調節する機能、とくにDNA->RNAの段階(転写)で調節することを転写制御という。ここで重要となるのがプロモーターやエンハンサー、サイレンサー、さらにはインスレーターなどである。
+- [遺伝子発現制御機構: クロマチン, 転写制御, エピジェネティクス (Amazon)](https://www.amazon.co.jp/dp/4807909177/?tag=researchatf04-22/) ... tadasuはこの本で一度転写周りを勉強しなおしたが、自分が思っていたプロモーターやエンハンサーと実際の定義はかなりズレがあったことを思い知らされた。
 - [STARR-seq (Wikipedia)](https://en.wikipedia.org/wiki/STARR-seq)...ゲノム中に含まれるエンハンサーやプロモーター配列をバーコードと次世代シーケンサーを用いて大量にアッセイする方法の一つ。オリジナルの論文はここ: [Genome-Wide Quantitative Enhancer Activity Maps Identified by STARR-seq, _Science_ 2013](https://science.sciencemag.org/content/339/6123/1074)
 - [Caspase-9 (Wikipedia)](https://en.wikipedia.org/wiki/Caspase-9)...Caspase9はアポトーシスを担う重要なタンパク質の一つ。
 - EF1aプロモーター...ヒトやマウスの細胞の中で高い活性を持つ恒常発現プロモーターのうちの一つ。CMVプロモーターも使われることが多い。
@@ -52,13 +53,16 @@ title: 71. Data Doesn't Speak for Itself
 - [ゲノム編集とはなにか (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B08FMCZB75?tag=researchatf04-22/)...山本先生が書かれたゲノム編集について非常にわかりやすい本が出ております。ぜひ。
 - [ep47, Researchat.fm](https://researchat.fm/episode/47)...エピソード47ではCas13を用いた微量の核酸検出SHERLOCKやDETECTRについて紹介しています。
 - [Advances in Chromatin and Chromosome Research: Perspectives from Multiple Fields. _Molecular Cell_, 2020](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30469-X)
-- [ep37, Biological Enigma, Researchat.fm](https://researchat.fm/episode/37)...分子生物学の基礎についても話しました。
+- [ep37, Biological Enigma, Researchat.fm](https://researchat.fm/episode/37)...セントラルドグマを含む分子生物学の基礎についても話しました。
+- [ep7, In the golden age of molecular biology ](https://researchat.fm/episode/7) ... 遺伝暗号解明周りの研究について話しました。
+- [ep2, An emerging technology is always not perfect](https://researchat.fm/episode/2) ... CRISPRとゲノム編集周辺について話しました。
 - [Gene drive (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96)
 - [ワトソンの遺伝子の分子生物学 (Amazon)](https://www.amazon.co.jp/dp/4501630302/?tag=researchatf04-22/)
 - [前成説 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%88%90%E8%AA%AC)
 - [分子進化のほぼ中立説 偶然と淘汰の進化モデル (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B00POVFQKO/?tag=researchatf04-22/)
 - [DNA-of-things, Researchat.fm](https://researchat.fm/episode/36)
-- [Developmental Biology (Amazon)](https://www.amazon.co.jp/Developmental-Biology-Scott-F-Gilbert/dp/1605354708/?tag=researchatf04-22/)
+- [Developmental Biology (Amazon)](https://www.amazon.co.jp/Developmental-Biology-Scott-F-Gilbert/dp/1605354708/?tag=researchatf04-22/) ... 発生のGilbert本
+- [Principles of Development (Amazon)](https://www.amazon.co.jp//dp/0199549079/?tag=researchatf04-22) ... 発生のWolpert本
 - [Molecular Biology of the Cell (NCBI)](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 
 ## Shownotes
