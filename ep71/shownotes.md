@@ -19,8 +19,8 @@ title: 71.
 - [ENCODE](https://www.encodeproject.org/)...ENCODEとはEncyclopedia of DNA Elementsの略！
 - [ENCODE (Wikipedia)](https://en.wikipedia.org/wiki/ENCODE)
 - [ヒトゲノムの機能解明に向けたENCODEの試み (pdf)](https://katosei.jsbba.or.jp/download_pdf.php?aid=3)
-- [Initial sequencing and analysis of the human genome. _Nature_ 2001](https://www.nature.com/articles/35057062)...ヒトゲノム解読の論文
-- [The Sequence of the Human Genome. _Science_ 2001](https://science.sciencemag.org/content/291/5507/1304)...ヒトゲノム解読の論文
+- [Initial sequencing and analysis of the human genome. _Nature_ 2001](https://www.nature.com/articles/35057062)...ヒトゲノム解読の論文。
+- [The Sequence of the Human Genome. _Science_ 2001](https://science.sciencemag.org/content/291/5507/1304)...ヒトゲノム解読の論文。
 - [ENCODE 4](https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements)...ENCODEのPhase 4についてはここにaimなどが書いてある。
 - [ENCODE3勉強会](https://connpass.com/event/184586/)...Sohも論文読みをしました。
 - [ENCODE 3 paper collection](https://www.nature.com/collections/dggcchgghg)...ENCODE 3の論文リストはここにあります。
@@ -32,32 +32,29 @@ title: 71.
 - EF1aプロモーター...ヒトやマウスの細胞の中で高い活性を持つ恒常発現プロモーターのうちの一つ。CMVプロモーターも使われることが多い。
 - サイレンサー...哺乳動物細胞における転写を制御する配列のうち、転写活性に対して抑制的に働く配列を指しています。恒常発現プロモーターの下流にあるとそのさらに下流にある遺伝子発現を強く抑制する配列（200bp程度）を指しています。
 - ハウスキーピング遺伝子...細胞機能を維持するために常に発現している遺伝子。これを「恒常的な遺伝子発現」と呼んだりします。
-- [K562](https://www.saibou.jp/service/kensaku/detail.php?catalogno=EC89121407-F0)...ヒト慢性骨髄性白血病由来の培養細胞株
-- [293T](https://www.saibou.jp/service/kensaku/detail.php?catalogno=EC12022001-F0)...ヒト胎児腎由来の培養細胞株
-- [HepG2](https://cellbank.nibiohn.go.jp/~cellbank/cgi-bin/search_res_det.cgi?ID=2936)...ヒト肝癌由来の細胞株の一つ。
+- [K562](https://www.saibou.jp/service/kensaku/detail.php?catalogno=EC89121407-F0)...ヒト慢性骨髄性白血病由来の培養細胞株。
+- [293T](https://www.saibou.jp/service/kensaku/detail.php?catalogno=EC12022001-F0)...ヒト胎児腎由来の培養細胞株。
+- [HepG2](https://cellbank.nibiohn.go.jp/~cellbank/cgi-bin/search_res_det.cgi?ID=2936)...ヒト肝癌由来の細胞株。
 - [ルシフェラーゼアッセイ](https://www.thermofisher.com/jp/ja/home/life-science/protein-biology/protein-biology-learning-center/protein-biology-resource-library/pierce-protein-methods/luciferase-reporters.html)
 - [pGL4.51[luc2/CMV/Neo] Vector](https://www.promega.jp/resources/protocols/product-information-sheets/a/pgl451-vector-protocol/)...スクリーニングで見つかったサイレンサーはこのベクターを用いてルシフェラーゼアッセイによってその活性が調べられた。
 - [ヒストン修飾 (Abcam)](https://www.abcam.co.jp/epigenetics/histone-modifications-a-guide-1)
 - [ヒストン (Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%B9%E3%83%88%E3%83%B3)
-- [Purification of Proteins Associated with Specific Genomic Loci. Cell 2009.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395431/)...PICh法を用いるとゲノムに結合したタンパク質を同定することができる。
+- [Purification of Proteins Associated with Specific Genomic Loci. Cell, 2009.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395431/)...PICh法を用いるとゲノムに結合したタンパク質を同定することができる。
 - Hi-C...Hi-Cについては[エピソード9](https://researchat.fm/episode/9)などで話しました。
 - [ChiA-PET (Wikipedia)](https://en.wikipedia.org/wiki/ChIA-PET)
 - [FANTOM](https://fantom.gsc.riken.jp/jp/)..."FANTOMは、理化学研究所のマウスゲノム百科事典プロジェクトで収集された完全長cDNAのアノテーション（機能注釈）を行うことを目的に、林崎良英博士が中心となり2000年に結成された国際研究コンソーシアムです"
 - [NIH Roadmap Epigenomics Mapping Consortium](http://www.roadmapepigenomics.org/)...ヒトのエピジェネティクスに関連する大量のデータを計測しアトラスを作ることを目的とした国際コンソーシアム。
 - [Illumina Body Map 2.0](https://www.ensembl.info/2011/05/24/human-bodymap-2-0-data-from-illumina/)
 - [Human Cell Atras](https://www.humancellatlas.org/)...ヒトの体を構成する全ての細胞の分類とマッピングを目指す国際共同プロジェクト。
-- [4D Nucleome Project](https://www.4dnucleome.org/)
-- [The 4D nucleome project. _Nature_. Dekker at al 2017](https://www.nature.com/articles/nature23884)
-- マークザッカーバーグ
-- [The Cancer Genome Atlas Program (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)...がんゲノムの大量のデータを収集している国際プロジェクト
-- iPS
+- [4D Nucleome Project](https://www.4dnucleome.org/)...染色体構造のマッピングのためのコンソーシアム。
+- [The 4D nucleome project. Nature, Dekker at al 2017](https://www.nature.com/articles/nature23884)
+- [The Cancer Genome Atlas Program (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)...がんゲノムの大量のデータを収集している国際プロジェクト。
 - [ゲノム編集とは何か (Amazon)](https://www.amazon.co.jp/dp/B01K1L7NHA?tag=researchatf04-22/)
 - CRISPR
 - ZFN
 - TALEN
 - セントラルドグマ
-- SHEROCK
-- DETOCTER
+- [ep47 Researchat.fm](https://researchat.fm/episode/47)...エピソード47ではCas13を用いた微量の核酸検出SHERLOCKやDETECTRについて紹介しています。
 - 細胞系譜
 - dCas9 imaging
 - MolCell
