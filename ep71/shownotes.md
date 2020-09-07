@@ -49,19 +49,11 @@ title: 71.
 - [4D Nucleome Project](https://www.4dnucleome.org/)...染色体構造のマッピングのためのコンソーシアム。
 - [The 4D nucleome project. Nature, Dekker at al 2017](https://www.nature.com/articles/nature23884)
 - [The Cancer Genome Atlas Program (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)...がんゲノムの大量のデータを収集している国際プロジェクト。
-- [ゲノム編集とは何か (Amazon)](https://www.amazon.co.jp/dp/B01K1L7NHA?tag=researchatf04-22/)
-- CRISPR
-- ZFN
-- TALEN
-- セントラルドグマ
+- [ゲノム編集とはなにか (Amazon)](https://www.amazon.co.jp/dp/B08FMCZB75?tag=researchatf04-22/)...山本先生が書かれたゲノム編集について非常にわかりやすい本が出ております。ぜひ。
 - [ep47 Researchat.fm](https://researchat.fm/episode/47)...エピソード47ではCas13を用いた微量の核酸検出SHERLOCKやDETECTRについて紹介しています。
-- 細胞系譜
-- dCas9 imaging
-- MolCell
-- gene drive
-- genome
-- genes
-- 分子遺伝学
+- [Advances in Chromatin and Chromosome Research: Perspectives from Multiple Fields. _Molecular Cell_, 2020](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30469-X)
+- [37. Biological Enigma, Researchat.fm](https://researchat.fm/episode/37)...分子生物学の基礎についても話しました。
+- [Gene drive (Wikipedai)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96)
 - [ワトソンの遺伝子の分子生物学 (Amazon)](https://www.amazon.co.jp/dp/4501630302/?tag=researchatf04-22/)
 - こうせいせつ
 - 前成説
@@ -69,7 +61,7 @@ title: 71.
 - [分子進化のほぼ中立説　偶然と淘汰の進化モデル (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B00POVFQKO/?tag=researchatf04-22/)
 - [DNA-of-things, Researchat.fm](https://researchat.fm/episode/36)
 - [Developmental Biology (Amazon)](https://www.amazon.co.jp/Developmental-Biology-Scott-F-Gilbert/dp/1605354708/?tag=researchatf04-22/)
-- Molecular Biology of the Cell
+- [Molecular Biology of the Cell (NCBI)](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 
 ## Shownotes
 - (soh)
