@@ -39,7 +39,7 @@ title: 71.
 - [pGL4.51[luc2/CMV/Neo] Vector](https://www.promega.jp/resources/protocols/product-information-sheets/a/pgl451-vector-protocol/)...スクリーニングで見つかったサイレンサーはこのベクターを用いてルシフェラーゼアッセイによってその活性が調べられた。
 - [ヒストン修飾 (Abcam)](https://www.abcam.co.jp/epigenetics/histone-modifications-a-guide-1)
 - [ヒストン (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%B9%E3%83%88%E3%83%B3)
-- [Purification of Proteins Associated with Specific Genomic Loci. Cell, 2009.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395431/)...PICh法を用いるとゲノムに結合したタンパク質を同定することができる。
+- [Purification of Proteins Associated with Specific Genomic Loci. _Cell_, 2009.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395431/)...PICh法を用いるとゲノムに結合したタンパク質を同定することができる。
 - Hi-C...Hi-Cについては[エピソード9](https://researchat.fm/episode/9)などで話しました。
 - [ChiA-PET (Wikipedia)](https://en.wikipedia.org/wiki/ChIA-PET)
 - [FANTOM](https://fantom.gsc.riken.jp/jp/)..."FANTOMは、理化学研究所のマウスゲノム百科事典プロジェクトで収集された完全長cDNAのアノテーション（機能注釈）を行うことを目的に、林崎良英博士が中心となり2000年に結成された国際研究コンソーシアムです"
@@ -47,12 +47,12 @@ title: 71.
 - [Illumina Body Map 2.0](https://www.ensembl.info/2011/05/24/human-bodymap-2-0-data-from-illumina/)
 - [Human Cell Atras](https://www.humancellatlas.org/)...ヒトの体を構成する全ての細胞の分類とマッピングを目指す国際共同プロジェクト。
 - [4D Nucleome Project](https://www.4dnucleome.org/)...染色体構造のマッピングのためのコンソーシアム。
-- [The 4D nucleome project. Nature, Dekker at al 2017](https://www.nature.com/articles/nature23884)
+- [The 4D nucleome project. _Nature_, Dekker at al 2017](https://www.nature.com/articles/nature23884)
 - [The Cancer Genome Atlas Program (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)...がんゲノムの大量のデータを収集している国際プロジェクト。
 - [ゲノム編集とはなにか (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B08FMCZB75?tag=researchatf04-22/)...山本先生が書かれたゲノム編集について非常にわかりやすい本が出ております。ぜひ。
-- [ep47 Researchat.fm](https://researchat.fm/episode/47)...エピソード47ではCas13を用いた微量の核酸検出SHERLOCKやDETECTRについて紹介しています。
+- [ep47, Researchat.fm](https://researchat.fm/episode/47)...エピソード47ではCas13を用いた微量の核酸検出SHERLOCKやDETECTRについて紹介しています。
 - [Advances in Chromatin and Chromosome Research: Perspectives from Multiple Fields. _Molecular Cell_, 2020](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30469-X)
-- [37. Biological Enigma, Researchat.fm](https://researchat.fm/episode/37)...分子生物学の基礎についても話しました。
+- [ep37, Biological Enigma, Researchat.fm](https://researchat.fm/episode/37)...分子生物学の基礎についても話しました。
 - [Gene drive (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96)
 - [ワトソンの遺伝子の分子生物学 (Amazon)](https://www.amazon.co.jp/dp/4501630302/?tag=researchatf04-22/)
 - [前成説 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%88%90%E8%AA%AC)
