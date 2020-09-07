@@ -62,6 +62,6 @@ title: 71.
 - [Molecular Biology of the Cell (NCBI)](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 
 ## Shownotes
-- (soh)
+- 正直、プロモーターとかエンハンサーとかサイレンサーって言っていますが、実際にプロモーターとエンハンサーの違いなどよく考えるとわからなくなってきます。とても難しい。雰囲気でやっています。(soh)
 - データは山のようにある。あとは君たち次第だ！(いいのかそれで？)(tadasu)
 - (coela)
