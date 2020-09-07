@@ -63,6 +63,9 @@ title: 71. Data Doesn't Speak for Itself
 - [前成説 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%89%8D%E6%88%90%E8%AA%AC)
 - [分子進化のほぼ中立説 偶然と淘汰の進化モデル (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B00POVFQKO/?tag=researchatf04-22/)
 - [ep36, DNA-of-things](https://researchat.fm/episode/36) ... DNAを練りこんだ3Dプリンティング技術について話しました。
+- [情報量](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E9%87%8F) ... 情報量、エントロピー
+- [シャノンの情報理論入門 (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B00JA0KERA/?tag=researchatf04-22/)
+- [ファインマンの計算機科学 (Amazon)](https://www.amazon.co.jp/dp/4000059416/?tag=researchatf04-22/) ... tadasuおすすめの情報理論の教科書。ゲノムやセントラルドグマの話についての情報理論についても記述がある(あった気がする)。
 - [Developmental Biology (Amazon)](https://www.amazon.co.jp/Developmental-Biology-Scott-F-Gilbert/dp/1605354708/?tag=researchatf04-22/) ... 発生のGilbert本
 - [Principles of Development (Amazon)](https://www.amazon.co.jp//dp/0199549079/?tag=researchatf04-22) ... 発生のWolpert本
 - [Molecular Biology of the Cell (NCBI)](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
