@@ -59,7 +59,8 @@ title: 71. Data Doesn't Speak for Itself
 - [ep2, An emerging technology is always not perfect](https://researchat.fm/episode/2) ... CRISPRとゲノム編集周辺について話しました。
 - [Gene drive (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96) ... 遺伝子ドライブ
 - [ワトソンの遺伝子の分子生物学 (Amazon)](https://www.amazon.co.jp/dp/4501630302/?tag=researchatf04-22/)
-- [前成説 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%88%90%E8%AA%AC)
+- [後成説 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%88%90%E8%AA%AC) ... エピジェネシス。アリストテレスから始まる発生の理論。
+- [前成説 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%89%8D%E6%88%90%E8%AA%AC)
 - [分子進化のほぼ中立説 偶然と淘汰の進化モデル (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B00POVFQKO/?tag=researchatf04-22/)
 - [ep36, DNA-of-things](https://researchat.fm/episode/36) ... DNAを練りこんだ3Dプリンティング技術について話しました。
 - [Developmental Biology (Amazon)](https://www.amazon.co.jp/Developmental-Biology-Scott-F-Gilbert/dp/1605354708/?tag=researchatf04-22/) ... 発生のGilbert本
