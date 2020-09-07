@@ -31,11 +31,11 @@ title: 71.
 - [Caspase-9 (Wikipedia)](https://en.wikipedia.org/wiki/Caspase-9)...Caspase9はアポトーシスを担う重要なタンパク質の一つ。
 - EF1aプロモーター...ヒトやマウスの細胞の中で高い活性を持つ恒常発現プロモーターのうちの一つ。CMVプロモーターも使われることが多い。
 - サイレンサー...哺乳動物細胞における転写を制御する配列のうち、転写活性に対して抑制的に働く配列を指しています。恒常発現プロモーターの下流にあるとそのさらに下流にある遺伝子発現を強く抑制する配列（200bp程度）を指しています。
-- ハウスキーピング遺伝子...細胞機能を維持つねに発現している遺伝子。
-- K562
-- 293T
-- HepG2
-- ルシフェラーゼアッセイ
+- ハウスキーピング遺伝子...細胞機能を維持するために常に発現している遺伝子。これを「恒常的な遺伝子発現」と呼んだりします。
+- [K562](https://www.saibou.jp/service/kensaku/detail.php?catalogno=EC89121407-F0)...ヒト慢性骨髄性白血病由来の培養細胞株
+- [293T](https://www.saibou.jp/service/kensaku/detail.php?catalogno=EC12022001-F0)...ヒト胎児腎由来の培養細胞株
+- [HepG2](https://cellbank.nibiohn.go.jp/~cellbank/cgi-bin/search_res_det.cgi?ID=2936)...ヒト肝癌由来の細胞株の一つ。
+- [ルシフェラーゼアッセイ](https://www.thermofisher.com/jp/ja/home/life-science/protein-biology/protein-biology-learning-center/protein-biology-resource-library/pierce-protein-methods/luciferase-reporters.html)
 - ヒストン
 - ヒストン修飾
 - ヒストンH1
