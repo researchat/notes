@@ -16,7 +16,14 @@ title: 71.
 ---
 
 ## Shownotes
-- ENCODE
+- [ENCODE](https://www.encodeproject.org/)...ENCODEとはEncyclopedia of DNA Elementsの略！
+- [ENCODE (Wikipedia)](https://en.wikipedia.org/wiki/ENCODE)
+- [ヒトゲノムの機能解明に向けたENCODEの試み (pdf)](https://katosei.jsbba.or.jp/download_pdf.php?aid=3)
+- [Initial sequencing and analysis of the human genome. Nature 2001](https://www.nature.com/articles/35057062)...ヒトゲノム解読の論文
+- [The Sequence of the Human Genome. Science 2001](https://science.sciencemag.org/content/291/5507/1304)...ヒトゲノム解読の論文
+- [ENCODE 4](https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements)...ENCODEのPhase 4についてはここにaimなどが書いてある。
+- [ENCODE3勉強会](https://connpass.com/event/184586/)...Sohも論文読みをしました。
+- [ENCODE 3 paper collection](https://www.nature.com/collections/dggcchgghg)...ENCODE 3の論文リストはここにあります。
 - ゲノミクス
 - バイオインフォマティクス
 - ゲノム
