@@ -61,7 +61,7 @@ title: 71. Data Doesn't Speak for Itself
 - [ワトソンの遺伝子の分子生物学 (Amazon)](https://www.amazon.co.jp/dp/4501630302/?tag=researchatf04-22/)
 - [前成説 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%88%90%E8%AA%AC)
 - [分子進化のほぼ中立説 偶然と淘汰の進化モデル (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B00POVFQKO/?tag=researchatf04-22/)
-- [DNA-of-things, Researchat.fm](https://researchat.fm/episode/36)
+- [ep36, DNA-of-things](https://researchat.fm/episode/36) ... DNAを練りこんだ3Dプリンティング技術について話しました。
 - [Developmental Biology (Amazon)](https://www.amazon.co.jp/Developmental-Biology-Scott-F-Gilbert/dp/1605354708/?tag=researchatf04-22/) ... 発生のGilbert本
 - [Principles of Development (Amazon)](https://www.amazon.co.jp//dp/0199549079/?tag=researchatf04-22) ... 発生のWolpert本
 - [Molecular Biology of the Cell (NCBI)](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
