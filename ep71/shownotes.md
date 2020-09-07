@@ -52,11 +52,12 @@ title: 71. Data Doesn't Speak for Itself
 - [The Cancer Genome Atlas Program (TCGA)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)...がんゲノムの大量のデータを収集している国際プロジェクト。
 - [ゲノム編集とはなにか (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B08FMCZB75?tag=researchatf04-22/)...山本先生が書かれたゲノム編集について非常にわかりやすい本が出ております。ぜひ。
 - [ep47, Researchat.fm](https://researchat.fm/episode/47)...エピソード47ではCas13を用いた微量の核酸検出SHERLOCKやDETECTRについて紹介しています。
-- [Advances in Chromatin and Chromosome Research: Perspectives from Multiple Fields. _Molecular Cell_, 2020](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30469-X)
+- [Advances in Chromatin and Chromosome Research: Perspectives from Multiple Fields. _Molecular Cell_, 2020](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30469-X) ... tadasuが参加しているBoston Chromatin Clubで書いた筆頭著者17人のレビュー。
 - [ep37, Biological Enigma, Researchat.fm](https://researchat.fm/episode/37)...セントラルドグマを含む分子生物学の基礎についても話しました。
 - [ep7, In the golden age of molecular biology ](https://researchat.fm/episode/7) ... 遺伝暗号解明周りの研究について話しました。
+- [ep9, One-shot beautiful experiment ](https://researchat.fm/episode/9) ... 細胞系譜について
 - [ep2, An emerging technology is always not perfect](https://researchat.fm/episode/2) ... CRISPRとゲノム編集周辺について話しました。
-- [Gene drive (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96)
+- [Gene drive (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96) ... 遺伝子ドライブ
 - [ワトソンの遺伝子の分子生物学 (Amazon)](https://www.amazon.co.jp/dp/4501630302/?tag=researchatf04-22/)
 - [前成説 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%BE%8C%E6%88%90%E8%AA%AC)
 - [分子進化のほぼ中立説 偶然と淘汰の進化モデル (ブルーバックス) (Amazon)](https://www.amazon.co.jp/dp/B00POVFQKO/?tag=researchatf04-22/)
