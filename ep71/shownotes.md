@@ -87,5 +87,5 @@ title: 71.
 
 ## Shownotes
 - (soh)
-- (tadasu)
+- データは山のようにある。あとは君たち次第だ！(いいのかそれで？)(tadasu)
 - (coela)
