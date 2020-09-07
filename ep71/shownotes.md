@@ -6,11 +6,12 @@ actor_ids:
 audio_file_path: /audio/71.mp3
 audio_file_size: 
 date: 2020-09-07 08:00:00 +0900
-description: 
+description: ENCODEプロジェクトにおけるサイレンサー探索の論文紹介と現代生物学の複雑性と多様性について話しました。
 duration: "01:3X:36"
 layout: article
 tags:
   - 論文
+  - 雑談
 title: 71. 
 ---
 
