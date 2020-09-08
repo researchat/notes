@@ -16,12 +16,12 @@ title: 72. A Trip Guide to Enzyme World
 ---
 
 - 実験医学 podcast
-- NEB
-- カタログ
-- マサチューセッツ週
-- Eric Lander
-- MITの講義
-- 制限酵素
+- [NEB](https://www.nebj.jp/)...日本語のNEBウェブサイト。
+- [NEB Literature Portal](https://www.neb.com/support/catalog-and-literature-request)...カタログのまとめページ。
+- [NEB Catalog & Technical Reference](https://www.neb.com/-/media/nebus/files/catalogs/neb_usacatalog_rgb_150dpi.pdf?rev=1c87bfadeaa048e3b0d141571d40262c)...これがNEBが誇る400ページ超のカタログ！
+- [Eric Lander (Wikipedia)](https://en.wikipedia.org/wiki/Eric_Lander)
+- [DNA Structure and Classic experiments (Youtube)](https://www.youtube.com/watch?v=P-Ry4rRdDbk)...Eric Landerの超おすすめなMITの授業動画。見よう！
+- [制限酵素の基礎知識 (ThermoFisher)](https://www.thermofisher.com/jp/ja/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/molecular-cloning/restriction-enzymes/restriction-enzyme-basics.html)
 - Cas9
 - 制限システム
 - ファージ
