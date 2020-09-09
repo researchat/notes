@@ -48,18 +48,17 @@ title: 72. A Trip Guide to Enzyme World
 - オペロン
 - IRES
 - REBASE
-- 縮重塩基
+- [IUPAC Codes - Bioinformatics.org](https://www.bioinformatics.org/sms/iupac.html)...DNAの縮重塩基はこのように表現されます。
 - 正規表現
-- Homing endonuclease 
-- I-SceI
-- I-SceI mouse model
-- MMEI
-- EcoP15I
+- [Homing endonuclease](https://international.neb.com/products/restriction-endonucleases/hf-nicking-master-mix-time-saver-other/homing-endonucleases/homing-endonucleases)
+- [I-SceI](https://www.nebj.jp/products/detail/773)...ホーミングエンドヌクレアーゼの一種でとても長い認識配列を持つ。
+- [I-SceI mouse model]...ゲノム中にI−SceIサイトをもったマウスに対してI-SceIを発現させると二本鎖切断応答を誘導できる。この[研究](https://www.nature.com/articles/ncomms13241)など。
+- [MmeI](https://www.nebj.jp/products/detail/751)
+- [EcoP15I](https://www.nebj.jp/products/detail/760)
 - [CAGE法](https://fantom.gsc.riken.jp/jp/protocols/cage.html) ... FANTOMの基幹技術。MmeIを用いたトリックが秀逸。
-- DpnI
-- DamID
-- RNA splint ligase
-- NEB tube opener
+- [DpnI (NEB)](https://www.nebj.jp/products/detail/610)...メチル化されたDNAのみを切断する
+- [DamID (DNA adenine methyltransferase identification)](https://en.wikipedia.org/wiki/DNA_adenine_methyltransferase_identification)
+- [RNA splint ligase (NEB)](https://www.nebj.jp/products/detail/1919)..."SplintR LigaseはRNA splint上のDNAをライゲーションする"
 - [NEB podcast](https://www.neb.com/podcasts/nebpodcast)
 - [Science podcast](https://www.sciencemag.org/podcasts)
 - [Nature podcast](https://www.nature.com/nature/articles?type=nature-podcast)
@@ -70,8 +69,8 @@ title: 72. A Trip Guide to Enzyme World
 - [ショ糖密度勾配法](https://www.beckman.jp/resources/fundamentals/principles-of-centrifugation/dr-beckman/v26) ... 初期分子生物学の重要技術。正直やったことがないです...
 - [DNAの半保存的複製](https://ja.wikipedia.org/wiki/%E5%8D%8A%E4%BF%9D%E5%AD%98%E7%9A%84%E8%A4%87%E8%A3%BD)
 - [ep7. In the golden age of molecular biology](https://researchat.fm/episode/7) ... メセルソン先生とmRNA発見の話についても触れています。
-- [twitter @researchat_fm](https://twitter.com/researchat_fm)
-- [researchat.fm](researchat.fm)
+- [Twitter @researchat_fm](https://twitter.com/researchat_fm)
+- [Researchat.fm](researchat.fm)
 
 ## Editorial notes
 - soh
