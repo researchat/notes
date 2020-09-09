@@ -43,16 +43,16 @@ title: 72. A Trip Guide to Enzyme World
 - Talen 
 - ZFN
 - Fork-I
-- メタゲノム解析
-- Cas-X
-- オペロン
-- IRES
-- REBASE
+- [メタゲノム解析 (Online ISSN : 1881-6681)](https://www.jstage.jst.go.jp/article/nskkk/58/3/58_3_136/_article/-char/ja/)
+- [CasX enzymes comprise a distinct family of RNA-guided genome editors](https://www.nature.com/articles/s41586-019-0908-x)...地下水にすむバクテリアから単離されたCas-X
+- [オペロン (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%88%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
+- [IRES (Wikipedia)](https://ja.wikipedia.org/wiki/IRES)...Internal Ribosomal Entry Siteの略
+- [REBASE](http://rebase.neb.com/rebase/rebase.html)...制限酵素のデーターベース。
 - [IUPAC Codes - Bioinformatics.org](https://www.bioinformatics.org/sms/iupac.html)...DNAの縮重塩基はこのように表現されます。
 - 正規表現
 - [Homing endonuclease](https://international.neb.com/products/restriction-endonucleases/hf-nicking-master-mix-time-saver-other/homing-endonucleases/homing-endonucleases)
 - [I-SceI](https://www.nebj.jp/products/detail/773)...ホーミングエンドヌクレアーゼの一種でとても長い認識配列を持つ。
-- [I-SceI mouse model]...ゲノム中にI−SceIサイトをもったマウスに対してI-SceIを発現させると二本鎖切断応答を誘導できる。この[研究](https://www.nature.com/articles/ncomms13241)など。
+- I-SceI mouse model...ゲノム中にI−SceIサイトをもったマウスに対してI-SceIを発現させると二本鎖切断応答を誘導できる。この[研究](https://www.nature.com/articles/ncomms13241)など。
 - [MmeI](https://www.nebj.jp/products/detail/751)
 - [EcoP15I](https://www.nebj.jp/products/detail/760)
 - [CAGE法](https://fantom.gsc.riken.jp/jp/protocols/cage.html) ... FANTOMの基幹技術。MmeIを用いたトリックが秀逸。
