@@ -41,6 +41,7 @@ title: 72. The Hitchhiker's Guide to the Enzyme Galaxy
 - [Homing endonuclease](https://international.neb.com/products/restriction-endonucleases/hf-nicking-master-mix-time-saver-other/homing-endonucleases/homing-endonucleases)
 - [I-SceI](https://www.nebj.jp/products/detail/773)...ホーミングエンドヌクレアーゼの一種でとても長い認識配列を持つ。
 - I-SceI mouse model...ゲノム中にI−SceIサイトをもったマウスに対してI-SceIを発現させると二本鎖切断応答を誘導できる。この[研究 (Nat. Comm 2016))](https://www.nature.com/articles/ncomms13241)など。
+- [Miné-Hattab and Rothstein, Nat Cell Biol. (2012)](https://pubmed.ncbi.nlm.nih.gov/22484485/) ... I-SceIを誘導して染色体動態の変化を観察した名論文
 - [MmeI](https://www.nebj.jp/products/detail/751)
 - [EcoP15I](https://www.nebj.jp/products/detail/760)
 - [CAGE法](https://fantom.gsc.riken.jp/jp/protocols/cage.html) ... FANTOMの基幹技術。MmeIを用いたトリックが秀逸。
