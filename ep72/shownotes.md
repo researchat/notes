@@ -12,7 +12,7 @@ tags:
   - 雑談
   - 実験
   - 制限酵素
-title: 72. A Trip Guide to Enzyme World
+title: 72. The Hitchhiker's Guide to the Enzyme Galaxy
 ---
 
 - [第123回　ポッドキャストで語るサイエンスとその魅力(実験医学)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol38n14.html)
@@ -37,10 +37,10 @@ title: 72. A Trip Guide to Enzyme World
 - [IRES (Wikipedia)](https://ja.wikipedia.org/wiki/IRES)...Internal Ribosomal Entry Siteの略
 - [REBASE](http://rebase.neb.com/rebase/rebase.html)...制限酵素のデーターベース。
 - [IUPAC Codes - Bioinformatics.org](https://www.bioinformatics.org/sms/iupac.html)...DNAの縮重塩基はこのように表現されます。
-- 正規表現
+- [正規表現](https://userweb.mnet.ne.jp/nakama/)
 - [Homing endonuclease](https://international.neb.com/products/restriction-endonucleases/hf-nicking-master-mix-time-saver-other/homing-endonucleases/homing-endonucleases)
 - [I-SceI](https://www.nebj.jp/products/detail/773)...ホーミングエンドヌクレアーゼの一種でとても長い認識配列を持つ。
-- I-SceI mouse model...ゲノム中にI−SceIサイトをもったマウスに対してI-SceIを発現させると二本鎖切断応答を誘導できる。この[研究](https://www.nature.com/articles/ncomms13241)など。
+- I-SceI mouse model...ゲノム中にI−SceIサイトをもったマウスに対してI-SceIを発現させると二本鎖切断応答を誘導できる。この[研究 (Nat. Comm 2016))](https://www.nature.com/articles/ncomms13241)など。
 - [MmeI](https://www.nebj.jp/products/detail/751)
 - [EcoP15I](https://www.nebj.jp/products/detail/760)
 - [CAGE法](https://fantom.gsc.riken.jp/jp/protocols/cage.html) ... FANTOMの基幹技術。MmeIを用いたトリックが秀逸。
