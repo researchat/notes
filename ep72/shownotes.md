@@ -21,28 +21,16 @@ title: 72. A Trip Guide to Enzyme World
 - [NEB Catalog & Technical Reference](https://www.neb.com/-/media/nebus/files/catalogs/neb_usacatalog_rgb_150dpi.pdf?rev=1c87bfadeaa048e3b0d141571d40262c)...これがNEBが誇る400ページ超のカタログ！
 - [Eric Lander (Wikipedia)](https://en.wikipedia.org/wiki/Eric_Lander)
 - [DNA Structure and Classic experiments (Youtube)](https://www.youtube.com/watch?v=P-Ry4rRdDbk)...Eric Landerの超おすすめなMITの授業動画。見よう！
-- [制限酵素の基礎知識 (ThermoFisher)](https://www.thermofisher.com/jp/ja/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/molecular-cloning/restriction-enzymes/restriction-enzyme-basics.html)
-- Cas9
-- 制限システム
-- ファージ
-- トポイソメラーゼ
+- [制限酵素の基礎知識 (ThermoFisher)](https://www.thermofisher.com/jp/ja/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/molecular-cloning/restriction-enzymes/restriction-enzyme-basics.html)...とてもわかり易いのでぜひ。
+- [ファージ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B8)
+- [DNAトポイソメラーゼ (Wikipedia)](https://ja.wikipedia.org/wiki/DNA%E3%83%88%E3%83%9D%E3%82%A4%E3%82%BD%E3%83%A1%E3%83%A9%E3%83%BC%E3%82%BC)
 - ニッケース
-- EcoRI
-- BamHI
-- XbaI
+- [EcoRI](https://www.nebj.jp/products/detail/544)...このエピソードで例として紹介しました。GATTCという配列を認識して切断する。
 - 回文配列(パリンドローム)
-- 制限酵素の分類
-- DNAの相補性
-- 粘着末端
-- 平滑末端
-- Ligase
-- クローニング
-- Gibson Assembly
-- DNAメチル化
-- Cas9 PAM配列
-- Talen 
-- ZFN
-- Fork-I
+- DNA ligase...DNA断片同士を連結させることができる。
+- [Gibson Assembly](https://www.nebj.jp/f/541)...配列の相補性を利用して２つ以上のDNA断片を試験管内で連結する方法。Dan Gibson博士が作ったのでみながそう呼ぶようになった。彼が自分でつけたわけではない。
+- [DNAメチル化](https://ruo.mbl.co.jp/bio/product/epigenome/article/DNA-methylation.html)
+- [Talen](https://www.cosmobio.co.jp/support/technology/a/crispr-talen.asp)...ゲノム編集法のうちの一つ。
 - [メタゲノム解析 (Online ISSN : 1881-6681)](https://www.jstage.jst.go.jp/article/nskkk/58/3/58_3_136/_article/-char/ja/)
 - [CasX enzymes comprise a distinct family of RNA-guided genome editors](https://www.nature.com/articles/s41586-019-0908-x)...地下水にすむバクテリアから単離されたCas-X
 - [オペロン (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%88%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
@@ -73,5 +61,5 @@ title: 72. A Trip Guide to Enzyme World
 - [Researchat.fm](researchat.fm)
 
 ## Editorial notes
-- soh
+- 普段あまり考えずに使っていた制限酵素について、もともとの機能や精製方法を知りとても面白かった。みんなカタログを読もう！(soh)
 - DNA修復はすでにノーベル賞が来ていますね。メセルソン先生の偉業の数々もいつかしっかりまとめて話したい。(tadasu)
