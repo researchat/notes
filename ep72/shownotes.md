@@ -40,11 +40,11 @@ title: 72. The Hitchhiker's Guide to the Enzyme Galaxy
 - [正規表現](https://userweb.mnet.ne.jp/nakama/)
 - [Homing endonuclease](https://international.neb.com/products/restriction-endonucleases/hf-nicking-master-mix-time-saver-other/homing-endonucleases/homing-endonucleases)
 - [I-SceI](https://www.nebj.jp/products/detail/773)...ホーミングエンドヌクレアーゼの一種でとても長い認識配列を持つ。
-- I-SceI mouse model...ゲノム中にI−SceIサイトをもったマウスに対してI-SceIを発現させると二本鎖切断応答を誘導できる。この[研究 (Nat. Comm 2016))](https://www.nature.com/articles/ncomms13241)など。
-- [Miné-Hattab and Rothstein, Nat Cell Biol. (2012)](https://pubmed.ncbi.nlm.nih.gov/22484485/) ... I-SceIを誘導して染色体動態の変化を観察した名論文
+- I-SceI mouse model...ゲノム中にI−SceIサイトをもったマウスに対してI-SceIを発現させると二本鎖切断応答を誘導できる。この[研究 (Nat. Comm 2016)](https://www.nature.com/articles/ncomms13241)など。
+- [Miné-Hattab and Rothstein, _Nat Cell Biol_. (2012)](https://pubmed.ncbi.nlm.nih.gov/22484485/)...I-SceIを誘導して染色体動態の変化を観察した名論文
 - [MmeI](https://www.nebj.jp/products/detail/751)
 - [EcoP15I](https://www.nebj.jp/products/detail/760)
-- [CAGE法](https://fantom.gsc.riken.jp/jp/protocols/cage.html) ... FANTOMの基幹技術。MmeIを用いたトリックが秀逸。
+- [CAGE法](https://fantom.gsc.riken.jp/jp/protocols/cage.html)...FANTOMの基幹技術。MmeIを用いたトリックが秀逸。
 - [DpnI (NEB)](https://www.nebj.jp/products/detail/610)...メチル化されたDNAのみを切断する
 - [DamID (DNA adenine methyltransferase identification)](https://en.wikipedia.org/wiki/DNA_adenine_methyltransferase_identification)
 - [RNA splint ligase (NEB)](https://www.nebj.jp/products/detail/1919)..."SplintR LigaseはRNA splint上のDNAをライゲーションする"
@@ -55,9 +55,9 @@ title: 72. The Hitchhiker's Guide to the Enzyme Galaxy
 - [デビット・リンチ](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%83%AA%E3%83%B3%E3%83%81)
 - [Ten Simple Rules to Win a Nobel Prize](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4383532/)
 - [マシュー・メセルソン](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%A1%E3%82%BB%E3%83%AB%E3%82%BD%E3%83%B3)
-- [ショ糖密度勾配法](https://www.beckman.jp/resources/fundamentals/principles-of-centrifugation/dr-beckman/v26) ... 初期分子生物学の重要技術。正直やったことがないです...
+- [ショ糖密度勾配法](https://www.beckman.jp/resources/fundamentals/principles-of-centrifugation/dr-beckman/v26)...初期分子生物学の重要技術。正直やったことがないです...
 - [DNAの半保存的複製](https://ja.wikipedia.org/wiki/%E5%8D%8A%E4%BF%9D%E5%AD%98%E7%9A%84%E8%A4%87%E8%A3%BD)
-- [ep7. In the golden age of molecular biology](https://researchat.fm/episode/7) ... メセルソン先生とmRNA発見の話についても触れています。
+- [ep7. In the golden age of molecular biology](https://researchat.fm/episode/7)...メセルソン先生とmRNA発見の話についても触れています。
 - [Twitter @researchat_fm](https://twitter.com/researchat_fm)
 - [Researchat.fm](researchat.fm)
 
