@@ -1,0 +1,78 @@
+DNA nanotechnology 
+大本は1998年にSeemanが2種類の二本鎖DNAが形成するholiday junctionという2つのDNAがお互いに交差するような、構造を4つくっつけることによって、2Dの格子の構造 (nanoscale)ができることに成功した。
+Self assembly (自己集合)によって半自動的に、とても複雑な構造ができる。
+
+DNA Origami
+Rothemundが最初っぽい。基盤となる長い一本鎖のDNAに対して、相補的な短いDNA断片を追加すると張りつき、互いに共通する配列をもたせることによって、もともとの長いDNAから幾何的な模様を作り出すことができる。
+3DのOrigamiもできるようになっている。
+
+この作られたDNA origamiをCryo-EMなどで立体構造を解析すると目的のnanoscaleの構造をつくっていることが確かめられている。
+
+A DNA nanoscope that identifies and precisely localizes over a hundred unique molecular features with nanometer accuracy
+(Peng Yi lab@HMS)
+
+「DNA Nanoscope」というDNA origamiとシーケンサーを組み合わせることによって、「Imaging-by-sequencing」という新しいコンセプトを示した論文。
+
+分子の空間的な距離からその二次元的な構造を顕微鏡の観察の代わりにDNAとシーケンサーで逆張りして解いた論文。
+
+DNA nanoscopeは、
+(1) 二次元にあるサンプルをDNAバーコード=ユニークなDNA配列で標識する
+(2) サンプルを構成する要素 (画像でいうところのピクセル) の物理的な距離をすべて測定し、この距離情報をDNAに書き込む
+(3) DNAに書き込まれた距離情報をシーケンサーで読み出す
+(4) シーケンサーによって計測された距離行列からもともとのサンプルを構成する二次元的な構造を再構成する
+という4つのパートからなっている。
+これによって、DNA　Origamiというナノスケールの二次元の構造体の構造を再構成することに成功した。
+
+DNA Microscopyについて以前紹介した。これは固定した細胞にバーコードをふりかけて、そのバーコードをPCRによって連結して、シーケンサーから分子の位置や細胞の位置を再構成するもの。
+ただ、10 umくらいの解像度しかなかった。
+
+Hi-Cは染色体構造をシーケンサーによって得る方法であるが、今の所5kbくらいの解像度がmaxである。
+
+より詳細な構造を解きたい。
+また色々な構造体を同時にときたい。
+
+DNA origamiみたいに類似した構造が大量にあるようなサンプルから、”平均的な構造”を再構成するという方法。その意味ではタンパク質の構造を原子レベルの解像度で決定することができるCryo-EMとアナロジーは似ている。particle homogeneityに強く依存していて、構造のアンサンブルを求めるもの。一分子の構造を解析するものではない。
+
+Encoding distances in DNA molecules
+どのように距離情報をDNAに持たせるか？これが一番のキモになる。
+“Molecular ruler” 分子定規 と呼ばれるメカニズムをPrimer Exchange Reaction PERというものをつかって生み出した。PERは以前の論文でPeng Yinたちが報告していて、恒温でDNAを増やす方法。2018年のNature Chemistry。
+
+PER
+Primerのhybridization -> Bst DNA polymeraseによるdisplacement amplification -> DNAの乖離と再対合のプロセス。
+
+Auto-cycling proximity recording (APR)
+Nature commの論文
+これは、PERの発展型で、２つのPERが物理的に近接する状況で起これば、そのプロダクト同士で対合するのでは？というアイディア。これによって２つのDNAをdsDNAとしてつなげることができた。
+
+で、DNA nanoccopeでは、このメカニズムを利用して、ある物理的距離に離れた２つのヘアピンをおいて、これが独立にどんどん長く伸びていき、くっついたものだけをPCR -> シーケンスする
+これによって、ある二点間のヘアピンDNAの距離を間に含まれるDNA断片の数=塩基数から測ることができる！
+
+どうやって得られたリードの長さからもともとの空間情報を再構成することができるか？
+
+2点間の計測した距離 Pairwise distance measurementsからXY 二次元のユークリッド空間における埋め込み距離 (Embedded distance)を推定する問題を解く。
+
+そもそもEmbeddingとは？
+Word embeddingの例で考える。
+似ている文を複数の文から分類したい、という問題などがある。それぞれの文に含まれている単語を何らかの方法でベクトル化された表現に変換する必要があって、これをword embeddingと読んでいる。文を何らかのベクトル空間に埋め込むようなイメージ。
+
+一番単純なのはOne-hot encodingとか呼ばれるやつ。
+単語リストを作ってこの単語数に次元のベクトルを用意して、それぞれありなしを単純に割り振る。
+(This) (is) (a) (pen)なら4x4のベクトル。
+
+This [0, 0, 0, 1] is     [0, 0, 1, 0] a      [0, 1, 0, 0]
+pen  [1, 0, 0, 0]
+他にも色々ある。Word2Vecとか。
+
+今回のDNA origamiがもともとあった問題について考えると、逆にこのembeddingが未知なので、この尤もらしいembeddingを求める。
+
+あるDNA origami上のターゲットiにおける距離 d(xi, yi)を考えたとき、キャリブレーション実験から推定される2点間の距離 (Euclidean embedded distance)と実際に計測された距離を最小化するような「Embedding」を求める、という問題。
+
+補足：ユークリッド距離はまあ我々が一般的に距離と呼んだときに考えるもの。２点pとqにおける線分pqがユークリッド距離と定義される。
+
+Embeddingは3つのプロセス
+(1) Pruning / 枝刈り
+ある一定に閾値以下のピークを削除する … リード数が一定以下である計測は信頼性が低いという仮定
+
+(2) Initial Embedding and (3) Refining the embeddings
+a robust facial reduction algorithmとnonlinear optimization approachesを使うぽいが、詳細はわからんかったが、いずれにせよ実際に図ったdistanceとembeddedユークリッド距離との差を最小化するembeddingを探す。
+
