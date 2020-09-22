@@ -17,5 +17,5 @@ title: 73. Multi function of Ki-67
 
 ## Editorial notes
 - (soh)
-- (tadasu)
+- 綿々と続くドイツの細胞生物学/染色体学研究の系譜はまたどこかで話せたらと思います。(tadasu)
 - (coela)
