@@ -44,8 +44,16 @@ title: 73. Multi function of Ki-67
 - [G1, S, G2, M]
 - [間期]
 - [分裂期]
-
-
+- [FRAP]
+- [FISH]
+- [Kimura and Cook 2001]
+- [染色体テリトリー]
+- [Carl Rabl]
+- [Theodor Boveri]
+- [中心体]
+- [Sutton-Boveriの染色体説]
+- [Thomas Cremerの実験]
+- [Nature 2016]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
