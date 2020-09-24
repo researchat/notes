@@ -77,7 +77,7 @@ title: 73. Multi function of Ki-67
 - [コンデンシン]
 - [GEMs]
 - [GEMs のCell2018]
-- [capsulinの2007]
+- [encapsulinの2007]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
