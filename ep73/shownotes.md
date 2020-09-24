@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/73.mp3
-audio_file_size: 69107839
+audio_file_size: 68500198
 date: 2020-09-25 6:15:00 +0900
 description: 染色体分配時におけるKi-67の機能性に関する論文を紹介しました。
-duration: "01:35:56"
+duration: "01:35:53"
 layout: article
 tags:
   - 論文
