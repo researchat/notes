@@ -54,6 +54,12 @@ title: 73. Multi function of Ki-67
 - [Sutton-Boveriの染色体説]
 - [Thomas Cremerの実験]
 - [Nature 2016]
+- [キネトコア]
+- [セントロメア]
+- [スピンドル]
+- [微小管]
+- [RNAi]
+- [
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
