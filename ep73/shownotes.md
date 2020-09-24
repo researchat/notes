@@ -71,6 +71,7 @@ title: 73. Multi function of Ki-67
 - [FCS]
 - [両親媒性]
 - [Cell 2017]
+- [micro nuclei]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
