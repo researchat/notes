@@ -85,6 +85,10 @@ title: 73. Multi function of Ki-67
 - [TSA]
 - [Angelika Amon]
 - [Life Science Award]
+- [染色体の位数性] ... aneuploidy
+- [出芽酵母]
+- [老化した酵母は減数分裂できない]
+- [unal]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
