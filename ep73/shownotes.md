@@ -81,6 +81,10 @@ title: 73. Multi function of Ki-67
 - [核移行シグナル]
 - [Gorlich]
 - [Dextran]
+- [flavopiridin]
+- [TSA]
+- [Angelika Amon]
+- [Life Science Award]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
