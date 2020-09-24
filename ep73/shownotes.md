@@ -61,6 +61,10 @@ title: 73. Multi function of Ki-67
 - [RNAi]
 - [ki-67]
 - [G0]
+- [核膜]
+- [核膜孔タンパク質]
+- [open mitosis/closed mitosis]
+- [Nuclear Envelope Break Down]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
