@@ -68,6 +68,7 @@ title: 73. Multi function of Ki-67
 - [prophase->prometaphase->metaphase->anaphase->telophase->cytokinesis]
 - [ノコダゾール]
 - [コルヒチン]
+- [FCS]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
