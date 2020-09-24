@@ -73,8 +73,8 @@ title: 73. Multi-function of Ki-67
 - [Crasta et al., Nature (2012)](https://www.nature.com/articles/nature10802) ... "DNA breaks and chromosome pulverization from errors in mitosis" micro nucleiに関する最近の代表的な研究
 - [スプライシング](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%97%E3%83%A9%E3%82%A4%E3%82%B7%E3%83%B3%E3%82%B0)
 - [コンデンシン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%87%E3%83%B3%E3%82%B7%E3%83%B3)
-- [Delarue et al. Cell (2018)](https://www.cell.com/cell/fulltext/S0092-8674(18)30654-8) ... "mTORC1 Controls Phase Separation and the Biophysical Properties of the Cytoplasm by Tuning Crowding": GEMs(genetically encoded multimeric nanoparticles)を開発した論文
-- [Akita et al., JCS (2007)](https://www.sciencedirect.com/science/article/abs/pii/S0022283607002677?via%3Dihub) ... "The crystal structure of a virus-like particle from the hyperthermophilic archaeon Pyrococcus furiosus provides insight into the evolution of viruses": Delarue et al. (2018)で使われたencapsulinに関する論文
+- [Delarue et al. Cell (2018)](https://www.cell.com/cell/fulltext/S0092-8674(18)30654-8) ... "mTORC1 Controls Phase Separation and the Biophysical Properties of the Cytoplasm by Tuning Crowding": GEMs(genetically encoded multimeric nanoparticles)を開発した論文。これは激アツである！
+- [Akita et al., JCS (2007)](https://www.sciencedirect.com/science/article/abs/pii/S0022283607002677?via%3Dihub) ... "The crystal structure of a virus-like particle from the hyperthermophilic archaeon Pyrococcus furiosus provides insight into the evolution of viruses": Delarue et al. (2018)で使われたencapsulinに関する論文。これも激アツである！
 - [養王田先生の科研費報告書](https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-23651106/23651106seika.pdf) ... "Encapsulinとは単一のシェルタンパク質で構成される内部が空洞のナノ構造体であり、一部の微生物細胞内に形成されている。"
 - [核移行シグナル](https://ja.wikipedia.org/wiki/%E6%A0%B8%E5%B1%80%E5%9C%A8%E5%8C%96%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB)
 - [Görisch et al., JCS (2005)](https://jcs.biologists.org/content/118/24/5825) ... "Histone acetylation increases chromatin accessibility": クロマチンへのaccessibilityをイメージングで示そうとした論文
