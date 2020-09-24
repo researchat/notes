@@ -4,14 +4,14 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/73.mp3
-audio_file_size: 
-date: 2020-09-30 09:06:00 +0900
+audio_file_size: 69107839
+date: 2020-09-25 6:15:00 +0900
 description: 染色体分配時におけるKi-67の機能性に関する論文を紹介しました。
-duration: "01:XX:XX"
+duration: "01:35:56"
 layout: article
 tags:
   - 論文
-title: 73. Multi function of Ki-67 
+title: 73. Multi-function of Ki-67 
 ---
 ## Show notes
 - [周期ゼミ](https://ja.wikipedia.org/wiki/%E5%91%A8%E6%9C%9F%E3%82%BC%E3%83%9F)
