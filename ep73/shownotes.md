@@ -86,7 +86,7 @@ title: 73. Multi function of Ki-67
 - [染色体の異数性](https://kotobank.jp/word/%E7%95%B0%E6%95%B0%E6%80%A7-30741) ... aneuploidy
 - [出芽酵母](https://ja.wikipedia.org/wiki/%E5%87%BA%E8%8A%BD%E9%85%B5%E6%AF%8D)
 - [Ünal et al., Science (2011)](https://science.sciencemag.org/content/332/6037/1554.long) ... "Gametogenesis Eliminates Age-Induced Cellular Damage and Resets Life Span in Yeast": 老化した出芽酵母は減数分裂に進みにくいことを示した定量解析。Amon labからの研究。
-- [King et al., eLife (2019)] ... "Meiotic cellular rejuvenation is coupled to nuclear remodeling in budding yeast": 上記のFirst authorであるÜnal labから出た論文。年老いた出芽酵母が減数分裂に進んだ場合の"Nuclear rejuvenation"(核若返り)に関するイメージング研究
+- [King et al., eLife (2019)](https://elifesciences.org/articles/47156) ... "Meiotic cellular rejuvenation is coupled to nuclear remodeling in budding yeast": 上記のFirst authorであるÜnal labから出た論文。年老いた出芽酵母が減数分裂に進んだ場合の"Nuclear rejuvenation"(核若返り)に関するイメージング研究
 - [エピジェネティクス(epigenetics)](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9)
 - [Conrad Hal Waddington](https://en.wikipedia.org/wiki/C._H._Waddington) ... epigeneticsの提唱者。
 
