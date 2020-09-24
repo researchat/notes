@@ -66,6 +66,8 @@ title: 73. Multi function of Ki-67
 - [open mitosis/closed mitosis]
 - [Nuclear Envelope Break Down]
 - [prophase->prometaphase->metaphase->anaphase->telophase->cytokinesis]
+- [ノコダゾール]
+- [コルヒチン]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
