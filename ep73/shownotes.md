@@ -69,6 +69,7 @@ title: 73. Multi function of Ki-67
 - [ノコダゾール]
 - [コルヒチン]
 - [FCS]
+- [両親媒性]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
