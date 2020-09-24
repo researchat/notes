@@ -78,8 +78,9 @@ title: 73. Multi function of Ki-67
 - [GEMs]
 - [GEMs のCell2018]
 - [encapsulinの2007]
-- [Gorlich]
 - [核移行シグナル]
+- [Gorlich]
+- [Dextran]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
