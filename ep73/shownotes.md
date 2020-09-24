@@ -59,7 +59,8 @@ title: 73. Multi function of Ki-67
 - [スピンドル]
 - [微小管]
 - [RNAi]
-- [
+- [ki-67]
+- [G0]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
