@@ -89,6 +89,7 @@ title: 73. Multi function of Ki-67
 - [出芽酵母]
 - [老化した酵母は減数分裂できない]
 - [unal]
+- [epingeneics]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
