@@ -91,6 +91,7 @@ title: 73. Multi function of Ki-67
 - [unal]
 - [epingeneics]
 - [Waddington]
+- [African Lilyの染色体]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
