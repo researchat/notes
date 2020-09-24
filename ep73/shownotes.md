@@ -22,6 +22,8 @@ title: 73. Multi function of Ki-67
 - [Cuylen et al., Nature (2016)](https://www.nature.com/articles/nature18610) ... "Ki-67 acts as a biological surfactant to disperse mitotic chromosomes"
 - [Samwer et al., Cell (2017)](https://linkinghub.elsevier.com/retrieve/pii/S0092-8674(17)30874-7) ... "DNA Cross-Bridging Shapes a Single Nucleus from a Set of Mitotic Chromosomes"
 - [Daniel Gerlich](https://www.imba.oeaw.ac.at/research/daniel-gerlich/team/)
+- [植物の細胞で染色体が分配される様子](http://www.cellimagelibrary.org/images/11952) ... 1956に撮影されたAfrican Blood Lilyの細胞における染色体分配と細胞分裂の様子。植物には中心体が存在しないので少し動物細胞のものとは趣が異なる。64年前に撮影された動画だが未だ色褪せず様々な洞察を与えてくれる。無染色・ライブセルで行われた驚異的なイメージング。
+- [上記動画に関するツイート](https://twitter.com/researchat_fm/status/1257995518975803392) ... 海外勢もかなりコメントをくれているのがわかる。
 - [体細胞分裂](https://ja.wikipedia.org/wiki/%E4%BD%93%E7%B4%B0%E8%83%9E%E5%88%86%E8%A3%82) ... prophase->prometaphase->metaphase->anaphase->telophase->cytokinesis。英語だとmitosis
 - [DNA複製](https://ja.wikipedia.org/wiki/DNA%E8%A4%87%E8%A3%BD)
 - [遺伝情報](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E6%83%85%E5%A0%B1)
@@ -75,7 +77,7 @@ title: 73. Multi function of Ki-67
 - [Akita et al., JCS (2007)](https://www.sciencedirect.com/science/article/abs/pii/S0022283607002677?via%3Dihub) ... "The crystal structure of a virus-like particle from the hyperthermophilic archaeon Pyrococcus furiosus provides insight into the evolution of viruses": Delarue et al. (2018)で使われたencapsulinに関する論文
 - [養王田先生の科研費報告書](https://kaken.nii.ac.jp/file/KAKENHI-PROJECT-23651106/23651106seika.pdf) ... "Encapsulinとは単一のシェルタンパク質で構成される内部が空洞のナノ構造体であり、一部の微生物細胞内に形成されている。"
 - [核移行シグナル](https://ja.wikipedia.org/wiki/%E6%A0%B8%E5%B1%80%E5%9C%A8%E5%8C%96%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB)
-- [Görisch et al., JCS (2005)](https://jcs.biologists.org/content/118/24/5825) ... "Histone acetylation increases chromatin accessibility": 名論文
+- [Görisch et al., JCS (2005)](https://jcs.biologists.org/content/118/24/5825) ... "Histone acetylation increases chromatin accessibility": クロマチンへのaccessibilityをイメージングで示そうとした論文
 - [Dextran](https://en.wikipedia.org/wiki/Dextran)
 - [Flavopiridol](https://www.selleckchem.com/products/Flavopiridol.html)
 - [Trichostatin A (TSA)](https://pubchem.ncbi.nlm.nih.gov/compound/Trichostatin-A)
