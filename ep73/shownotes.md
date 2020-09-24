@@ -65,6 +65,7 @@ title: 73. Multi function of Ki-67
 - [核膜孔タンパク質]
 - [open mitosis/closed mitosis]
 - [Nuclear Envelope Break Down]
+- [prophase->prometaphase->metaphase->anaphase->telophase->cytokinesis]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
