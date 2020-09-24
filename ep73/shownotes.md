@@ -75,6 +75,9 @@ title: 73. Multi function of Ki-67
 - [Nature 2020]
 - [スプライシング]
 - [コンデンシン]
+- [GEMs]
+- [GEMs のCell2018]
+- [capsulinの2007]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
