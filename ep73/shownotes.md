@@ -49,7 +49,7 @@ title: 73. Multi-function of Ki-67
 - [細胞周期](https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%83%9E%E5%91%A8%E6%9C%9F) ... G1->S->G2->M. G1->S->G2が間期、Mが分裂期
 - [FRAP(Fluorescence recovery after photobleaching)](https://en.wikipedia.org/wiki/Fluorescence_recovery_after_photobleaching)
 - [FISH](https://en.wikipedia.org/wiki/Fluorescence_in_situ_hybridization)
-- [Kimura and Cook. J Cell Biol (2001)](https://pubmed.ncbi.nlm.nih.gov/11425866/) ...  Kinetics of core histones in living human cells: little exchange of H3 and H4 and some rapid exchange of H2B
+- [Kimura and Cook. J Cell Biol (2001)](https://pubmed.ncbi.nlm.nih.gov/11425866/) ...  "Kinetics of core histones in living human cells: little exchange of H3 and H4 and some rapid exchange of H2B"
 - [染色体テリトリー](https://www.yodosha.co.jp/jikkenigaku/keyword/1135.html)
 - [Cremer and Cremer. Cold Spring Harb Perspect Biol. (2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2829961/) ... "Chromosome Territories": ドンピシャタイトルのThomas CremerによるChromosome territoryのレビュー。
 - [Carl Rabl](https://en.wikipedia.org/wiki/Carl_Rabl)
