@@ -73,6 +73,8 @@ title: 73. Multi function of Ki-67
 - [Cell 2017]
 - [micro nuclei]
 - [Nature 2020]
+- [スプライシング]
+- [コンデンシン]
 
 ## Editorial notes
 - 素人にもロジックが追いやすかった気がする (soh)
