@@ -33,4 +33,4 @@ title: 74. Imaging-by-Sequencing
 ## Editorial notes
 - もうちょいうまく説明できた気がする...(soh)
 - DNAを使った試みは何かワクワクしますね (tadasu)
-- (coela)
+- 全然関係ないですが、漫画とかで折り紙で戦うキャラって良いですよね(coela)
