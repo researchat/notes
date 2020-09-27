@@ -24,11 +24,11 @@ title: 74.
 - Hi-C
 - DNA Microscopy
 - DNA Nanotechnology
-- 1988 Seeman
-- Rother land Nature 2006
-- DNA Nanorobot
-- Primer Exchange Reaction
-- Auto cycling proximity recording
+- [Design and self-assembly of two-dimensional DNA crystals. (_Nature 1988_)](https://www.nature.com/articles/28998)...SeemanによるDNA Nanotechnologyの大本の論文。
+- [Folding DNA to create nanoscale shapes and patterns. (_Nature 2006_)](https://www.nature.com/articles/nature04586)...Paul W. K. RothemundによるDNA Origamiの元論文。
+- [Primer Exchange Reaction](https://wyss.harvard.edu/news/autonomously-growing-synthetic-dna-strands/)...このビデオによる解説がとてもわかり易い。
+- [Programmable autonomous synthesis of single-stranded DNA. (_Nature Chemistry_)](https://www.nature.com/articles/nchem.2872)...Primer Exchange Reactionの元論文。
+- [A DNA nanoscope via auto-cycling proximity recording. (_Nature Communications_)](https://www.nature.com/articles/s41467-017-00542-3)...Auto-cycling proximity recordingの元論文。
 - Flip-Flap DNA
 - Nanopore
 - long-read sequencing
