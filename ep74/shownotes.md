@@ -4,15 +4,16 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/74.mp3
-audio_file_size: 
-date: 2020-09-30 09:06:00 +0900
-description: 
-duration: "01:XX:XX"
+audio_file_size: 42746253
+date: 2020-09-28 09:00:00 +0900
+description: ナノレベルの分子構造をDNAシーケンシングのみから再構成する「DNA Nanoscope」と呼ばれる技術について、原著論文と分野の周辺を紹介しました。
+duration: "00:59:22"
 layout: article
 tags:
   - 論文
-title: 74. 
+title: 74. Imaging-by-Sequencing
 ---
+
 ## Show notes
 - [A DNA nanoscope that identifies and precisely localizes over a hundred unique molecular features with nanometer accuracy. (_BioRxiv 2020_)](https://www.biorxiv.org/content/10.1101/2020.08.27.271072v1)...今回Sohが紹介する論文はこれ。
 - [研エンの仲](https://anchor.fm/ken-en-no-naka)..."研究者とエンジニアのカップルが、様々な話題について時にゆるく時に白熱した議論をするPodcast"
