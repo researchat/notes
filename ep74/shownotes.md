@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/74.mp3
 audio_file_size: 42746253
 date: 2020-09-28 09:00:00 +0900
-description: ナノレベルの分子構造をDNAシーケンシングのみから再構成する「DNA Nanoscope」と呼ばれる技術について、原著論文と分野の周辺を紹介しました。
+description: ナノレベルの分子構造をDNAシーケンシングから再構成する「DNA Nanoscope」と呼ばれる技術について、原著論文と分野の周辺を紹介しました。
 duration: "00:59:22"
 layout: article
 tags:
