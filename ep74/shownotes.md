@@ -32,5 +32,5 @@ title: 74. Imaging-by-Sequencing
 
 ## Editorial notes
 - もうちょいうまく説明できた気がする...(soh)
-- (tadasu)
+- DNAを使った試みは何かワクワクしますね (tadasu)
 - (coela)
