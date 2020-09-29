@@ -22,12 +22,11 @@ title: 75. I'm not sure though
 - [ポトフさんのあれこれ](https://linktr.ee/potaufeu)
 - [ポトフさんによる24h配信前編](https://www.youtube.com/watch?v=f68owbRSZMk)
 - [ポトフさんによる24h配信後編](https://www.youtube.com/watch?v=8F4JNU9oHEk)
-- [International Podcast Day](https://internationalpodcastday.com/)
+- [International Podcast Day](https://internationalpodcastday.com/) ... ポッドキャストの日、9/30
 - [ポトフさんによるポッドキャストの歴史講座](https://youtu.be/f68owbRSZMk?t=29641)
-- ポッドキャストの日 ... 9/30
 - [Adam Curry](https://en.wikipedia.org/wiki/Adam_Curry) ... Podcastの産みの親。ポッドファーザー。
 - [Researchat.fm @Amazon music](https://music.amazon.com/podcasts/cf018aa1-40f7-4f59-ba08-d2f61ee1ab75/Researchatfm) ... Researchat.fmがamazon musicで聴くことができるようになりましtあ。
-- [環境音のポッドキャスト]()
+- [隙間に　sukima ni](https://podcasts.apple.com/jp/podcast/%E9%9A%99%E9%96%93%E3%81%AB-sukima-ni/id1495655999) ... 環境音を集めたポッドキャスト
 - [Anchor.fm](https://anchor.fm/) ... スマホ一台から始められます。みんなで始めようポッドキャスト！
 - [鈴木裕さんのインタビュー](https://news.denfaminicogamer.jp/projectbook/virtua_fighter) ... 鉄拳のプロデューサー原田氏との対談。最高すぎる。
 
