@@ -25,12 +25,12 @@ title: 75. I'm not sure though
 - [International Podcast Day](https://internationalpodcastday.com/) ... ポッドキャストの日、9/30
 - [ポトフさんによるポッドキャストの歴史講座](https://youtu.be/f68owbRSZMk?t=29641)
 - [Adam Curry](https://en.wikipedia.org/wiki/Adam_Curry) ... Podcastの産みの親。ポッドファーザー。
-- [Researchat.fm @Amazon music](https://music.amazon.com/podcasts/cf018aa1-40f7-4f59-ba08-d2f61ee1ab75/Researchatfm) ... Researchat.fmがamazon musicで聴くことができるようになりましtあ。
+- [Researchat.fm @Amazon music](https://music.amazon.com/podcasts/cf018aa1-40f7-4f59-ba08-d2f61ee1ab75/Researchatfm) ... Researchat.fmがamazon musicで聴くことができるようになりました。
 - [隙間に　sukima ni](https://podcasts.apple.com/jp/podcast/%E9%9A%99%E9%96%93%E3%81%AB-sukima-ni/id1495655999) ... 環境音を集めたポッドキャスト
 - [Anchor.fm](https://anchor.fm/) ... スマホ一台から始められます。みんなで始めようポッドキャスト！
 - [鈴木裕さんのインタビュー](https://news.denfaminicogamer.jp/projectbook/virtua_fighter) ... 鉄拳のプロデューサー原田氏との対談。最高すぎる。
 
 ## Editorial notes
-- (soh)
+- 自分の音声を編集していると否応無しに自分の口癖とその深層心理と向き合うことになります。「〜ていう感じの」で話してしまうことがとても多い...これもある種の言い切りに対する抵抗の表れといえますね。(soh)
 - 「まぁ、でも...」とか「いや...」から話し始める癖も治したい。ついた癖は中々治らない、知らんけど (tadasu)
 - (coela)
