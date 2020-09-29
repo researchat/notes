@@ -15,6 +15,7 @@ title: 75. I'm not sure though
 ---
 
 ## Show notes
+- [Researchat.fm @Amazon music](https://music.amazon.co.jp/podcasts/cf018aa1-40f7-4f59-ba08-d2f61ee1ab75/Researchatfm) ... Researchat.fmがamazon musicで聴くことができるようになりました。ご登録よろしくお願いします。
 - [料理のステップと人気度に関するツイート](https://twitter.com/kenkawakenkenke/status/1292348484880744449) ... @kenkawakenkenke さんのツイートを引用させていただきました。これを実験に置き換えたら結構良さそう
 - [コーヒーの科学](https://www.amazon.co.jp/dp/4062579561/?tag=researchatf04-22) 
 - [Pokemon GOとガチ勢の定義](https://rocketnews24.com/2020/08/04/1398964/amp/)
@@ -25,7 +26,6 @@ title: 75. I'm not sure though
 - [International Podcast Day](https://internationalpodcastday.com/) ... ポッドキャストの日、9/30
 - [ポトフさんによるポッドキャストの歴史講座](https://youtu.be/f68owbRSZMk?t=29641) ... 上記の24h配信でポトフさんが語った世界、日本のポッドキャストの歴史
 - [Adam Curry](https://en.wikipedia.org/wiki/Adam_Curry) ... Podcastの産みの親。ポッドファーザー。
-- [Researchat.fm @Amazon music](https://music.amazon.com/podcasts/cf018aa1-40f7-4f59-ba08-d2f61ee1ab75/Researchatfm) ... Researchat.fmがamazon musicで聴くことができるようになりました。
 - [隙間に　sukima ni](https://podcasts.apple.com/jp/podcast/%E9%9A%99%E9%96%93%E3%81%AB-sukima-ni/id1495655999) ... 環境音を集めたポッドキャスト
 - [Anchor.fm](https://anchor.fm/) ... スマホ一台から始められます。みんなで始めようポッドキャスト！
 - [鈴木裕さんのインタビュー](https://news.denfaminicogamer.jp/projectbook/virtua_fighter) ... 鉄拳のプロデューサー原田氏との対談。最高すぎる。
