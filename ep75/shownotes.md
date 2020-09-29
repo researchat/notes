@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/75.mp3
 audio_file_size: 52999088
 date: 2020-09-30 19:30:00 +0900
-description: 「この分野のことよく分かっていないのですが」「専門外なのですが」「初心者なのですが」等から始まる研究者のはなし方について思うことを言い合いました。
+description: 「この分野は専門外なのですが」「初心者なのですが」等から始まる研究者のはなし方について思うことを言い合いました。
 duration: "00:48:15"
 layout: article
 tags:
