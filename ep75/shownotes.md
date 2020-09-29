@@ -15,12 +15,15 @@ title: 75. I'm not sure though
 ---
 
 ## Show notes
-- ゲシュタルト崩壊
 - [料理のステップと人気度に関するツイート](https://twitter.com/kenkawakenkenke/status/1292348484880744449) ... @kenkawakenkenke さんのツイートを引用させていただきました。これを実験に置き換えたら結構良さそう
-- [コーヒーの科学]()
+- [コーヒーの科学](https://www.amazon.co.jp/dp/4062579561/?tag=researchatf04-22) 
 - [Pokemon GOとガチ勢の定義](https://rocketnews24.com/2020/08/04/1398964/amp/)
-- [ポトフさん](https://twitter.com/pot_au_feu) ... 日本ポッドキャスト産みの親の一人。日本のポッドファーザー。
-- [ポトフさんによる24h配信]()
+- [ポトフさん](https://twitter.com/pot_au_feu) ... 日本ポッドキャスト産みの親の一人。日本のポッドファーザー。実はTwitterも日本人では十数人目に始めたらしい。ポッドキャスト多過ぎてどれをリンクに貼っていのかわかりませんでした...
+- [ポトフさんのあれこれ](https://linktr.ee/potaufeu)
+- [ポトフさんによる24h配信前編](https://www.youtube.com/watch?v=f68owbRSZMk)
+- [ポトフさんによる24h配信後編](https://www.youtube.com/watch?v=8F4JNU9oHEk)
+- [International Podcast Day](https://internationalpodcastday.com/)
+- [ポトフさんによるポッドキャストの歴史講座](https://youtu.be/f68owbRSZMk?t=29641)
 - ポッドキャストの日 ... 9/30
 - [Adam Curry](https://en.wikipedia.org/wiki/Adam_Curry) ... Podcastの産みの親。ポッドファーザー。
 - [Researchat.fm @Amazon music](https://music.amazon.com/podcasts/cf018aa1-40f7-4f59-ba08-d2f61ee1ab75/Researchatfm) ... Researchat.fmがamazon musicで聴くことができるようになりましtあ。
