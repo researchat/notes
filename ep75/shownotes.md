@@ -10,7 +10,7 @@ description: 「この分野のことよく分かっていないのですが」�
 duration: "00:48:15"
 layout: article
 tags:
-  - 論文
+  - 雑談
 title: 75. I'm not sure though
 ---
 
