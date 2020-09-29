@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/75.mp3
 audio_file_size: 52999088
 date: 2020-09-30 19:30:00 +0900
-description: 「この分野のことよく分かっていないのですが」「専門ではないのですが」「初心者なのですが」等から始まる研究者のはなし方について思うことを言い合いました。
+description: 「この分野のことよく分かっていないのですが」「専門外なのですが」「初心者なのですが」等から始まる研究者のはなし方について思うことを言い合いました。
 duration: "00:48:15"
 layout: article
 tags:
@@ -27,8 +27,10 @@ title: 75. I'm not sure though
 - [ポトフさんによるポッドキャストの歴史講座](https://youtu.be/f68owbRSZMk?t=29641) ... 上記の24h配信でポトフさんが語った世界、日本のポッドキャストの歴史
 - [Adam Curry](https://en.wikipedia.org/wiki/Adam_Curry) ... Podcastの産みの親。ポッドファーザー。
 - [隙間に　sukima ni](https://podcasts.apple.com/jp/podcast/%E9%9A%99%E9%96%93%E3%81%AB-sukima-ni/id1495655999) ... 環境音を集めたポッドキャスト
-- [Anchor.fm](https://anchor.fm/) ... スマホ一台から始められます。みんなで始めようポッドキャスト！
+- [Anchor.fm](https://anchor.fm/) ... スマホ一台から始められます。みんなで始めようポッドキャスト
+- [スマホ一台だけでポッドキャストをAnchorで始める方法](http://www.mycupoftea.cc/2017/08/snsanchor.html)
 - [鈴木裕さんのインタビュー](https://news.denfaminicogamer.jp/projectbook/virtua_fighter) ... 鉄拳のプロデューサー原田氏との対談。最高すぎる。
+- ポッドキャストの始め方 ... スマホ一台からサーバーを立ててマイクを買ってやる方法までいろいろあります。はじめられるところからはじめて徐々に環境を整えていきましょう。話したいことがあればそれでいいんです！！！リスナーが一人いればあなたは立派なポッドキャスターなのです。
 
 ## Editorial notes
 - 自分の音声を編集していると否応無しに自分の口癖とその深層心理と向き合うことになります。「〜ていう感じの」で話してしまうことがとても多い...これもある種の言い切りに対する抵抗の表れといえますね。(soh)
