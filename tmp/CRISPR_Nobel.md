@@ -19,3 +19,4 @@
 - A Tool for Genome Editing: The Royal Swedish Academy of Sciences has decided to award Emmanuelle Charpentier and Jennifer A. Doudna the Nobel Prize in Chemistry 2020, for the development of a method for genome editing.
 - ポイントは以下: 
   - In 2012, Charpentier and Doudna reported “that the Cas9 endonuclease can be programmed with guide RNA engineered as a single transcript to cleave any double-stranded DNA sequence” [28]. Their discovery has led to widespread applications of the CRISPR-Cas9 system as a powerful and versatile tool in genome editing.
+  - 一方、Siksnysらは以下のように評価されている： "However, the researchers did not notice the crucial importance of tracrRNA for sequence-specific cleavage of target DNA [29]." なので、ここから後の最小コンポーネントとしての"a single chimeric RNA"にはつながらないという理解なのかな。
