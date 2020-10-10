@@ -3,6 +3,8 @@
 - 簡単なCRISPR研究の歴史
 - 簡単なゲノム編集の歴史
 - CRISPR (clustered regularly interspaced short palindromic repeats) ... Jansen et al. Mol Microbiol (2002)
+
+## Soh, memo
 - Cas9-crRNA ribonucleoprotein complex mediates specific DNA cleavage for adaptive immunity in bacteria (PNAS, 2012) Siksnys論文
   - https://pubmed.ncbi.nlm.nih.gov/22949671/
 - A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. (Science 17 Aug 2012)
@@ -13,7 +15,6 @@
   - [Multiplex Genome Engineering Using CRISPR/Cas Systems. Cong et al., Science 2012](http://science.sciencemag.org/content/339/6121/819.long)これと
   - [RNA-Guided Human Genome Engineering via Cas9. Mali et al., Science 2012](http://science.sciencemag.org/content/339/6121/823.long) Churchのは図とかみるとFengのよりもかなり雑で、相当急いでいたのかなーという印象。基礎的な詳細なデータはFengのやつのほうが多くて充実している。
   - Doudnaたちは哺乳動物細胞の実験の経験がなかったそう（Sohの股聞き）... 先を越されてしまい、同じ内容の論文がeLifeに。https://elifesciences.org/articles/00471 Jan 29, 2013
-
 
 ### ノーベル賞
 - A Tool for Genome Editing: The Royal Swedish Academy of Sciences has decided to award Emmanuelle Charpentier and Jennifer A. Doudna the Nobel Prize in Chemistry 2020, for the development of a method for genome editing.
