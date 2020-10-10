@@ -8,7 +8,12 @@
 - Cas9-crRNA ribonucleoprotein complex mediates specific DNA cleavage for adaptive immunity in bacteria (PNAS, 2012) Siksnys論文
   - https://pubmed.ncbi.nlm.nih.gov/22949671/
 - A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. (Science 17 Aug 2012)
-  - Doudna+Emmanuelle. a single chimeric RNAによる簡便なゲノム編集（バクテリア）の実現
+  - Cas9はcrRNA ()とtracrRNA ()によってガイドされるDNAエンドヌクレアーゼである
+  - 2つのヌクレアーゼドメインはDNAの２つのストランドをそれぞれ切断する
+  - tracrRNAとcrRNAは標的への結合と切断に必須である
+  - Cas9-tracrRNA:crRNA複合体の形成によってR-loopが標的との間に形成される
+  - Cas9はa single chimeric RNAによってプログラムすることが可能である
+  - これによって、Doudna+Emmanuelle. a single chimeric RNAによる簡便なゲノム編集（バクテリア）の実現
   - https://science.sciencemag.org/content/337/6096/816.long
 - Scientifc Background on the Nobel Prize in Chemistry 2020 A TOOL FOR GENOME EDITING https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf 
 - 哺乳動物細胞への応用 (Feng and Church, published 15 Feb 2013; online 2013/01/03かな？; Doudnaたちの半年後)
