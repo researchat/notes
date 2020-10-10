@@ -11,5 +11,5 @@
 - Scientifc Background on the Nobel Prize in Chemistry 2020 A TOOL FOR GENOME EDITING https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf 
 - 哺乳動物細胞への応用 (Feng and Church, published 15 Feb 2013; online 2013/01/03かな？; Doudnaたちの半年後)
   - [Multiplex Genome Engineering Using CRISPR/Cas Systems. Cong et al., Science 2012](http://science.sciencemag.org/content/339/6121/819.long)これと
-  - [RNA-Guided Human Genome Engineering via Cas9. Mali et al., Science 2012](http://science.sciencemag.org/content/339/6121/823.long)
+  - [RNA-Guided Human Genome Engineering via Cas9. Mali et al., Science 2012](http://science.sciencemag.org/content/339/6121/823.long) Churchのは図とかみるとFengのよりもかなり雑で、相当急いでいたのかなーという印象。基礎的な詳細なデータはFengのやつのほうが多くて充実している。
   - Doudnaたちは哺乳動物細胞の実験の経験がなかったそう（Sohの股聞き）... 先を越されてしまい、同じ内容の論文がeLifeに。https://elifesciences.org/articles/00471 Jan 29, 2013
