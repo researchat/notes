@@ -13,3 +13,9 @@
   - [Multiplex Genome Engineering Using CRISPR/Cas Systems. Cong et al., Science 2012](http://science.sciencemag.org/content/339/6121/819.long)これと
   - [RNA-Guided Human Genome Engineering via Cas9. Mali et al., Science 2012](http://science.sciencemag.org/content/339/6121/823.long) Churchのは図とかみるとFengのよりもかなり雑で、相当急いでいたのかなーという印象。基礎的な詳細なデータはFengのやつのほうが多くて充実している。
   - Doudnaたちは哺乳動物細胞の実験の経験がなかったそう（Sohの股聞き）... 先を越されてしまい、同じ内容の論文がeLifeに。https://elifesciences.org/articles/00471 Jan 29, 2013
+
+
+### ノーベル賞
+- A Tool for Genome Editing: The Royal Swedish Academy of Sciences has decided to award Emmanuelle Charpentier and Jennifer A. Doudna the Nobel Prize in Chemistry 2020, for the development of a method for genome editing.
+- ポイントは以下: 
+  - In 2012, Charpentier and Doudna reported “that the Cas9 endonuclease can be programmed with guide RNA engineered as a single transcript to cleave any double-stranded DNA sequence” [28]. Their discovery has led to widespread applications of the CRISPR-Cas9 system as a powerful and versatile tool in genome editing.
