@@ -3,12 +3,13 @@
 - 簡単なCRISPR研究の歴史
 - 簡単なゲノム編集の歴史
 - CRISPR (clustered regularly interspaced short palindromic repeats) ... Jansen et al. Mol Microbiol (2002)
+- The Streptococcus thermophilus CRISPR/Cas system provides immunity in Escherichia coli. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3241640/ Nucleic Acids Res. 2011 Nov; 39(21): 9275–9282.
 
 ## Soh, memo
 - Cas9-crRNA ribonucleoprotein complex mediates specific DNA cleavage for adaptive immunity in bacteria (PNAS, 2012) Siksnys論文
   - https://pubmed.ncbi.nlm.nih.gov/22949671/
 - A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. (Science 17 Aug 2012)
-  - Cas9はcrRNA ()とtracrRNA ()によってガイドされるDNAエンドヌクレアーゼである
+  - Cas9はcrRNA (CRISPR RNA)とtracrRNA (trans-activating crRNA)によってガイドされるDNAエンドヌクレアーゼである
   - 2つのヌクレアーゼドメインはDNAの２つのストランドをそれぞれ切断する
   - tracrRNAとcrRNAは標的への結合と切断に必須である
   - Cas9-tracrRNA:crRNA複合体の形成によってR-loopが標的との間に形成される
