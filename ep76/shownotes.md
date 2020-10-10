@@ -15,7 +15,8 @@ tags:
   - インタビュー
 title: 76. X
 ---
-
+## Show notes
+- 
 
 
 ## Editorial notes
