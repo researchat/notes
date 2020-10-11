@@ -11,13 +11,49 @@ description:
 duration: "02:XX:XX"
 layout: article
 tags:
-  - 留学
-  - インタビュー
+  - ゲノム編集
 title: 76. X
 ---
 ## Show notes
-- 
-
+- dessan
+- ep75
+- ゲノム編集
+- ノーベル化学賞 2020
+- シャルパンティエ
+- ダウドナ
+- ResearchatのCRISPR回 2, 
+- Researchat episode 37, 51
+- Researchat episode  38, 58
+- 遺伝学
+- KO 遺伝子破壊
+- 順遺伝学
+- 逆遺伝学
+- ノックイン
+- 表現型
+- シーケンサー
+- Thomas Morgan
+- エッセンシャルジーン
+- 細胞種
+- ZFN
+- Zinc Finger
+- Zinc Finger domain
+- ヌクレアーゼ
+- Fok1
+- 制限酵素　... researchat.fm ep72
+- TALEN
+- golden gate法
+- gRNA
+- crRNA
+- tracrRNA
+- Science 2012
+- Ribozyme
+- Ago
+- RNAI
+- Dicer
 
 ## Editorial notes
+- (soh)
+- (dessan)
 - (tadasu)
+- (coela)
+
