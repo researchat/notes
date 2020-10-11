@@ -54,7 +54,7 @@ title: 76. X
 - Dicer
 
 ## Editorial notes
-- (soh)
+- 実はdessanと初めて話しました。そしてまだ対面では会ったことはないのちょっと面白くないですか？(soh)
 - ノーベルのおかげで、急遽参加させていただきました！(dessan)
 - One TALEN 「切断確認」(tadasu)
 - (coela)
