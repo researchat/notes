@@ -19,11 +19,13 @@ title: 76. X
 - ep75
 - ゲノム編集
 - ノーベル化学賞 2020
+- ノーベル財団による説明
 - シャルパンティエ
 - ダウドナ
 - ResearchatのCRISPR回 2, 
 - Researchat episode 37, 51
 - Researchat episode  38, 58
+- 山本本
 - 遺伝学
 - KO 遺伝子破壊
 - 順遺伝学
