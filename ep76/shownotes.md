@@ -55,7 +55,7 @@ title: 76. X
 
 ## Editorial notes
 - (soh)
-- (dessan)
-- (tadasu)
+- ノーベルのおかげで、急遽参加させていただきました！(dessan)
+- One TALEN 「切断確認」(tadasu)
 - (coela)
 
