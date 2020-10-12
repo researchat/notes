@@ -14,6 +14,10 @@ tags:
   - ゲノム編集
 title: 76. X
 ---
+## Title idea
+- Chimeric RNA
+- Clustered Regularly Interspaced Short Palindromic Repeats
+---
 ## Show notes
 - ゲノム編集
 - ノーベル化学賞 2020
