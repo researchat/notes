@@ -12,7 +12,7 @@ duration: "01:13:14"
 layout: article
 tags:
   - ゲノム編集
-title: 76. X
+title: 76. The Genius Idea (仮)
 ---
 ## Title idea
 - Chimeric RNA
