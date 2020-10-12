@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/76.mp3
 audio_file_size: 81722251
 date: 2020-10-13 10:30:00 +0900
-description: 
+description: ゲノム編集技術について話しました。
 duration: "01:13:14"
 layout: article
 tags:
