@@ -7,12 +7,12 @@ actor_ids:
 audio_file_path: /audio/76.mp3
 audio_file_size: 81722251
 date: 2020-10-13 10:30:00 +0900
-description: Dessanをゲストに呼び、CRISPR–Cas9やTALENなどのゲノム編集技術とその背後にある遺伝学について話しました。
+description: dessanをゲストに呼び、CRISPR–Cas9やTALENなどのゲノム編集技術とその背後にある遺伝学について話しました。
 duration: "01:13:14"
 layout: article
 tags:
   - ゲノム編集
-title: 76. The Genius Idea (仮)
+title: 76. The Chimeric RNA
 ---
 ## Title idea
 - Chimeric RNA
@@ -25,7 +25,7 @@ title: 76. The Genius Idea (仮)
 - [Emmanuelle Charpentier](https://en.wikipedia.org/wiki/Emmanuelle_Charpentier)...DoudnaとCharpentierは2011年に学会で知り合い、そこからノーベル賞につながる共同研究を開始した。
 - [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna)...CharpentierとともにCRISPRの仕組みを明らかにし、その後のゲノム編集そしてCasタンパクを用いた核酸検出など多大な貢献をした。
 - [2. An emerging technology is always not perfect | Researchat.fm](https://researchat.fm/episode/2)...始まって間もない第二回でもざっくりとCRISPR–Cas9について解説しました。
-- Dessanが出た過去回のResearchat.fmのエピソード...[ep37](https://researchat.fm/episode/37), [ep38](https://researchat.fm/episode/38), [ep51](https://researchat.fm/episode/51), [ep58](https://researchat.fm/episode/58)
+- dessanが出た過去回のResearchat.fmのエピソード...[ep37](https://researchat.fm/episode/37), [ep38](https://researchat.fm/episode/38), [ep51](https://researchat.fm/episode/51), [ep58](https://researchat.fm/episode/58)
 - [ゲノム編集とはなにか　「ＤＮＡのハサミ」クリスパーで生命科学はどう変わるのか (ブルーバックス)  (Amazon)](https://www.amazon.co.jp/dp/B08FMCZB75/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1?tag=researchatf04-22/)
 - [遺伝学 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%A6#:~:text=%E9%81%BA%E4%BC%9D%E5%AD%A6%EF%BC%88%E3%81%84%E3%81%A7%E3%82%93%E3%81%8C%E3%81%8F,%E3%82%82%E3%81%AE%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82)
 - [遺伝学的スクリーニング](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%A6%E7%9A%84%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0)...逆遺伝学と順遺伝学について。
