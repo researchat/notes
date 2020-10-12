@@ -22,11 +22,11 @@ title: 76. X
 ## Show notes
 - ゲノム編集
 - ノーベル化学賞 2020
-- ノーベル財団による説明
+- [Scientifc Background on the Nobel Prize in Chemistry 2020 A TOOL FOR GENOME EDITING](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)...ノーベル財団による詳細なCRISPR研究のレビュー、そしてなぜDoudnaとCharpentierの二人が受賞に値するのかについて説明している。
 - シャルパンティエ
 - ダウドナ
 - [2. An emerging technology is always not perfect | Researchat.fm](https://researchat.fm/episode/2)...始まって間もない第二回でもざっくりとCRISPR–Cas9について解説しました。
-- [Dessanが出た過去回のエピソード]...[ep37](https://researchat.fm/episode/37), [ep38](https://researchat.fm/episode/38), [ep51](https://researchat.fm/episode/51), [ep58](https://researchat.fm/episode/58)
+- Dessanが出た過去回のResearchat.fmのエピソード...[ep37](https://researchat.fm/episode/37), [ep38](https://researchat.fm/episode/38), [ep51](https://researchat.fm/episode/51), [ep58](https://researchat.fm/episode/58)
 - 山本本
 - 遺伝学
 - KO 遺伝子破壊
@@ -49,7 +49,7 @@ title: 76. X
 - gRNA
 - crRNA
 - tracrRNA
-- Science 2012
+- [A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity. Jinek et al _Science_ 2012.](https://science.sciencemag.org/content/337/6096/816.long)...ノーベル賞の受賞に直接的に関連するDoudnaとCharpentierらによる論文。この論文によってCas9によるゲノム編集の仕組みの大枠が解明された。
 - Ribozyme
 - Ago
 - RNAI
