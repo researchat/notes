@@ -20,8 +20,7 @@ title: 76. X
 ---
 
 ## Show notes
-- [The Nobel Prize in Chemistry 2020](https://www.nobelprize.org/prizes/chemistry/2020/summary/)..._"The Nobel Prize in Chemistry 2020 was awarded jointly to Emmanuelle Charpentier and Jennifer A. Doudna "for the development of a method for genome editing."_
-"
+- [The Nobel Prize in Chemistry 2020](https://www.nobelprize.org/prizes/chemistry/2020/summary/)..._The Nobel Prize in Chemistry 2020 was awarded jointly to Emmanuelle Charpentier and Jennifer A. Doudna "for the development of a method for genome editing."_
 - [Scientifc Background on the Nobel Prize in Chemistry 2020 A TOOL FOR GENOME EDITING](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)...ノーベル財団による詳細なCRISPR研究のレビュー、そしてなぜDoudnaとCharpentierの二人が受賞に値するのかについて説明している。
 - [Emmanuelle Charpentier](https://en.wikipedia.org/wiki/Emmanuelle_Charpentier)...DoudnaとCharpentierは2011年に学会で知り合い、そこからノーベル賞につながる共同研究を開始した。
 - [Jennifer Doudna](https://en.wikipedia.org/wiki/Jennifer_Doudna)...CharpentierとともにCRISPRの仕組みを明らかにし、その後のゲノム編集そしてCasタンパクを用いた核酸検出など多大な貢献をした。
