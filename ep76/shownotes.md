@@ -5,10 +5,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/76.mp3
-audio_file_size: X
+audio_file_size: 81722251
 date: 2020-10-13 10:30:00 +0900
 description: 
-duration: "02:XX:XX"
+duration: "01:13:14"
 layout: article
 tags:
   - ゲノム編集
