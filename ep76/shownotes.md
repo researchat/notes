@@ -29,7 +29,7 @@ title: 76. The Chimeric RNA
 - [表現型 (Wikipedia)](https://ja.wikipedia.org/wiki/%E8%A1%A8%E7%8F%BE%E5%9E%8B)
 - [Thomas Hunt Morgan (Wikipedia)](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan)
 - [遺伝子の必須性は細胞の進化可能性にリンクした定量的特性である](https://tenure5.vbl.okayama-u.ac.jp/HM_blog/?p=3153)...必須遺伝子などについて
-- [Cell type (Wikipedia)](https://en.wikipedia.org/wiki/Cell_type)...日本語ではセルタイプあるいは細胞腫
+- [Cell type (Wikipedia)](https://en.wikipedia.org/wiki/Cell_type)...日本語ではセルタイプあるいは細胞種
 - [部位特異的ヌクレアーゼを基盤とするゲノム編集技術](http://jsv.umin.jp/journal/v64-1pdf/virus64-1_075-082.pdf)...ZFNやFok1などについての山本先生らによる日本語解説論文。
 - [72. The Hitchhiker's Guide to the Enzyme Galaxy | Researchat.fm](https://researchat.fm/episode/72)...エピソード72では制限酵素の多様な世界について紹介しています。
 - [TALEN (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%8E%E3%83%A0%E7%B7%A8%E9%9B%86#TALEN)
