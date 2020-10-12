@@ -20,7 +20,7 @@ title: 76. X
 ---
 
 ## Show notes
-- [The Nobel Prize in Chemistry 2020](https://www.nobelprize.org/prizes/chemistry/2020/summary/)... "The Nobel Prize in Chemistry 2020 was awarded jointly to Emmanuelle Charpentier and Jennifer A. Doudna "for the development of a method for genome editing."
+- [The Nobel Prize in Chemistry 2020](https://www.nobelprize.org/prizes/chemistry/2020/summary/)..._"The Nobel Prize in Chemistry 2020 was awarded jointly to Emmanuelle Charpentier and Jennifer A. Doudna "for the development of a method for genome editing."_
 "
 - [Scientifc Background on the Nobel Prize in Chemistry 2020 A TOOL FOR GENOME EDITING](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)...ノーベル財団による詳細なCRISPR研究のレビュー、そしてなぜDoudnaとCharpentierの二人が受賞に値するのかについて説明している。
 - [Emmanuelle_Charpentier](https://en.wikipedia.org/wiki/Emmanuelle_Charpentier)...DoudnaとCharpentierは2011年に学会で知り合い、そこからノーベル賞につながる共同研究を開始した。
@@ -28,21 +28,14 @@ title: 76. X
 - [2. An emerging technology is always not perfect | Researchat.fm](https://researchat.fm/episode/2)...始まって間もない第二回でもざっくりとCRISPR–Cas9について解説しました。
 - Dessanが出た過去回のResearchat.fmのエピソード...[ep37](https://researchat.fm/episode/37), [ep38](https://researchat.fm/episode/38), [ep51](https://researchat.fm/episode/51), [ep58](https://researchat.fm/episode/58)
 - [ゲノム編集とはなにか　「ＤＮＡのハサミ」クリスパーで生命科学はどう変わるのか (ブルーバックス)  (Amazon)](https://www.amazon.co.jp/dp/B08FMCZB75/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-- 遺伝学
-- KO 遺伝子破壊
-- 順遺伝学
-- 逆遺伝学
-- ノックイン
-- 表現型
-- シーケンサー
-- Thomas Morgan
-- エッセンシャルジーン
-- 細胞種
-- ZFN
-- Zinc Finger
-- Zinc Finger domain
-- ヌクレアーゼ
-- Fok1
+- [遺伝学 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%A6#:~:text=%E9%81%BA%E4%BC%9D%E5%AD%A6%EF%BC%88%E3%81%84%E3%81%A7%E3%82%93%E3%81%8C%E3%81%8F,%E3%82%82%E3%81%AE%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82)
+- [遺伝学的スクリーニング](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%A6%E7%9A%84%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0)...逆遺伝学と順遺伝学について。
+- [トランスジェニック動物](https://bsd.neuroinf.jp/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E5%8B%95%E7%89%A9)
+- [表現型 (Wikipedia)](https://ja.wikipedia.org/wiki/%E8%A1%A8%E7%8F%BE%E5%9E%8B)
+- [Thomas Hunt Morgan (Wikipedia)](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan)
+- [遺伝子の必須性は細胞の進化可能性にリンクした定量的特性である](https://tenure5.vbl.okayama-u.ac.jp/HM_blog/?p=3153)...必須遺伝子などについて
+- [Cell type (Wikipedia)](https://en.wikipedia.org/wiki/Cell_type)...日本語ではセルタイプあるいは細胞腫
+- [部位特異的ヌクレアーゼを基盤とするゲノム編集技術](http://jsv.umin.jp/journal/v64-1pdf/virus64-1_075-082.pdf)...ZFNやFok1などについての山本先生らによる日本語解説論文。
 - [72. The Hitchhiker's Guide to the Enzyme Galaxy | Researchat.fm](https://researchat.fm/episode/72)...エピソード72では制限酵素の多様な世界について紹介しています。
 - [TALEN (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%8E%E3%83%A0%E7%B7%A8%E9%9B%86#TALEN)
 - Golden Gate Assembly法...Type IISと呼ばれる制限酵素を用いることで、複数のDNA断片を一度に連結させることのできるクローニング技術。
@@ -50,10 +43,8 @@ title: 76. X
 - crRNA...CRISPR RNA
 - tracrRNA...trans-activating crRNA
 - [A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity. Jinek et al _Science_ 2012.](https://science.sciencemag.org/content/337/6096/816.long)...ノーベル賞の受賞に直接的に関連するDoudnaとCharpentierらによる論文。この仕事によってCas9によるゲノム編集の仕組みの大枠が解明された。
-- Ribozyme
-- Ago
-- RNAI
-- Dicer
+- [Ribozyme (Wikipedia)](https://en.wikipedia.org/wiki/Ribozyme)
+- [Argonaute (Ago)](https://en.wikipedia.org/wiki/Argonaute)
 
 ## Editorial notes
 - 実はdessanと初めて話しました。そしてまだ対面では会ったことはないのちょっと面白くないですか？(soh)
