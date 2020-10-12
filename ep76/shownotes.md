@@ -14,10 +14,6 @@ tags:
   - ゲノム編集
 title: 76. The Chimeric RNA
 ---
-## Title idea
-- Chimeric RNA
-- Clustered Regularly Interspaced Short Palindromic Repeats
----
 
 ## Show notes
 - [The Nobel Prize in Chemistry 2020](https://www.nobelprize.org/prizes/chemistry/2020/summary/)..._The Nobel Prize in Chemistry 2020 was awarded jointly to Emmanuelle Charpentier and Jennifer A. Doudna "for the development of a method for genome editing."_
