@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/76.mp3
 audio_file_size: 81722251
 date: 2020-10-13 10:30:00 +0900
-description: ゲノム編集技術について話しました。
+description: Dessanをゲストに呼び、CRISPR–Cas9やTALENなどのゲノム編集技術とその背後にある遺伝学について話しました。
 duration: "01:13:14"
 layout: article
 tags:
@@ -18,15 +18,15 @@ title: 76. X
 - Chimeric RNA
 - Clustered Regularly Interspaced Short Palindromic Repeats
 ---
+
 ## Show notes
 - ゲノム編集
 - ノーベル化学賞 2020
 - ノーベル財団による説明
 - シャルパンティエ
 - ダウドナ
-- ResearchatのCRISPR回 2, 
-- Researchat episode 37, 51
-- Researchat episode  38, 58
+- [2. An emerging technology is always not perfect | Researchat.fm](https://researchat.fm/episode/2)...始まって間もない第二回でもざっくりとCRISPR–Cas9について解説しました。
+- [Dessanが出た過去回のエピソード]...[ep37](https://researchat.fm/episode/37), [ep38](https://researchat.fm/episode/38), [ep51](https://researchat.fm/episode/51), [ep58](https://researchat.fm/episode/58)
 - 山本本
 - 遺伝学
 - KO 遺伝子破壊
@@ -60,4 +60,3 @@ title: 76. X
 - ノーベルのおかげで、急遽参加させていただきました！(dessan)
 - \~亜米利加男塾\~ 王TALEN 「切断確認」(tadasu)
 - dessan相変わらずの分かりやすさでした！何かに例える事のいい側面と失われる情報の側面が悩ましい。(coela)
-
