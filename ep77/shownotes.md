@@ -66,7 +66,7 @@ title: 77. XXXX
 - iPS細胞
 - 国境なき医師団
 - Carl Disseroth
-- Xiaowei Zhang
+- Xiaowei Zhuang
 - Ed Boyden
 - Expansion microscopy
 - Renato Dulbecco
@@ -74,7 +74,7 @@ title: 77. XXXX
 ## Editorial notes
 - (soh)
 - (dessan)
-- (tadasu)
+- いい感じのグルーヴがみられてよかったです。(tadasu)
 - (coela)
 
 
