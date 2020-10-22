@@ -1,4 +1,23 @@
-- ノーベル賞のレポート
+---
+actor_ids:
+  - soh
+  - dessan
+  - tadasu
+  - coela
+audio_file_path: /audio/77.mp3
+audio_file_size: 
+date: 2020-10-23 10:30:00 +0900
+description: dessanをゲストに迎え、CRISPRの仕組みを利用した新しい技術について話しました。
+duration: "01:XX:XX"
+layout: article
+tags:
+  - ゲノム編集
+title: 77. XXXX
+---
+
+## Show notes
+- [The Nobel Prize in Chemistry 2020](https://www.nobelprize.org/prizes/chemistry/2020/summary/)..._The Nobel Prize in Chemistry 2020 was awarded jointly to Emmanuelle Charpentier and Jennifer A. Doudna "for the development of a method for genome editing."_
+- [Scientifc Background on the Nobel Prize in Chemistry 2020 A TOOL FOR GENOME EDITING](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)...ノーベル財団による詳細なCRISPR研究のレビュー、そしてなぜDoudnaとCharpentierの二人が受賞に値するのかについて説明している。
 - researchat.fm ep76
 - ゲノム編集
 - Doudna とシャルパンティエ Science 2012
@@ -43,7 +62,7 @@
 - self guiding targeting RNA
 - nobel award 10 tips
 - ブラッグ父子
--  マリーキュリー
+- マリーキュリー
 - iPS細胞
 - 国境なき医師団
 - Carl Disseroth
@@ -51,4 +70,12 @@
 - Ed Boyden
 - Expansion microscopy
 - Renato Dulbecco
+
+## Editorial notes
+- (soh)
+- (dessan)
+- (tadasu)
+- (coela)
+
+
 
