@@ -1,0 +1,54 @@
+- ノーベル賞のレポート
+- researchat.fm ep76
+- ゲノム編集
+- Doudna とシャルパンティエ Science 2012
+- Feng Zhangのペーパー 2013
+- George Church 2013
+- Feng Zhangのポッドキャスト？
+- spCas9
+- Cas1
+- Cas2
+- オペロン
+- Cas13b
+- Cas14
+- CasX
+- メタゲノム
+- transposon型のCas
+- eLife Doudna
+- Deep Learning ep 51
+- Nakade 2014
+- ブロックチェーン
+- Nickase
+- TALENによるイメージング Miyanari
+- CRISPR imaging
+- Rainbow CRISPR imaging
+- MS2
+- pp7
+- Live FISH
+- Sun tag
+- Split GFP
+- CRISPRによる転写抑制
+- CRISPRによるepigenetic writing
+- クロマチンをくっつけるCRISPR論文
+- ep73
+- ep9
+- lineage tracing by CRISPR
+- George church 馬の動画
+- transposonによるlineage tracing
+- mitochondria によるlineage tracing
+- domino
+- Cre loxp DNA
+- 光遺伝学
+- bacteria population
+- self guiding targeting RNA
+- nobel award 10 tips
+- ブラッグ父子
+-  マリーキュリー
+- iPS細胞
+- 国境なき医師団
+- Carl Disseroth
+- Xiaowei Zhang
+- Ed Boyden
+- Expansion microscopy
+- Renato Dulbecco
+
