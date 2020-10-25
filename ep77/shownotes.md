@@ -18,22 +18,19 @@ title: 77. XXXX
 ## Show notes
 - [The Nobel Prize in Chemistry 2020](https://www.nobelprize.org/prizes/chemistry/2020/summary/)..._The Nobel Prize in Chemistry 2020 was awarded jointly to Emmanuelle Charpentier and Jennifer A. Doudna "for the development of a method for genome editing."_
 - [Scientifc Background on the Nobel Prize in Chemistry 2020 A TOOL FOR GENOME EDITING](https://www.nobelprize.org/uploads/2020/10/advanced-chemistryprize2020.pdf)...ノーベル財団による詳細なCRISPR研究のレビュー、そしてなぜDoudnaとCharpentierの二人が受賞に値するのかについて説明している。
-- researchat.fm ep76
-- ゲノム編集
-- Doudna とシャルパンティエ Science 2012
-- Feng Zhangのペーパー 2013
-- George Church 2013
-- Feng Zhangのポッドキャスト？
-- spCas9
-- Cas1
-- Cas2
+- [76. The Chimeric RNA, Researchat.fm](https://researchat.fm/episode/76)...ゲノム編集についてdessanをゲストに迎えて話しました。
+- [A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity. _Science_ 2012](https://science.sciencemag.org/content/337/6096/816)...CharpentierとDoudnaによるノーベル賞につながる論文の一つ。CRISPR–Cas9システムがこの論文によってその大枠が明らかにされた。
+- [Multiplex Genome Engineering Using CRISPR/Cas Systems. _Science_ 2013](https://science.sciencemag.org/content/339/6121/819)...Feng Zhang labによるヒト細胞におけるゲノム編集技術の報告。
+- [RNA-Guided Human Genome Engineering via Cas9. _Science_ 2012](https://science.sciencemag.org/content/339/6121/823)...George Church labによるヒト細胞におけるゲノム編集技術の報告も同時に掲載された。
+- [First rounders: Feng Zhang (Podcast)](https://podcasts.apple.com/gb/podcast/first-rounders-feng-zhang/id562626393?i=1000437436422)...Feng Zhangが出演したNatute Biotechnologyのポッドキャスト。おすすめです。
+- Cas1-Cas2タンパク
 - オペロン
-- Cas13b
-- Cas14
-- CasX
+- [26. Cool tech googlability, Researchat.fm](https://researchat.fm/episode/26)...RNAを標的にできるCas13bについては、エピソード26で紹介しました。
+- [Cas14 (crisp_bio)](http://crisp-bio.blog.jp/archives/17930637.html)
+- [CasX enzymes comprise a distinct family of RNA-guided genome editors. _Nature_ 2019.](https://www.nature.com/articles/s41586-019-0908-x)...CasX
 - メタゲノム
-- transposon型のCas
-- eLife Doudna
+- [Transposon-encoded CRISPR–Cas systems direct RNA-guided DNA integration. _Nature_ 2019.]...トランスポゾン型のCasシステムの報告。
+- [RNA-programmed genome editing in human cells. _eLife_ 2013](https://elifesciences.org/articles/00471)...Doudna labによるヒト細胞におけるゲノム編集技術の報告。FengやChurchらよりも少しだけ遅かった。
 - Deep Learning ep 51
 - Nakade 2014
 - ブロックチェーン
@@ -76,6 +73,3 @@ title: 77. XXXX
 - (dessan)
 - いい感じのグルーヴがみられてよかったです。(tadasu)
 - 最初に喋らんと出番が無くなる！と思ってこれまでの流れをまとめてみたんですが細かく色々ミスってました…(coela)
-
-
-
