@@ -12,7 +12,7 @@ duration: "01:XX:XX"
 layout: article
 tags:
   - ゲノム編集
-title: 77. Beyond CRISPR (仮) 
+title: 77. Beyond CRISPR / At The Conference Floor (仮) 
 ---
 
 ## Show notes
@@ -36,7 +36,7 @@ title: 77. Beyond CRISPR (仮)
 - [Live cell imaging of low- and non-repetitive chromosome loci using CRISPR-Cas9. _Nature Communications_ 2017](https://www.nature.com/articles/ncomms14725)...ガイドRNAにMS2 loopをたくさんつなげることで (14個!)、明るい輝点を得ることができる。
 - [CRISPR-mediated live imaging of genome editing and transcription. _Science_ 2019](https://science.sciencemag.org/content/365/6459/1301.abstract)...こちらは蛍光標識したガイドRNAを利用した生細胞イメージング方法。
 - [A protein tagging system for signal amplification in gene expression and fluorescence imaging. _Cell_ 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252608/)...Sun tagとCas9を用いたイメージング方法。
-- [Split Green Fluorescent Proteins: Scope, Limitations, and Outlook.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537611)...Split GFP
+- [Split Green Fluorescent Proteins: Scope, Limitations, and Outlook](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537611)...Split GFP
 - [Programmable RNA tracking in Live Cells with CRISPR/Cas9. _Cell_ 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826288/)...PAMmerによるSpCas9のmRNAイメージング
 - [CRISPR-Mediated Programmable 3D Genome Positioning and Nuclear Organization. _Cell_ 2018](https://www.sciencedirect.com/science/article/pii/S0092867418311851)
 - [9. One-shot beautiful experiment (Researchat.fm)](https://researchat.fm/episode/9)...人工的なDNA領域へ細胞内の情報（細胞系譜）を書き込む技術についてエピソード9で話しました。
@@ -53,11 +53,13 @@ title: 77. Beyond CRISPR (仮)
 - [iPS細胞 (Wikipedia)](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E5%A4%9A%E8%83%BD%E6%80%A7%E5%B9%B9%E7%B4%B0%E8%83%9E)
 - [国境なき医師団](https://www.msf.or.jp/about/nobel/)
 - [Human Genome Project](https://web.ornl.gov/sci/techresources/Human_Genome/index.shtml)
+- [Xiaowei Zhuang](http://zhuang.harvard.edu/)
 - [Expansion microscopy (Wikipedia)](https://en.wikipedia.org/wiki/Expansion_microscopy)
 - [Renato Dulbecco (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%88%E3%83%BB%E3%83%89%E3%82%A5%E3%83%AB%E3%83%99%E3%83%83%E3%82%B3)
+- [Programmable RNA editing by recruiting endogenous ADAR using engineered RNAs. _Nature Biotechnology_ 2019](https://www.nature.com/articles/s41587-019-0178-z)...LEAPER
 
 ## Editorial notes
-- (soh)
+- 1分でわかるとか無理なのですが、一方で言葉を尽くせばわかる可能性についても同時に信じておりますので...(soh)
 - (dessan)
 - いい感じのグルーヴがみられてよかったです。(tadasu)
-- 最初に喋らんと出番が無くなる！と思ってこれまでの流れをまとめてみたんですが細かく色々ミスってました…(coela)
+- 最初に喋らんと出番が無くなる！と思ってこれまでの流れをまとめてみたんですが細かく色々ミスってました...(coela)
