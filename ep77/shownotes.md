@@ -45,8 +45,7 @@ title: 77. XXXX
 - [Programmable RNA tracking in Live Cells with CRISPR/Cas9. _Cell_ 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826288/)...PAMmerによるSpCas9のmRNAイメージング
 - [CRISPR-Mediated Programmable 3D Genome Positioning and Nuclear Organization. _Cell_ 2018](https://www.sciencedirect.com/science/article/pii/S0092867418311851)
 - [9. One-shot beautiful experiment (Researchat.fm)](https://researchat.fm/episode/9)...人工的なDNA領域へ細胞内の情報（細胞系譜）を書き込む技術についてエピソード9で話しました。
-- lineage tracing by CRISPR
-- George church 馬の動画
+- [CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria. _Nature_ 2017](https://www.nature.com/articles/nature23017)...George churchらは、Cas1-Cas2システムによって馬の動画をバクテリアゲノム書き込み、それを読み出すことに成功した。
 - transposonによるlineage tracing
 - mitochondria によるlineage tracing
 - domino
