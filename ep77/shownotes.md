@@ -32,8 +32,9 @@ title: 77. XXXX
 - [Transposon-encoded CRISPR–Cas systems direct RNA-guided DNA integration. _Nature_ 2019.](https://www.nature.com/articles/s41586-019-1323-z)...トランスポゾン型のCasシステムの報告。
 - [RNA-programmed genome editing in human cells. _eLife_ 2013](https://elifesciences.org/articles/00471)...Doudna labによるヒト細胞におけるゲノム編集技術の報告。FengやChurchらよりも少しだけ遅かった。
 - [Microhomology-mediated end-joining-dependent integration of donor DNA in cells and animals using TALENs and CRISPR/Cas9. _Nature Communications_ 2014.](https://www.nature.com/articles/ncomms6560)
-- Deep Learning ep 51
-- Nakade 2014
+- [Ep52. Split into a row](https://researchat.fm/episode/52)
+- [Double Nicking by RNA-Guided CRISPR Cas9 for Enhanced Genome Editing Specificity. _Cell_ 2013](https://www.sciencedirect.com/science/article/pii/S0092867413010155)...Double nicking (2つのgRNAとCas9 nickase)によるより正確なゲノム編集方法が示された。
+- [SAM. Nature]()
 - ブロックチェーン
 - Nickase
 - TALENによるイメージング Miyanari
