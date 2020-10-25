@@ -5,14 +5,14 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/77.mp3
-audio_file_size: 
-date: 2020-10-23 10:30:00 +0900
+audio_file_size: 74008622 
+date: 2020-10-25 10:30:00 +0900
 description: dessanをゲストに迎え、CRISPRの仕組みを利用した様々な技術や遺伝子回路、その先について話しました。
-duration: "01:XX:XX"
+duration: "01:32:38"
 layout: article
 tags:
   - ゲノム編集
-title: 77. Beyond CRISPR / At The Conference Floor (仮) 
+title: 77. At The Conference Floor
 ---
 
 ## Show notes
@@ -61,5 +61,5 @@ title: 77. Beyond CRISPR / At The Conference Floor (仮)
 ## Editorial notes
 - 1分でわかるとか無理なのですが、一方で言葉を尽くせばわかる可能性についても同時に信じておりますので...(soh)
 - (dessan)
-- いい感じのグルーヴがみられてよかったです。(tadasu)
+- いい感じのグルーヴがみられてよかったです。ポッドキャストやってきてよかったです。(tadasu)
 - 最初に喋らんと出番が無くなる！と思ってこれまでの流れをまとめてみたんですが細かく色々ミスってました...(coela)
