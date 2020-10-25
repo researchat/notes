@@ -43,10 +43,8 @@ title: 77. XXXX
 - [A protein tagging system for signal amplification in gene expression and fluorescence imaging. _Cell_ 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252608/)...Sun tagとCas9を用いたイメージング方法。
 - [Split Green Fluorescent Proteins: Scope, Limitations, and Outlook.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537611)...Split GFP
 - [Programmable RNA tracking in Live Cells with CRISPR/Cas9. _Cell_ 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826288/)...PAMmerによるSpCas9のmRNAイメージング
-- CRISPRによるepigenetic writing
-- クロマチンをくっつけるCRISPR論文
-- ep73
-- ep9
+- [CRISPR-Mediated Programmable 3D Genome Positioning and Nuclear Organization. _Cell_ 2018](https://www.sciencedirect.com/science/article/pii/S0092867418311851)
+- [9. One-shot beautiful experiment (Researchat.fm)](https://researchat.fm/episode/9)...人工的なDNA領域へ細胞内の情報（細胞系譜）を書き込む技術についてエピソード9で話しました。
 - lineage tracing by CRISPR
 - George church 馬の動画
 - transposonによるlineage tracing
