@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/77.mp3
 audio_file_size: 
 date: 2020-10-23 10:30:00 +0900
-description: dessanをゲストに迎え、CRISPRの仕組みを利用した新しい技術について話しました。
+description: dessanをゲストに迎え、CRISPRの仕組みを利用した様々な技術や遺伝子回路、その先について話しました。
 duration: "01:XX:XX"
 layout: article
 tags:
@@ -23,8 +23,6 @@ title: 77. Beyond CRISPR (仮)
 - [Multiplex Genome Engineering Using CRISPR/Cas Systems. _Science_ 2013](https://science.sciencemag.org/content/339/6121/819)...Feng Zhang labによるヒト細胞におけるゲノム編集技術の報告。
 - [RNA-Guided Human Genome Engineering via Cas9. _Science_ 2012](https://science.sciencemag.org/content/339/6121/823)...George Church labによるヒト細胞におけるゲノム編集技術の報告も同時に掲載された。
 - [First rounders: Feng Zhang (Podcast)](https://podcasts.apple.com/gb/podcast/first-rounders-feng-zhang/id562626393?i=1000437436422)...Feng Zhangが出演したNatute Biotechnologyのポッドキャスト。おすすめです。
-- Cas1-Cas2タンパク
-- オペロン
 - [26. Cool tech googlability, Researchat.fm](https://researchat.fm/episode/26)...RNAを標的にできるCas13bについては、エピソード26で紹介しました。
 - [Cas14 (crisp_bio)](http://crisp-bio.blog.jp/archives/17930637.html)..."Cas14は、PAMに依存しないssDNA切断活性に加えて、PAMに依存するdsDNA切断活性も帯びている"
 - [CasX enzymes comprise a distinct family of RNA-guided genome editors. _Nature_ 2019](https://www.nature.com/articles/s41586-019-0908-x)...CasX
@@ -34,9 +32,7 @@ title: 77. Beyond CRISPR (仮)
 - [Ep52. Split into a row](https://researchat.fm/episode/52)
 - [Double Nicking by RNA-Guided CRISPR Cas9 for Enhanced Genome Editing Specificity. _Cell_ 2013](https://www.sciencedirect.com/science/article/pii/S0092867413010155)...Double nicking (2つのgRNAとCas9 nickase)によるより正確なゲノム編集方法が示された。
 - [Genome-scale transcriptional activation by an engineered CRISPR-Cas9 complex. _Nature_ 2015](https://www.nature.com/articles/nature14136)...Cas9を用いた転写の活性化手法。
-- TALENによるイメージング Miyanari
 - [Dynamic Imaging of Genomic Loci in Living Human Cells by an Optimized CRISPR/Cas System. _Cell_ 2013](https://www.cell.com/fulltext/S0092-8674%2813%2901531-6)...dCas9-EGFPによる生細胞のイメージング技術。SpCas9の場合は、D10AとH840Aの２つの変異を入れることで、DNAに結合するが切断しないdead Cas9 (dCas9)として利用することができる。
-- Rainbow CRISPR imaging
 - [Live cell imaging of low- and non-repetitive chromosome loci using CRISPR-Cas9. _Nature Communications_ 2017](https://www.nature.com/articles/ncomms14725)...ガイドRNAにMS2 loopをたくさんつなげることで (14個!)、明るい輝点を得ることができる。
 - [CRISPR-mediated live imaging of genome editing and transcription. _Science_ 2019](https://science.sciencemag.org/content/365/6459/1301.abstract)...こちらは蛍光標識したガイドRNAを利用した生細胞イメージング方法。
 - [A protein tagging system for signal amplification in gene expression and fluorescence imaging. _Cell_ 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252608/)...Sun tagとCas9を用いたイメージング方法。
@@ -53,15 +49,12 @@ title: 77. Beyond CRISPR (仮)
 - [Permanent genetic memory with >1-byte capacity. _Nature Methods_ 2014](https://www.nature.com/articles/nmeth.3147)
 - [Continuous genetic recording with self-targeting CRISPR-Cas in human cells. _Science_ 2016](https://science.sciencemag.org/content/353/6304/aag0511.figures-only)...自分で自分のガイドRNAを編集することで、理論的には無限に情報を書き込む方法が提案されたが、領域が壊れてしまう問題もある。
 - [Ten Simple Rules to Win a Nobel Prize.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004084)
-- ブラッグ父子
-- マリーキュリー
-- iPS細胞
-- 国境なき医師団
-- Carl Disseroth
-- Xiaowei Zhuang
-- Ed Boyden
-- Expansion microscopy
-- Renato Dulbecco
+- [ヘンリー・ブラッグ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%B0)
+- [iPS細胞 (Wikipedia)](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E5%A4%9A%E8%83%BD%E6%80%A7%E5%B9%B9%E7%B4%B0%E8%83%9E)
+- [国境なき医師団](https://www.msf.or.jp/about/nobel/)
+- [Human Genome Project](https://web.ornl.gov/sci/techresources/Human_Genome/index.shtml)
+- [Expansion microscopy (Wikipedia)](https://en.wikipedia.org/wiki/Expansion_microscopy)
+- [Renato Dulbecco (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%88%E3%83%BB%E3%83%89%E3%82%A5%E3%83%AB%E3%83%99%E3%83%83%E3%82%B3)
 
 ## Editorial notes
 - (soh)
