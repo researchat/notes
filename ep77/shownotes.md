@@ -34,11 +34,9 @@ title: 77. XXXX
 - [Microhomology-mediated end-joining-dependent integration of donor DNA in cells and animals using TALENs and CRISPR/Cas9. _Nature Communications_ 2014.](https://www.nature.com/articles/ncomms6560)
 - [Ep52. Split into a row](https://researchat.fm/episode/52)
 - [Double Nicking by RNA-Guided CRISPR Cas9 for Enhanced Genome Editing Specificity. _Cell_ 2013](https://www.sciencedirect.com/science/article/pii/S0092867413010155)...Double nicking (2つのgRNAとCas9 nickase)によるより正確なゲノム編集方法が示された。
-- [SAM. Nature]()
-- ブロックチェーン
-- Nickase
+- [Genome-scale transcriptional activation by an engineered CRISPR-Cas9 complex. _Nature_ 2015](https://www.nature.com/articles/nature14136)...Cas9を用いた転写の活性化手法。
 - TALENによるイメージング Miyanari
-- CRISPR imaging
+- [Dynamic Imaging of Genomic Loci in Living Human Cells by an Optimized CRISPR/Cas System. _Cell_ 2013](https://www.cell.com/fulltext/S0092-8674%2813%2901531-6)...dCas9-EGFPによる生細胞のイメージング技術。SpCas9の場合は、D10AとH840Aの２つの変異を入れることで、DNAに結合するが切断しないdead Cas9 (dCas9)として利用することができる。
 - Rainbow CRISPR imaging
 - MS2
 - pp7
