@@ -29,8 +29,9 @@ title: 77. XXXX
 - [Cas14 (crisp_bio)](http://crisp-bio.blog.jp/archives/17930637.html)
 - [CasX enzymes comprise a distinct family of RNA-guided genome editors. _Nature_ 2019.](https://www.nature.com/articles/s41586-019-0908-x)...CasX
 - メタゲノム
-- [Transposon-encoded CRISPR–Cas systems direct RNA-guided DNA integration. _Nature_ 2019.]...トランスポゾン型のCasシステムの報告。
+- [Transposon-encoded CRISPR–Cas systems direct RNA-guided DNA integration. _Nature_ 2019.](https://www.nature.com/articles/s41586-019-1323-z)...トランスポゾン型のCasシステムの報告。
 - [RNA-programmed genome editing in human cells. _eLife_ 2013](https://elifesciences.org/articles/00471)...Doudna labによるヒト細胞におけるゲノム編集技術の報告。FengやChurchらよりも少しだけ遅かった。
+- [Microhomology-mediated end-joining-dependent integration of donor DNA in cells and animals using TALENs and CRISPR/Cas9. _Nature Communications_ 2014.](https://www.nature.com/articles/ncomms6560)
 - Deep Learning ep 51
 - Nakade 2014
 - ブロックチェーン
