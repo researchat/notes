@@ -50,6 +50,8 @@ title: 77. XXXX
 - mitochondria によるlineage tracing
 - [Single-Nucleotide-Resolution Computing and Memory in Living Cells. _Molecular Cell_ 2019](https://www.sciencedirect.com/science/article/pii/S1097276519305416)...Tim Liu Labによる複雑な遺伝子回路の実現。
 - [Rewritable multi-event analog recording in bacterial and mammalian cells. _Science_ 2018](https://science.sciencemag.org/content/360/6385/eaap8992)...David Liu labから報告されたガイドRNAによって連鎖する遺伝子回路（カスケード）の実現。
+- Terminal Deoxynucleotidyl Transferase, TdT...テンプレートに依存しないDNA合成を可能にする酵素。
+- [Tandem fluorescent protein timers for in vivo analysis of protein dynamics. _Nature Biotechnology_ 2012](https://pubmed.ncbi.nlm.nih.gov/22729030/)...GFP Timer
 - Cre loxp DNA
 - 光遺伝学
 - bacteria population
