@@ -12,7 +12,7 @@ duration: "01:XX:XX"
 layout: article
 tags:
   - ゲノム編集
-title: 77. XXXX
+title: 77. Beyond CRISPR (仮) 
 ---
 
 ## Show notes
@@ -46,17 +46,13 @@ title: 77. XXXX
 - [9. One-shot beautiful experiment (Researchat.fm)](https://researchat.fm/episode/9)...人工的なDNA領域へ細胞内の情報（細胞系譜）を書き込む技術についてエピソード9で話しました。
 - [CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria. _Nature_ 2017](https://www.nature.com/articles/nature23017)...George churchらは、Cas1-Cas2システムによって馬の動画をバクテリアゲノム書き込み、それを読み出すことに成功した。
 - [Multiplex recording of cellular events over time on CRISPR biological tape. _Science_ 2017](https://science.sciencemag.org/content/358/6369/1457)...コピー数の異なる2つのプラスミドをCas1-Cas2で取り込ませて、細胞内で人工的な時計のような仕組みを実現した。
-- transposonによるlineage tracing
-- mitochondria によるlineage tracing
 - [Single-Nucleotide-Resolution Computing and Memory in Living Cells. _Molecular Cell_ 2019](https://www.sciencedirect.com/science/article/pii/S1097276519305416)...Tim Liu Labによる複雑な遺伝子回路の実現。
 - [Rewritable multi-event analog recording in bacterial and mammalian cells. _Science_ 2018](https://science.sciencemag.org/content/360/6385/eaap8992)...David Liu labから報告されたガイドRNAによって連鎖する遺伝子回路（カスケード）の実現。
 - Terminal Deoxynucleotidyl Transferase, TdT...テンプレートに依存しないDNA合成を可能にする酵素。
 - [Tandem fluorescent protein timers for in vivo analysis of protein dynamics. _Nature Biotechnology_ 2012](https://pubmed.ncbi.nlm.nih.gov/22729030/)...GFP Timer
-- Cre loxp DNA
-- 光遺伝学
-- bacteria population
-- self guiding targeting RNA
-- nobel award 10 tips
+- [Permanent genetic memory with >1-byte capacity. _Nature Methods_ 2014](https://www.nature.com/articles/nmeth.3147)
+- [Continuous genetic recording with self-targeting CRISPR-Cas in human cells. _Science_ 2016](https://science.sciencemag.org/content/353/6304/aag0511.figures-only)...自分で自分のガイドRNAを編集することで、理論的には無限に情報を書き込む方法が提案されたが、領域が壊れてしまう問題もある。
+- [Ten Simple Rules to Win a Nobel Prize.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004084)
 - ブラッグ父子
 - マリーキュリー
 - iPS細胞
