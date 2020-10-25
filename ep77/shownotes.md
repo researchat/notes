@@ -46,9 +46,11 @@ title: 77. XXXX
 - [CRISPR-Mediated Programmable 3D Genome Positioning and Nuclear Organization. _Cell_ 2018](https://www.sciencedirect.com/science/article/pii/S0092867418311851)
 - [9. One-shot beautiful experiment (Researchat.fm)](https://researchat.fm/episode/9)...人工的なDNA領域へ細胞内の情報（細胞系譜）を書き込む技術についてエピソード9で話しました。
 - [CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria. _Nature_ 2017](https://www.nature.com/articles/nature23017)...George churchらは、Cas1-Cas2システムによって馬の動画をバクテリアゲノム書き込み、それを読み出すことに成功した。
+- [Multiplex recording of cellular events over time on CRISPR biological tape. _Science_ 2017](https://science.sciencemag.org/content/358/6369/1457)...コピー数の異なる2つのプラスミドをCas1-Cas2で取り込ませて、細胞内で人工的な時計のような仕組みを実現した。
 - transposonによるlineage tracing
 - mitochondria によるlineage tracing
-- domino
+- [Single-Nucleotide-Resolution Computing and Memory in Living Cells. _Molecular Cell_ 2019](https://www.sciencedirect.com/science/article/pii/S1097276519305416)...Tim Liu Labによる複雑な遺伝子回路の実現。
+- [Rewritable multi-event analog recording in bacterial and mammalian cells. _Science_ 2018](https://science.sciencemag.org/content/360/6385/eaap8992)
 - Cre loxp DNA
 - 光遺伝学
 - bacteria population
