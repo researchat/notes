@@ -27,22 +27,22 @@ title: 77. XXXX
 - オペロン
 - [26. Cool tech googlability, Researchat.fm](https://researchat.fm/episode/26)...RNAを標的にできるCas13bについては、エピソード26で紹介しました。
 - [Cas14 (crisp_bio)](http://crisp-bio.blog.jp/archives/17930637.html)
-- [CasX enzymes comprise a distinct family of RNA-guided genome editors. _Nature_ 2019.](https://www.nature.com/articles/s41586-019-0908-x)...CasX
+- [CasX enzymes comprise a distinct family of RNA-guided genome editors. _Nature_ 2019](https://www.nature.com/articles/s41586-019-0908-x)...CasX
 - メタゲノム
-- [Transposon-encoded CRISPR–Cas systems direct RNA-guided DNA integration. _Nature_ 2019.](https://www.nature.com/articles/s41586-019-1323-z)...トランスポゾン型のCasシステムの報告。
+- [Transposon-encoded CRISPR–Cas systems direct RNA-guided DNA integration. _Nature_ 2019](https://www.nature.com/articles/s41586-019-1323-z)...トランスポゾン型のCasシステムの報告。
 - [RNA-programmed genome editing in human cells. _eLife_ 2013](https://elifesciences.org/articles/00471)...Doudna labによるヒト細胞におけるゲノム編集技術の報告。FengやChurchらよりも少しだけ遅かった。
-- [Microhomology-mediated end-joining-dependent integration of donor DNA in cells and animals using TALENs and CRISPR/Cas9. _Nature Communications_ 2014.](https://www.nature.com/articles/ncomms6560)
+- [Microhomology-mediated end-joining-dependent integration of donor DNA in cells and animals using TALENs and CRISPR/Cas9. _Nature Communications_ 2014](https://www.nature.com/articles/ncomms6560)
 - [Ep52. Split into a row](https://researchat.fm/episode/52)
 - [Double Nicking by RNA-Guided CRISPR Cas9 for Enhanced Genome Editing Specificity. _Cell_ 2013](https://www.sciencedirect.com/science/article/pii/S0092867413010155)...Double nicking (2つのgRNAとCas9 nickase)によるより正確なゲノム編集方法が示された。
 - [Genome-scale transcriptional activation by an engineered CRISPR-Cas9 complex. _Nature_ 2015](https://www.nature.com/articles/nature14136)...Cas9を用いた転写の活性化手法。
 - TALENによるイメージング Miyanari
-- [Dynamic Imaging of Genomic Loci in Living Human Cells by an Optimized CRISPR/Cas System. _Cell_ 2013.](https://www.cell.com/fulltext/S0092-8674%2813%2901531-6)...dCas9-EGFPによる生細胞のイメージング技術。SpCas9の場合は、D10AとH840Aの２つの変異を入れることで、DNAに結合するが切断しないdead Cas9 (dCas9)として利用することができる。
+- [Dynamic Imaging of Genomic Loci in Living Human Cells by an Optimized CRISPR/Cas System. _Cell_ 2013](https://www.cell.com/fulltext/S0092-8674%2813%2901531-6)...dCas9-EGFPによる生細胞のイメージング技術。SpCas9の場合は、D10AとH840Aの２つの変異を入れることで、DNAに結合するが切断しないdead Cas9 (dCas9)として利用することができる。
 - Rainbow CRISPR imaging
-- [Live cell imaging of low- and non-repetitive chromosome loci using CRISPR-Cas9. _Nature Communications_ 2017.](https://www.nature.com/articles/ncomms14725)...ガイドRNAにMS2 loopをたくさんつなげることで (14個!)、明るい輝点を得ることができる。
-- [CRISPR-mediated live imaging of genome editing and transcription. _Science_ 2019.](https://science.sciencemag.org/content/365/6459/1301.abstract)...こちらは蛍光標識したガイドRNAを利用した生細胞イメージング方法。
-- [A protein tagging system for signal amplification in gene expression and fluorescence imaging. _Cell_ 2014.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252608/)...Sun tagとCas9を用いたイメージング方法。
+- [Live cell imaging of low- and non-repetitive chromosome loci using CRISPR-Cas9. _Nature Communications_ 2017](https://www.nature.com/articles/ncomms14725)...ガイドRNAにMS2 loopをたくさんつなげることで (14個!)、明るい輝点を得ることができる。
+- [CRISPR-mediated live imaging of genome editing and transcription. _Science_ 2019](https://science.sciencemag.org/content/365/6459/1301.abstract)...こちらは蛍光標識したガイドRNAを利用した生細胞イメージング方法。
+- [A protein tagging system for signal amplification in gene expression and fluorescence imaging. _Cell_ 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252608/)...Sun tagとCas9を用いたイメージング方法。
 - [Split Green Fluorescent Proteins: Scope, Limitations, and Outlook.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537611)...Split GFP
-- [Programmable RNA tracking in Live Cells with CRISPR/Cas9. _Cell_ 2016.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826288/)...PAMmerによるSpCas9のmRNAイメージング
+- [Programmable RNA tracking in Live Cells with CRISPR/Cas9. _Cell_ 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826288/)...PAMmerによるSpCas9のmRNAイメージング
 - [CRISPR-Mediated Programmable 3D Genome Positioning and Nuclear Organization. _Cell_ 2018](https://www.sciencedirect.com/science/article/pii/S0092867418311851)
 - [9. One-shot beautiful experiment (Researchat.fm)](https://researchat.fm/episode/9)...人工的なDNA領域へ細胞内の情報（細胞系譜）を書き込む技術についてエピソード9で話しました。
 - lineage tracing by CRISPR
