@@ -26,9 +26,8 @@ title: 77. XXXX
 - Cas1-Cas2タンパク
 - オペロン
 - [26. Cool tech googlability, Researchat.fm](https://researchat.fm/episode/26)...RNAを標的にできるCas13bについては、エピソード26で紹介しました。
-- [Cas14 (crisp_bio)](http://crisp-bio.blog.jp/archives/17930637.html)
+- [Cas14 (crisp_bio)](http://crisp-bio.blog.jp/archives/17930637.html)..."Cas14は、PAMに依存しないssDNA切断活性に加えて、PAMに依存するdsDNA切断活性も帯びている"
 - [CasX enzymes comprise a distinct family of RNA-guided genome editors. _Nature_ 2019](https://www.nature.com/articles/s41586-019-0908-x)...CasX
-- メタゲノム
 - [Transposon-encoded CRISPR–Cas systems direct RNA-guided DNA integration. _Nature_ 2019](https://www.nature.com/articles/s41586-019-1323-z)...トランスポゾン型のCasシステムの報告。
 - [RNA-programmed genome editing in human cells. _eLife_ 2013](https://elifesciences.org/articles/00471)...Doudna labによるヒト細胞におけるゲノム編集技術の報告。FengやChurchらよりも少しだけ遅かった。
 - [Microhomology-mediated end-joining-dependent integration of donor DNA in cells and animals using TALENs and CRISPR/Cas9. _Nature Communications_ 2014](https://www.nature.com/articles/ncomms6560)
@@ -50,7 +49,7 @@ title: 77. XXXX
 - transposonによるlineage tracing
 - mitochondria によるlineage tracing
 - [Single-Nucleotide-Resolution Computing and Memory in Living Cells. _Molecular Cell_ 2019](https://www.sciencedirect.com/science/article/pii/S1097276519305416)...Tim Liu Labによる複雑な遺伝子回路の実現。
-- [Rewritable multi-event analog recording in bacterial and mammalian cells. _Science_ 2018](https://science.sciencemag.org/content/360/6385/eaap8992)
+- [Rewritable multi-event analog recording in bacterial and mammalian cells. _Science_ 2018](https://science.sciencemag.org/content/360/6385/eaap8992)...David Liu labから報告されたガイドRNAによって連鎖する遺伝子回路（カスケード）の実現。
 - Cre loxp DNA
 - 光遺伝学
 - bacteria population
