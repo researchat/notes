@@ -42,9 +42,9 @@ title: 77. At The Conference Floor
 - [Manipulation of nuclear architecture through CRISPR-mediated chromosomal looping. _Nature Communications_ 2017](https://www.nature.com/articles/ncomms15993) ... こちらがCRISPRの仕組みを用いることで人工的に染色体内部にループを作成した論文。
 - [Transcriptional repression mediated by repositioning of genes to the nuclear lamina. _Nature_ 2008](https://www.nature.com/articles/nature06727) ... LacO-LacIの仕組みを用いることでゲノムの特定領域にLacO arrayを差し込み、核膜に局在させたLacIに結合させることである遺伝子領域を核膜側に誘導しようとした論文。最初にこの論文を読んだ時はそのアイデアにたまげました。
 - [9. One-shot beautiful experiment (Researchat.fm)](https://researchat.fm/episode/9)...人工的なDNA領域へ細胞内の情報（細胞系譜）を書き込む技術についてエピソード9で話しました。
-- [CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria. _Nature_ 2017](https://www.nature.com/articles/nature23017)...George churchらは、Cas1-Cas2システムによって馬の動画をバクテリアゲノム書き込み、それを読み出すことに成功した。
+- [CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria. _Nature_ 2017](https://www.nature.com/articles/nature23017)...George Churchらは、Cas1-Cas2システムによって馬の動画をバクテリアゲノム書き込み、それを読み出すことに成功した。
 - [Multiplex recording of cellular events over time on CRISPR biological tape. _Science_ 2017](https://science.sciencemag.org/content/358/6369/1457)...コピー数の異なる2つのプラスミドをCas1-Cas2で取り込ませて、細胞内で人工的な時計のような仕組みを実現した。
-- [Single-Nucleotide-Resolution Computing and Memory in Living Cells. _Molecular Cell_ 2019](https://www.sciencedirect.com/science/article/pii/S1097276519305416)...Tim Liu Labによる複雑な遺伝子回路の実現。
+- [Single-Nucleotide-Resolution Computing and Memory in Living Cells. _Molecular Cell_ 2019](https://www.sciencedirect.com/science/article/pii/S1097276519305416)...Tim Liu Labによる複雑な遺伝子回路の実現。DOMINOについては、プロモーター配列を標的にしているのではなくオペレーター配列でした。
 - [Rewritable multi-event analog recording in bacterial and mammalian cells. _Science_ 2018](https://science.sciencemag.org/content/360/6385/eaap8992)...David Liu labから報告されたガイドRNAによって連鎖する遺伝子回路（カスケード）の実現。
 - Terminal Deoxynucleotidyl Transferase, TdT...テンプレートに依存しないDNA合成を可能にする酵素。
 - [Tandem fluorescent protein timers for in vivo analysis of protein dynamics. _Nature Biotechnology_ 2012](https://pubmed.ncbi.nlm.nih.gov/22729030/)...GFP Timer
@@ -63,6 +63,6 @@ title: 77. At The Conference Floor
 
 ## Editorial notes
 - 1分でわかるとか無理なのですが、一方で言葉を尽くせばわかる可能性についても同時に信じておりますので...(soh)
-- (dessan)
+- 思い出しながらどんどん話しているので、後から聞き返すと細部が間違っていたりしています。気になった方はshow notesをご参照ください。(dessan)
 - いい感じのグルーヴがみられてよかったです。ポッドキャストやってきてよかったです。(tadasu)
 - 最初に喋らんと出番が無くなる！と思ってこれまでの流れをまとめてみたんですが細かく色々ミスってました...(coela)
