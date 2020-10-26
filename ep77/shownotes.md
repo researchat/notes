@@ -38,7 +38,9 @@ title: 77. At The Conference Floor
 - [A protein tagging system for signal amplification in gene expression and fluorescence imaging. _Cell_ 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4252608/)...Sun tagとCas9を用いたイメージング方法。
 - [Split Green Fluorescent Proteins: Scope, Limitations, and Outlook](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6537611)...Split GFP
 - [Programmable RNA tracking in Live Cells with CRISPR/Cas9. _Cell_ 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4826288/)...PAMmerによるSpCas9のmRNAイメージング
-- [CRISPR-Mediated Programmable 3D Genome Positioning and Nuclear Organization. _Cell_ 2018](https://www.sciencedirect.com/science/article/pii/S0092867418311851)
+- [CRISPR-Mediated Programmable 3D Genome Positioning and Nuclear Organization. _Cell_ 2018](https://www.sciencedirect.com/science/article/pii/S0092867418311851) ... CRISPR-GO：CRISPR技術、核内でのゲノム空間構造、ポッドキャスト内ではゲノム同士を寄せるという説明をしていましたが、今調べてみると特定のゲノム領域と核膜やカハール体への再配置ということでした。
+- [Manipulation of nuclear architecture through CRISPR-mediated chromosomal looping. _Nature Communications_ 2017](https://www.nature.com/articles/ncomms15993) ... こちらがCRISPRの仕組みを用いることで人工的に染色体内部にループを作成した論文。
+- [Transcriptional repression mediated by repositioning of genes to the nuclear lamina. _Nature_ 2008](https://www.nature.com/articles/nature06727) ... LacO-LacIの仕組みを用いることでゲノムの特定領域にLacO arrayを差し込み、核膜に局在させたLacIに結合させることである遺伝子領域を核膜側に誘導しようとした論文。最初にこの論文を読んだ時はそのアイデアにたまげました。
 - [9. One-shot beautiful experiment (Researchat.fm)](https://researchat.fm/episode/9)...人工的なDNA領域へ細胞内の情報（細胞系譜）を書き込む技術についてエピソード9で話しました。
 - [CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria. _Nature_ 2017](https://www.nature.com/articles/nature23017)...George churchらは、Cas1-Cas2システムによって馬の動画をバクテリアゲノム書き込み、それを読み出すことに成功した。
 - [Multiplex recording of cellular events over time on CRISPR biological tape. _Science_ 2017](https://science.sciencemag.org/content/358/6369/1457)...コピー数の異なる2つのプラスミドをCas1-Cas2で取り込ませて、細胞内で人工的な時計のような仕組みを実現した。
@@ -57,6 +59,7 @@ title: 77. At The Conference Floor
 - [Expansion microscopy (Wikipedia)](https://en.wikipedia.org/wiki/Expansion_microscopy)
 - [Renato Dulbecco (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%88%E3%83%BB%E3%83%89%E3%82%A5%E3%83%AB%E3%83%99%E3%83%83%E3%82%B3)
 - [Programmable RNA editing by recruiting endogenous ADAR using engineered RNAs. _Nature Biotechnology_ 2019](https://www.nature.com/articles/s41587-019-0178-z)...LEAPER
+- [crisp_bio](http://crisp-bio.blog.jp/) ... これだけCRISPRの最新情報がまとまっているサイトは世の中に存在しません。日本語でCRISPRの最先端情報を終える喜び。CRISP_BIOさん、いつもありがとうございます。
 
 ## Editorial notes
 - 1分でわかるとか無理なのですが、一方で言葉を尽くせばわかる可能性についても同時に信じておりますので...(soh)
