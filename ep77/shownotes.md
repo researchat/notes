@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/77.mp3
 audio_file_size: 74008622 
 date: 2020-10-25 10:30:00 +0900
-description: dessanをゲストに迎え、CRISPRの仕組みを利用した様々な技術や遺伝子回路、その先について話しました。
+description: dessanをゲストに迎え、CRISPRの仕組みを利用した様々な技術や遺伝子回路、その発展について話しました。
 duration: "01:32:38"
 layout: article
 tags:
