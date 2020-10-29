@@ -15,10 +15,10 @@ title: 78. X
 ---
 
 ## Show notes
-- [shiota](https://twitter.com/SHIO_aka_Hitosh)
+- [shiotaさん](https://twitter.com/SHIO_aka_Hitosh)
 - [Massachusetts General Hospital: MGH](https://www.massgeneral.org/)
 - [Brigham and Women's Hospital](https://www.brighamandwomens.org/)
-- オタワ大学留学生用コース
+- [オタワ大学留学生用コース](https://eip.uottawa.ca/en) ... English Intensive Program
 - [ESL (English as a second language)](https://en.wikipedia.org/wiki/English_as_a_second_or_foreign_language)
 - [カンザス州](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%82%B6%E3%82%B9%E5%B7%9E)
 - [オズの魔法使い](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BA%E3%81%AE%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84)
@@ -33,7 +33,7 @@ title: 78. X
 - master ... 修士課程のこと
 - Ph.D コース　...  博士課程のこと。日本では学部(4年)->修士(2年)->博士(3年)が想定されている一般的な課程であるが、海外では(日本国内でも)様々なパターンがある。
 - [なかやまきんに君](https://www.youtube.com/channel/UCOUu8YlbaPz0W2TyFTZHvjA) ... なーかーやーまきんにくんです！！！でおなじみきんに君。筋肉ルーレットや、Bon Joviの音楽とともに料理を作るネタなど多数。
-- ガン免疫
+- [ガン免疫](https://ganjoho.jp/public/dia_tre/treatment/immunotherapy/immu02.html)
 - [ボストンキャリアフォーラム](https://careerforum.net/ja/event/bos/) ... いわゆるボスキャリ
 - [GRE](https://www.ets.org/gre)
 - [ヌクレオソーム](https://ja.wikipedia.org/wiki/%E3%83%8C%E3%82%AF%E3%83%AC%E3%82%AA%E3%82%BD%E3%83%BC%E3%83%A0)
