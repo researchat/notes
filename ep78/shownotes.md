@@ -3,9 +3,9 @@ actor_ids:
   - shiota
   - tadasu
 audio_file_path: /audio/78.mp3
-audio_file_size: X
+audio_file_size: 77615401
 date: 2020-10-30 19:30:00 +0900
-description: Shiotaさんをゲストに迎え、カナダ、アメリカ、フランスの三ヶ国における留学体験(学部-博士-ポスドク)についてお聞きしました。
+description: shiotaさんをゲストに迎え、カナダ、アメリカ、フランスの三ヶ国における留学体験(学部-博士-ポスドク)についてお聞きしました。
 duration: "02:06:09"
 layout: article
 tags:
@@ -60,5 +60,5 @@ title: 78. X
 
 ## Editorial notes
 - (shiota)
-- (tadasu)
+- この情報を高校生の時に知りたかった...！！！(tadasu)
 
