@@ -34,6 +34,8 @@ title: 78. X
 - Ph.D コース　...  博士課程のこと。日本では学部(4年)->修士(2年)->博士(3年)が想定されている一般的な課程であるが、海外では(日本国内でも)様々なパターンがある。
 - [なかやまきんに君](https://www.youtube.com/channel/UCOUu8YlbaPz0W2TyFTZHvjA) ... なーかーやーまきんにくんです！！！でおなじみきんに君。筋肉ルーレットや、Bon Joviの音楽とともに料理を作るネタなど多数。
 - [ガン免疫](https://ganjoho.jp/public/dia_tre/treatment/immunotherapy/immu02.html)
+- [14. Popte-PIWI-c \| Researchat.fm](https://researchat.fm/episode/14) ... kyonさんがハムスターにおける抗体を作る話をしてくれた回。大学院生共通の悩みがありますね。
+- [68. A primer for homebrew antibody \| Researchat.fm](https://researchat.fm/episode/68) ... kyonさんによるモノクローナル抗体作成の話
 - [ボストンキャリアフォーラム](https://careerforum.net/ja/event/bos/) ... いわゆるボスキャリ
 - [GRE](https://www.ets.org/gre)
 - [ヌクレオソーム](https://ja.wikipedia.org/wiki/%E3%83%8C%E3%82%AF%E3%83%AC%E3%82%AA%E3%82%BD%E3%83%BC%E3%83%A0)
