@@ -5,17 +5,18 @@ actor_ids:
 audio_file_path: /audio/78.mp3
 audio_file_size: 77615401
 date: 2020-10-30 19:30:00 +0900
-description: shiotaさんをゲストに迎え、カナダ、アメリカ、フランスの三ヶ国における留学体験(学部-博士-ポスドク)についてお聞きしました。
+description: Shiotaさんをゲストに迎え、カナダ、アメリカ、フランスの三ヶ国における留学体験(学部-博士-ポスドク)についてお聞きしました。
 duration: "02:06:09"
 layout: article
 tags:
   - 留学
   - インタビュー
-title: 78. X
+title: 78. You can(not) do science in one country
 ---
 
 ## Show notes
-- [shiotaさん](https://twitter.com/SHIO_aka_Hitosh)
+- [Shiotaさん](https://twitter.com/SHIO_aka_Hitosh)
+- [希少癌NUT Carcinoma発症メカニズムとは、新規治療法発見を目指す](https://bio.nikkeibp.co.jp/atcl/column/16/032000030/032700002/) ... Shiotaさんが特集された記事。途中から有料です。
 - [Massachusetts General Hospital: MGH](https://www.massgeneral.org/)
 - [Brigham and Women's Hospital](https://www.brighamandwomens.org/)
 - [オタワ大学留学生用コース](https://eip.uottawa.ca/en) ... English Intensive Program
@@ -49,7 +50,7 @@ title: 78. X
 - [sperm injection (ICSI)](https://www.reproductivefacts.org/news-and-publications/patient-fact-sheets-and-booklets/documents/fact-sheets-and-info-booklets/what-is-intracytoplasmic-sperm-injection-icsi/)
 - [BRD4](https://www.uniprot.org/uniprot/O60885)
 - [p300](https://www.uniprot.org/uniprot/Q09472)
-- [Takao Hensch](https://www.mcb.harvard.edu/directory/takao-hensch/) ... You cannot science in one country.
+- [Takao Hensch](https://www.mcb.harvard.edu/directory/takao-hensch/) ... You cannot do science in one country.
 - Studio ... アメリカの間取り。いわゆるワンルーム。
 - [Marie Skłodowska-Curie Actions](https://ec.europa.eu/research/mariecurieactions/)
 - [船井財団](https://funaifound.or.jp/)
@@ -62,6 +63,6 @@ title: 78. X
 - この音源の収録は2019年11月16日に行われました。それから時間が経過し、変化したこともあると思いますが、何卒ご理解のほどよろしくお願いします。
 
 ## Editorial notes
-- (shiota)
+- 楽しくて喋り倒してしまいました。留学を少しでも考えてる方、お気軽にお声掛けください。(shiota)
 - この情報を高校生の時に知りたかった...！！！(tadasu)
 
