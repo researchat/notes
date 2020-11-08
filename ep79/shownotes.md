@@ -1,3 +1,22 @@
+
+---
+actor_ids:
+  - pome
+  - soh
+  - tadasu
+  - coela
+audio_file_path: /audio/79.mp3
+audio_file_size: X
+date: 2020-11-10 19:30:00 +0900
+description: pomeさんをゲストに迎え、ボストン界隈におけるバイオスタートアップ事情について話を伺いました。
+duration: "02:06:09"
+layout: article
+tags:
+  - スタートアップ
+title: 79.XXXX
+---
+
+## Show notes
 - pome
 - ep76
 - ep77
@@ -75,4 +94,8 @@
 - 四行教授
 - I'm not sure though
 
-
+## Editorial notes
+- (pome)
+- (soh)
+- 同じ地区に住んでいるのに何にも活かせていません...(tadasu)
+- (coela)
