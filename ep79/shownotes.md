@@ -88,7 +88,7 @@ title: 79.
 - [Venture Cafe Tokyo](https://venturecafetokyo.org/) ... 虎ノ門ヒルズ内にある。木曜日にイベントをやっているようです。
 - [CiC Tokyo](https://jp.cic.com/en/about/) ... 虎ノ門ヒルズ内にある。
 - [Cambridge City, MA](https://www.cambridgema.gov/) ... ケンブリッジ市
-- スタンフォードのパテント
+- [スタンフォード大学のパテントに関する資料](https://otl.stanford.edu/sites/g/files/sbiybj10286/f/otl_overview_fy18_1.59.44_pm_1.pdf)
 - [lab central](https://labcentral.org/)
 - [Johnson & Johnson](https://www.jnj.com/)
 - [Roche](https://www.roche.com/)
