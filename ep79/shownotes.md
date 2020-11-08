@@ -18,9 +18,9 @@ title: 79.
 ## Show notes
 
 - pome
-- ep76
-- ep77
-- SHERLOCK
+- [ep76](https://researchat.fm/episode/76)
+- [ep77](https://researchat.fm/episode/77)
+- [ep47](https://researchat.fm/episode/47) ... SHERLOCK
 - Boston
 - MIT
 - Harvard University
