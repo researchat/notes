@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/79.mp3
 audio_file_size: XXX
 date: 2020-11-10 19:30:00 +0900
-description: pomeさんをゲストに迎え、ボストン界隈におけるバイオスタートアップ事情について話を伺いました。
+description: pomeさんをゲストに迎え、ボストン界隈を中心としたバイオスタートアップ事情について話を伺いました。
 duration: "01:XX:XX"
 layout: article
 tags:
@@ -68,7 +68,7 @@ title: 79.
 - ヘモグロビン
 - [BCL11A](https://en.wikipedia.org/wiki/BCL11A)
 - [eGenesis Bio](https://www.egenesisbio.com/)
-- george church
+- [George Church](https://wyss.harvard.edu/team/core-faculty/george-church/)
 - 胚盤胞置換法
 - [Living cell technologies (LCT)](https://lctglobal.com/)
 - [Diatranz Otsuka](http://dolglobal.com/)
@@ -81,14 +81,14 @@ title: 79.
 - TLO ... technology license organization
 - [Wyss Institute](https://wyss.harvard.edu/)
 - [Wyss Instituteのポッドキャスト](https://wyss.harvard.edu/multimedia-taxonomy/audiopodcast/) ... めちゃくちゃ良い。tadasuはリピートしまくって聞いている時期が度々ある。
-- Ping Ying
+- [Peng Yin](https://wyss.harvard.edu/team/core-faculty/peng-yin/)
 - [ep74](https://researchat.fm/episode/74) ... DNA origami
 - [Cambridge Innovation Center (CiC)](https://cic.com/about-us)
 - [Venture Cafe](https://venturecafecambridge.org/)
 - [Venture Cafe Tokyo](https://venturecafetokyo.org/) ... 虎ノ門ヒルズ内にある。木曜日にイベントをやっているようです。
 - [CiC Tokyo](https://jp.cic.com/en/about/) ... 虎ノ門ヒルズ内にある。
 - [Cambridge City, MA](https://www.cambridgema.gov/) ... ケンブリッジ市
-- [スタンフォード大学のパテントに関する資料](https://otl.stanford.edu/sites/g/files/sbiybj10286/f/otl_overview_fy18_1.59.44_pm_1.pdf)
+- [スタンフォード大学のパテントに関する資料](https://otl.stanford.edu/sites/g/files/sbiybj10286/f/otl_overview_fy18_1.59.44_pm_1.pdf) ... Stanford Universityの[OTL](https://otl.stanford.edu/)による資料。
 - [lab central](https://labcentral.org/)
 - [Johnson & Johnson](https://www.jnj.com/)
 - [Roche](https://www.roche.com/)
