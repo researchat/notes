@@ -1,4 +1,3 @@
-
 ---
 actor_ids:
   - pome
@@ -6,14 +5,14 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/79.mp3
-audio_file_size: X
+audio_file_size: XXX
 date: 2020-11-10 19:30:00 +0900
 description: pomeさんをゲストに迎え、ボストン界隈におけるバイオスタートアップ事情について話を伺いました。
-duration: "02:06:09"
+duration: "01:XX:XX"
 layout: article
 tags:
   - スタートアップ
-title: 79.XXXX
+title: 79. 
 ---
 
 ## Show notes
