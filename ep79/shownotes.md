@@ -21,36 +21,35 @@ title: 79.
 - [ep76](https://researchat.fm/episode/76)
 - [ep77](https://researchat.fm/episode/77)
 - [ep47](https://researchat.fm/episode/47) ... SHERLOCK
-- Boston
-- MIT
-- Harvard University
-- Boston University
-- UMassachusetts
-- タフツ大学
-- バークレー音楽学院
-- billion dollar's street
-- ノバルティス
-- TAKEDA
-- biogen
-- バイエル
-- Cell press
-- カリフォルニア
-- マサチューセッツ
-- ニューヨーク
-- ニュージャージー
-- Akamai
-- Feng Zhang
-- David Liu
-- 培養肉回
-- GMO
-- plant edit
-- FAD2
-- ソリーブ
+- [Boston](https://www.boston.com/)
+- [MIT](https://www.mit.edu/) ... マサチューセッツ工科大学。Kendall Station近くに位置する。厳密にはボストン市ではなく、ケンブリッジ市である。
+- [Harvard University](https://www.harvard.edu/) ...  ハーバード大学。こちらもメインキャンパスはケンブリッジ市。Oxford Stに位置する建物もあるため、Oxford St., Cambridgeと住所的には何が何だかわからないところもある。
+- [Boston University](https://www.bu.edu/) ... BU
+- [University of Massachusetts](https://www.umass.edu/) ... UMass
+- [Tufts University](https://www.tufts.edu/)
+- [Berklee College of Music](https://www.berklee.edu/) ... いつもバークリーなのかバークレーなのかわからなくなる。有名な音楽学校。
+- [NOVARTIS](https://www.novartis.co.jp/)
+- [Takeda](https://www.takeda.com/en-us)
+- [Biogen](https://www.biogen.com/en_us/home.html)
+- [Bayer](https://www.bayer.com/en/)
+- [Cell Press](https://www.cell.com/) ... いわゆるCell誌。MIT,ハーバードの目と鼻の先にある。
+- カリフォルニア州
+- マサチューセッツ州
+- ニューヨーク州
+- ニュージャージー州
+- [Akamai](https://www.akamai.com/)
+- [Feng Zhang](https://mcgovern.mit.edu/profile/feng-zhang/)
+- [David Liu](https://liugroup.us/)
+- [ep60](https://researchat.fm/episode/60) ... 培養肉回
+- [GMO](https://www.nongmoproject.org/gmo-facts/what-is-gmo/) ...Genetically modified organism
+- [Plantedit](https://plantedit.com/)
+- [FAD2](https://www.arabidopsis.org/servlets/TairObject?id=26904&type=gene)
+- [Solive](https://worldagritechusa.com/wp-content/uploads/2018/03/Chida-Kanchiswamy-PLANTeDIT.pdf) ... by Plantedit
 - spCas9
-- cas12
-- cas13
-- インスクリプター
-- mad7 nuclease
+- Cas12
+- Cas13
+- Inscripta
+- [mad7 nuclease](https://www.inscripta.com/technology/madzymes-nucleases)
 - unreal engine
 - unitity
 - c4u
