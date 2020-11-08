@@ -71,7 +71,7 @@ title: 79.
 - EGenesis
 - george church
 - 胚盤胞置換法
-- ロシア　膵臓　豚
+- Living cell technologies 
 - CAR-T
 - Chimeric antigen receptor 
 - レンチウィルス
