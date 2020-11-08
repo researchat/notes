@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/79.mp3
 audio_file_size: XXX
 date: 2020-11-10 19:30:00 +0900
-description: pomeさんをゲストに迎え、ボストン界隈を中心としたバイオスタートアップ事情について話を伺いました。
+description: pomeさんをゲストに迎え、ボストン界隈を中心としたCRISPR関連バイオスタートアップについて話を伺いました。
 duration: "01:XX:XX"
 layout: article
 tags:
@@ -16,8 +16,7 @@ title: 79.
 ---
 
 ## Show notes
-
-- pome
+- [Top CRISPR Startup Companies Changing the Future of Biotech and Medicine](https://www.synthego.com/blog/crispr-startup-companies) ... CRISPR関連スタートアップまとめ
 - [ep76](https://researchat.fm/episode/76)
 - [ep77](https://researchat.fm/episode/77)
 - [ep47](https://researchat.fm/episode/47) ... SHERLOCK
@@ -95,7 +94,6 @@ title: 79.
 - [Job Description](https://www.betterteam.com/job-descriptions)
 - 四行教授
 - [ep75](https://researchat.fm/episode/75) ... I'm not sure though
-- [Top CRISPR Startup Companies Changing the Future of Biotech and Medicine](https://www.synthego.com/blog/crispr-startup-companies) ... CRISPR関連スタートアップまとめ
 
 ## Editorial notes
 - とっても楽しいおしゃべりでした。仕事と関係ないマニアックな話をできる場はあんまりないので貴重です。またやりましょう。(pome)
