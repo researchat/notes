@@ -72,6 +72,7 @@ title: 79.
 - george church
 - 胚盤胞置換法
 - Living cell technologies 
+- [Diatranz Otsuka](http://dolglobal.com/)
 - CAR-T
 - Chimeric antigen receptor 
 - レンチウィルス
