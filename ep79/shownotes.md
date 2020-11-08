@@ -48,51 +48,54 @@ title: 79.
 - spCas9
 - Cas12
 - Cas13
-- Inscripta
+- [Inscripta](https://www.inscripta.com/)
 - [mad7 nuclease](https://www.inscripta.com/technology/madzymes-nucleases)
-- unreal engine
-- unitity
-- c4u
-- biopallete
-- cas3
-- edigene modals
+- [Unreal Engine](https://www.unrealengine.com/ja/)
+- [Unity](https://unity.com/)
+- [C4U](http://www.crispr4u.jp/en/)
+- [BioPallete](https://www.biopalette.co.jp/)
+- Cas3
+- [モダリス](https://www.modalistx.com/jp/science/crispr/)
 - target AID
-- beam therapeutics
+- [Beam Therapeutics](https://beamtx.com/)
 - Base editor
 - in vivo
 - ex vivo
 - 鎌状赤血球
-- CRISPR therapeutics
+- [CRISPR Therapeutics](http://ir.crisprtx.com/investor-overview)
 - 造血幹細胞
 - CD34+
 - ヘモグロビン
-- BCL11A
-- EGenesis
+- [BCL11A](https://en.wikipedia.org/wiki/BCL11A)
+- [eGenesis Bio](https://www.egenesisbio.com/)
 - george church
 - 胚盤胞置換法
-- Living cell technologies 
+- [Living cell technologies (LCT)](https://lctglobal.com/)
 - [Diatranz Otsuka](http://dolglobal.com/)
 - CAR-T
 - Chimeric antigen receptor 
 - レンチウィルス
 - AAV
 - HIV
-- ゾルゲンスマ
+- [ゾルゲンスマ](https://answers.ten-navi.com/pharmanews/18401/)
 - TLO ... technology license organization
-- Wyss Institute
+- [Wyss Institute](https://wyss.harvard.edu/)
+- [Wyss Instituteのポッドキャスト](https://wyss.harvard.edu/multimedia-taxonomy/audiopodcast/) ... めちゃくちゃ良い。tadasuはリピートしまくって聞いている時期が度々ある。
 - Ping Ying
-- ep7? ... DNA origami
-- CIC
-- Venture Cafe 
-- toranomon CIC
-- ケンブリッジ市
+- [ep74](https://researchat.fm/episode/74) ... DNA origami
+- [Cambridge Innovation Center (CiC)](https://cic.com/about-us)
+- [Venture Cafe](https://venturecafecambridge.org/)
+- [Venture Cafe Tokyo](https://venturecafetokyo.org/) ... 虎ノ門ヒルズ内にある。木曜日にイベントをやっているようです。
+- [CiC Tokyo](https://jp.cic.com/en/about/) ... 虎ノ門ヒルズ内にある。
+- [Cambridge City, MA](https://www.cambridgema.gov/) ... ケンブリッジ市
 - スタンフォードのパテント
-- lab central
-- johnson and johnson
-- roche
-- job description
+- [lab central](https://labcentral.org/)
+- [Johnson & Johnson](https://www.jnj.com/)
+- [Roche](https://www.roche.com/)
+- [Job Description](https://www.betterteam.com/job-descriptions)
 - 四行教授
-- I'm not sure though
+- [ep75](https://researchat.fm/episode/75) ... I'm not sure though
+- [Top CRISPR Startup Companies Changing the Future of Biotech and Medicine](https://www.synthego.com/blog/crispr-startup-companies) ... CRISPR関連スタートアップまとめ
 
 ## Editorial notes
 - とっても楽しいおしゃべりでした。仕事と関係ないマニアックな話をできる場はあんまりないので貴重です。またやりましょう。(pome)
