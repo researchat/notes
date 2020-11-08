@@ -96,7 +96,7 @@ title: 79.
 - I'm not sure though
 
 ## Editorial notes
-- (pome)
+- とっても楽しいおしゃべりでした。仕事と関係ないマニアックな話をできる場はあんまりないので貴重です。またやりましょう。(pome)
 - (soh)
 - 同じ地区に住んでいるのに何にも活かせていません...(tadasu)
 - (coela)
