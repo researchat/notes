@@ -12,12 +12,14 @@ duration: "01:XX:XX"
 layout: article
 tags:
   - スタートアップ
-title: 79. 
+title: 79. Connecting dots 
 ---
 
 ## Show notes
 - [Top CRISPR Startup Companies Changing the Future of Biotech and Medicine](https://www.synthego.com/blog/crispr-startup-companies) ... CRISPR関連スタートアップまとめ
-- [Researchat.fm, ep76](https://researchat.fm/episode/76)
+- [Researchat.fm, ep76](https://researchat.fm/episode/76) ... ゲノム編集特集回
+- [Researchat.fm, ep77](https://researchat.fm/episode/77) ... ゲノム編集特集回
+- [Researchat.fm, ep2](https://researchat.fm/episode/2) ... CRISPR特集回
 - [Researchat.fm, ep77](https://researchat.fm/episode/77)
 - [Researchat.fm, ep47](https://researchat.fm/episode/47) ... SHERLOCKについて話しました。
 - [Boston](https://www.boston.com/)
@@ -55,27 +57,25 @@ title: 79.
 - [BioPallete](https://www.biopalette.co.jp/)
 - Cas3
 - [モダリス](https://www.modalistx.com/jp/science/crispr/)
-- target AID
 - [Beam Therapeutics](https://beamtx.com/)
-- Base editor
+- [Researchat.fm, ep22](https://researchat.fm/episode/22) ... Base editorやTarget AIDについて話しました。
 - in vivo
 - ex vivo
-- 鎌状赤血球
+- [鎌状赤血球](https://ja.wikipedia.org/wiki/%E9%8E%8C%E7%8A%B6%E8%B5%A4%E8%A1%80%E7%90%83%E7%97%87)
 - [CRISPR Therapeutics](http://ir.crisprtx.com/investor-overview)
-- 造血幹細胞
-- CD34+
-- ヘモグロビン
+- [造血幹細胞](https://ja.wikipedia.org/wiki/%E9%80%A0%E8%A1%80%E5%B9%B9%E7%B4%B0%E8%83%9E)
+- [CD34+](https://en.wikipedia.org/wiki/CD34)
+- [ヘモグロビン](https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%A2%E3%82%B0%E3%83%AD%E3%83%93%E3%83%B3)
 - [BCL11A](https://en.wikipedia.org/wiki/BCL11A)
 - [eGenesis Bio](https://www.egenesisbio.com/)
 - [George Church](https://wyss.harvard.edu/team/core-faculty/george-church/)
-- 胚盤胞置換法
+- [胚盤胞置換法](https://www.ims.u-tokyo.ac.jp/imsut/jp/research/papers/post_129.html)
 - [Living cell technologies (LCT)](https://lctglobal.com/)
 - [Diatranz Otsuka](http://dolglobal.com/)
-- CAR-T
-- Chimeric antigen receptor 
-- レンチウィルス
-- AAV
-- HIV
+- [CAR-T](https://www.cancer.gov/about-cancer/treatment/research/car-t-cells)
+- [レンチウイルス](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%88%E3%83%AD%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E7%A7%91#%E3%83%AC%E3%83%B3%E3%83%81%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E5%B1%9E)
+- [AAV](https://en.wikipedia.org/wiki/Adeno-associated_virus)
+- [HIV](https://en.wikipedia.org/wiki/HIV)
 - [ゾルゲンスマ](https://answers.ten-navi.com/pharmanews/18401/)
 - TLO ... Technology License Organizationの略
 - [Wyss Institute](https://wyss.harvard.edu/)
@@ -92,7 +92,7 @@ title: 79.
 - [Johnson & Johnson](https://www.jnj.com/)
 - [Roche](https://www.roche.com/)
 - [Job Description](https://www.betterteam.com/job-descriptions)
-- 四行教授
+- [四行教授](https://blog.goo.ne.jp/sirasawamasakazu/e/4adeaf7e1551a673ef22764e79fbc780) ... とあるブログ様を引用させていただきました。tadasuに四行教授について説いた人物も同一の方です。
 - [Researchat.fm, ep75](https://researchat.fm/episode/75) ... I'm not sure though
 
 ## Editorial notes
