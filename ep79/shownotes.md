@@ -5,10 +5,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/79.mp3
-audio_file_size: XXX
+audio_file_size: 91910404
 date: 2020-11-10 19:30:00 +0900
 description: pomeさんをゲストに迎え、ボストン界隈を中心としたCRISPR関連のバイオスタートアップについて話を伺いました。
-duration: "01:XX:XX"
+duration: "01:18:48"
 layout: article
 tags:
   - スタートアップ
