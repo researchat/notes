@@ -92,8 +92,8 @@ title: 79. Connecting dots
 - [Johnson & Johnson](https://www.jnj.com/)
 - [Roche](https://www.roche.com/)
 - [Job Description](https://www.betterteam.com/job-descriptions)
-- [四行教授](https://blog.goo.ne.jp/sirasawamasakazu/e/4adeaf7e1551a673ef22764e79fbc780) ... とあるブログ様を引用させていただきました。tadasuに四行教授について説いた人物も同一の方です。
-- [Researchat.fm, ep75](https://researchat.fm/episode/75) ... I'm not sure though
+- [四行教授](https://blog.goo.ne.jp/sirasawamasakazu/e/4adeaf7e1551a673ef22764e79fbc780) ... とあるブログ様を引用させていただきました。当時修士のtadasuに四行教授や「履歴書を汚せ」と説いた人物は[黒川清](https://ja.wikipedia.org/wiki/%E9%BB%92%E5%B7%9D%E6%B8%85)先生です。
+- [Researchat.fm, ep75](https://researchat.fm/episode/75) ... I'm not sure though.
 
 ## Editorial notes
 - とっても楽しいおしゃべりでした。仕事と関係ないマニアックな話をできる場はあんまりないので貴重です。またやりましょう。(pome)
