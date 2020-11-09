@@ -59,8 +59,8 @@ title: 79. Connecting dots
 - [モダリス](https://www.modalistx.com/jp/science/crispr/)
 - [Beam Therapeutics](https://beamtx.com/)
 - [Researchat.fm, ep22](https://researchat.fm/episode/22) ... Base editorやTarget AIDについて話しました。
-- in vivo
-- ex vivo
+- [in vivo](https://en.wikipedia.org/wiki/In_vivo)
+- [ex vivo](https://en.wikipedia.org/wiki/Ex_vivo)
 - [鎌状赤血球](https://ja.wikipedia.org/wiki/%E9%8E%8C%E7%8A%B6%E8%B5%A4%E8%A1%80%E7%90%83%E7%97%87)
 - [CRISPR Therapeutics](http://ir.crisprtx.com/investor-overview)
 - [造血幹細胞](https://ja.wikipedia.org/wiki/%E9%80%A0%E8%A1%80%E5%B9%B9%E7%B4%B0%E8%83%9E)
