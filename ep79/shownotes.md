@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/79.mp3
 audio_file_size: XXX
 date: 2020-11-10 19:30:00 +0900
-description: pomeさんをゲストに迎え、ボストン界隈を中心としたCRISPR関連バイオスタートアップについて話を伺いました。
+description: pomeさんをゲストに迎え、ボストン界隈を中心としたCRISPR関連のバイオスタートアップについて話を伺いました。
 duration: "01:XX:XX"
 layout: article
 tags:
@@ -17,9 +17,9 @@ title: 79.
 
 ## Show notes
 - [Top CRISPR Startup Companies Changing the Future of Biotech and Medicine](https://www.synthego.com/blog/crispr-startup-companies) ... CRISPR関連スタートアップまとめ
-- [ep76](https://researchat.fm/episode/76)
-- [ep77](https://researchat.fm/episode/77)
-- [ep47](https://researchat.fm/episode/47) ... SHERLOCK
+- [Researchat.fm, ep76](https://researchat.fm/episode/76)
+- [Researchat.fm, ep77](https://researchat.fm/episode/77)
+- [Researchat.fm, ep47](https://researchat.fm/episode/47) ... SHERLOCKについて話しました。
 - [Boston](https://www.boston.com/)
 - [MIT](https://www.mit.edu/) ... マサチューセッツ工科大学。Kendall Station近くに位置する。厳密にはボストン市ではなく、ケンブリッジ市である。
 - [Harvard University](https://www.harvard.edu/) ...  ハーバード大学。こちらもメインキャンパスはケンブリッジ市。Oxford Stに位置する建物もあるため、Oxford St., Cambridgeと住所的には何が何だかわからないところもある。
@@ -39,7 +39,7 @@ title: 79.
 - [Akamai](https://www.akamai.com/)
 - [Feng Zhang](https://mcgovern.mit.edu/profile/feng-zhang/)
 - [David Liu](https://liugroup.us/)
-- [ep60](https://researchat.fm/episode/60) ... 培養肉回
+- [Researchat.fm, Ep60](https://researchat.fm/episode/60) ... 培養肉などについて話しました。
 - [GMO](https://www.nongmoproject.org/gmo-facts/what-is-gmo/) ...Genetically modified organism
 - [Plantedit](https://plantedit.com/)
 - [FAD2](https://www.arabidopsis.org/servlets/TairObject?id=26904&type=gene)
@@ -77,11 +77,11 @@ title: 79.
 - AAV
 - HIV
 - [ゾルゲンスマ](https://answers.ten-navi.com/pharmanews/18401/)
-- TLO ... technology license organization
+- TLO ... Technology License Organizationの略
 - [Wyss Institute](https://wyss.harvard.edu/)
 - [Wyss Instituteのポッドキャスト](https://wyss.harvard.edu/multimedia-taxonomy/audiopodcast/) ... めちゃくちゃ良い。tadasuはリピートしまくって聞いている時期が度々ある。
 - [Peng Yin](https://wyss.harvard.edu/team/core-faculty/peng-yin/)
-- [ep74](https://researchat.fm/episode/74) ... DNA origami
+- [Researchat.fm, ep74](https://researchat.fm/episode/74) ... DNA Origamiについて話しました。
 - [Cambridge Innovation Center (CiC)](https://cic.com/about-us)
 - [Venture Cafe](https://venturecafecambridge.org/)
 - [Venture Cafe Tokyo](https://venturecafetokyo.org/) ... 虎ノ門ヒルズ内にある。木曜日にイベントをやっているようです。
@@ -93,10 +93,10 @@ title: 79.
 - [Roche](https://www.roche.com/)
 - [Job Description](https://www.betterteam.com/job-descriptions)
 - 四行教授
-- [ep75](https://researchat.fm/episode/75) ... I'm not sure though
+- [Researchat.fm, ep75](https://researchat.fm/episode/75) ... I'm not sure though
 
 ## Editorial notes
 - とっても楽しいおしゃべりでした。仕事と関係ないマニアックな話をできる場はあんまりないので貴重です。またやりましょう。(pome)
-- (soh)
+- 後編もお楽しみに〜 (soh)
 - 同じ地区に住んでいるのに何にも活かせていません...(tadasu)
 - (coela)
