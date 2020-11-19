@@ -47,7 +47,7 @@ title: 79. Connecting dots
 - [GenScript](https://www.genscript.com/)
 - [TdT](https://en.wikipedia.org/wiki/Terminal_deoxynucleotidyl_transferase)
 - [Molecular Assemblies](https://molecularassemblies.com/)
-- Nozakiがpomeさんに送った奴
+- [Enzymatic DNA synthesis enters new phase (Nature Biotech 2020)](https://www.nature.com/articles/s41587-020-0695-9) ... TdTを用いたDNA合成の最前線に関する記事(2020/10月)
 - Enzymatic DNA synthesis Nature Biotechの論文
 - [Moderna](https://www.modernatx.com/) ... 今COVID-19のワクチンで名前を轟かせている製薬会社
 - [さくら通信](https://sakuratsushin.com/)
