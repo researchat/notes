@@ -55,11 +55,10 @@ title: 79. Connecting dots
 - [インドなんて二度と行くか!ボケ!!―…でもまた行きたいかも](https://www.amazon.co.jp/dp/B0838KZ1TH/?tag=researchatf04-22)
 - [感じる科学](https://www.amazon.co.jp/dp/B00GMAW442/?tag=researchatf04-22)
 - [丸山ゴンザレス](https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B1%B1%E3%82%B4%E3%83%B3%E3%82%B6%E3%83%AC%E3%82%B9) ... 通称丸ゴンさん
-- [海外ブラックロード](http://www.blackroad.net/blackroad/)
-- [丸山ゴンザレスの裏社会ジャーニー](https://www.youtube.com/channel/UCaxKWSwF_egyenDrW4h4y2A/?tag=researchatf04-22)
+- [海外ブラックロード](http://www.blackroad.net/blackroad/) ... 丸ゴンさんと嵐よういちさんのポッドキャスト
+- [丸山ゴンザレスの裏社会ジャーニー](https://www.youtube.com/channel/UCaxKWSwF_egyenDrW4h4y2A)
 - [クレイジージャーニー](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%A4%E3%82%B8%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8B%E3%83%BC)
-- [アジア罰当たり旅行](https://www.amazon.co.jp/dp/B00D43EG4G/?tag=researchatf04-22)
-- [草下シンヤ](https://toyokeizai.net/articles/-/260347) ... 個人的には草下さんも超気になっている。まさか[裏のハローワーク](https://www.amazon.co.jp/dp/B00D43EIZ8/)の作者だったのか...
+- [草下シンヤ](https://toyokeizai.net/articles/-/260347) ... 個人的には草下さんも超気になっている。まさか[裏のハローワーク](https://www.amazon.co.jp/dp/B00D43EIZ8/?tag=researchatf04-22)の作者だったのか...
 - [BLUE GIANT](https://www.amazon.co.jp/dp/B00GSMDY48/?tag=researchatf04-22)
 
 ## Editorial notes
