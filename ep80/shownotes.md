@@ -16,21 +16,22 @@ title: 79. Connecting dots
 ---
 
 ## Shownotes
-- TALEN
-- selects ... スウェーデン
-- CAR-T
-- UCAR-T
-- T細胞
-- HLA
-- NK細胞
-- CD47
-- Pfizer
-- Allogene
-- CRISPR
-- iPS
-- spatial transcriptome
-- 10X
-- FISH-Seq
+- [Researchat.fm ep79](https://researchat.fm/episode/79) ... pomeさんゲスト回前編
+- [TALEN](https://en.wikipedia.org/wiki/Transcription_activator-like_effector_nuclease) ... 詳しくは[researchat.fm ep76](https://researchat.fm/episode/76)
+- [Cellectis](https://www.cellectis.com/en/research/talen/)
+- [CAR-T](https://www.cancer.gov/about-cancer/treatment/research/car-t-cells)
+- [UCART](https://www.cellectis.com/en/products/ucarts) ... Universal Chimeric Antigen Receptor T-cells。“off-the-shelf”ってかっこいいですね。
+- [T細胞](https://ja.wikipedia.org/wiki/T%E7%B4%B0%E8%83%9E)
+- [HLA](https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%88%E7%99%BD%E8%A1%80%E7%90%83%E5%9E%8B%E6%8A%97%E5%8E%9F)
+- [NK細胞](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%82%AD%E3%83%A9%E3%83%BC%E7%B4%B0%E8%83%9E)
+- [CD47](https://www.uniprot.org/uniprot/Q08722)
+- [Pfizer](https://www.pfizer.com/)
+- [Allogene](https://www.allogene.com/)
+- [CRISPR](https://en.wikipedia.org/wiki/CRISPR) ... Researchat.fmの過去回をお聞きください。[researchat.fm ep76](https://researchat.fm/episode/76)、[researchat.fm ep77](https://researchat.fm/episode/77)など
+- [iPS](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E5%A4%9A%E8%83%BD%E6%80%A7%E5%B9%B9%E7%B4%B0%E8%83%9E)
+- [Spatial Transcriptomics](https://spatialtranscriptomics.com/)
+- [10X Genomics](https://www.10xgenomics.com/)
+- [seqFISH](https://www.seqfish.com/)
 - FACS
 - biolegend
 - in drop
