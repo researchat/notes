@@ -32,21 +32,21 @@ title: 79. Connecting dots
 - [Spatial Transcriptomics](https://spatialtranscriptomics.com/)
 - [10X Genomics](https://www.10xgenomics.com/)
 - [seqFISH](https://www.seqfish.com/)
-- FACS
-- biolegend
-- in drop
-- one cell bio
-- broad institute
-- アンチセンスRNA
-- 筋ジストロフィー
-- 核酸医薬
-- siRNA
-- 固相合成
-- 液相合成
-- T7
-- gene script
-- TdT
-- Molecular Assemblies
+- [FACS](https://en.wikipedia.org/wiki/Flow_cytometry#Cell_sorting_by_flow_cytometry)
+- [BioLegend](https://www.biolegend.com/)
+- [in drop](https://www.illumina.com/science/sequencing-method-explorer/kits-and-arrays/indrop.html)
+- [1CellBio](https://1cell-bio.com/)
+- [Broad Institute](https://www.broadinstitute.org/)
+- [アンチセンスRNA](https://kotobank.jp/word/%E3%82%A2%E3%83%B3%E3%83%81%E3%82%BB%E3%83%B3%E3%82%B9RNA-761519)
+- [筋ジストロフィー](https://ja.wikipedia.org/wiki/%E7%AD%8B%E3%82%B8%E3%82%B9%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC)
+- [核酸医薬](https://ja.wikipedia.org/wiki/%E6%A0%B8%E9%85%B8%E5%8C%BB%E8%96%AC)
+- [siRNA](https://en.wikipedia.org/wiki/Small_interfering_RNA)
+- [固相合成](https://ja.wikipedia.org/wiki/%E5%9B%BA%E7%9B%B8%E5%90%88%E6%88%90%E6%B3%95)
+- [液相合成](https://shingi.jst.go.jp/past_abst/abst/p/13/1363/shikoku_07.pdf)
+- [T7](https://www.neb.com/products/m0251-t7-rna-polymerase)
+- [GenScript](https://www.genscript.com/)
+- [TdT](https://en.wikipedia.org/wiki/Terminal_deoxynucleotidyl_transferase)
+- [Molecular Assemblies](https://molecularassemblies.com/)
 - Nozakiがpomeさんに送った奴
 - Enzymatic DNA synthesis Nature Biotechの論文
 - Moderna ... 今COVID-19のワクチンで名前を轟かせている製薬会社
