@@ -8,7 +8,7 @@ audio_file_path: /audio/80.mp3
 audio_file_size: 45673425
 date: 2020-11-17 19:30:00 +0900
 description: pomeさんをゲストに迎え、TALEN, UCAR-T, single cell transcriptome, 核酸医薬, 塩基合成に関連する技術とバイオ企業について話を伺いました。
-duration: "01:18:48"
+duration: "00:40:07"
 layout: article
 tags:
   - スタートアップ
