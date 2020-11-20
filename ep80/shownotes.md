@@ -45,7 +45,7 @@ title: 80. XXXXX
 - [液相合成](https://shingi.jst.go.jp/past_abst/abst/p/13/1363/shikoku_07.pdf)
 - [T7 (NEB)](https://www.neb.com/products/m0251-t7-rna-polymerase)
 - [GenScript](https://www.genscript.com/)
-- [TdT (Wikipedia)](https://en.wikipedia.org/wiki/Terminal_deoxynucleotidyl_transferase)
+- [TdT (Wikipedia)](https://en.wikipedia.org/wiki/Terminal_deoxynucleotidyl_transferase) ... 話が途中からDNA合成からRNA合成にすり替わってしまいましたが、RNA合成の基本であるIVT(in vitro transcription)に関してはまたいつか話します。
 - [Molecular Assemblies, Inc](https://molecularassemblies.com/)
 - [Enzymatic DNA synthesis enters new phase. Nature Biotech 2020](https://www.nature.com/articles/s41587-020-0695-9)...TdTを用いたDNA合成の最前線に関する記事(2020/10月)
 - [De novo DNA synthesis using polymerase-nucleotide conjugates. Nature Biotech 2018](https://www.nature.com/articles/nbt.4173)...TdTを用いた核酸合成の元論文。
