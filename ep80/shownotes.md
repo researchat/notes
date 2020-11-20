@@ -12,7 +12,7 @@ duration: "00:40:07"
 layout: article
 tags:
   - スタートアップ
-title: 80. XXXXX
+title: 80. 10X Solution
 ---
 
 ## Shownotes
