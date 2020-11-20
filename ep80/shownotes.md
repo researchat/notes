@@ -6,13 +6,13 @@ actor_ids:
   - coela
 audio_file_path: /audio/80.mp3
 audio_file_size: 45673425
-date: 2020-11-20 19:30:00 +0900
+date: 2020-11-21 00:10:00 +0900
 description: pomeさんをゲストに迎え、TALEN・UCAR-T治療・シングルセル解析・核酸医薬・DNA合成に関する技術と関連のバイオテック企業の動向について話を伺いました。
 duration: "00:40:07"
 layout: article
 tags:
   - スタートアップ
-title: 80. 10X Solution
+title: 80. Guest explains everything
 ---
 
 ## Shownotes
@@ -64,7 +64,7 @@ title: 80. 10X Solution
 ## Editorial notes
 - ブルージャイアント読者仲間がいて嬉しかったです。次も面白い漫画の話ししたいですね。(pome)
 - 楽しかったですね、また宜しくお願いします(soh)
-- (coela)
+- (coela) <- こういうところなんですよね〜...いつになったらコメント書くんですか！！！！ by tadasu
 - 北欧のいいメタル教えてください、ぐらいのノリでスタートアップを聞いてしまいました。そしてこの音源は10月に収録したものだったのですが、PfizerやModernaのmRNAワクチンのニュースが出る前に公開するべきでした！！！大変申し訳ございません。未来を読んだことにしてくれませんかね？ここはひとつ。pome劇場第二幕に期待...!!!(tadasu)
 
 
