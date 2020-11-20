@@ -17,7 +17,7 @@ title: 79. Connecting dots
 
 ## Shownotes
 - [Researchat.fm ep79](https://researchat.fm/episode/79)...pomeさんゲスト回前編はこちらです。
-- [TALEN](https://en.wikipedia.org/wiki/Transcription_activator-like_effector_nuclease)...詳しくは[researchat.fm ep76](https://researchat.fm/episode/76)
+- [TALEN](https://en.wikipedia.org/wiki/Transcription_activator-like_effector_nuclease)...詳しくは[Researchat.fm ep76](https://researchat.fm/episode/76)
 - [Cellectis](https://www.cellectis.com/en/research/talen/)
 - [CAR-T](https://www.cancer.gov/about-cancer/treatment/research/car-t-cells)
 - [UCART](https://www.cellectis.com/en/products/ucarts)...Universal Chimeric Antigen Receptor T-cells。"Off-the-shelf"ってかっこいいですね。
@@ -27,7 +27,7 @@ title: 79. Connecting dots
 - [CD47 (Uniprot)](https://www.uniprot.org/uniprot/Q08722)
 - [Pfizer](https://www.pfizer.com/)
 - [Allogene Therapeutics](https://www.allogene.com/)
-- [CRISPR (Wikipedia)](https://en.wikipedia.org/wiki/CRISPR)...Researchat.fmの過去回をお聞きください。[researchat.fm ep76](https://researchat.fm/episode/76)、[researchat.fm ep77](https://researchat.fm/episode/77)など
+- [CRISPR (Wikipedia)](https://en.wikipedia.org/wiki/CRISPR)...Researchat.fmの過去回をお聞きください。[Researchat.fm ep76](https://researchat.fm/episode/76)、[Researchat.fm ep77](https://researchat.fm/episode/77)など
 - [iPS細胞 (Wikipedia)](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E5%A4%9A%E8%83%BD%E6%80%A7%E5%B9%B9%E7%B4%B0%E8%83%9E)
 - [Spatial Transcriptomics](https://spatialtranscriptomics.com/)
 - [10X Genomics](https://www.10xgenomics.com/)
