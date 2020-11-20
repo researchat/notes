@@ -7,7 +7,7 @@ actor_ids:
 audio_file_path: /audio/80.mp3
 audio_file_size: 45673425
 date: 2020-11-20 19:30:00 +0900
-description: pomeさんをゲストに迎え、TALEN, UCART, single cell transcriptome, 核酸医薬, 塩基合成に関する技術と関連のバイオ企業について話を伺いました。
+description: pomeさんをゲストに迎え、TALEN, UCART, single cell transcriptomics, 核酸医薬, 塩基合成に関する技術と関連のバイオ企業について話を伺いました。
 duration: "00:40:07"
 layout: article
 tags:
