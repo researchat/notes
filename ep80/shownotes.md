@@ -47,7 +47,7 @@ title: 80. XXXXX
 - [GenScript](https://www.genscript.com/)
 - [TdT (Wikipedia)](https://en.wikipedia.org/wiki/Terminal_deoxynucleotidyl_transferase)
 - [Molecular Assemblies, Inc](https://molecularassemblies.com/)
-- [Enzymatic DNA synthesis enters new phase (Nature Biotech 2020)](https://www.nature.com/articles/s41587-020-0695-9)...TdTを用いたDNA合成の最前線に関する記事(2020/10月)
+- [Enzymatic DNA synthesis enters new phase. Nature Biotech 2020](https://www.nature.com/articles/s41587-020-0695-9)...TdTを用いたDNA合成の最前線に関する記事(2020/10月)
 - [De novo DNA synthesis using polymerase-nucleotide conjugates. Nature Biotech 2018](https://www.nature.com/articles/nbt.4173)...TdTを用いた核酸合成の元論文。
 - [Moderna](https://www.modernatx.com/)...今COVID-19のワクチンで名前を轟かせている製薬会社
 - [さくら通信](https://sakuratsushin.com/)
