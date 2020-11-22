@@ -11,7 +11,7 @@ layout: article
 tags:
   - 雑談
   - マンガ
-title: 82. XXX
+title: 82. Problem Bisection
 ---
 
 ## Show notes
@@ -19,6 +19,7 @@ title: 82. XXX
 - [Rui Ueyama – chibiccのコード紹介 (Youtube)](https://www.youtube.com/watch?v=k6A_FmIcHQE)
 - [chibicc: A Small C Compiler](https://github.com/rui314/chibicc)
 - [Turing Complete FM](https://turingcomplete.fm/)...Ruiさんによるポッドキャスト
+- [Bisection method (Wikipedia)](https://en.wikipedia.org/wiki/Bisection_method)
 - [GNU Emacs](https://www.gnu.org/software/emacs/)
 - [Misreading Chat - CSの論文読んで話をしよう](https://misreading.chat/)...コンピュータサイエンスの論文を読むポッドキャスト。Sohはこのポッドキャストを昔聞いたときに自分もやりたいと思った。おすすめです。
 - [LevelDB](https://github.com/google/leveldb)..._"LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values"_
@@ -30,6 +31,7 @@ title: 82. XXX
 - [LadioCast](https://apps.apple.com/jp/app/ladiocast/id411213048?mt=12)
 - [ローカルとリモートに複数人のゲストがいる場合のポッドキャスト録音 – Researchat.fm Blog](https://researchat.fm/blog/7/)
 - [峠鬼 １ (HARTA COMIX) Kindle版 (Amazon)](https://www.amazon.co.jp/gp/product/B07VV2SZKG?tag=researchatf04-22)
+- [葬送のフリーレン（１） (少年サンデーコミックス) Kindle版 (Amazon)](https://www.amazon.co.jp/dp/B08FDH57JT/?tag=researchatf04-22)
 
 ## Editorial notes
 - soh
