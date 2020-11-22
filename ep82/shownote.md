@@ -19,6 +19,9 @@ title: 82. XXX
 - [Rui Ueyama, chibiccのコード紹介 (Youtube)](https://www.youtube.com/watch?v=k6A_FmIcHQE)
 - [chibicc: A Small C Compiler](https://github.com/rui314/chibicc)
 - [Turing Complete FM](https://turingcomplete.fm/)..._"Turing Complete FMはRui Ueyamaによるプログラミングについてのポッドキャストです"_
+- [Misreading Chat CS の論文読んで話をしよう](https://misreading.chat/)...CS系の論文を読むポッドキャスト。Sohはこのポッドキャストを昔聞いたときに自分もやりたいと思った。おすすめです。
+- [Affinity Designer – Professional Graphic Design Software](https://affinity.serif.com/ja-jp/designer/)
+- [Audio Hijack: Record Any Audio on MacOS](https://rogueamoeba.com/audiohijack/)
 
 ## Editorial notes
 - soh
