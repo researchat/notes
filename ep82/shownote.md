@@ -34,5 +34,5 @@ title: 82. Problem Bisection
 - [葬送のフリーレン（１） (少年サンデーコミックス) Kindle版 (Amazon)](https://www.amazon.co.jp/dp/B08FDH57JT/?tag=researchatf04-22)
 
 ## Editorial notes
-- soh
+- あとで調べて知ったのですが、ソフトウェア工学ではbisectionという考え方が浸透しているのですね。(soh)
 - こっちは音源無くして無いです！！今度ポスターAffinity Designerで作ってみます。(coela)
