@@ -35,4 +35,4 @@ title: 82. Problem Bisection
 
 ## Editorial notes
 - soh
-- coela
+- こっちは音源無くして無いです！！今度ポスターAffinity Designerで作ってみます。(coela)
