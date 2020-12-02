@@ -51,6 +51,7 @@ title: 83. Nice round number
 - [バカドリル(amazon)](https://www.amazon.co.jp/dp/4594016162/?tag=researchatf04-22)
 - [バカはサイレンで泣く](https://nikkan-spa.jp/bakasai) ... SPA!といえばバカサイ。tadasuも高校生時代に投稿し、少し掲載された。
 - [バカはサイレンで泣く'09 (amazon)](https://www.amazon.co.jp/dp/4594059430/?tag=researchatf04-22) ... 少しネタが載っていてうれしかった。
+- [バカはサイレンで泣く'13](http://bakadrill.com/pc/) ... 前書きがかっこよすぎる。
 - ノーベル賞とファミリーネームの都市伝説 ... AとBという人が同じ年に論文を出しているとA(2000), B(2000)という引用がされやすいため、Aの方が重要に見えて、結果的にcitationも増え、Bの評価が不当に下がってしまったという話
 - [スパイダーバース](https://www.amazon.co.jp/dp/B07RQHH1GN/?tag=researchatf04-22)
 - [日本酒のサブスクサービスの苦難](https://togetter.com/li/1433089) ... 非常に勉強になるまとめ
