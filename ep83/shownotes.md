@@ -49,8 +49,8 @@ title: 83. Nice round number
 - [挫折を経て、猫は丸くなった。(amazon)](https://www.amazon.co.jp/dp/4103369329/?tag=researchatf04-22) ... 書き出し小説の珠玉作品まとめ vol.2
 - [バカドリル](https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AB%E3%83%89%E3%83%AA%E3%83%AB) ... 平成史に燦々と輝くバカドリル。天久聖一先生とタナカカツキ先生の作品。
 - [バカドリル(amazon)](https://www.amazon.co.jp/dp/4594016162/?tag=researchatf04-22)
-- [バカはサイレンで泣く](https://nikkan-spa.jp/bakasai) ... SPA!といえばバカサイ。tadasuも高校生時代に投稿し、少し掲載された。
-- [バカはサイレンで泣く'09 (amazon)](https://www.amazon.co.jp/dp/4594059430/?tag=researchatf04-22) ... 少しネタが載っていてうれしかった。
+- [バカはサイレンで泣く](https://nikkan-spa.jp/bakasai) ... SPA!といえばバカサイ。天久先生、椎名先生、せきしろ先生による投稿コーナー。昔はゴメス氏も。30年近く経つも、電気グルーヴのANNの残り香を楽しめる。対抗は伊集院さんのラジオかファミ通町内会か。tadasuは高校生時代に投稿していた時期があり、少し掲載された。書き出し小説の元になったような回に掲載されたのがうれしかった。
+- [バカはサイレンで泣く'09 (amazon)](https://www.amazon.co.jp/dp/4594059430/?tag=researchatf04-22) ... 少しネタが載っていてうれしい。自分語りばかりですいません。
 - [バカはサイレンで泣く'13](http://bakadrill.com/pc/) ... 前書きがかっこよすぎる。
 - ノーベル賞とファミリーネームの都市伝説 ... AとBという人が同じ年に論文を出しているとA(2000), B(2000)という引用がされやすいため、Aの方が重要に見えて、結果的にcitationも増え、Bの評価が不当に下がってしまったという話
 - [スパイダーバース](https://www.amazon.co.jp/dp/B07RQHH1GN/?tag=researchatf04-22)
