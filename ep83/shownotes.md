@@ -26,14 +26,14 @@ title: 83. Nice round number
 - ウェスタンのゲル ... 作るのがめんどくさい。失敗しやすい。分子生物学初心者の鬼門。
 - [nature protocols](https://www.nature.com/nprot/)
 - [JoVE](https://www.jove.com/)
-- [cookpad](https://cookpad.com/)
+- [Cookpad](https://cookpad.com/)
 - [クラシル](https://www.kurashiru.com/)
 - [為末大](https://ja.wikipedia.org/wiki/%E7%82%BA%E6%9C%AB%E5%A4%A7)
 - [進数](https://ja.wikipedia.org/wiki/%E9%80%B2%E6%95%B0)
 - [ウィスキーの熟成スタートアップに関する記事](https://www.afpbb.com/articles/-/3309033) ... [Bespoken Spirits](https://www.bespokenspirits.com/)という企業
 - [Afineur](https://www.afineur.com) ... コピルアクにインスピレーションをうけ、バクテリアによってコーヒーを発酵させるこで新時代のコーヒーを作るスタートアップ。
-- [竜涎香](https://ja.wikipedia.org/wiki/%E9%BE%8D%E6%B6%8E%E9%A6%99)
-- [青春あるでひど](http://www.dehido.com/)
+- [龍涎香](https://ja.wikipedia.org/wiki/%E9%BE%8D%E6%B6%8E%E9%A6%99)
+- [青春あるでひど](http://www.dehido.com/) ... 科学ポッドキャストの先達。知識の引き出しとトークのキレがやばい。アダルト科学相談室。
 - [Big Hall](https://en.wikipedia.org/wiki/Big_Hole) ... 南アフリカ共和国のキンバリーに存在するダイヤモンド採掘のために掘られた穴
 - [De Beers](https://www.debeers.com/en-us/home) ... デビアス
 - [ダイヤモンドの4C](https://www.gia.edu/JP/gia-news-research/diamond-quality-short-history-4cs) ... デビアスと4C
