@@ -45,10 +45,14 @@ title: 83. Nice round number
 - [地味ハロウィン](https://dailyportalz.jp/kiji/jimihalloween2020_pictures) ... DPZ主催。海外のツイッターでもかなり話題になっていた。
 - [天久聖一](https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B9%85%E8%81%96%E4%B8%80) ... 天久の前に天久なし、天久の後に天久なし。
 - [書き出し小説大賞](https://dailyportalz.jp/kiji/121103158198) ... 天久先生がDPZで主催している最高の知的ゲーム。一行小説。tadasuも以前投稿していた。
+- [書き出し小説大賞 (amazon)](https://www.amazon.co.jp/dp/4103369310/?tag=researchatf04-22) ... 書き出し小説の珠玉作品まとめ
+- [挫折を経て、猫は丸くなった。(amazon)](https://www.amazon.co.jp/dp/4103369329/?tag=researchatf04-22) ... 書き出し小説の珠玉作品まとめ vol.2
 - [バカドリル](https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AB%E3%83%89%E3%83%AA%E3%83%AB) ... 平成史に燦々と輝くバカドリル。天久聖一先生とタナカカツキ先生の作品。
+- [バカドリル(amazon)](https://www.amazon.co.jp/dp/4594016162/?tag=researchatf04-22)
 - [バカはサイレンで泣く](https://nikkan-spa.jp/bakasai) ... SPA!といえばバカサイ。tadasuも高校生時代に投稿し、少し掲載された。
+- [バカはサイレンで泣く'09 (amazon)](https://www.amazon.co.jp/dp/4594059430/?tag=researchatf04-22) ... 少しネタが載っていてうれしかった。
 - ノーベル賞とファミリーネームの都市伝説 ... AとBという人が同じ年に論文を出しているとA(2000), B(2000)という引用がされやすいため、Aの方が重要に見えて、結果的にcitationも増え、Bの評価が不当に下がってしまったという話
-- [スパイダーバース](https://www.amazon.co.jp/dp/B07RQHH1GN/)
+- [スパイダーバース](https://www.amazon.co.jp/dp/B07RQHH1GN/?tag=researchatf04-22)
 - [日本酒のサブスクサービスの苦難](https://togetter.com/li/1433089) ... 非常に勉強になるまとめ
 
 ## Editorial notes
