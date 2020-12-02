@@ -47,6 +47,7 @@ title: 83. Nice round number
 - [書き出し小説大賞](https://dailyportalz.jp/kiji/121103158198) ... 天久先生がDPZで主催している最高の知的ゲーム。一行小説。tadasuも以前投稿していた。
 - [バカドリル](https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AB%E3%83%89%E3%83%AA%E3%83%AB) ... 平成史に燦々と輝くバカドリル。天久聖一先生とタナカカツキ先生の作品。
 - [バカはサイレンで泣く](https://nikkan-spa.jp/bakasai) ... SPA!といえばバカサイ。tadasuも高校生時代に投稿し、少し掲載された。
+- ノーベル賞とファミリーネームの都市伝説 ... AとBという人が同じ年に論文を出しているとA(2000), B(2000)という引用がされやすいため、Aの方が重要に見えて、結果的にcitationも増え、Bの評価が不当に下がってしまったという話
 - [スパイダーバース](https://www.amazon.co.jp/dp/B07RQHH1GN/)
 - [日本酒のサブスクサービスの苦難](https://togetter.com/li/1433089) ... 非常に勉強になるまとめ
 
