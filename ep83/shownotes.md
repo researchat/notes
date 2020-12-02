@@ -20,21 +20,19 @@ title: 83. Nice round number
 - [Researchat.fm ep82](https://researchat.fm/episode/82)
 - [ペアプログラミングに関するコメント](https://twitter.com/naoharu/status/1331437494462648321) ... ep82に関していただいたペアプログラミングに関するコメント。@naoharuさんありがとうございます。
 - [ペアプログラミング](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A2%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)
-- 遅いより速いほうがいい。 ... https://www.google.com/about/philosophy.html?hl=JA
-- Biorad
-- セミドライ
-- ウェスタンブロッティング
-- ウェスタンのゲル
-- トクロン氏のツイート
-- Nature Protocol
-- JoVE
-- cookpad
-- クラシル
-- 為末大
-- 進数
-- ウィスキーのスタートアップ
+- [googleの哲学](https://www.google.com/about/philosophy.html?hl=JA) ... 遅いより速いほうがいい。
+- [BIO-RAD](https://www.bio-rad.com/) ... みんな大好きBIO-RAD
+- [ウェスタンブロッティング](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%96%E3%83%AD%E3%83%83%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)
+- ウェスタンのゲル ... 作るのがめんどくさい。失敗しやすい。分子生物学初心者の鬼門。
+- [nature protocols](https://www.nature.com/nprot/)
+- [JoVE](https://www.jove.com/)
+- [cookpad](https://cookpad.com/)
+- [クラシル](https://www.kurashiru.com/)
+- [為末大](https://ja.wikipedia.org/wiki/%E7%82%BA%E6%9C%AB%E5%A4%A7)
+- [進数](https://ja.wikipedia.org/wiki/%E9%80%B2%E6%95%B0)
+- [ウィスキーの熟成スタートアップに関する記事](https://www.afpbb.com/articles/-/3309033) ... [Bespoken Spirits](https://www.bespokenspirits.com/)という企業
 - コピルアクのスタートアップ
-- 竜涎香
+- [竜涎香](https://ja.wikipedia.org/wiki/%E9%BE%8D%E6%B6%8E%E9%A6%99)
 - 青春あるでひど
 - big hall
 - デビアス
