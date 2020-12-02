@@ -40,7 +40,7 @@ title: 83. Nice round number
 - [lab grown diamond](https://lightboxjewelry.com/collections/) ... lightboxが商標。
 - デビアスの人工ダイヤモンド ... 識者によると同一カラットのダイヤであれば天然ダイヤの1/5程度の値段とのこと。
 - [コラ半島超深度掘削坑](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A9%E5%8D%8A%E5%B3%B6%E8%B6%85%E6%B7%B1%E5%BA%A6%E6%8E%98%E5%89%8A%E5%9D%91) ... ロシアの穴
-- [マンションポエム](https://dailyportalz.jp/kiji/170728200270)
+- [マンションポエム](https://dailyportalz.jp/kiji/170728200270) ... 「空にそびえる鉄の城」っていう歌詞が思い浮かびました。音はマジンガーZのオリジナルではなく、証言のYou the Rockさんの方でしたが。
 - [DPZ](https://dailyportalz.jp/) ... デイリーポータルZ。最高のサイトである。
 - [地味ハロウィン](https://dailyportalz.jp/kiji/jimihalloween2020_pictures) ... DPZ主催。海外のツイッターでもかなり話題になっていた。
 - [天久聖一](https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B9%85%E8%81%96%E4%B8%80) ... 天久の前に天久なし、天久の後に天久なし。
