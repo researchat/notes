@@ -33,23 +33,22 @@ title: 83. Nice round number
 - [ウィスキーの熟成スタートアップに関する記事](https://www.afpbb.com/articles/-/3309033) ... [Bespoken Spirits](https://www.bespokenspirits.com/)という企業
 - コピルアクのスタートアップ
 - [竜涎香](https://ja.wikipedia.org/wiki/%E9%BE%8D%E6%B6%8E%E9%A6%99)
-- 青春あるでひど
-- big hall
-- デビアス
-- 4C
-- lab grown diamond
-- デビアスの人工ダイヤ ... 識者によると同一カラットのダイヤであれば天然ダイヤの1/10程度の値段とのこと。
+- [青春あるでひど](http://www.dehido.com/)
+- [Big Hall](https://en.wikipedia.org/wiki/Big_Hole) ... 南アフリカ共和国のキンバリーに存在するダイヤモンド採掘のために掘られた穴
+- [De Beers](https://www.debeers.com/en-us/home) ... デビアス
+- [ダイヤモンドの4C](https://www.gia.edu/JP/gia-news-research/diamond-quality-short-history-4cs) ... デビアスと4C
+- [lab grown diamond](https://lightboxjewelry.com/collections/) ... lightboxが商標。
+- デビアスの人工ダイヤモンド ... 識者によると同一カラットのダイヤであれば天然ダイヤの1/5程度の値段とのこと。
 - ロシアの穴
-- ボジョレーヌーボー
-- マンションポエム
-- DPZ
-- 地味ハロウィン
-- 書き出し小説大賞
-- 天久聖一
-- バカドリル
-- バカサイ
-- スパイダーバース
-- 日本酒のサブスクサービス ... https://togetter.com/li/1433089
+- [マンションポエム](https://dailyportalz.jp/kiji/170728200270)
+- [DPZ](https://dailyportalz.jp/) ... デイリーポータルZ。最高のサイトである。
+- [地味ハロウィン](https://dailyportalz.jp/kiji/jimihalloween2020_pictures) ... DPZ主催。海外のツイッターでもかなり話題になっていた。
+- [書き出し小説大賞](https://dailyportalz.jp/kiji/121103158198) ... 天久先生がDPZで主催している最高の知的ゲーム。一行小説。tadasuも2桁程度には採用されている。
+- [天久聖一](https://ja.wikipedia.org/wiki/%E5%A4%A9%E4%B9%85%E8%81%96%E4%B8%80) ... 天久の前に天久なし、天久の後に天久なし。唯一神。
+- [バカドリル](https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AB%E3%83%89%E3%83%AA%E3%83%AB) ... 平成史に燦々と輝くバカドリル。天久聖一先生とタナカカツキ先生の作品。
+- [バカはサイレンで泣く](https://nikkan-spa.jp/bakasai) ... SPA!といえばバカサイ。tadasuも高校生時代に熱心に投稿し、少し掲載された。
+- [スパイダーバース](https://www.amazon.co.jp/dp/B07RQHH1GN/)
+- [日本酒のサブスクサービスの苦難](https://togetter.com/li/1433089) ... 非常に勉強になるまとめ
 
 ## Editorial notes
 - (soh)
