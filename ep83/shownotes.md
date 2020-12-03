@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: /audio/83.mp3
 audio_file_size: 81074432
-date: 2020-12-02 19:30:00 +0900
+date: 2020-12-03 9:45:00 +0900
 description: ペア実験、実験プロトコルと動画、キリのいい数字、人工と天然、書き出し文、オススメされた漫画を読んでいない問題について話しました。
 duration: "01:09:50"
 layout: article
