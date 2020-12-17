@@ -1,3 +1,21 @@
+---
+actor_ids:
+  - coela
+  - tadasu
+audio_file_path: /audio/85.mp3
+audio_file_size: X
+date: 2020-12-20 9:45:00 +0900
+description: XXXX
+duration: "01:09:50"
+layout: article
+tags:
+  - 雑談
+  - ゲーム
+title: 85. XXXXX
+---
+
+## Show notes
+
 - SFV
 - sako
 - SFのキャラ
@@ -37,3 +55,7 @@
 - ゲーミングお嬢様
 - たいありでした
 - Umehara Fighting Gamers
+
+## Ediorial notes
+- (coela)
+- これぐらいいつも気合いれて欲しいですね笑(tadasu)
