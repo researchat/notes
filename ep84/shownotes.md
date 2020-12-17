@@ -53,6 +53,7 @@ title: 84. Exe Beast
 - [sako選手](https://twitter.com/sakonoko) ... FAVゲーミング所属のプロゲーマー。coelaは大ファン。[sako選手のTwitchチャンネル](https://www.twitch.tv/sakonoko_game)
 - [ヴァンパイアシリーズ](https://www.capcom.co.jp/product/detail.php?id=187) ... CAPCOMの格闘ゲーム。ユニークなキャラクターが多数登場している。ゲームスピードがとても早い。
 - [ストリートファイターV](https://www.capcom.co.jp/sfv/) ... ストリートファイターシリーズで現状最新作のナンバリングタイトル。今年で稼働５年目で結構攻略も進んでいる。
+- [CPT](https://sf.esports.capcom.com/sp/cpt/) ... 一年間のツアーを通してストリートファイターV最強を決める。今年はオンライン開催で大会数が少ないので初心者にもオススメです！
 - [梅原大吾選手](https://twitter.com/daigothebeastjp) ... 格闘ゲーム界のレジェンド。[ウメハラ選手のMildomチャンネル](https://www.mildom.com/10467370)
 - [ときど選手](https://twitter.com/tokidoki77) ... 東大卒プロゲーマー。[ときど選手のOPENRECチャンネル](https://www.openrec.tv/user/tokidoki77)
 - トレーニングモード ... 通称トレモ。格闘ゲームの練習で多用される。
