@@ -17,7 +17,7 @@ title: 84. Exe Beast
 ## Show notes
 
 - Researchat過去の格闘ゲーム回 ... [Ep3](http://researchat.fm/episode/3)、[Ep34](https://researchat.fm/episode/34)、[Ep64](https://researchat.fm/episode/64)(ちょっとだけ）
-- アーケードコントローラー ... 通称アケコン。PlayStationやSwitchなどのコントローラーとは大きく異なり、レバーとボタンを入力装置とする。
+- アーケードコントローラー ... 通称アケコン。PlayStationやSwitchなどのデフォルトコントローラーとは異なり、レバーとボタンを入力装置とする。
 - [King of Fightersシリーズ](https://game.snk-corp.co.jp/official/kof-xiv/) ... SNKの格闘ゲーム。シリーズによって若干異なるが、基本的に 3 on 3で対戦するのが特徴。coelaはKOF98を最も遊んだ。
 - [ゲーメスト](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A1%E3%82%B9%E3%83%88) ... 当時あったゲーム雑誌（月刊誌）。
 - [アルカディア](https://ja.wikipedia.org/wiki/%E6%9C%88%E5%88%8A%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2) ... 当時あったゲーム雑誌。ゲーメストの後継誌として発売された。
@@ -39,11 +39,11 @@ title: 84. Exe Beast
 - 八神庵のズボン ... 「ボンテージパンツ」という実在するパンクファッション。
 - 草薙京 ... King of Fighersの主人公
 - [GGXXACのキャラクター一覧](https://www.guiltygearx.com/ggxxacpr/character/)
-- テスタメント ... ギルティギアシリーズの登場キャラクター。初代ギルティギアから中ボスを務める。GGX~GGXXACまでのcoelaの持ちキャラ。
+- テスタメント ... ギルティギアシリーズの登場キャラクター。初代ギルティギア、ギルティギアゼクスでは中ボスを務める。coelaの持ちキャラ。
 - グレイブディガー ... テスタメントの必殺技。
 - エグゼビースト　... テスタメントの必殺技。
-- 蔵土縁紗夢 ... coelaの持ちキャラその２。声がめっちゃうるさい。
-- FDC/FCD ... GGXにおけるフォルトレスキャンセル（フォルキャン）と言われるテクニック。このテクニックの発見によって環境が激変した。
+- 蔵土縁紗夢 ... ギルティギアシリーズの登場キャラクター。coelaの持ちキャラその２。声がめっちゃうるさい。
+- FDC/FCD ... GGXにおけるフォルトレスキャンセル（フォルキャン）と言われるテクニックとその派生テクニック。フォルキャンの発見によって環境が激変した。
 - エディ ... ギルティギアシリーズに登場するキャラクター。操作がめちゃくちゃテクい。声優は塩沢兼人さん > 子安武人さん。
 - [geocities](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%AA%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BA) ... 昔はみんなこれで無料ホームページを作っていた(気がする)。
 - [GUILTY GEAR -STRIVE-](https://www.guiltygear.com/ggst/jp/) ... 2021年4月発売予定のギルティギアの最新作。テスタメントの参戦が待たれる。
@@ -60,7 +60,7 @@ title: 84. Exe Beast
 - トレーニングモード ... 通称トレモ。格闘ゲームの練習で多用される。
 - ダイヤグラム ... 格闘ゲームのキャラ同士の相性はダイヤグラムと呼ばれる。6:4などの数字で言われる事が多い。何をやっても詰んでる組み合わせは10:0と呼ばれる。
 - [サムライスピリッツシリーズ](https://www.snk-corp.co.jp/official/samuraispirits/) ... SNKの格闘ゲーム。とにかく一撃でめっちゃ減るのが特徴。最新作SAMURAI SPIRITSも好評発売中。
-- [妖怪腐れ外道](https://samuraianiv.snk-corp.co.jp/character/kusaregedo/index.php) ... トライガンの作者がデザインしたキャラクター。coelaは初めて見たコイツを見たとき衝撃を受けた。
+- [妖怪腐れ外道](https://samuraianiv.snk-corp.co.jp/character/kusaregedo/index.php) ... トライガンの作者、内藤泰弘先生がデザインしたキャラクター。coelaは初めて見たコイツを見たとき衝撃を受けた。
 - [真鏡名ミナ](https://www.snk-corp.co.jp/official/samuraispirits/characters/mina.php) ... 多くのキャラが剣で戦う（いうほどでもないかもしれない...）サムライスピリッツにおいて弓で戦うちょっと変わったキャラクター。かわいい。
 - 妖怪腐れ外道 vs ミナ ... 収録後調べてみたら実はいうほどミナ有利ではないらしい（零シリーズでは）。謹んで訂正申し上げます。
 - sakoスペシャル ... ヴァンパイアセイヴァーのバレッタのコンボ。1フレームしか猶予がない行動を繰り返す必要がある。
