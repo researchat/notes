@@ -5,7 +5,7 @@ actor_ids:
 audio_file_path: /audio/84.mp3
 audio_file_size: X
 date: 2020-12-10 9:45:00 +0900
-description: XXXX
+description: 学生時代に熱中したゲームの話をしました。
 duration: "01:09:50"
 layout: article
 tags:
