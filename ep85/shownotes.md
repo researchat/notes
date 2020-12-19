@@ -21,7 +21,7 @@ title: 85. Road to Diamond
 - [sako選手](https://twitter.com/sakonoko) ... FAVゲーミング所属のプロゲーマー。coelaは大ファン。[sako選手のTwitchチャンネル](https://www.twitch.tv/sakonoko_game)
 - [akikiさん](https://twitter.com/akikiwww) ... sakoさんの奥さん兼マネージャー。
 - かりん ... 中平正彦先生の漫画「[さくらがんばる！](https://www.amazon.co.jp/dp/4087820645?tag=researchatf04-22)」に登場した[さくら](https://game.capcom.com/cfn/sfv/character/sakura)のライバルキャラクター。ストリートファイターZERO3でプレイアブルキャラクターとして参戦した。
-- [メナト](https://game.capcom.com/cfn/sfv/character/menat) ... ストリートファイターVの登場キャラクター。水晶を画面に設置して戦う。かわいい。
+- [メナト](https://game.capcom.com/cfn/sfv/character/menat) ... ストリートファイターVの登場キャラクター。水晶を設置して戦う。かわいい。
 - メナトの声優 ... 悠木碧さん。
 - 沖田さん ... 大勝利
 - ファンネル ... ガンダムに登場する無線で遠隔操作可能な兵器。ニュータイプと呼ばれる宇宙に適応したやばい奴らしか使用できない。ファンネルを用いた攻撃はオールレンジ攻撃と呼ばれる。
