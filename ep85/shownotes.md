@@ -5,7 +5,7 @@ actor_ids:
 audio_file_path: /audio/85.mp3
 audio_file_size: X
 date: 2020-12-20 9:45:00 +0900
-description: XXXX
+description: 格ゲー初心者脱出のために取り組んだことを話しました。
 duration: "01:09:50"
 layout: article
 tags:
