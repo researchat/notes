@@ -19,7 +19,7 @@ title: 85. Road to Diamond
 - EVO Japan 2020
 - [CPT](https://sf.esports.capcom.com/sp/cpt/) ... CAPCOM Pro Tour。１年のツアーを通じて最強のストVプレイヤーを決定する（正確にはツアー > トーナメントの順）。今年はオンライン開催で大会も少ないので入門に最適です！
 - [sako選手](https://twitter.com/sakonoko) ... FAVゲーミング所属のプロゲーマー。coelaは大ファン。[sako選手のTwitchチャンネル](https://www.twitch.tv/sakonoko_game)
-- [akikiさん](https://twitter.com/akikiwww) ... sakoさんの奥さん兼マネージャー。sakoさんの配信を語る上でなくてはならない人。
+- [akikiさん](https://twitter.com/akikiwww) ... sakoさんの奥さん兼マネージャー。
 - かりん ... 中平正彦先生の漫画「[さくらがんばる！](https://www.amazon.co.jp/dp/4087820645?tag=researchatf04-22)」に登場した[さくら](https://game.capcom.com/cfn/sfv/character/sakura)のライバルキャラクター。ストリートファイターZERO3でプレイアブルキャラクターとして参戦した。
 - [メナト](https://game.capcom.com/cfn/sfv/character/menat) ... ストリートファイターVの登場キャラクター。水晶を画面に設置して戦う。かわいい。
 - メナトの声優 ... 悠木碧さん。
