@@ -16,8 +16,9 @@ title: 84. Exe Beast
 
 ## Show notes
 
-- Researchat過去の格闘ゲーム回 ... [Ep3](http://researchat.fm/episode/3)、[Ep34](https://researchat.fm/episode/34)、[Ep64](https://researchat.fm/episode/64)(ちょっとだけ）
+- Researchat過去の格闘ゲーム回 ... [Ep3](http://researchat.fm/episode/3)、[Ep34](https://researchat.fm/episode/34)、[Ep53](https://researchat.fm/episode/53)(ちょっとだけ)、[Ep64](https://researchat.fm/episode/64)(ちょっとだけ）
 - アーケードコントローラー ... 通称アケコン。PlayStationやSwitchなどのデフォルトコントローラーとは異なり、レバーとボタンを入力装置とする。
+- [雛形書庫](https://tl.hateblo.jp/entry/2020/09/20/144409) ... Researchat.fmのep53を聴いてパッド勢に切り替わったとのこと。
 - [King of Fightersシリーズ](https://game.snk-corp.co.jp/official/kof-xiv/) ... SNKの格闘ゲーム。シリーズによって若干異なるが、基本的に 3 on 3で対戦するのが特徴。coelaはKOF98を最も遊んだ。
 - [ゲーメスト](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A1%E3%82%B9%E3%83%88) ... 当時あったゲーム雑誌（月刊誌）。
 - [アルカディア](https://ja.wikipedia.org/wiki/%E6%9C%88%E5%88%8A%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%87%E3%82%A3%E3%82%A2) ... 当時あったゲーム雑誌。ゲーメストの後継誌として発売された。
