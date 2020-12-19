@@ -61,5 +61,5 @@ title: 85. Road to Diamond
 - [ゲーミングうちゅうじん](https://www.pixiv.net/user/245189/series/92968)
 
 ## Ediorial notes
-- この人早口で喋りたい事だけ喋ってる…(coela)
+- この人早口で自分の喋りたい事だけ喋ってる…(coela)
 - これぐらいいつも気合いれて欲しいですね笑(tadasu)
