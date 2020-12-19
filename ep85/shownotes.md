@@ -42,8 +42,8 @@ title: 85. Road to Diamond
 - [CiRA](https://www.cira.kyoto-u.ac.jp/) ... 京都大学iPS細胞研究所
 - [おじリーグ3](https://www.mildom.com/playback/10558567/10558567-butmejvtc1ntdm44c04g)
 - アケコンのボタン・レバー配置 ... メジャーどころではビュウリックス配置とノワール配置の２つがある。ファイティングエッジ刃はノワール配置。
-- アケコン・ボタンのメーカー ... 国内では三和・セイミツ・HORIが有名。
-- 蔵土縁紗夢 ... coelaの持ちキャラその２。声がめっちゃうるさい。
+- アケコン関連のメーカー ... 国内では三和・セイミツ・HORIが有名。
+- 蔵土縁紗夢 ... ギルティギアシリーズのキャラクター。声がめっちゃうるさい。
 - [ときど選手](https://twitter.com/tokidoki77) ... 東大卒プロゲーマー。[ときど選手のOPENRECチャンネル](https://www.openrec.tv/user/tokidoki77)
 - [ふ〜ど選手](https://twitter.com/TheFuudo) ... Mildom Beast所属のプロゲーマー。いつも勉強させてもらってます。この場をかりてお礼申し上げます。[ふ〜ど選手のMildomチャンネル](https://www.mildom.com/profile/10524169/playback)
 - [ジコケンTV](https://jikoken.tokyo/) ... ふ〜ど選手の「超参加型ゲーム配信番組」。初中級者講座や初中級者が参加しやすい大会を開催している。[ジコケンTVも配信しているふ〜どさんのTwitchチャンネル](https://www.twitch.tv/thefuudo)
