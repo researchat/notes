@@ -11,7 +11,7 @@ layout: article
 tags:
   - 雑談
   - ゲーム
-title: 85. XXXXX
+title: 85. Road to Diamond
 ---
 
 ## Show notes
