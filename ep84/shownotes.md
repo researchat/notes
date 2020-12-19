@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: /audio/84.mp3
 audio_file_size: 84180186
-date: 2020-12-10 9:45:00 +0900
+date: 2020-12-20 06:15:00 +0900
 description: 学生時代に熱中したゲームの話をしました。
 duration: "01:12:36"
 layout: article
