@@ -58,7 +58,7 @@ title: 85. Road to Diamond
 - [ゲーミングお嬢様](https://www.amazon.co.jp/dp/4088825470?tag=researchatf04-22) ... [ジャンプ+の連載ページ](https://shonenjumpplus.com/episode/13933686331681119000)
 - [対ありでした。 ～お嬢さまは格闘ゲームなんてしない～](https://www.amazon.co.jp/dp/4040646134?tag=researchatf04-22) ... [ComicWalkerの連載ページ](https://comic-walker.com/contents/detail/KDCW_MF01201642010000_68/0)
 - [ウメハラ fighting gamers](https://www.amazon.co.jp/dp/B00R3XZM1E?tag=researchatf04-22)
-- [ゲーミングうちゅうじん](https://www.pixiv.net/user/245189/series/92968
+- [ゲーミングうちゅうじん](https://www.pixiv.net/user/245189/series/92968)
 
 ## Ediorial notes
 - この人早口で喋りたい事だけ喋ってる…(coela)
