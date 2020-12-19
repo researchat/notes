@@ -54,7 +54,7 @@ title: 85. Road to Diamond
 - [GamerFinger](https://www.sengoku.co.jp/mod/sgk_cart/search.php?cid=5633) ... アケコン用のボタン。押し心地がとても良い。中にCherry MXの銀軸が搭載されている（軸は交換可能）。
 - Cherry MX 銀軸 ... メカニカルキーボードのスイッチの種類。反応が早いのが特徴。主にゲーミングキーボードに採用されている。
 - [240Hzのディスプレイ](https://pc.watch.impress.co.jp/docs/topic/feature/1283931.html) ... 240Hzのディスプレイを使用することで、60Hzのゲーム（格闘ゲームは主にこれ）でも１フレームほど有利になることが近年話題になっている。
-- 自作PC ... [Ep56](https://researchat.fm/episode/56)でも取り上げました。coelaのはケースをガラスにして中身をめっちゃ光るようにしました。
+- 自作PC ... [Ep56](https://researchat.fm/episode/56)でも取り上げました。coelaのはケースの側面を透明のにして中身をめっちゃ光るようにしました。
 - [ゲーミングお嬢様](https://www.amazon.co.jp/dp/4088825470?tag=researchatf04-22) ... [ジャンプ+の連載ページ](https://shonenjumpplus.com/episode/13933686331681119000)
 - [対ありでした。 ～お嬢さまは格闘ゲームなんてしない～](https://www.amazon.co.jp/dp/4040646134?tag=researchatf04-22) ... [ComicWalkerの連載ページ](https://comic-walker.com/contents/detail/KDCW_MF01201642010000_68/0)
 - [ウメハラ fighting gamers](https://www.amazon.co.jp/dp/B00R3XZM1E?tag=researchatf04-22)
