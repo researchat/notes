@@ -33,5 +33,5 @@ RecBCD
 
 ## Ediorial notes
 - Defence islandて宝探しをしよう！Soh
-- Tadasu
+- レトロンって名前がかっこいい (tadasu)
 
