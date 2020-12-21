@@ -14,8 +14,8 @@ title: 86. Unsolved Problem for 35 years
 ---
 
 ## Show notes
-Cell
-逆転写酵素
+- Cell
+- 逆転写酵素
 Retron
 Tim Liu
 CRISPY 最初はこれじゃなかったね
@@ -32,6 +32,6 @@ Gam
 RecBCD
 
 ## Ediorial notes
-- Soh
+- Defence islandて宝探しをしよう！Soh
 - Tadasu
 
