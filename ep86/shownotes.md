@@ -3,9 +3,9 @@ actor_ids:
   - soh
   - tadasu
 audio_file_path: /audio/86.mp3
-audio_file_size: 
+audio_file_size: 36988133
 date: 2020-12-24 09:00:00 +0900
-description: バクテリアで35年前に発見されたレトロンと呼ばれる謎の因子の持つ機能に大胆に迫った論文を読みました。
+description: バクテリアで35年前に発見されたレトロンと呼ばれる謎の因子の機能に大胆に迫った論文を読みました。
 duration: "00:52:22"
 layout: article
 tags:
@@ -22,7 +22,7 @@ title: 86. Mysterious Defense Islands
 - [RNaseH (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%83%8C%E3%82%AF%E3%83%AC%E3%82%A2%E3%83%BC%E3%82%BC)
 - 制限酵素については[エピソード72](https://researchat.fm/episode/72)で詳しく話しました。
 - [ウイルスプラーク (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%97%E3%83%A9%E3%83%BC%E3%82%AF)
-- T7ファージ
+- [バクテリオファージ T4 と T7](http://jsv.umin.jp/microbiology/main_012.htm)
 - [Anti-CRISPR protein applications: natural brakes for CRISPR-Cas technologies. _Nature Methods_](https://www.nature.com/articles/s41592-020-0771-6)...Anti-CRISPRタンパク質に関するレビュー論文。
 - [フレームシフト変異 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%95%E3%83%88%E7%AA%81%E7%84%B6%E5%A4%89%E7%95%B0#:~:text=%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%95%E3%83%88%E7%AA%81%E7%84%B6%E5%A4%89%E7%95%B0%EF%BC%88%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0,%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%9F%E3%82%81%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82)
 - [RecBCD (Wikipedia)](https://ja.wikipedia.org/wiki/RecBCD)
@@ -30,4 +30,3 @@ title: 86. Mysterious Defense Islands
 ## Ediorial notes
 - Defense islandで宝探しをしよう！ (soh)
 - レトロンって名前がかっこいい (tadasu)
-
