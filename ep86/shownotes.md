@@ -5,7 +5,7 @@ actor_ids:
 audio_file_path: /audio/86.mp3
 audio_file_size: 
 date: 2020-12-24 09:00:00 +0900
-description: XXX
+description: バクテリアで35年前に発見されたレトロンと呼ばれる謎の因子の持つ機能に大胆に迫った論文を読みました。
 duration: "00:52:22"
 layout: article
 tags:
@@ -14,7 +14,7 @@ title: 86. Mysterious Defense Islands
 ---
 
 ## Show notes
-- [Bacterial Retrons Function In Anti-Phage Defense. Millman et al _Cell_ 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)31306-4)...これが今回紹介するretronの論文です。
+- [Bacterial Retrons Function In Anti-Phage Defense. Millman et al _Cell_ 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)31306-4)...これが今回紹介するレトロンの論文です。
 - [細菌の逆転写酵素およびmsDNAの構造と機能 (日本細菌学雑誌)](https://www.jstage.jst.go.jp/article/jsb1944/58/2/58_2_441/_pdf/-char/ja)...日本語で読めるレトロンの機能などに関する総説論文。
 - [逆転写酵素 (Wikipedia)](https://ja.wikipedia.org/wiki/%E9%80%86%E8%BB%A2%E5%86%99%E9%85%B5%E7%B4%A0)
 - [Genomically encoded analog memory with precise in vivo DNA writing in living cell populations. _Science_ 2014](https://science.sciencemag.org/content/346/6211/1256272.figures-only)...この論文で初めてレトロンの一部の領域が自在に改変でき、大腸菌の集団に外部刺激を記録するツールとして転用された。
