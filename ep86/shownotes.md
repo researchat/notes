@@ -29,4 +29,4 @@ title: 86. Mysterious Defense Islands
 
 ## Ediorial notes
 - Defense islandで宝探しをしよう！ (soh)
-- レトロンって名前がかっこいい (tadasu)
+- レトロンって名前がかっこいい。fugafuga-tronっていう名前に憧れる。イントロン、レトロン、ウルトロン(tadasu)
