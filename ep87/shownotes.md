@@ -34,7 +34,6 @@ title: 87. Collecting Anti-patterns
 - [ゲンロンカフェ](https://genron-cafe.jp/)
 - [ゲンロンスクール](https://school.genron.co.jp/)
 - [村井純 インターネットの父、戦いの歴史。"アンワイアード"な現在に思うこと。](https://wired.jp/waia/2018/20_jun-murai/)
-- [TEDx Keio SFC Theme: Think Like a Child](https://www.ted.com/tedx/events/7114)
 - [ゲンロンニコ生](https://genron-tomonokai.com/niconicod/)
 - [ゲンロンvimeo](https://vimeo.com/genron)
 - [20180214_東浩紀+坂上秋成+吉田雅史](https://vimeo.com/ondemand/genron20180214) ... アンチパターン(失敗)やアウトリーチについてはこの回で話されています。
