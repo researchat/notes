@@ -30,28 +30,27 @@ title: 87. Collecting Anti-patterns
 - [株式会社 ゲンロン](https://genron.co.jp/)
 - [経営危機に陥ったゲンロンが「大復活」を遂げることができたワケ](https://gendai.ismedia.jp/articles/-/78536)
 - [東浩紀 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%A9%E7%B4%80)
-- 宮台
-- でしった
+- アーキテクチャと思考の場所 ... 宮台真司×東浩紀×磯崎新×浅田彰×宇野常寛×濱野智史 (2009/01/28) これでtadasuは初めて東さんを知った。
 - [ゲンロンカフェ](https://genron-cafe.jp/)
 - [ゲンロンスクール](https://school.genron.co.jp/)
 - [村井純 インターネットの父、戦いの歴史。"アンワイアード"な現在に思うこと。](https://wired.jp/waia/2018/20_jun-murai/)
 - [TEDx Keio SFC Theme: Think Like a Child](https://www.ted.com/tedx/events/7114)
 - [ゲンロンニコ生](https://genron-tomonokai.com/niconicod/)
-- ゲンロンvimeo
-- design
+- [ゲンロンvimeo](https://vimeo.com/genron)
 - [Ep84](https://researchat.fm/episode/84)
 - [Ep85](https://researchat.fm/episode/85)
-- JPA
-- ポトフさん
+- [JAPAN PODCAST AWARDS 2019](https://www.japanpodcastawards2019.com/)
+- [ポトフさん](https://twitter.com/pot_au_feu)
 - [Adam Curry](https://en.wikipedia.org/wiki/Adam_Curry)
-- そうぐちアナウンサー
+- [荘口彰久](https://ja.wikipedia.org/wiki/%E8%8D%98%E5%8F%A3%E5%BD%B0%E4%B9%85)
 - [Dabel](https://apps.apple.com/jp/app/dabel-live-audio-meetups/id1450231719)
-- 世界雑談学会
-- みなみしまと雑談と
-- みなみしまさん
+- [世界雑談学会](https://dabel.app/?c=8be98668dcc622ff963f5391f2364641f8e899ad)
+- [みなみしまと雑談と](https://open.spotify.com/episode/5YZuGhz58zVSLO6Kz21ADJ) ... 雑談の正体について
 - [ResearchatLT vol.01](https://researchat.fm/blog/8/)...ライトニングトーク大会やります。みんな来てね。
 - [東京大学 FoundX](https://foundx.jp/)
 - [スタートアップ初級者向けリソース集](https://foundx.jp/resources/beginner/)
+- [スタートアップの初期アンチパターン](https://review.foundx.jp/entry/anti-patterns)
+- [スケールしないことをしよう](https://review.foundx.jp/entry/do-things-that-dont-scale-cases)
 - [Y Combinator](https://www.ycombinator.com/)
 - [naoya_t:ポール・グレアムのエッセイと和訳一覧](http://practical-scheme.net/wiliki/wiliki.cgi?naoya_t%3A%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E3%81%AE%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%81%A8%E5%92%8C%E8%A8%B3%E4%B8%80%E8%A6%A7)
 - [ハッカーと画家 (Amazon)](https://www.amazon.co.jp/%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E3%81%A8%E7%94%BB%E5%AE%B6-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E6%99%82%E4%BB%A3%E3%81%AE%E5%89%B5%E9%80%A0%E8%80%85%E3%81%9F%E3%81%A1-%E3%83%9D%E3%83%BC%E3%83%AB-%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0/dp/4274065979/?tag=researchatf04-22)
