@@ -24,8 +24,8 @@ title: 87. Collecting Anti-patterns
 - [Chromosome conformation capture (3C) (Wikipedia)](https://en.wikipedia.org/wiki/Chromosome_conformation_capture)
 - in vivo PCR
 - 餓狼伝
-- 夢枕獏
-- [Researchat.fmのおたよりフォーム(https://researchat.fm/form.html)
+- [夢枕獏 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%A4%A2%E6%9E%95%E7%8D%8F)
+- [Researchat.fmのおたよりフォーム](https://researchat.fm/form.html)
 - [ゲンロン戦記「知の観客」をつくる (Amazon)](https://www.amazon.co.jp/dp/B08Q39PN6K/?tag=researchatf04-22)
 - [株式会社 ゲンロン](https://genron.co.jp/)
 - [経営危機に陥ったゲンロンが「大復活」を遂げることができたワケ](https://gendai.ismedia.jp/articles/-/78536)
