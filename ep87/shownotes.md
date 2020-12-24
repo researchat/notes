@@ -19,7 +19,7 @@ title: 87. Collecting Anti-patterns
 - ENCODEプロジェクトやその歴史については、[エピソード71](https://researchat.fm/episode/71)で話しました。
 - [Broad Institute](https://www.broadinstitute.org/)
 - [NIH Roadmap Epigenomics Mapping Consortium](http://www.roadmapepigenomics.org/)
-- [パターン認識と機械学習](https://www.amazon.co.jp/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E4%B8%8A-C-M-%E3%83%93%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/dp/4621061224/?tag=researchatf04-22)
+- [パターン認識と機械学習 (Amazon)](https://www.amazon.co.jp/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E4%B8%8A-C-M-%E3%83%93%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/dp/4621061224/?tag=researchatf04-22)
 - [ChIP-Seq (Wikipedia)](https://en.wikipedia.org/wiki/ChIP_sequencing)
 - [Chromosome conformation capture (3C) (Wikipedia)](https://en.wikipedia.org/wiki/Chromosome_conformation_capture)
 - in vivo PCR
@@ -45,7 +45,7 @@ title: 87. Collecting Anti-patterns
 - ポトフさん
 - [Adam Curry](https://en.wikipedia.org/wiki/Adam_Curry)
 - そうぐちアナウンサー
-- [Dabel(https://apps.apple.com/jp/app/dabel-live-audio-meetups/id1450231719)
+- [Dabel](https://apps.apple.com/jp/app/dabel-live-audio-meetups/id1450231719)
 - 世界雑談学会
 - みなみしまと雑談と
 - みなみしまさん
