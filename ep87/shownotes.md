@@ -3,8 +3,8 @@ actor_ids:
   - soh
   - tadasu
 audio_file_path: /audio/87.mp3
-audio_file_size: 36988133
-date: 2020-12-25 09:00:00 +0900
+audio_file_size: 90249102
+date: 2020-12-24 23:40:00 +0900
 description: キャリアの変遷、ゲンロン戦記の紹介、配信の尺の長さ、ポッドキャストというメディア、雑談の正体、アンチパターンについて話しました。
 duration: "01:21:31"
 layout: article
