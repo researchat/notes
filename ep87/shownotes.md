@@ -5,7 +5,7 @@ actor_ids:
 audio_file_path: /audio/87.mp3
 audio_file_size: 36988133
 date: 2020-12-25 09:00:00 +0900
-description: キャリアの変遷、ゲンロン戦記の紹介、トークの尺と誤配、ポッドキャストというメディア、雑談の正体について話しました。
+description: キャリアの変遷、ゲンロン戦記の紹介、配信の尺の長さ、ポッドキャストというメディア、雑談の正体、アンチパターンについて話しました。
 duration: "01:21:31"
 layout: article
 tags:
@@ -22,8 +22,8 @@ title: 87. Collecting Anti-patterns
 - [パターン認識と機械学習 (Amazon)](https://www.amazon.co.jp/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98%E3%81%A8%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92-%E4%B8%8A-C-M-%E3%83%93%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/dp/4621061224/?tag=researchatf04-22)
 - [ChIP-Seq (Wikipedia)](https://en.wikipedia.org/wiki/ChIP_sequencing)
 - [Chromosome conformation capture (3C) (Wikipedia)](https://en.wikipedia.org/wiki/Chromosome_conformation_capture)
-- in vivo PCR
-- 餓狼伝
+- [餓狼伝(Amazon)](https://www.amazon.co.jp/dp/B075N9WZ53/?tag=researchatf04-22) ...  板垣恵介先生の漫画版
+- [餓狼伝(Amazon)](https://www.amazon.co.jp/dp/B009A71H0Q/?tag=researchatf04-22) ... 原作小説。表現がすごい。
 - [夢枕獏 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%A4%A2%E6%9E%95%E7%8D%8F)
 - [Researchat.fmのおたよりフォーム](https://researchat.fm/form.html)
 - [ゲンロン戦記「知の観客」をつくる (Amazon)](https://www.amazon.co.jp/dp/B08Q39PN6K/?tag=researchatf04-22)
