@@ -37,6 +37,7 @@ title: 87. Collecting Anti-patterns
 - [TEDx Keio SFC Theme: Think Like a Child](https://www.ted.com/tedx/events/7114)
 - [ゲンロンニコ生](https://genron-tomonokai.com/niconicod/)
 - [ゲンロンvimeo](https://vimeo.com/genron)
+- [20180214_東浩紀+坂上秋成+吉田雅史](https://vimeo.com/ondemand/genron20180214) ... アンチパターン(失敗)やアウトリーチについてはこの回で話されています。
 - [Ep84](https://researchat.fm/episode/84)
 - [Ep85](https://researchat.fm/episode/85)
 - [JAPAN PODCAST AWARDS 2019](https://www.japanpodcastawards2019.com/)
