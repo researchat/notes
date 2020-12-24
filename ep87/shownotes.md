@@ -55,5 +55,5 @@ title: 87. Collecting Anti-patterns
 - ハッカーと画家
 
 ## Ediorial notes
-- (soh)
+- ぜひゲンロン戦記買いましょう (soh)
 - junk DNAと雑談の相似性(tadasu)
