@@ -14,7 +14,7 @@ title: 87. Collecting Anti-patterns
 ---
 
 ## Show notes
-- バイオインフォマティクス
+- [Bioinformatics (Wikipedia)](https://en.wikipedia.org/wiki/Bioinformatics)
 - [Manolis Kellis (MIT)](http://web.mit.edu/manoli/)
 - ENCODEプロジェクトやその歴史については、[エピソード71](https://researchat.fm/episode/71)で話しました。
 - [Broad Institute](https://www.broadinstitute.org/)
@@ -36,22 +36,22 @@ title: 87. Collecting Anti-patterns
 - [ゲンロンスクール](https://school.genron.co.jp/)
 - [村井純 インターネットの父、戦いの歴史。"アンワイアード"な現在に思うこと。](https://wired.jp/waia/2018/20_jun-murai/)
 - [TEDx Keio SFC Theme: Think Like a Child](https://www.ted.com/tedx/events/7114)
-- ゲンロンニコ生
+- [ゲンロンニコ生](https://genron-tomonokai.com/niconicod/)
 - ゲンロンvimeo
 - design
-- ep84
-- ep85
+- [Ep84](https://researchat.fm/episode/84)
+- [Ep85](https://researchat.fm/episode/85)
 - JPA
 - ポトフさん
-- Adam Curry
+- [Adam Curry](https://en.wikipedia.org/wiki/Adam_Curry)
 - そうぐちアナウンサー
-- dabel
+- [Dabel(https://apps.apple.com/jp/app/dabel-live-audio-meetups/id1450231719)
 - 世界雑談学会
 - みなみしまと雑談と
 - みなみしまさん
 - [ResearchatLT vol.01](https://researchat.fm/blog/8/)...ライトニングトーク大会やります。みんな来てね。
 - [東京大学 FoundX](https://foundx.jp/)
-- 馬田
+- [スタートアップ初級者向けリソース集](https://foundx.jp/resources/beginner/)
 - [Y Combinator](https://www.ycombinator.com/)
 - [naoya_t:ポール・グレアムのエッセイと和訳一覧](http://practical-scheme.net/wiliki/wiliki.cgi?naoya_t%3A%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E3%81%AE%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%81%A8%E5%92%8C%E8%A8%B3%E4%B8%80%E8%A6%A7)
 - [ハッカーと画家 (Amazon)](https://www.amazon.co.jp/%E3%83%8F%E3%83%83%E3%82%AB%E3%83%BC%E3%81%A8%E7%94%BB%E5%AE%B6-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E6%99%82%E4%BB%A3%E3%81%AE%E5%89%B5%E9%80%A0%E8%80%85%E3%81%9F%E3%81%A1-%E3%83%9D%E3%83%BC%E3%83%AB-%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0/dp/4274065979/?tag=researchatf04-22)
