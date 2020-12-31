@@ -15,6 +15,9 @@ title: 90. XXXXXXX
 ---
 
 ## Show notes
+- [SONY WH-1000XM3](https://www.sony.jp/headphone/products/WH-1000XM3/)...ノイズキャンセリング機能のついたヘッドフォン
+- [村上すっぽん本舗 村上すっぽんスープビアンド](https://www.mistore.jp/shopping/product/900000000000000000812900.html)...1本1000円もした自販機で買えるすっぽんスープです。。伊勢丹でも買えるよ。
+- [ATH-ANC300TW](https://www.audio-technica.co.jp/product/ATH-ANC300TW)...オーディオテクニカのノイズキャンセリングできるワイヤレスイヤホンです。sohが使ってる。
 
 ## Ediorial notes
 - Researchatのマスコット「いたのりさ」ちゃんをよろしくおねがいします！ (coela)
