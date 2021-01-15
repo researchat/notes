@@ -1,8 +1,6 @@
 ---
 actor_ids:
   - soh
-  - tadasu
-  - coela
 audio_file_path: /audio/93.mp3
 audio_file_size: 43013642
 date: 2021-01-14 18:14:00 +0900
