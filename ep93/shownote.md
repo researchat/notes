@@ -3,11 +3,11 @@ actor_ids:
   - soh
   - tadasu
   - coela
-audio_file_path: /audio/90.mp3
-audio_file_size: 77041457
-date: 2020-12-31 23:59:59 +0900
+audio_file_path: /audio/93.mp3
+audio_file_size: 43013642
+date: 2021-01-14 18:14:00 +0900
 description: インターネットなし生活のその後、IKEAの家具の組み立てとデザイン、F1マシンの開発と観戦の醍醐味について、また一人で話しました。
-duration: "00:59:07"
+duration: "00:59:44"
 layout: article
 tags:
   - 雑談
