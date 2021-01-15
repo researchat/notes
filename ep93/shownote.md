@@ -19,7 +19,7 @@ title: 93. Language Is Not Required
 - Glocalme
 - eSIM
 - Logic Pro
-- Lame
+- [Lame](https://lame.sourceforge.io/)...Sohはいつも編集したWAVファイルを`lame -b 96 -h --resample 44.1 -q 2 --cbr -m m --noreplaygain ep.wav ep.mp3`でmp3にエンコードしています。*"LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL."*
 - 無印 online
 - Save-on-foods
 - IKEA
