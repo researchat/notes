@@ -19,7 +19,7 @@ title: 93. Language Is Not Required
 - [GlocalMe](https://www.glocalme.com/)
 - [eSIM](https://support.google.com/pixelphone/answer/9449293?hl=ja)
 - [Logic Pro](https://www.apple.com/logic-pro/)
-- [Lame](https://lame.sourceforge.io/)...Sohはいつも編集したWAVファイルを`lame -b 96 -h --resample 44.1 -q 2 --cbr -m m --noreplaygain ep.wav ep.mp3`でmp3にエンコードしています。*"LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL."*
+- [Lame](https://lame.sourceforge.io/)...Sohはいつも編集したWAVファイルを`lame -b 96 -h --resample 44.1 -q 2 --cbr -m m --noreplaygain ep.wav ep.mp3`でmp3にエンコードしています。
 - [MUJI Online Canada](https://muji.ca/)
 - [Save-on-foods](https://www.saveonfoods.com/)
 - [IKEA](https://www.ikea.com/ca/en/)
