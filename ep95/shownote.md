@@ -44,6 +44,6 @@ title: 95.
 - [東京伝説―うごめく街の怖い話 (竹書房文庫)](https://www.amazon.co.jp/dp/481241167X/)
 
 ## Editorial Notes
-- soh 
+- 皆さんの夢を募集しております (soh)
 - tadasu
-- coela
+- AR (MR?)でやるスポーツ、HADOが最近気になってます (coela)
