@@ -32,7 +32,7 @@ title: 94. Mach 1.25
 - [Researchat.fm ep66](https://researchat.fm/episode/66)...本田圭佑のノートについてエピソード66で話しました。
 - [イーロンマスクは週100時間働く](https://www.businessinsider.jp/post-34319)
 - [藤田社長は110時間働いた](https://www.cyberagent.co.jp/corporate/message/list/detail/id=20231)
-- 週94hが限界説… シェアハウスだと以外と洗濯乾燥の時間が大変でそこで数時間削られていた。
+- 週94hが限界説...シェアハウスだと以外と洗濯乾燥の時間が大変でそこで数時間削られていた。
 - [サイパン島 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%91%E3%83%B3%E5%B3%B6)
 - [ハワイと正月](https://wedge.ismedia.jp/articles/-/21884)...99.6%は間違いでした。95–98%減らしいです。
 - [木村政彦はなぜ力道山を殺さなかったのか (Amazon.co.jp)](https://www.amazon.co.jp/dp/B0096PE4DE/?tag=researchatf04-22)
@@ -51,4 +51,4 @@ title: 94. Mach 1.25
 ## Editorial notes
 - 2021年のResearchat.fmもどうぞ宜しくお願いします！(soh)
 - やばいっすね。(tadasu)
-- (coela)
+- ベース二人のユニット、「ベースペア」を結成しようと思います (coela)
