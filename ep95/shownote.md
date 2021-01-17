@@ -15,6 +15,7 @@ tags:
   - 生命保険
 title: 95. 
 ---
+## Shownotes 
 - [Amazon Gift](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
 - [Side by Side](https://sidebysideradio.libsyn.com/)... researchat.fmが好きな方は楽しめると思います。最先端のスポーツ科学に関する論文などもバンバン紹介するポッドキャスト。"Side by Side Radioは、元プロロード選手の西薗良太 (Ryota Nishizono) がサイクリング全般のことから、サイクリングに関係がないことまで、お話するPodcastです。"
 - [ガラパゴス諸島 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%83%91%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6)..."郵便局とは名ばかりで木製のポストが置いてある簡素な郵便局であり、手紙を回収にくる郵便局員もいない"
