@@ -6,12 +6,12 @@ actor_ids:
 audio_file_path: /audio/94.mp3
 audio_file_size: 64448992
 date: 2021-01-17 9:00:00 +0900
-description:  打鍵時の小指、神社、ドローンレース、フリーフォールについて話しました。
+description:  打鍵時の小指、神社、ドローンレース、フリーフォールジャンプについて話しました。
 duration: "01:29:31"
 layout: article
 tags:
   - 雑談
-title: 94. 
+title: 94. Mach 1.25
 ---
 
 - 自作キーボード回 ... [Researchat.fm ep10](https://researchat.fm/episode/10)
@@ -42,13 +42,15 @@ title: 94.
 - [厳島神社](http://www.itsukushimajinja.jp/index.html)
 - [羽黒山](https://hagurokanko.jp/facilityc1/facilityhagurosan/)
 - [ドローンレース](https://www.youtube.com/watch?v=8C2C1E7vpMM) ... かっこいいけどなにがなんだかわからない。
-- [レッドブル・エアレース]https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%83%E3%83%89%E3%83%96%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%A2%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)
-- [パラグライダーレース](https://sotoasobi.net/activity/paraglider/blog/paraglider-xalps)
+- [レッドブル・エアレース](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%83%E3%83%89%E3%83%96%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%A2%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)
+- [Xアルプス](https://sotoasobi.net/activity/paraglider/blog/paraglider-xalps) ... "パラグライダーとトレッキングが融合した、世界で最も過酷なアドベンチャーレースと言われる「レッドブル Xアルプス」とは？ 2015年大会が行われたばかりで話題沸騰中の「Xアルプス」の魅力に迫ります！"
 - フリーフォール
-- JAXAの宇宙 fanfan jaxa
-- 超音速ダイブ成功、世界記録を更新https://natgeo.nikkeibp.co.jp/nng/article/news/14/6908/
+- [ファン！ファン！JAXA](https://fanfun.jaxa.jp/)
+- [超音速ダイブ成功、世界記録を更新](https://natgeo.nikkeibp.co.jp/nng/article/news/14/6908/)
+- [フリーフォールジャンプの様子](https://www.youtube.com/watch?v=raiFrxbHxV0) ... Felix Baumgartner氏。マッハ1.25を計測。
+- [フリーフォールジャンプ](https://www.youtube.com/watch?v=vvbN-cWe0A0)
 
 ## Editorial notes
 - (soh)
-- (tadasu)
+- やばいっすね。(tadasu)
 - (coela)
