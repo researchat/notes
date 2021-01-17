@@ -27,7 +27,7 @@ title: 94. Mach 1.25
 - [Dokuro OshoとPsychonaut Jeff氏の対談](https://www.facebook.com/events/1000204773515856/) ... 一体何が語られたのか気になるが怖くて行けなかった。ラボの同僚は行ったらしく素晴らしかったと言っていた。
 - [中島らも](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B3%B6%E3%82%89%E3%82%82)
 - [アマニタ・パンセリナ](https://www.amazon.co.jp/dp/B01DIKN6X6/?tag=researchatf04-22)
-- きのこのニュース
+- [マジックマッシュルームを注射した男、体の中できのこが育つ](https://www.livescience.com/magic-mushroom-injection-case-report.html)
 - [研エンの仲 #23 頭が良くなる薬ってあるの?](https://anchor.fm/ken-en-no-naka/episodes/23-eoccfl)
 - [Researchat.fm ep66](https://researchat.fm/episode/66) ... 本田圭佑のノートについて
 - [イーロンマスクは週100時間働く](https://www.businessinsider.jp/post-34319)
