@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/94.mp3
 audio_file_size: 64448992
 date: 2021-01-17 9:00:00 +0900
-description:  無人島にある樽の郵便ポスト、死後の世界、恐怖体験、夢と現実の境目についてあれこれ話しました。
+description:  打鍵時の小指、神社、ドローンレース、フリーフォールについて話しました。
 duration: "01:29:31"
 layout: article
 tags:
