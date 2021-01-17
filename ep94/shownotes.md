@@ -16,7 +16,7 @@ title: 94. Mach 1.25
 
 - 自作キーボード回 ... [Researchat.fm ep10](https://researchat.fm/episode/10)
 - 格ゲー回 ... [Researchat.fm ep84](https://researchat.fm/episode/84), [Researchat.fm ep85](https://researchat.fm/episode/85)
-- [ビルゲイツとパンケーキソート)(https://jp.quora.com/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%9C%A8%E5%AD%A6%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%93%E3%83%AB-%E3%82%B2%E3%82%A4%E3%83%84%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E9%A0%AD%E3%81%8C)
+- [ビルゲイツとパンケーキソート](https://jp.quora.com/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89%E5%9C%A8%E5%AD%A6%E6%99%82%E4%BB%A3%E3%81%AE%E3%83%93%E3%83%AB-%E3%82%B2%E3%82%A4%E3%83%84%E3%81%AF%E3%81%A9%E3%82%8C%E3%81%8F%E3%82%89%E3%81%84%E9%A0%AD%E3%81%8C)
 - [パンケーキソート](https://en.wikipedia.org/wiki/Pancake_sorting)
 - [Gates et al. _Discrete Mathematics_ (1979) Bounds for sorting by prefix reversal](https://www.sciencedirect.com/science/article/pii/0012365X79900682) ... Bill Gatesが学生時代に書いたパンケーキソートに関する論文
 - [椿大神社](http://tsubakishrine.org/jp/history/index.html)
@@ -44,7 +44,6 @@ title: 94. Mach 1.25
 - [ドローンレース](https://www.youtube.com/watch?v=8C2C1E7vpMM) ... かっこいいけどなにがなんだかわからない。
 - [レッドブル・エアレース](https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%83%E3%83%89%E3%83%96%E3%83%AB%E3%83%BB%E3%82%A8%E3%82%A2%E3%83%AC%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA)
 - [Xアルプス](https://sotoasobi.net/activity/paraglider/blog/paraglider-xalps) ... "パラグライダーとトレッキングが融合した、世界で最も過酷なアドベンチャーレースと言われる「レッドブル Xアルプス」とは？ 2015年大会が行われたばかりで話題沸騰中の「Xアルプス」の魅力に迫ります！"
-- フリーフォール
 - [ファン！ファン！JAXA](https://fanfun.jaxa.jp/)
 - [超音速ダイブ成功、世界記録を更新](https://natgeo.nikkeibp.co.jp/nng/article/news/14/6908/)
 - [フリーフォールジャンプの様子](https://www.youtube.com/watch?v=raiFrxbHxV0) ... Felix Baumgartner氏。マッハ1.25を計測。
