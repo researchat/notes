@@ -34,7 +34,7 @@ title: 95.
 - [平山夢明 (Wikipedia)](https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B1%B1%E5%A4%A2%E6%98%8E)
 - [富士急ハイランド](https://www.fujiq.jp/)
 - [MERU - Official Trailer on YouTube (映画)](https://www.youtube.com/watch?v=YvS6O9lVkkg)
-- [零~zero~ (ゲーム)](http://www.tecmo.co.jp/product/zero/index2.htm)
+- [零\~zero\~ (ゲーム)](http://www.tecmo.co.jp/product/zero/index2.htm)
 - [OCULUS QUEST 2](https://www.oculus.com/)
 - [Apple Watchで悪夢の治癒が可能に　スマートウォッチのウェルネス商戦は激化の一途](https://news.yahoo.co.jp/articles/d2716a62af56a0d6f34dcdd0b1818dd4c68ccfdb)
 - [インセプション (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3)...クリストファー・ノーランの代表作。
