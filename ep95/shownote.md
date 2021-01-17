@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/95.mp3
-audio_file_size: 
+audio_file_size: 64448992
 date: 2021-01-17 9:00:00 +0900
 description: ガラパゴス諸島にある郵便ポスト、生命保険と死後の世界、恐怖体験、夢と現実の境目についてあれこれ話しました。
 duration: "01:29:31"
@@ -66,5 +66,3 @@ title: 95.
 - soh 
 - tadasu
 - coela
-
-
