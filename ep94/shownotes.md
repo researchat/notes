@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/94.mp3
 audio_file_size: 64448992
-date: 2021-01-17 9:00:00 +0900
+date: 2021-01-17 9:08:00 +0900
 description: キーボード打鍵時の小指、神社、労働時間、ドローンレース、フリーフォールジャンプについて話しました。
 duration: "01:00:35"
 layout: article
