@@ -15,7 +15,7 @@ title: 95. Post Office Barrel
 ---
 ## Shownotes 
 - [Amazon Gift](https://www.amazon.com/gift-cards/b?ie=UTF8&node=2238192011)
-- [Side by Side](https://sidebysideradio.libsyn.com/)... researchat.fmのリスナーにオススメの最先端スポーツ科学/サイクリングに関する論文など"も"、雑談を交えながらバンバン紹介するポッドキャストです。"Side by Side Radioは、元プロロード選手の西薗良太 (Ryota Nishizono) がサイクリング全般のことから、サイクリングに関係がないことまで、お話するPodcastです。"
+- [Side by Side Radio](https://sidebysideradio.libsyn.com/)... researchat.fmのリスナーにオススメのポッドキャスト。最先端スポーツ科学/サイクリングに関する論文などについて"も"、雑談を交えながらバンバン話すポッドキャストです。"Side by Side Radioは、元プロロード選手の西薗良太 (Ryota Nishizono) がサイクリング全般のことから、サイクリングに関係がないことまで、お話するPodcastです。"
 - [ガラパゴス諸島 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%83%91%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6)..."郵便局とは名ばかりで木製のポストが置いてある簡素な郵便局であり、手紙を回収にくる郵便局員もいない"
 - [フロレアナ島](https://earth.google.com/web/@-1.23664,-90.448768,7.35362068a,1000d,35y,109h,65t,0r/data=CjUSMxIgNWEwOTA4ZWJmZGM2MTFlNjgwNGUxYjMxZWFiNDNjN2QiD3Bvc3Qtb2ZmaWNlLWJheSgC?hl=ja)... wikipediaを見ると無人島ではなく人は少し住んでいるようです。"ポストオフィス湾はフロレアナ島にあります。ここには 1793 年に設置された樽の郵便ポストがあり、長い間捕鯨船の船乗りに利用されてきました。現在このポストを使っているのは主に観光客です。ポストに手紙を投函する代わりに、別の誰かが投函していった手紙を回収します。もともとは自分が直接届けられる場所に宛てたものだけ引き取るという前提でしたが、最近では自国宛ての手紙を持ち帰り、帰国後に切手を貼って郵便物として出してあげるという人も増えています"
 - [ジョン万次郎](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E4%B8%87%E6%AC%A1%E9%83%8E)...土佐から漂流を経てアメリカにたどり着き活躍した生き方はユニークでとてもおもしろい。井伏鱒二の小説の題材にもなった。
