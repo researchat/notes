@@ -36,9 +36,13 @@ title: 95. Post Office Barrel
 - [零\~zero\~ (ゲーム)](http://www.tecmo.co.jp/product/zero/index2.htm)
 - [OCULUS QUEST 2](https://www.oculus.com/)
 - [Apple Watchで悪夢の治癒が可能に　スマートウォッチのウェルネス商戦は激化の一途](https://news.yahoo.co.jp/articles/d2716a62af56a0d6f34dcdd0b1818dd4c68ccfdb)
+- [明晰夢 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%98%8E%E6%99%B0%E5%A4%A2)
 - [インセプション (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3)...クリストファー・ノーランの代表作。
 - [映画のように、夢を再現することができるのか？ - 京都大学 神谷之康 教授 ](https://article.researchmap.jp/tsunagaru/2018/04/)
 - [夢日記のKickstarter](https://www.kickstarter.com/projects/hunterleesoik/shadow-community-of-dreamers) ... これだった気がする。
+- [夢太郎がくる](http://donboolacoo.blog92.fc2.com/blog-entry-1452.html) ...  "電波系。「仮面を被りマントをつけて、全身タイツ」、「胸にはトレードマークの漢字一文字」、「長靴を履いている」、「袋を持っていて、中に何が入っているかは会った時に見せてもらえる」、これらの特徴を持つ架空の人物「夢太郎」の事を強く念じながら眠り、その時に見た夢の詳細を送ってもらう電波系コーナー。テーマ曲は「夢廃工場99」と同じく宮城まり子の「夢を見たの」。2007年4月16日（第600回） - 2007年7月9日（第612回）。" ([wikipedia](https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%9B%86%E9%99%A2%E5%85%89_%E6%B7%B1%E5%A4%9C%E3%81%AE%E9%A6%AC%E9%B9%BF%E5%8A%9B%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%8A%E3%83%BC#2007%E5%B9%B4))
+- [夢廃工場'99](http://geolog.mydns.jp/www.geocities.co.jp/Hollywood-Spotlight/5436/ups/yume99.html) ... もちろん元ネタはみんな大好き[夢工場'87](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8B%E3%83%90%E3%83%AB_%E5%A4%A2%E5%B7%A5%E5%A0%B4%2787)。夢工場'87をなぜ1989年生まれのtadasuが知っているのか問題とそれに関連するY・O先生の話、YouTubeの原型についてはまたどこかで触れたい。
+- [This Man (Wikipedia)](https://ja.wikipedia.org/wiki/This_Mann) ... The Manじゃなかった... 夢に出てくるあいつ。
 - [ペンローズの階段 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E9%9A%8E%E6%AE%B5)...永遠に登ることのできない階段
 - [上昇と下降](https://en.wikipedia.org/wiki/Ascending_and_Descending)...エッシャーによる作品。上昇と下降 (Ascending and Descending)。
 - [東京伝説―うごめく街の怖い話 (竹書房文庫)](https://www.amazon.co.jp/dp/481241167X/?tag=researchatf04-22)
