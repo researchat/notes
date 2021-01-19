@@ -1,2 +1,2 @@
 - Jim Watsonに会った時の話
-- 長生きしたが故に晩節を汚しまくっているWatson氏であるが、実はtadasuは一度直接会ったことがある(と言ってもみただけだが)。ところはCold Spring Harbor。Signle molecule imagingの研究会に出席していた。
+- 長生きしたが故に晩節を汚しまくっているWatson氏であるが、実はtadasuは一度直接会ったことがある(と言ってもみただけだが)。ところはCold Spring Harbor。Signle molecule imagingの研究会に出席していた。この会にはSteve Chu(ノーベル賞受賞者)が出席しており、他にもRobert Tjian, Darzacq, Wu, Xiaowei, Sunny Xie, 日本からは楠見先生のグループが参加していた。まぁ半ば、Steve研の同窓会という感じだった。夜の晩餐会で、
