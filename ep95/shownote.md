@@ -46,6 +46,7 @@ title: 95. Post Office Barrel
 - [ペンローズの階段 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E9%9A%8E%E6%AE%B5)...永遠に登ることのできない階段
 - [上昇と下降](https://en.wikipedia.org/wiki/Ascending_and_Descending)...エッシャーによる作品。上昇と下降 (Ascending and Descending)。
 - [東京伝説―うごめく街の怖い話 (竹書房文庫)](https://www.amazon.co.jp/dp/481241167X/?tag=researchatf04-22)
+- [夢](https://www.amazon.co.jp/dp/B0000YTY58/?tag=researchatf04-22) ... 黒澤明監督作品
 
 ## Editorial Notes
 - 皆さんの夢を募集しております (soh)
