@@ -38,6 +38,7 @@ title: 95. Post Office Barrel
 - [Apple Watchで悪夢の治癒が可能に　スマートウォッチのウェルネス商戦は激化の一途](https://news.yahoo.co.jp/articles/d2716a62af56a0d6f34dcdd0b1818dd4c68ccfdb)
 - [インセプション (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BB%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3)...クリストファー・ノーランの代表作。
 - [映画のように、夢を再現することができるのか？ - 京都大学 神谷之康 教授 ](https://article.researchmap.jp/tsunagaru/2018/04/)
+- [夢日記のKickstarter](https://www.kickstarter.com/projects/hunterleesoik/shadow-community-of-dreamers) ... これだった気がする。
 - [ペンローズの階段 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA%E3%81%AE%E9%9A%8E%E6%AE%B5)...永遠に登ることのできない階段
 - [上昇と下降](https://en.wikipedia.org/wiki/Ascending_and_Descending)...エッシャーによる作品。上昇と下降 (Ascending and Descending)。
 - [東京伝説―うごめく街の怖い話 (竹書房文庫)](https://www.amazon.co.jp/dp/481241167X/?tag=researchatf04-22)
