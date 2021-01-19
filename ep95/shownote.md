@@ -47,6 +47,7 @@ title: 95. Post Office Barrel
 - [上昇と下降](https://en.wikipedia.org/wiki/Ascending_and_Descending)...エッシャーによる作品。上昇と下降 (Ascending and Descending)。
 - [東京伝説―うごめく街の怖い話 (竹書房文庫)](https://www.amazon.co.jp/dp/481241167X/?tag=researchatf04-22)
 - [夢](https://www.amazon.co.jp/dp/B0000YTY58/?tag=researchatf04-22) ... 黒澤明監督作品
+- [夢で逢えたら](https://ja.wikipedia.org/wiki/%E5%A4%A2%E3%81%A7%E9%80%A2%E3%81%88%E3%81%9F%E3%82%89_(%E3%83%86%E3%83%AC%E3%83%93%E7%95%AA%E7%B5%84))
 
 ## Editorial Notes
 - 皆さんの夢を募集しております (soh)
