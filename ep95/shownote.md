@@ -51,5 +51,5 @@ title: 95. Post Office Barrel
 
 ## Editorial Notes
 - 皆さんの夢を募集しております (soh)
-- 怖い方がいいよね (tadasu)
+- 怖い方がいいよね。夢占いの矛盾の話をしようと思ったのだが忘れてしまった。 (tadasu)
 - AR (MR?)でやるスポーツ、HADOが最近気になってます (coela)
