@@ -1,0 +1,2 @@
+- Jim Watsonに会った時の話
+- 長生きしたが故に晩節を汚しまくっているWatson氏であるが、実はtadasuは一度直接会ったことがある(と言ってもみただけだが)。ところはCold Spring Harbor。Signle molecule imagingの研究会に出席していた。
