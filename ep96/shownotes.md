@@ -4,16 +4,18 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/96.mp3
-audio_file_size: X
-date: 2021-02-XX 9:00:00 +0900
-description: X
-duration: "01:XX:XX"
+audio_file_size: 88260836
+date: 2021-02-07 9:00:00 +0900
+description: コドン表における変異が
+duration: "01:45:35"
 layout: article
 tags:
   - 論文
 title: 96. My Second Journal Club Presentation
 ---
-## Show notes 
+## Show notes
+- [Resource conservation manifests in the genetic code. _Science_ 2020](https://science.sciencemag.org/content/370/6517/683)...今回読んだ論文です。
+- [Resource conservation manifests in the genetic code. _BioRxiv_ 2020](https://www.biorxiv.org/content/10.1101/790345v2.full)...Scienceに出版される前にプレプリントサーバーにも原稿があるので、無料で読めます。出版されたバージョンとは図などが違うので注意。
 - [Ep19. Neuron Musk](https://researchat.fm/episode/19)...Elon MuskがオーナーをつとめるNeuralinkがbioRxivに発表した論文と発表イベントの内容、Brain Machine Interfaceを含む脳情報関連技術の動向について話しました。
 - [Ep50. My first journal club presentation](https://researchat.fm/episode/50)...たまきさんが始めて読んだ論文。今回は2本目。
 - [ResearchatLT vol.1 (YouTube)](https://www.youtube.com/watch?v=kKLt956ieSM)...Researchat.fmのリスナーを集めて、ライトニングトーク大会をやりました。その配信した映像です。
