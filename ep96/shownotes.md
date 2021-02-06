@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/96.mp3
 audio_file_size: 88260836
 date: 2021-02-07 9:00:00 +0900
-description: コドン表における変異が
+description: 遺伝暗号の使用頻度と変異はアミノ酸の化学的な組成に影響されうるという論文を読みました。
 duration: "01:45:35"
 layout: article
 tags:
@@ -20,9 +20,7 @@ title: 96. My Second Journal Club Presentation
 - [Ep50. My first journal club presentation](https://researchat.fm/episode/50)...たまきさんが始めて読んだ論文。今回は2本目。
 - [ResearchatLT vol.1 (YouTube)](https://www.youtube.com/watch?v=kKLt956ieSM)...Researchat.fmのリスナーを集めて、ライトニングトーク大会をやりました。その配信した映像です。
 - [Researchat.fm Lightning Talk Vol.01](https://researchat.fm/blog/8/)
-- コドン
-- アミノ酸
- タンパク質
+- [コドン (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%89%E3%83%B3)
 - [37. Biological Enigma](https://researchat.fm/episode/37)...dessanをゲストに迎え、分子細胞生物学の入門知識について話しました。タンパク質やコドンについても丁寧に話しています。
 - [7. In the golden age of molecular biology](https://researchat.fm/episode/7)...アミノ酸をコードするコドンがどのように発見されたのか？について当時の論文を読みました。
 - [Last universal common ancestor, LUCA (Wikipedia)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor)
@@ -36,7 +34,7 @@ and gene evolutionary histories"_
 - [Mixed Model (Wikipedia)](https://en.wikipedia.org/wiki/Mixed_model)
 - [GEO (Gene Expression Omnibus)](https://www.ncbi.nlm.nih.gov/geo/)..._"GEO is a public functional genomics data repository supporting MIAME-compliant data submissions. Array- and sequence-based data are accepted."_
 - [Microarray (Wikipedia)](https://en.wikipedia.org/wiki/Microarray)
-- アミノ酸生合成
+- [アミノ酸 生合成経路](http://www.sc.fukuoka-u.ac.jp/~bc1/Biochem/aminoSyn.htm)
 
 ## Editorial notes
 - (coela)
