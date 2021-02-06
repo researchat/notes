@@ -11,12 +11,12 @@ duration: "01:XX:XX"
 layout: article
 tags:
   - 論文
-title: 96. X
+title: 96. My Second Journal Club Presentation
 ---
 ## Show notes 
-- ep19
-- ep50
-- researchatlt
+- [Ep19. Neuron Musk](https://researchat.fm/episode/19)
+- [Ep50. My first journal club presentation](https://researchat.fm/episode/50)
+- [ResearchatLT vol.1 (YouTube)](https://www.youtube.com/watch?v=kKLt956ieSM)
 - 論文
 - コドン
 - アミノ酸
