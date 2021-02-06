@@ -14,5 +14,29 @@ tags:
 title: 96. X
 ---
 ## Show notes 
+- ep19
+- ep50
+- researchatlt
+- 論文
+- コドン
+- アミノ酸
+ タンパク質
+- ep37
+- ep7
+- LUCA
+- 窒素固定
+- ホモログ遺伝子
+- オーソロジー
+- KEGG
+- SNPs
+- EggNOG
+- 同義置換/非同義置換
+- LMM
+- GEO
+- マイクロアレイ
+- アミノ酸生合成
 
 ## Editorial notes
+- (coela)
+- (soh)
+- 次回の論文回は最後まで聞いてから質問します。(tadasu)
