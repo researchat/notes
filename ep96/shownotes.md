@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/96.mp3
 audio_file_size: 88260836
 date: 2021-02-07 9:00:00 +0900
-description: 遺伝暗号表の構造が環境中のリソースから影響受けており、コドンの使用頻度にも反映されているという説の論文を読みました。
+description: 「遺伝暗号表の構造が環境中のリソースから影響受けており、コドンの使用頻度にも反映されている」という説の論文を読みました。
 duration: "01:45:35"
 layout: article
 tags:
