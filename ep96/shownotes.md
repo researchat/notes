@@ -18,7 +18,7 @@ title: 96. My Second Journal Club Presentation
 - [Resource conservation manifests in the genetic code. _BioRxiv_ 2020](https://www.biorxiv.org/content/10.1101/790345v2.full)...Scienceに出版される前にプレプリントサーバーにも原稿があるので、無料で読めます。出版されたバージョンとは図表・番号などが違うので注意。
 - [コドン (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%89%E3%83%B3) ... 今回の題材である、みんな大好き三文字のあいつ。今回コドンの詳しい説明は[↓](https://researchat.fm/episode/37)に丸投げしました。
 - [37. Biological Enigma](https://researchat.fm/episode/37)...dessanをゲストに迎え、分子細胞生物学の入門知識について話しました。タンパク質やコドンについても丁寧に話しています。
-- [7. In the golden age of molecular biology](https://researchat.fm/episode/7)... アミノ酸をコードするコドン発見に至る歴史を当時の論文と背景を交えて話しました。
+- [7. In the golden age of molecular biology](https://researchat.fm/episode/7)... アミノ酸をコードするコドン発見に至る歴史を当時の論文と背景を交えて3人で話しました。
 - [Ep19. Neuron Musk](https://researchat.fm/episode/19)...Elon MuskがオーナーをつとめるNeuralinkがはじめて詳細にその技術を公開した時期に（当時）、bioRxivに投稿された論文と発表イベントの内容、Brain Machine Interfaceを含む脳情報関連技術の動向について話しました。
 - [Ep50. My first journal club presentation](https://researchat.fm/episode/50)...coela（たまき）が始めて紹介した論文。今回は2本目。
 - [ResearchatLT vol.1 (YouTube)](https://www.youtube.com/watch?v=kKLt956ieSM)...Researchat.fmのリスナーから有志で、ライトニングトーク大会をやりました。その配信アーカイブです。
