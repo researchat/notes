@@ -26,7 +26,7 @@ title: 96. My Second Journal Club Presentation
 - [Last universal common ancestor, LUCA (Wikipedia)](https://en.wikipedia.org/wiki/Last_universal_common_ancestor)
 - [窒素固定 (Wikipedia)](https://ja.wikipedia.org/wiki/%E7%AA%92%E7%B4%A0%E5%9B%BA%E5%AE%9A)
 - [Sequence Homology (Wikipedia)](https://en.wikipedia.org/wiki/Sequence_homology)... 今回取り上げたOrthologyの意味、混同しやすいParalogy・Ohnology・Xenology・Homoeology・Gametologyの違いについて。
-- [Single-nucleotide polymorphism (Wikipedia)](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism) ... podcast中でSNP（スニップ）って言っているもの。日本語では(一塩基多型)[https://ja.wikipedia.org/wiki/%E4%B8%80%E5%A1%A9%E5%9F%BA%E5%A4%9A%E5%9E%8B]。
+- [Single-nucleotide polymorphism (Wikipedia)](https://en.wikipedia.org/wiki/Single-nucleotide_polymorphism) ... podcast中でSNP（スニップ）って言っているもの。日本語では[一塩基多型](https://ja.wikipedia.org/wiki/%E4%B8%80%E5%A1%A9%E5%9F%BA%E5%A4%9A%E5%9E%8B)。
 - [KEGG: Kyoto Encyclopedia of Genes and Genomes](https://www.genome.jp/kegg/)
 - [KEGG ORTHOLOGY](https://www.genome.jp/kegg/ko.html)
 - [EggNOG v5.0](http://eggnog5.embl.de/)..._"A database of orthology relationships, functional annotation,
