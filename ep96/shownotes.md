@@ -43,5 +43,5 @@ and gene evolutionary histories"_
 
 ## Editorial notes
 - Researchat.fmは研究者3人が話すポッドキャストです！！(coela)
-- (soh)
+- また1年後に (soh)
 - う、今回は反省の多い回でした。次回の論文回は最後まで聞いてから質問します(悪い癖が出ちまった...)(tadasu)
