@@ -39,7 +39,7 @@ and gene evolutionary histories"_
 - [Microarray (Wikipedia)](https://en.wikipedia.org/wiki/Microarray)
 - [アミノ酸 生合成経路](http://www.sc.fukuoka-u.ac.jp/~bc1/Biochem/aminoSyn.htm)
 - [細胞の物理生物学](https://www.amazon.co.jp/dp/4320057163/?tag=researchatf04-22) ... coelaがはじめて、アミノ酸を合成するのに必要なエネルギー（ATP数）に関する記述をみかけた本。他にも様々な生命現象を取り上げている素晴らしい書籍。鈍器になるレベルで分厚い。
-- [BioNumbers](https://bionumbers.hms.harvard.edu/search.aspx) ... 直接は関係ないですが、今回で議論された内容を調べるとっかかりとして便利とcoelaが思っているデータベース。
+- [BioNumbers](https://bionumbers.hms.harvard.edu/search.aspx) ... 直接は関係ないですが、今回議論された内容を調べるとっかかりとして便利とcoelaが思っているデータベース。
 
 ## Editorial notes
 - Researchat.fmは研究者3人が話すポッドキャストです！！(coela)
