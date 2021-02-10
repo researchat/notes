@@ -14,22 +14,24 @@ tags:
 title: 97. TBA
 ---
 ## Show notes
-- トリビアの泉
-- メロンパン
-- KOF98
-- 月華の剣士
-- プロギアの嵐
-- カプコムアーケードスタジアム
-- R-type
-- R-type final
-- Alexa
-- Alexa488
-- グレングールド 
-- Job Rogan Podcast
-- モース
-- 速読
-- 山岡宗一 織田信長 
-- PL学園 vs 横浜高校
+- [トリビアの泉](https://www.fujitv.co.jp/b_hp/trivia/)
+- [『トリビアの泉』金の脳、銀の脳を実際に持ってる人は見つかるか？Twitterでの呼びかけに持ち主が名乗り出る](https://togetter.com/li/1385133)
+- [The King of Fighters '98](https://en.wikipedia.org/wiki/The_King_of_Fighters_%2798) ... KOF'98
+- [中国人はなぜKOF98をやり続けるのか？](http://kakugeblog.blog.jp/archives/73019412.html) ... 中国では今でもKOF'98の人気が高いとききます。
+- [月華の剣士](https://ja.wikipedia.org/wiki/%E6%9C%88%E8%8F%AF%E3%81%AE%E5%89%A3%E5%A3%AB)
+- [プロギアの嵐](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%AE%E3%82%A2%E3%81%AE%E5%B5%90)
+- [カプコムアーケードスタジアム](https://www.capcom-arcade-stadium.com/ja/)
+- [R-type](https://en.wikipedia.org/wiki/R-Type)
+- [R-type final2](https://rtypefinal2.com/)
+- [Alexa](https://developer.amazon.com/en-US/alexa)
+- [Alexa488](https://www.thermofisher.com/us/en/home/life-science/cell-analysis/fluorophores/alexa-fluor-488.html) ... 抗体染色やFISHなどに用いられる蛍光dyeのこと
+- [グレン・グールド](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%BC%E3%83%AB%E3%83%89) ... ニワカのtadasuでも大好きになってしまうピアニスト
+- [J.S.バッハ:ゴールドベルク変奏曲 by グレン・グールド (Amazon)](https://www.amazon.co.jp/dp/B01L5WLSJS/?tag=researchatf04-22) ... グールドといえばこの曲。若い時のバージョンと歳を取ってからのバージョンがあるが、歳を取ってからのバージョンの方がtadasuは好き。
+- [The Joh Rogan Experience](https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk)
+- [エドワード・S・モース](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BBS%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B9)
+- [速読術](https://ja.wikipedia.org/wiki/%E9%80%9F%E8%AA%AD%E8%A1%93)
+- [山岡荘八 織田信長 (Amazon)](https://www.amazon.co.jp/dp/B00YA3SOLU/?tag=researchatf04-22/) ... 家にあったからという理由だけでtadasuが読書感想文のためだけに読み始めてしまった本
+- [ドキュメント横浜vs.PL学園](https://www.amazon.co.jp/dp/4022613076/?tag=researchatf04-22/) ... 例の試合。松坂投手や上重アナが活躍した一戦。近代高校野球の情報戦の面白さがみて取れる。この試合をリアルタイムでみてしまったがために(春も見たのだが)、このあと高校野球沼に沈んでいってしまう。松坂投手の渡米前最終登板も西武ドームに見に行きました。この数年後、まさか自分が高校生として神奈川に引っ越し、横浜高校と自分の高校の試合を見に行くようになるとは思わなかった。
 - 沈黙 遠藤周作
 - 深い川
 - 川端康成
