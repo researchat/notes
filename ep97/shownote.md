@@ -6,12 +6,12 @@ actor_ids:
 audio_file_path: /audio/97.mp3
 audio_file_size: 66410684
 date: 2021-02-10 05:03:00 +0900
-description: 
+description: 色々話しました。
 duration: "01:32:14"
 layout: article
 tags:
   - 雑談
-title: 97. TBA
+title: 97. Darwin's Coffee
 ---
 ## Show notes
 - [トリビアの泉](https://www.fujitv.co.jp/b_hp/trivia/)
