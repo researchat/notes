@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/97.mp3
 audio_file_size: 66410684
 date: 2021-02-10 05:03:00 +0900
-description: 色々話しました。
+description: レトロゲーム、Alexa、速読、読書感想文、小説の終わり方、海外における治験募集、他人の留学記などについて話しました。
 duration: "01:32:14"
 layout: article
 tags:
