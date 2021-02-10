@@ -13,6 +13,7 @@ tags:
   - 雑談
 title: 97. Darwin's Coffee
 ---
+
 ## Show notes
 - [トリビアの泉](https://www.fujitv.co.jp/b_hp/trivia/)
 - [『トリビアの泉』金の脳、銀の脳を実際に持ってる人は見つかるか？Twitterでの呼びかけに持ち主が名乗り出る](https://togetter.com/li/1385133)
@@ -62,7 +63,6 @@ title: 97. Darwin's Coffee
 
 
 ## Editorial notes
-- soh
+- 治験の知見よろしくおねがいします (soh)
 - シン・ウルトラマンの30秒予告に、レヴィ=ストロースの思考がうつっているのが気になる。予告編がこの収録の直後に公開されたので高まりました。(tadasu)
 - coela
-
