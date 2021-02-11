@@ -42,22 +42,20 @@ title: 97. Darwin's Coffee
 - [宮本武蔵](https://www.amazon.co.jp/dp/B00DKX4CKS/?tag=researchatf04-22) ... 吉川英治
 - [五分後の世界](https://www.amazon.co.jp/dp/4877284443/?tag=researchatf04-22)
 - [ゲノム編集丸わかりブック](https://www.kinokuniya.co.jp/f/dsg-08-EK-0935015)
-- Researchat form
-- Podcastとは
-- RSS
-- Spotifyのshownote
-- Editorial Notes
-- Rebuild search 
+- [Researchat.fmのお便りフォーム](https://researchat.fm/form.html)
+- [RSS (Wikipedia)](https://ja.wikipedia.org/wiki/RSS#:~:text=RSS%EF%BC%88%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6Rich%20Site,%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%AE%E7%B7%8F%E7%A7%B0%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82)
+- [Introducing HTML formatting Spotify](https://podcasters.spotify.com/blog/introducing-html-formatting)
+- [ebuild Transcript Search](https://rebuild.fm/search)
 - [千葉雅也先生のTwitter](https://twitter.com/masayachiba)
 - [Irving House](https://www.irvinghouse.com/) ... Irving Stには二つB&Bが並んでいる
 - [A Friendly Inn](http://www.afinow.com/) ... Irving Stには二つB&Bが並んでいる
 - [Darwin's Ltd](https://www.darwinsltd.com/) ... 千葉先生もtadasuもこのカフェからアメリカ生活が始まったのだった... Irving Stのすぐ横にある。
-- [アメリカ紀行](https://www.amazon.co.jp/dp/B07SCXJT2T/?tag=researchatf04-22) ... 千葉先生の留学記
-- [悲しき熱帯](https://www.amazon.co.jp/dp/4121600045/?tag=researchatf04-22)
-- [独学大全](https://www.amazon.co.jp/dp/B08DR7YL5J/?tag=researchatf04-22)
-- [アイデア大全](https://www.amazon.co.jp/dp/B06XFPYZ8P/?tag=researchatf04-22)
+- [アメリカ紀行 (Amazon)](https://www.amazon.co.jp/dp/B07SCXJT2T/?tag=researchatf04-22) ... 千葉先生の留学記
+- [悲しき熱帯 (Amazon)](https://www.amazon.co.jp/dp/4121600045/?tag=researchatf04-22)...レヴィストロースの名作中の名作。これのほかに野生の思考などもあります。
+- [独学大全 (Amazon)](https://www.amazon.co.jp/dp/B08DR7YL5J/?tag=researchatf04-22)
+- [アイデア大全 (Amazon)](https://www.amazon.co.jp/dp/B06XFPYZ8P/?tag=researchatf04-22)
 - [読書猿](https://readingmonkey.blog.fc2.com/)
-- [レヴィ=ストロース](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AC%E3%83%B4%E3%82%A3%EF%BC%9D%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%82%B9)
+- [レヴィ=ストロース (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AC%E3%83%B4%E3%82%A3%EF%BC%9D%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%82%B9)
 - 村上春樹 辺境・近境
 - [サニーデイ・サービス](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
 
