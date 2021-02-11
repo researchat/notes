@@ -37,8 +37,7 @@ title: 97. Darwin's Coffee
 - [沈黙 (Amazon)](https://www.amazon.co.jp/dp/B073PJQ7NQ/?tag=researchatf04-22) ... スコセッシ監督の映画
 - [深い川 (Amazon)](https://www.amazon.co.jp/dp/B01D31ANNG/?tag=researchatf04-22)
 - [雪国](https://www.amazon.co.jp/dp/B00DHX5OAS/?tag=researchatf04-22)
-- [草枕 (Amazon)](https://www.amazon.co.jp/dp/B009IXKOFQ/?tag=researchatf04-22) ... 完全に無意識でしたが、草枕を高校生だった当時に読んだ理由が、当時好きだったグールドが草枕が好きだったらしいという話を同級生に聞いたからでした(tadasu) 
-- [乱 (Amazon)](https://www.amazon.co.jp/dp/B00QT9X69S/?tag=researchatf04-22）... 黒澤明監督の作品
+- [草枕 (Amazon)](https://www.amazon.co.jp/dp/B009IXKOFQ/?tag=researchatf04-22) ... 完全に無意識でしたが、草枕を高校生だった当時に読んだ理由が、当時好きだったグールドが草枕が好きだったらしいという話を同級生に聞いたからでした(tadasu)  [乱 (Amazon)](https://www.amazon.co.jp/dp/B00QT9X69S/?tag=researchatf04-22）... 黒澤明監督の作品
 - [宮本武蔵 (Amazon)](https://www.amazon.co.jp/dp/B00DKX4CKS/?tag=researchatf04-22) ... 吉川英治
 - [五分後の世界 (Amazon)](https://www.amazon.co.jp/dp/4877284443/?tag=researchatf04-22)
 - [ゲノム編集丸わかりブック (Amazon)](https://www.kinokuniya.co.jp/f/dsg-08-EK-0935015)
@@ -56,7 +55,7 @@ title: 97. Darwin's Coffee
 - [アイデア大全 (Amazon)](https://www.amazon.co.jp/dp/B06XFPYZ8P/?tag=researchatf04-22)
 - [読書猿](https://readingmonkey.blog.fc2.com/)
 - [レヴィ=ストロース (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%BB%E3%83%AC%E3%83%B4%E3%82%A3%EF%BC%9D%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%82%B9)
-- 村上春樹 辺境・近境
+- [村上春樹 辺境・近境 (Amazon)](https://www.amazon.co.jp/dp/4101001480/?tag=researchatf04-22)
 - [サニーデイ・サービス](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8B%E3%83%BC%E3%83%87%E3%82%A4%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
 
 
