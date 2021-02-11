@@ -34,14 +34,14 @@ title: 97. Darwin's Coffee
 - [山岡荘八 織田信長 (Amazon)](https://www.amazon.co.jp/dp/B00YA3SOLU/?tag=researchatf04-22/) ... 家にあったからという理由だけでtadasuが読書感想文のためだけに読み始めてしまった本
 - [ドキュメント横浜vs.PL学園](https://www.amazon.co.jp/dp/4022613076/?tag=researchatf04-22/) ... 例の試合。松坂投手や上重アナが活躍した一戦。近代高校野球の情報戦の面白さがみて取れる。この試合をリアルタイムでみてしまったがために(春も見たのだが)、このあと高校野球沼に沈んでいってしまう。松坂投手の渡米前最終登板も西武ドームに見に行きました。この数年後、まさか自分が高校生として神奈川に引っ越し、横浜高校と自分の高校の試合を見に行くようになるとは思わなかった。
 - [沈黙 (Amazon)](https://www.amazon.co.jp/dp/B00BIXNMTO/?tag=researchatf04-22)
-- [沈黙 (Amazon)](https://www.amazon.co.jp/dp/B073PJQ7NQ/?tag=researchatf04-22) ...スコセッシ監督の映画
-- [深い川](https://www.amazon.co.jp/dp/B01D31ANNG/?tag=researchatf04-22)
+- [沈黙 (Amazon)](https://www.amazon.co.jp/dp/B073PJQ7NQ/?tag=researchatf04-22) ... スコセッシ監督の映画
+- [深い川 (Amazon)](https://www.amazon.co.jp/dp/B01D31ANNG/?tag=researchatf04-22)
 - [雪国](https://www.amazon.co.jp/dp/B00DHX5OAS/?tag=researchatf04-22)
-- [草枕](https://www.amazon.co.jp/dp/B009IXKOFQ/?tag=researchatf04-22) ... 完全に無意識でしたが、草枕を高校生だった当時に読んだ理由が、当時好きだったグールドが草枕が好きだったらしいという話を同級生に聞いたからでした(tadasu)。
-- [乱](https://www.amazon.co.jp/dp/B00QT9X69S/?tag=researchatf04-22）... 黒澤明監督の作品
-- [宮本武蔵](https://www.amazon.co.jp/dp/B00DKX4CKS/?tag=researchatf04-22) ... 吉川英治
-- [五分後の世界](https://www.amazon.co.jp/dp/4877284443/?tag=researchatf04-22)
-- [ゲノム編集丸わかりブック](https://www.kinokuniya.co.jp/f/dsg-08-EK-0935015)
+- [草枕 (Amazon)](https://www.amazon.co.jp/dp/B009IXKOFQ/?tag=researchatf04-22) ... 完全に無意識でしたが、草枕を高校生だった当時に読んだ理由が、当時好きだったグールドが草枕が好きだったらしいという話を同級生に聞いたからでした(tadasu) 
+- [乱 (Amazon)](https://www.amazon.co.jp/dp/B00QT9X69S/?tag=researchatf04-22）... 黒澤明監督の作品
+- [宮本武蔵 (Amazon)](https://www.amazon.co.jp/dp/B00DKX4CKS/?tag=researchatf04-22) ... 吉川英治
+- [五分後の世界 (Amazon)](https://www.amazon.co.jp/dp/4877284443/?tag=researchatf04-22)
+- [ゲノム編集丸わかりブック (Amazon)](https://www.kinokuniya.co.jp/f/dsg-08-EK-0935015)
 - [Researchat.fmのお便りフォーム](https://researchat.fm/form.html)
 - [RSS (Wikipedia)](https://ja.wikipedia.org/wiki/RSS#:~:text=RSS%EF%BC%88%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6Rich%20Site,%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88%E3%81%AE%E7%B7%8F%E7%A7%B0%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82)
 - [Introducing HTML formatting Spotify](https://podcasters.spotify.com/blog/introducing-html-formatting)
