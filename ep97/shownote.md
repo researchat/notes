@@ -38,7 +38,7 @@ title: 97. Darwin's Coffee
 - [深い川 (Amazon)](https://www.amazon.co.jp/dp/B01D31ANNG/?tag=researchatf04-22)
 - [雪国](https://www.amazon.co.jp/dp/B00DHX5OAS/?tag=researchatf04-22)
 - [草枕 (Amazon)](https://www.amazon.co.jp/dp/B009IXKOFQ/?tag=researchatf04-22) ... 完全に無意識でしたが、草枕を高校生だった当時に読んだ理由が、当時好きだったグールドが草枕が好きだったらしいという話を同級生に聞いたからでした(tadasu)
-- [乱]
+- [乱 黒澤明](https://www.amazon.co.jp/%E4%B9%B1-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E7%89%88-DVD-%E4%BB%B2%E4%BB%A3%E9%81%94%E7%9F%A2/dp/B003NX4GR4/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E4%B9%B1+%E9%BB%92%E6%BE%A4%E6%98%8E&qid=1613007693&sr=8-2)
 - [宮本武蔵 (Amazon)](https://www.amazon.co.jp/dp/B00DKX4CKS/?tag=researchatf04-22) ... 吉川英治
 - [五分後の世界 (Amazon)](https://www.amazon.co.jp/dp/4877284443/?tag=researchatf04-22)
 - [ゲノム編集丸わかりブック (Amazon)](https://www.kinokuniya.co.jp/f/dsg-08-EK-0935015)
