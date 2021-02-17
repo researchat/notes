@@ -20,5 +20,5 @@ title: 99. First In, First Out
 
 ## Editorial notes
 - soh
-- つみかさなったものですね(tadasu)
+- よくつづけられてきたものだ(tadasu)
 - coela
