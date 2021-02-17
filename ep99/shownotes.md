@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/99.mp3
-audio_file_size: 66410684
+audio_file_size: 72259709
 date: 2021-02-20 05:03:00 +0900
 description: ep1からep98までを3人で振り返りました。
-duration: "01:32:14"
+duration: "01:40:22"
 layout: article
 tags:
   - 雑談
