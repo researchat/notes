@@ -19,9 +19,8 @@ title: 99. First In, First Out
 - [Researchatで紹介した漫画のまとめコーナー](https://researchat.fm/references/manga/)
 - [Reseatchatのお便りフォーム](https://researchat.fm/form.html)...お待ちしております。
 - [ResearchatのYouTube](https://www.youtube.com/channel/UC2bDx3CfYJwqBKQHF-9j3FA)
-
 - 人気投票Googleフォーム？
-- すあま投票
+- [すあま投票@twitter](https://twitter.com/researchat_fm/status/1362710936784678914)
 
 ## Editorial notes
 - Researchatはまだまだ続きます...話すことがあるので... (soh)
