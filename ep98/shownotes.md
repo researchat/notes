@@ -4,7 +4,7 @@ actor_ids:
 audio_file_path: /audio/98.mp3
 audio_file_size: 
 date: 2021-02-20 17:53:00 +0900
-description: IOTデバイス、カナダの生活の様子、何でも自作する精神、餃子、家二郎、ステーキ、地理のマッピング、おすすめの本について、壁に向かって話しました。
+description: IOTデバイス、カナダの生活の様子、餃子、家二郎、ステーキ、地理のマッピング、おすすめの本について、壁に向かって話しました。
 duration: "01:32:14"
 layout: article
 tags:
@@ -34,4 +34,3 @@ title: 98. Homebrew Sprit
 
 ## Editorial note
 - 一人で話して一人で編集していると自己完結感が凄まじい (soh)
-
