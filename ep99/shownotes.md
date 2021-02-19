@@ -35,5 +35,5 @@ title: 99. First In, First Out
 
 ## Editorial notes
 - Researchatはまだまだ続きます...話すことがあるので... (soh)
-- よくつづけられてきたものだ (tadasu)
+- 気づけば遠くまで来たものだ (tadasu)
 -  (coela)
