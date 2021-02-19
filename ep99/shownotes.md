@@ -23,13 +23,13 @@ title: 99. First In, First Out
 - [すあま投票@twitter](https://twitter.com/researchat_fm/status/1362710936784678914)
 - sohのおすすめ回
 - tadasuのおすすめ回
-  - [ep11: 身体改造](https://researchat.fm/episode/11)
-  - [ep48: レベルEと性と染色体](https://researchat.fm/episode/48) ... レベルEから始まり、カモノハシのXXXXXYYYYY染色体、三毛猫まで
-  - [ep44: Natureに初めて出した日本人](https://researchat.fm/episode/44)
-  - [ep3: パキスタンの格ゲー超新星現る](https://researchat.fm/episode/3)
-  - [ep66: ノート](https://researchat.fm/episode/66)
-  - [ep60: 培養肉と代替肉](https://researchat.fm/episode/60)
-  - [ep38: 研究者について](https://researchat.fm/episode/38)
+  - [11. Intelligence requires a body](https://researchat.fm/episode/11) ...  身体改造・身体拡張特集回
+  - [48. XXXXXYYYYY](https://researchat.fm/episode/48) ... レベルEと性と染色体。レベルEから始まり、カモノハシのXXXXXYYYYY染色体、三毛猫まで。44と48はめっちゃ真面目にサーベイしました。
+  - [44. Tabasheer](https://researchat.fm/episode/44) ... Natureに初めて出した日本人。 1800年代後半、Natureに投稿した日本人研究者(杉浦重剛、小藤文次郎、関谷清景、伊藤篤太郎、南方熊楠)について話しました。 
+  - [3. Here Comes A New Challenger!](https://researchat.fm/episode/3) ... パキスタンの格ゲー超新星襲来
+  - [66. Weaving a web of ideas](https://researchat.fm/episode/66) ...  アイデアとノートの取りについて話しました。 
+  - [60. Lab meating](https://researchat.fm/episode/60) ... 動物の体外で培養された細胞により作られた培養肉、さらに植物性の代替肉や代替卵について話しました。 
+  - [38. Respect Doesn't Make History](https://researchat.fm/episode/38) ... 研究者についての雑感
 - coelaのおすすめ回
 
 
