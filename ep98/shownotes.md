@@ -2,7 +2,7 @@
 actor_ids:
   - soh
 audio_file_path: /audio/98.mp3
-audio_file_size: 
+audio_file_size: 37717263
 date: 2021-02-20 17:53:00 +0900
 description: IOTデバイス、カナダの生活の様子、餃子、家二郎、ステーキ、地理のマッピング、おすすめの本について、壁に向かって話しました。
 duration: "01:32:14"
