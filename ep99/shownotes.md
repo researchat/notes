@@ -21,6 +21,10 @@ title: 99. First In, First Out
 - [ResearchatのYouTube](https://www.youtube.com/channel/UC2bDx3CfYJwqBKQHF-9j3FA)
 - 人気投票Googleフォーム？
 - [すあま投票@twitter](https://twitter.com/researchat_fm/status/1362710936784678914)
+- sohのおすすめ回
+- tadasuのおすすめ回 ... [ep11:身体改造](https://researchat.fm/episode/11), [ep44: Natureに初めて出した日本人](https://researchat.fm/episode/44), [ep48: レベルEと性と染色体](https://researchat.fm/episode/48), [ep3: パキスタンの格ゲー超新星現る](https://researchat.fm/episode/3), [ep66: ノート](https://researchat.fm/episode/66), [ep60: 培養肉と代替肉](https://researchat.fm/episode/60), [ep38: 研究者について](https://researchat.fm/episode/38)
+- coelaのおすすめ回
+
 
 ## Editorial notes
 - Researchatはまだまだ続きます...話すことがあるので... (soh)
