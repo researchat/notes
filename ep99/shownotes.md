@@ -23,7 +23,7 @@ title: 99. First In, First Out
 - [すあま投票@twitter](https://twitter.com/researchat_fm/status/1362710936784678914)
 - sohのおすすめ回
 - tadasuのおすすめ回
-  - [ep11:身体改造](https://researchat.fm/episode/11)
+  - [ep11: 身体改造](https://researchat.fm/episode/11)
   - [ep48: レベルEと性と染色体](https://researchat.fm/episode/48) ... レベルEから始まり、カモノハシのXXXXXYYYYY染色体、三毛猫まで
   - [ep44: Natureに初めて出した日本人](https://researchat.fm/episode/44)
   - [ep3: パキスタンの格ゲー超新星現る](https://researchat.fm/episode/3)
