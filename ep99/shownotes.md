@@ -31,7 +31,6 @@ title: 99. First In, First Out
 - tadasuのおすすめ回
   - [66. Weaving a web of ideas](https://researchat.fm/episode/66) ...  アイデアとノートの取りについて話しました。 
   - [60. Lab meating](https://researchat.fm/episode/60) ... 動物の体外で培養された細胞により作られた培養肉、さらに植物性の代替肉や代替卵について話しました。 
-
   - [48. XXXXXYYYYY](https://researchat.fm/episode/48) ... レベルEと性と染色体。レベルEから始まり、カモノハシのXXXXXYYYYY染色体、三毛猫まで。44と48はめっちゃ真面目にサーベイしました。
   - [44. Tabasheer](https://researchat.fm/episode/44) ... Natureに初めて出した日本人。 1800年代後半、Natureに投稿した日本人研究者(杉浦重剛、小藤文次郎、関谷清景、伊藤篤太郎、南方熊楠)について話しました。 
   - [38. Respect Doesn't Make History](https://researchat.fm/episode/38) ... 研究者についての雑感
