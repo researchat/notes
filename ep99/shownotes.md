@@ -25,8 +25,8 @@ title: 99. First In, First Out
   - [86. Mysterious Defense Islands](https://researchat.fm/episode/86) ... レトロンというバクテリアで発現する謎のRNAについての論文を読んだ回です。
   - [77. At The Conference Floor](https://researchat.fm/episode/77) ... 後半はまるで学会のあとの懇親会のような雰囲気でdessanと盛り上がりました。
   - [57. All papers are created equal](https://researchat.fm/episode/57) ... 論文の読み方や理想の論文など話し始めたら熱くなってしまった回。
-  - [18. WikipeDNA](https://researchat.fm/episode/18) ... DNA
-  - [16. Beyond imaging](https://researchat.fm/episode/16) ... 
+  - [18. WikipeDNA](https://researchat.fm/episode/18) ... DNAデータストレージ周辺の技術やバイオベンチャーについて話しました。
+  - [16. Beyond imaging](https://researchat.fm/episode/16) ... 光学的に観察せずに分子の位置を計測するというとんでもないアイディアについての論文を読み大いに盛り上がりました。
   - [6. A senior who pretends to be a beginner](https://researchat.fm/episode/6) ... 3人で集まって録った思い出深い回の一つ。リモートじゃないので、会話のテンポが随分と早い。
 - tadasuのおすすめ回
   - [11. Intelligence requires a body](https://researchat.fm/episode/11) ...  身体改造・身体拡張特集回
