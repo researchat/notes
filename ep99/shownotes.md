@@ -37,10 +37,14 @@ title: 99. First In, First Out
   - [11. Intelligence requires a body](https://researchat.fm/episode/11) ...  身体改造・身体拡張特集回
   - [3. Here Comes A New Challenger!](https://researchat.fm/episode/3) ... パキスタンの格ゲー超新星襲来。[ep34](https://researchat.fm/episode/34)とセットで。
 - coelaのおすすめ回
-  - hoge
+  - [1. 600 tabs in your browser](https://researchat.fm/episode/1) ... 初回のこの感じはなかなか出せない
+  - [10. The endgame keyboard](https://researchat.fm/episode/10) ... 自作キーボードを作った話。今年こそ基盤発注したい。
+  - [30. Battle Aura](https://researchat.fm/episode/30) ... ファンタジーな武器の元ネタを調べました。
+  - [55. Homecoming](https://researchat.fm/episode/55) ... 蜘蛛回。蜘蛛ってすごいですね。
+  - [65. Lateral Thinking in Biotechnology](https://researchat.fm/episode/65) ... 枯れた技術の水平思考などについて。色々勉強になりました。
 
 
 ## Editorial notes
 - Researchatはまだまだ続きます...話すことがあるので... (soh)
 - 気づけば遠くまで来たものだ (tadasu)
--  (coela)
+- キルラキルの総集編(？)が好きです(coela)
