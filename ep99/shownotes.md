@@ -36,6 +36,7 @@ title: 99. First In, First Out
   - [38. Respect Doesn't Make History](https://researchat.fm/episode/38) ... 研究者についての雑感
   - [11. Intelligence requires a body](https://researchat.fm/episode/11) ...  身体改造・身体拡張特集回
   - [3. Here Comes A New Challenger!](https://researchat.fm/episode/3) ... パキスタンの格ゲー超新星襲来。[ep34](https://researchat.fm/episode/34)とセットで。
+  - [19. Neuron Musk](https://researchat.fm/episode/19) ... Elon MuskとNeuralinkについて。おそらく日本語で一番くわしい解説の一つです。Researchat.fmでは一番人気の回です。
 - coelaのおすすめ回
   - [1. 600 tabs in your browser](https://researchat.fm/episode/1) ... 初回のこの感じはなかなか出せない
   - [10. The endgame keyboard](https://researchat.fm/episode/10) ... 自作キーボードを作った話。今年こそ基盤発注したい。
