@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/100.mp3
 audio_file_size: 41034396
 date: 2021-02-25 12:00:00 +0900
-description: Researchat.fmの正式名称について民主的に決定しました。
+description: Researchat.fmの正式呼称について民主的に決定しました。
 duration: "00:57:00"
 layout: article
 tags:
