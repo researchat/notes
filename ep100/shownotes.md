@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/100.mp3
 audio_file_size: 41034396
 date: 2021-02-25 12:00:00 +0900
-description: Researchat.fmの呼称について公式見解を民主的に決定しました。
+description: Researchat.fmの呼称について、公式見解を民主的に話し合いました。
 duration: "00:57:00"
 layout: article
 tags:
@@ -23,5 +23,5 @@ title: 100. Researchat.fm
 
 ## Editorial note
 - ポッドキャストでまたドッキリやりたい (soh)
-- なんだか一区切りですね。(tadasu)
+- なんだか一区切りですね。sciencefm.fmを諦めない。(tadasu)
 - coela
