@@ -11,7 +11,7 @@ duration: "00:57:00"
 layout: article
 tags:
   - 雑談
-title: 100. Researchat.fm Season2
+title: 100. Researchat.fm
 ---
 
 ## Show notes
@@ -19,7 +19,7 @@ title: 100. Researchat.fm Season2
 - [今日からはじめる「技術Podcast」完全入門 (Amazon)](https://www.amazon.co.jp/dp/B07FJ61FD3)
 - [Bayfm.org](https://www.bayfm.org/)
 - [Fm yokohama 84.7 (FMヨコハマ 横浜のFMラジオ](https://www.fmyokohama.co.jp/)
-- [Researcha.fm おたよりフォーム](https://researchat.fm/form.html)
+- [Researchat.fm おたよりフォーム](https://researchat.fm/form.html)
 
 ## Editorial note
 - ポッドキャストでまたドッキリやりたい (soh)
