@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/100.mp3
 audio_file_size: 41034396
 date: 2021-02-25 12:00:00 +0900
-description: 第100回目の記念すべき収録ではResearchat.fmの読み方について民主的に決定しました。
+description: 100回目の記念すべき収録ではResearchat.fmの読み方について民主的に決定しました。
 duration: "00:57:00"
 layout: article
 tags:
@@ -17,11 +17,11 @@ title: 100. Researchat.fm Season2
 ## Show notes
 - [水曜どうでしょう - 北海道テレビ](https://www.htb.co.jp/suidou/)
 - [今日からはじめる「技術Podcast」完全入門 (Amazon)](https://www.amazon.co.jp/dp/B07FJ61FD3)
-- [](https://www.bayfm.org/)
+- [Bayfm.org](https://www.bayfm.org/)
 - [Fm yokohama 84.7 (FMヨコハマ 横浜のFMラジオ](https://www.fmyokohama.co.jp/)
 - [Researcha.fm おたよりフォーム](https://researchat.fm/form.html)
 
 ## Editorial note
-- soh
+- ポッドキャストでまたドッキリやりたい (soh)
 - tadasu
 - coela
