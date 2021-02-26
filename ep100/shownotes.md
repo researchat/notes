@@ -18,7 +18,7 @@ title: 100. Researchat.fm
 - [水曜どうでしょう - 北海道テレビ](https://www.htb.co.jp/suidou/)
 - [今日からはじめる「技術Podcast」完全入門 (Amazon)](https://www.amazon.co.jp/dp/B07FJ61FD3)
 - [Bayfm.org](https://www.bayfm.org/)
-- [Fm yokohama 84.7 (FMヨコハマ 横浜のFMラジオ](https://www.fmyokohama.co.jp/)
+- [Fm yokohama 84.7 (FMヨコハマ 横浜のFMラジオ)](https://www.fmyokohama.co.jp/)
 - [Researchat.fm おたよりフォーム](https://researchat.fm/form.html)
 
 ## Editorial note
