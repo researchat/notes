@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/100.mp3
 audio_file_size: 41034396
 date: 2021-02-25 12:00:00 +0900
-description: 100回目の記念すべき収録ではResearchat.fmの読み方について民主的に決定しました。
+description: 100回目の記念すべき収録では名前の由来を振り返り、Researchat.fmの読み方について民主的に決定しました。
 duration: "00:57:00"
 layout: article
 tags:
