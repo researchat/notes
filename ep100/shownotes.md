@@ -20,6 +20,9 @@ title: 100. Researchat.fm
 - [Bayfm.org](https://www.bayfm.org/)
 - [Fm yokohama 84.7 (FMヨコハマ 横浜のFMラジオ)](https://www.fmyokohama.co.jp/)
 - [Researchat.fm おたよりフォーム](https://researchat.fm/form.html)
+- [いたのりさ](https://twitter.com/researchat_fm/status/1342437410660093953) ...  思えばR体とL体は無理があって、D体とL体でした。
+- [CasX君](https://twitter.com/researchat_fm/status/1248718294246404096)
+- [Researchat.fmステッカー](https://twitter.com/researchat_fm/status/1233848018400620545) ... 現存する唯一の物理的非公式グッズ。ステッカーを交換されたい方はご連絡ください(ただ、実物は米国にしかないので、うまく交換できるかはわかりません...)
 
 ## Editorial note
 - ポッドキャストでまたドッキリやりたい (soh)
