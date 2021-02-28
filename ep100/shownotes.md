@@ -27,4 +27,4 @@ title: 100. Researchat.fm
 ## Editorial note
 - ポッドキャストでまたドッキリやりたい (soh)
 - なんだか一区切りですね。sciencefm.fmを諦めない。(tadasu)
-- coela
+- 雑談も大事なんやで (coela)
