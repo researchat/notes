@@ -11,7 +11,7 @@ duration: "01:18:50"
 layout: article
 tags:
   - 雑談
-title: 101. TBA
+title: 101. Adjusting Random Number Generator
 ---
 
 ## Show notes
@@ -29,7 +29,7 @@ title: 101. TBA
 - [Among Us](https://store.steampowered.com/app/945360/Among_Us/)
 - [Project Winter](https://store.steampowered.com/app/774861/Project_Winter/)
 - [将棋ウォーズ](https://shogiwars.heroz.jp/?locale=ja)
-- [女流棋士の将棋ウォーズ実況#01 お着物で新企画、はじめてみました。 (YouTube)](https://www.youtube.com/watch?v=K1h1JiRYDKo&list=PL67oYoNNmr-s71zKB7kqxKGYccm4lHUTY) ... 女流棋士　香川愛生先生による将棋ウォーズ実況。
+- [女流棋士の将棋ウォーズ実況#01 お着物で新企画、はじめてみました。 (YouTube)](https://www.youtube.com/watch?v=K1h1JiRYDKo&list=PL67oYoNNmr-s71zKB7kqxKGYccm4lHUTY) ... 女流棋士 香川愛生先生による将棋ウォーズ実況。
 - [女流棋士 山口恵梨子ちゃんねる (YouTube)](https://www.youtube.com/channel/UCoGxk6_LJqsk9Bo5FeWNbMg)
 - [エリクサー (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B5%E3%83%BC)
 - [転生したらSpreadsheetだった件 (カクヨム)](https://kakuyomu.jp/works/1177354054887646455)
