@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/101.mp3
 audio_file_size: 56763036
 date: 2021-02-25 12:00:00 +0900
-description: 春の訪れ、人狼、Among Us、もし未来が見えるならどうするか問題、なろう系小説について話しました。
+description: 春の訪れ、人狼、Among Us、72時間見えるボタン、なろう系小説について話しました。
 duration: "01:18:50"
 layout: article
 tags:
@@ -38,5 +38,5 @@ title: 101. TBA
 
 ## Editorial note
 - カウンターでおまかせの天ぷら食える店を教えてください、カナダで... (soh)
-- tadasu
+- 積み重ねしかないのよ (tadasu)
 - coela
