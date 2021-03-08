@@ -16,6 +16,7 @@ title: 101. TBA
 
 ## Show notes
 - [Fighting game is something so great.](https://www.youtube.com/watch?v=3tN0zi8eino) ... ときど選手がEVO2017優勝後のスピーチで語った名言
+- [孟宗汁](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/mosojiru_yamagata.html
 - [A Snow Day at Harvard University (Researchat.vlog #1 20210220) (YouTube)](https://www.youtube.com/watch?v=iEQpqv25QuI)
 - [1991 新宿散策散歩 Shinjuku Walkabout 910410](https://www.youtube.com/watch?v=xDcyg9DIceQ) ... sohが生まれた歳の新宿駅の様子。ずっと見ていられる。
 - [Man vs. Wild (Wikipedia)](https://en.wikipedia.org/wiki/Man_vs._Wild)
