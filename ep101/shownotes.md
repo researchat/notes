@@ -7,7 +7,7 @@ audio_file_path: /audio/101.mp3
 audio_file_size: 56763036
 date: 2021-02-25 12:00:00 +0900
 description: 春の訪れ、人狼、Among Us、もし未来が見えるならどうするか問題、なろう系小説について話しました。
-duration: "00:57:00"
+duration: "01:18:50"
 layout: article
 tags:
   - 雑談
