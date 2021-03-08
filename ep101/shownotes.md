@@ -19,6 +19,7 @@ title: 101. TBA
 - [孟宗汁](https://www.maff.go.jp/j/keikaku/syokubunka/k_ryouri/search_menu/menu/mosojiru_yamagata.html)
 - [A Snow Day at Harvard University (Researchat.vlog #1 20210220) (YouTube)](https://www.youtube.com/watch?v=iEQpqv25QuI)
 - [1991 新宿散策散歩 Shinjuku Walkabout 910410](https://www.youtube.com/watch?v=xDcyg9DIceQ) ... sohが生まれた歳の新宿駅の様子。ずっと見ていられる。
+- [Researchat ep40](https://researchat.fm/episode/40)
 - [Man vs. Wild (Wikipedia)](https://en.wikipedia.org/wiki/Man_vs._Wild)
 - [Systems biology course 2018 Uri Alon - Lecture 1 - Basic concepts (YouTube)](https://www.youtube.com/watch?v=N6VZeWuME_A)
 - [Among Us](https://store.steampowered.com/app/945360/Among_Us/)
