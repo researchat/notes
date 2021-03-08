@@ -24,6 +24,8 @@ title: 101. TBA
 - [Man vs. Wild (Wikipedia)](https://en.wikipedia.org/wiki/Man_vs._Wild)
 - [iTunes U](https://apps.apple.com/us/app/itunes-u/id490217893)
 - [Systems biology course 2018 Uri Alon - Lecture 1 - Basic concepts (YouTube)](https://www.youtube.com/watch?v=N6VZeWuME_A)
+- [格ゲーマー人狼]()
+- [最大人狼]()
 - [Among Us](https://store.steampowered.com/app/945360/Among_Us/)
 - [Project Winter](https://store.steampowered.com/app/774861/Project_Winter/)
 - [将棋ウォーズ](https://shogiwars.heroz.jp/?locale=ja)
