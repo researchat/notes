@@ -39,4 +39,4 @@ title: 101. Adjusting Random Number Generator
 ## Editorial note
 - カウンターでおまかせの天ぷら食える店を教えてください、カナダで... (soh)
 - 積み重ねしかないのよ (tadasu)
-- coela
+- エヴァの映画楽しみです(coela)
