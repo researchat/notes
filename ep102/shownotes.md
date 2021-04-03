@@ -3,11 +3,11 @@ actor_ids:
   - soh
   - tadasu
   - coela
-audio_file_path: /audio/101.mp3
-audio_file_size: 56763036
-date: 2021-04-01 12:00:00 +0900
+audio_file_path: /audio/102.mp3
+audio_file_size: 48153968
+date: 2021-04-03 12:00:00 +0900
 description: アウトプットの蛇口が一個しかない問題、スマホで論文を読む・書く、論文をオーディオブックにする、研究者のゾーンとオカルト、染色体研究者が買うべき自作キーボードの話をしました。
-duration: "01:18:50"
+duration: "00:41:12"
 layout: article
 tags:
   - 雑談
