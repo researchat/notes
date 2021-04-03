@@ -40,6 +40,6 @@ title: 102. 23, 46, 92
 - [tRNA](https://ja.wikipedia.org/wiki/%E8%BB%A2%E7%A7%BBRNA)
 
 ## Editorial note
-- (soh)
+- 結構前にとったので何も覚えていません...(soh)
 - なんだかんだこの収録の後に最新の論文は10-20%ぐらいスマホで書きためた気がする... (tadasu)
 - (coela)
