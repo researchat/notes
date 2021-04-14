@@ -14,11 +14,11 @@ title: 103. Blood Testing of a Cell
 ---
 
 ## Show notes
-- [NeuroRadio](https://neuroradio.tokyo/)
+- [NeuroRadio](https://neuroradio.tokyo/) ... 本格派の神経科学研究者系ポッドキャスト
 - [Rebuild](https://rebuild.fm/)
 - [misreading](https://misreading.chat/)
 - [サンキュータツオ](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%84%E3%82%AA)
-- [予備校のノリで学ぶ「大学の数学・物理](https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ)
+- [予備校のノリで学ぶ「大学の数学・物理」](https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ)
 - [PNE](https://ci.nii.ac.jp/ncid/AN00140437) ... 蛋白質核酸酵素
 - [新着論文レビュー](https://first.lifesciencedb.jp/)
 - Manolis GWAS
