@@ -37,4 +37,4 @@ title: 103. Blood Testing of a Cell
 
 ## Editorial notes
 - soh
-- おもしろいアイデアでとてもよかったです。(tadasu)
+- 桜咲きました。いうて、研究者の方がやっているYouTubeもちらほらありますよね。(tadasu)
