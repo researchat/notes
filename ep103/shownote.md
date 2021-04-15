@@ -10,7 +10,7 @@ duration: "01:13:56"
 layout: article
 tags:
   - 論文
-title: 103. Blood Testing of a Cell
+title: 103. Blood Test of a Cell
 ---
 
 ## Show notes
