@@ -33,8 +33,9 @@ title: 104. Resolution of sweet bean
 - [ザーサイ](https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BC%E3%82%B5%E3%82%A4)
 - [松下製麺所](http://www.matsushita-seimen.jp/)
 - [若鯱家](https://www.wakashachiya.co.jp/)
+- [カレーうどん 鯱乃家](https://tabelog.com/aichi/A2301/A230110/23000050/) ... 名古屋にあるsohおすすめのうどん屋。冷やし肉うどんがおすすめ。
 - [新着論文レビュー](http://first.lifesciencedb.jp/archives/16866) ... "関心事：細胞においてDNAの情報はどのように収納され検索されるのか．おいしいカレーうどんを作りたい．"
-- 老抽　… 老酒(ラオチュウ)じゃなくてラオチョウでした笑
+- 老抽　... 老酒(ラオチュウ)じゃなくてラオチョウでした笑
 - [上海風焼きそば](https://olivebar.exblog.jp/18859137/)
 - [竹内郁雄](https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%86%85%E9%83%81%E9%9B%84)
 - [ハッカーの遺言状──竹内郁雄の徒然苔第5回：つぶ餡と漉し餡](https://cybozushiki.cybozu.co.jp/?p=14395) ... 本当は複雑性の議論までしたかったのですがまた次回
@@ -43,5 +44,5 @@ title: 104. Resolution of sweet bean
 - [鳩の巣原理](https://ja.wikipedia.org/wiki/%E9%B3%A9%E3%81%AE%E5%B7%A3%E5%8E%9F%E7%90%86)
 
 ## Editorial notes
--  (soh)
+- こういう話をすると少し日本に帰りたくなります (soh)
 - 四捨五入すると同じでも、話している人数が2人と3人では大きく異なります。101人と102人の違いはわかりにくいですが。(tadasu)
