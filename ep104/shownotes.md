@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: /audio/104.mp3
 audio_file_size: 64791532
-date: 2021-04-22 11:03:00 +0900
+date: 2021-04-25 12:03:00 +0900
 description: つぶあん・こしあん論争から始め、カレーうどんの可能性について言及し、研究テーマの嗜好性について議論しました。
 duration: "00:58:44"
 layout: article
