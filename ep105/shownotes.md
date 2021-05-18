@@ -1,3 +1,19 @@
+---
+actor_ids:
+  - tadasu
+  - coela
+audio_file_path: /audio/105.mp3
+audio_file_size: 92570419
+date: 2021-05-19 05:03:00 +0900
+description: 何も内容のないことを話しました。
+duration: "01:56:23"
+layout: article
+tags:
+  - 雑談
+title: 105. Filling the hole
+---
+
+## Show notes
 - ハンターハンター
 - エヴァンゲリオン
 - ゴジラSP
@@ -86,4 +102,5 @@
 - どろろ
 - 七色いんこ
 
-なんだかおじいちゃんみたいに毎回同じ話ししてる気がする。これはもうダメなのでは？
+## Editorial notes
+- なんだかおじいちゃんみたいに毎回同じ話ししてる気がする。これはもうダメなのでは？エヴァの話は全カットしました。(tadasu)
