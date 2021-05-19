@@ -65,27 +65,28 @@ title: 105. Filling the hole
 - [GONIN](https://www.amazon.co.jp/dp/B00FWGZO4E/?tag=researchatf04-22) ... 音楽最高。
 - 2199
 - 宇宙戦艦ヤマト
-- もののけ姫
+- [もののけ姫](https://www.ghibli.jp/works/mononoke/)
 - [コダマの落書き](https://twitter.com/researchat_fm/status/1275887145505427464) ... ep62で話しました。
 - Gガンダム
-- ラピュタ
+- [天空の城ラピュタ](https://www.ghibli.jp/works/laputa/)
 - [ドーラ一家　カキクケコ](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A9%BA%E3%81%AE%E5%9F%8E%E3%83%A9%E3%83%94%E3%83%A5%E3%82%BF#%E7%A9%BA%E4%B8%AD%E6%B5%B7%E8%B3%8A%E3%80%8C%E3%83%89%E3%83%BC%E3%83%A9%E4%B8%80%E5%AE%B6%E3%80%8D)
 - ポム爺 ... 泣ける。石の声がわかる謎の老人。細胞の声が聞けるようになりたい。
 - [メンデレーエフ](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%88%E3%83%AA%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AC%E3%83%BC%E3%82%A8%E3%83%95) ... メンデレーエフの逸話っぽいの元ネタがわかる人がいたらご連絡ください。
 - [羊のショーン](https://www.netflix.com/watch/70155567)
 - [アードマンアニメーションズ](https://www.aardman-jp.com/40th/)
 - [ニック・パーク](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF)
-- もののけ姫
-- 安野光雅
-- 日曜喫茶
-- カレーの甘口辛口
-- ななみ
-- 中川家　ときうどん
-- 豪傑 大須晶
-- 豪傑の真実
-- ときどの写真
-- キノコ皮
-- 謎の楽器を弾く男
+- [安野光雅](https://ja.wikipedia.org/wiki/%E5%AE%89%E9%87%8E%E5%85%89%E9%9B%85) ... 絵本作家。数学者の遠山啓先生との共著が多いことは知りませんでした。
+- [日曜喫茶室](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9B%9C%E5%96%AB%E8%8C%B6%E5%AE%A4)
+- [伊集院光 深夜の馬鹿力／1998年12月14日／第0166回／立川流落語家元立川談志登場スペシャル](http://kansou-review.com/ijuinhikaru-0166) ... 人生が歪む原因(すなわち逆張りおじさんになってしまった遠因)の一つが高校生の時に聞いたこの音源。100回ぐらい当時聞いたと思う。
+- 談志・円鏡歌謡合戦 ... 上記のラジオで伊集院さんが探していると言っていた音源。私も当時入手可能なものはいくつか集めた。これを模倣しておこなった談志師匠と爆笑問題の太田さんのラジオは...だったなぁ。
+- [カレーの甘口辛口](https://www.glico.com/jp/customer/qa/2865/)
+- [Nanami](https://www.amazon.com/Nanami-Togarashi-Assorted-Chili-Pepper/dp/B0002YGSA0)
+- [中川家　ときうどん](https://www.youtube.com/watch?v=b0Q5UkVLSjI)
+- [豪傑 大須晶](https://twitter.com/ohsuak) ... 豪傑　大須晶
+- [こくヌキ王国#76「豪傑の真実」](https://www.youtube.com/watch?v=w_jYdXcLtOE) ... 格闘ゲーム界至高のドキュメンタリー
+- [豪傑が撮影したときど選手の写真](https://twitter.com/ohsuAK/status/886874854439370752) ... この写真が撮影されたから日本の格ゲーeSportsブームが始まったとすら言われる一枚。やはり代表する写真は非常に重要。DNAのワトソンクリックの写真もそれに当たるだろう。
+- [キノコ皮](https://www.nature.com/articles/s41893-020-00606-1.epdf)
+- [Wintergatan - Marble Machine (music instrument using 2000 marbles)](https://www.youtube.com/watch?v=IvUU8joBb1Q) ... 謎の楽器を弾く男
 - エヴァの漫画
 - タイムマシン ... タイムマシンじゃなくてタイムカプセル
 - ガラスの仮面
