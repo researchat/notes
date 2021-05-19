@@ -76,6 +76,10 @@ title: 105. Filling the hole
 - [アードマンアニメーションズ](https://www.aardman-jp.com/40th/)
 - [ニック・パーク](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF)
 - [安野光雅](https://ja.wikipedia.org/wiki/%E5%AE%89%E9%87%8E%E5%85%89%E9%9B%85) ... 絵本作家。数学者の遠山啓先生との共著が多いことは知りませんでした。
+- [はじめてであうすうがくの絵本 (安野光雅の絵本)](https://www.amazon.co.jp/dp/4834032035/?tag=researchatf04-22) ... 図書館で読めると思います。
+- [かぞえてみよう (安野光雅の絵本)](https://www.amazon.co.jp/dp/4834002586/?tag=researchatf04-22)
+- [ふしぎなえ (安野光雅の絵本)](https://www.amazon.co.jp/dp/4834002586/?tag=researchatf04-22)
+- [あいうえおの本 (安野光雅の絵本)](https://www.amazon.co.jp/dp/4834004619/?tag=researchatf04-22)
 - [日曜喫茶室](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9B%9C%E5%96%AB%E8%8C%B6%E5%AE%A4)
 - [伊集院光 深夜の馬鹿力／1998年12月14日／第0166回／立川流落語家元立川談志登場スペシャル](http://kansou-review.com/ijuinhikaru-0166) ... 人生が歪む原因(すなわち逆張りおじさんになってしまった遠因)の一つが高校生の時に聞いたこの音源。100回ぐらい当時聞いたと思う。
 - 談志・円鏡歌謡合戦 ... 上記のラジオで伊集院さんが探していると言っていた音源。私も当時入手可能なものはいくつか集めた。これを模倣しておこなった談志師匠と爆笑問題の太田さんのラジオは...だったなぁ。
