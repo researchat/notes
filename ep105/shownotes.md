@@ -5,7 +5,7 @@ actor_ids:
 audio_file_path: /audio/105.mp3
 audio_file_size: 92570419
 date: 2021-05-19 05:03:00 +0900
-description: 何も内容のないことを話しました。
+description: 特記すべきことはありません。
 duration: "01:56:23"
 layout: article
 tags:
@@ -87,7 +87,7 @@ title: 105. Filling the hole
 - [Nanami](https://www.amazon.com/Nanami-Togarashi-Assorted-Chili-Pepper/dp/B0002YGSA0)
 - [中川家　ときうどん](https://www.youtube.com/watch?v=b0Q5UkVLSjI)
 - [豪傑 大須晶](https://twitter.com/ohsuak) ... 豪傑　大須晶
-- [こくヌキ王国#76「豪傑の真実」](https://www.youtube.com/watch?v=w_jYdXcLtOE) ... 格闘ゲーム界至高のドキュメンタリー
+- [こくヌキ王国#76「豪傑の真実」](https://www.youtube.com/watch?v=w_jYdXcLtOE) ... 格闘ゲーム界至高のドキュメンタリー。eSportsよりはるか前、命をかけてゲームをしたプレイヤーたちがいた...!!!
 - [豪傑が撮影したときど選手の写真](https://twitter.com/ohsuAK/status/886874854439370752) ... この写真が撮影されたから日本の格ゲーeSportsブームが始まったとすら言われる一枚。やはり代表する写真は非常に重要。DNAのワトソンクリックの写真もそれに当たるだろう。
 - [キノコ皮](https://www.nature.com/articles/s41893-020-00606-1.epdf)
 - [Wintergatan - Marble Machine (music instrument using 2000 marbles)](https://www.youtube.com/watch?v=IvUU8joBb1Q) ... 謎の楽器を弾く男
