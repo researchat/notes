@@ -14,45 +14,42 @@ title: 105. Filling the hole
 ---
 
 ## Show notes
-- ハンターハンター
-- エヴァンゲリオン
-- ゴジラSP
-- ウルトラマン
-- 実相寺昭雄
-- 攻殻機動隊
-- マンガ
-- Ghost in the shell
-- スチームボーイ
-- 士郎正宗
-- アップルシード
-- ブレードランナー
-- 攻殻機動隊1
-- 1.5
-- 2
-- SAC
-- SAC 2nd gig
-- SSS
-- バトルロワイヤル
-- PUBG
-- APEX
-- 竹内力
-- 8段
-- 北野武
-- 馬娘
-- ダイワスカーレット
-- Fate
-- 働く細胞
-- もやしもん
-- ニーレンバーグ
-- RNA tie club
-- 刀ラブ
-- 堀川だいき
-- クマムシ
-- ワムシ
-- クマムシ姫 ... おっとなんのことだろうか
-- シンカリオン
-- 初音ミク
-- netlflixの趣味おじさん
+- [HUNTER×HUNTER](https://www.amazon.co.jp/gp/product/B074BZ2354/?tag=researchatf04-22)
+- [新世紀エヴァンゲリオン](https://www.evangelion.co.jp/)
+- [ゴジラSP](https://godzilla-sp.jp/) ... リサチャ勢必見の作品。
+- [ウルトラマン](https://www.amazon.co.jp/dp/B00FIZ9SSM/?tag=researchatf04-22)
+- [実相寺昭雄](https://ja.wikipedia.org/wiki/%E5%AE%9F%E7%9B%B8%E5%AF%BA%E6%98%AD%E9%9B%84)
+- [攻殻機動隊](https://www.amazon.co.jp/dp/B00L0QZ6GG/?tag=researchatf04-22)
+- [攻殻機動隊1.5](https://www.amazon.co.jp/dp/B01NCZEPAH/?tag=researchatf04-22)
+- [攻殻機動隊2](https://www.amazon.co.jp/dp/B01LS76FEI/?tag=researchatf04-22)
+- [GHOST IN THE SHELL/攻殻機動隊](https://www.amazon.co.jp/dp/B06XCRQQZF/?tag=researchatf04-22)
+- [スチームボーイ](https://www.amazon.co.jp/dp/B0872838H9/?tag=researchatf04-22)
+- [士郎正宗](https://ja.wikipedia.org/wiki/%E5%A3%AB%E9%83%8E%E6%AD%A3%E5%AE%97)
+- [アップルシード](https://www.amazon.co.jp/dp/B00R5GLJX4/?tag=researchatf04-22)
+- [ブレードランナー](https://www.amazon.co.jp/dp/B012SY4QGO/?tag=researchatf04-22)
+- [攻殻機動隊 STAND ALONE COMPLEX](https://www.amazon.co.jp/dp/B01JMEDX8A/?tag=researchatf04-22)
+- [攻殻機動隊 SAC 2nd gig](https://www.amazon.co.jp/dp/B01JME2XAY/?tag=researchatf04-22)
+- [攻殻機動隊 SAC SSS](https://www.amazon.co.jp/dp/B06XCJMTH3/?tag=researchatf04-22)
+- [バトルロワイヤル](https://www.amazon.co.jp/dp/B012S0OTQU/?tag=researchatf04-22)
+- [PUBG](https://www.pubg.com/)
+- [APEX](https://www.ea.com/games/apex-legends)
+- [竹内力](https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%86%85%E5%8A%9B)
+- [剣道8段](https://www.kendo.or.jp/examination/kendo-8dan/) ... 2021年5月の8段審査は合格率0.4%という、旧司法試験もびっくりの合格率。通称ハンター試験。
+- [北野武](https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%88%E3%81%9F%E3%81%91%E3%81%97)
+- [ウマ娘](https://umamusume.jp/)
+- [Fate](https://www.fate-go.jp/)
+- [はたらく細胞](https://www.amazon.co.jp/dp/B012EODH18/?tag=researchatf04-22)
+- [もやしもん](https://www.amazon.co.jp/dp/B06XPC1KLW/?tag=researchatf04-22)
+- [ニーレンバーグ](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8B%E3%83%BC%E3%83%AC%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0)
+- [RNA Tie Club](https://en.wikipedia.org/wiki/RNA_Tie_Club)
+- [刀剣乱舞](https://ja.wikipedia.org/wiki/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E)
+- [堀川大樹](https://ja.wikipedia.org/wiki/%E5%A0%80%E5%B7%9D%E5%A4%A7%E6%A8%B9)
+- [クマムシ](https://ja.wikipedia.org/wiki/%E7%B7%A9%E6%AD%A9%E5%8B%95%E7%89%A9)
+- [ワムシ](https://ja.wikipedia.org/wiki/%E8%BC%AA%E5%BD%A2%E5%8B%95%E7%89%A9)
+- クマムシ姫 ... おっと、なんのことだろうか。絶対にgglなよ！なよ！
+- [シンカリオン](https://www.shinkalion.com/)
+- 初音ミク ... ミク先生
+- [The toys that made us](https://www.netflix.com/watch/80161497) ... netlflixのホビーおじさん特集
 - ボルテスV
 - スパロボ
 - シャーマンキング
@@ -65,19 +62,19 @@ title: 105. Filling the hole
 - 勇者ライディーン
 - ワタル
 - トップを狙え
-- GONIN
+- [GONIN](https://www.amazon.co.jp/dp/B00FWGZO4E/?tag=researchatf04-22) ... 音楽最高。
 - 2199
 - 宇宙戦艦ヤマト
 - もののけ姫
-- コダマ
+- [コダマの落書き](https://twitter.com/researchat_fm/status/1275887145505427464) ... ep62で話しました。
 - Gガンダム
 - ラピュタ
-- カキクケコ
-- ぽむ爺
-- メンデレーエフ
-- 羊のショーン
-- アードマン
-- ニックパーク
+- [ドーラ一家　カキクケコ](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A9%BA%E3%81%AE%E5%9F%8E%E3%83%A9%E3%83%94%E3%83%A5%E3%82%BF#%E7%A9%BA%E4%B8%AD%E6%B5%B7%E8%B3%8A%E3%80%8C%E3%83%89%E3%83%BC%E3%83%A9%E4%B8%80%E5%AE%B6%E3%80%8D)
+- ポム爺 ... 泣ける。石の声がわかる謎の老人。細胞の声が聞けるようになりたい。
+- [メンデレーエフ](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%88%E3%83%AA%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AC%E3%83%BC%E3%82%A8%E3%83%95) ... メンデレーエフの逸話っぽいの元ネタがわかる人がいたらご連絡ください。
+- [羊のショーン](https://www.netflix.com/watch/70155567)
+- [アードマンアニメーションズ](https://www.aardman-jp.com/40th/)
+- [ニック・パーク](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AF)
 - もののけ姫
 - 安野光雅
 - 日曜喫茶
