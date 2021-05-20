@@ -51,7 +51,7 @@ title: 105. Filling the hole
 - 初音ミク ... ミク先生
 - [The toys that made us](https://www.netflix.com/watch/80161497) ... netlflixのホビーおじさん特集
 - [超電磁マシーン ボルテスV](https://ja.wikipedia.org/wiki/超電磁マシーン_ボルテスV)
-- [超電磁ロボ コン・バトラーV](超電磁ロボ コン・バトラーV)
+- [超電磁ロボ コン・バトラーV](https://ja.wikipedia.org/wiki/超電磁ロボ_コン・バトラーV)
 - [闘将ダイモス](https://ja.wikipedia.org/wiki/闘将ダイモス) ... 上記ロボットモノの３作品で「長浜ロマンロボシリーズ」
 - スパロボ ... スーパーロボット大戦、最近coelaは[スーパーロボット大戦V](https://srw-v.suparobo.jp)を始めました。VなのにVガンダムがいなかった・・・。
 - [シャーマンキング](https://www.amazon.co.jp/kindle-dbs/product/B09476TZCG/?tag=researchatf04-22) ... 最近アニメや続編なども盛り上がっているらしい。
