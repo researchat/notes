@@ -100,7 +100,7 @@ title: 105. Filling the hole
 - [拳闘暗黒伝セスタス ](https://www.amazon.co.jp/gp/product/B074CC7LZR/?tag=researchatf04-22)
 - [ベルセルク](https://www.amazon.co.jp/gp/product/B074C597F1/?tag=researchatf04-22)
 - [BASTARD!!](https://www.amazon.co.jp/gp/product/B0756XMWBZ/?tag=researchatf04-22)
-- 火の鳥
+- [火の鳥](https://www.amazon.co.jp/gp/product/B0756XMNQ5/?tag=researchatf04-22)
 - [ゲーミングお嬢様](https://www.amazon.co.jp/gp/product/B092CYH3B8/?tag=researchatf04-22) ... [佐子お嬢様登場](https://twitter.com/akikiwww/status/1389243657375551488?s=20)ですわ！
 - [ネオファウスト](https://www.amazon.co.jp/dp/B011BANWF2/?tag=researchatf04-22)
 - ゲーテ
@@ -111,4 +111,4 @@ title: 105. Filling the hole
 
 ## Editorial notes
 - なんだかおじいちゃんみたいに毎回同じ話ししてる気がする。これはもうダメなのでは？エヴァの話は全カットしました。(tadasu)
-- エヴァについてアツく（？）語っていたのに・・・。全然関係無いんですけどちょっと前からRustの勉強始めました。いいですねRust!(coela)
+- エヴァについてアツく（？）語っていたのに！。全然関係無いんですけど、ちょっと前からRustの勉強始めました。いいですねRust!(coela)
