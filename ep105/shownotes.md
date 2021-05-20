@@ -4,13 +4,13 @@ actor_ids:
   - coela
 audio_file_path: /audio/105.mp3
 audio_file_size: 92570419
-date: 2021-05-19 05:03:00 +0900
+date: 2021-05-20 20:45:00 +0900
 description: 特記すべきことはありません。
 duration: "01:56:23"
 layout: article
 tags:
   - 雑談
-title: 105. Filling the hole
+title: 105. Fill the hole
 ---
 
 ## Show notes
@@ -98,13 +98,13 @@ title: 105. Filling the hole
 - [ガラスの仮面](https://www.amazon.co.jp/gp/product/B07KXB2SX4/?tag=researchatf04-22)
 - [カムイ伝](https://www.amazon.co.jp/gp/product/B078RYGSP3/?tag=researchatf04-22)
 - [拳闘暗黒伝セスタス ](https://www.amazon.co.jp/gp/product/B074CC7LZR/?tag=researchatf04-22)
-- [ベルセルク](https://www.amazon.co.jp/gp/product/B074C597F1/?tag=researchatf04-22)
+- [ベルセルク](https://www.amazon.co.jp/gp/product/B074C597F1/?tag=researchatf04-22) ...  収録した時点で、まだニュースは出ていませんでした。三浦建太郎先生のご冥福を心からお祈りします。
 - [BASTARD!!](https://www.amazon.co.jp/gp/product/B0756XMWBZ/?tag=researchatf04-22)
 - [火の鳥](https://www.amazon.co.jp/gp/product/B0756XMNQ5/?tag=researchatf04-22)
 - [ゲーミングお嬢様](https://www.amazon.co.jp/gp/product/B092CYH3B8/?tag=researchatf04-22) ... [佐子お嬢様登場](https://twitter.com/akikiwww/status/1389243657375551488?s=20)ですわ！
 - [ネオファウスト](https://www.amazon.co.jp/dp/B011BANWF2/?tag=researchatf04-22)
-- ゲーテ
-- 三菱化学生命科学研究所(https://ja.wikipedia.org/wiki/三菱化学生命科学研究所)
+- [ゲーテ](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8F%E3%83%B3%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%95%E3%82%AC%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%86)
+- [三菱化学生命科学研究所](https://ja.wikipedia.org/wiki/三菱化学生命科学研究所)
 - [手塚治虫の論文](http://ginmu.naramed-u.ac.jp/dspace/handle/10564/1075)
 - [どろろ](https://www.amazon.co.jp/gp/product/B07571FPH9/?tag=researchatf04-22)
 - [七色いんこ](https://www.amazon.co.jp/gp/product/B0756ZJ28Y/?tag=researchatf04-22)
