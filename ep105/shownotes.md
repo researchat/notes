@@ -92,7 +92,7 @@ title: 105. Filling the hole
 - [豪傑が撮影したときど選手の写真](https://twitter.com/ohsuAK/status/886874854439370752) ... この写真が撮影されたから日本の格ゲーeSportsブームが始まったとすら言われる一枚。やはり代表する写真は非常に重要。DNAのワトソンクリックの写真もそれに当たるだろう。
 - [キノコ皮](https://www.nature.com/articles/s41893-020-00606-1.epdf)
 - [Wintergatan - Marble Machine (music instrument using 2000 marbles)](https://www.youtube.com/watch?v=IvUU8joBb1Q) ... 謎の楽器を弾く男
-- [新世紀エヴァンゲリオン](https://www.amazon.co.jp/dp/B00UGJULP4/?tag=researchatf04-22)
+- [新世紀エヴァンゲリオン(漫画)](https://www.amazon.co.jp/dp/B00UGJULP4/?tag=researchatf04-22)
 - [新世紀エヴァンゲリオン　ピコピコ中学生伝説](https://www.amazon.co.jp/gp/product/B074CDJHRR/?tag=researchatf04-22) ... エヴァの本質を突いている気がするギャグ漫画。
 - タイムマシン ... タイムマシンじゃなくてタイムカプセル
 - [ガラスの仮面](https://www.amazon.co.jp/gp/product/B07KXB2SX4/?tag=researchatf04-22)
