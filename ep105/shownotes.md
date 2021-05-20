@@ -36,7 +36,7 @@ title: 105. Filling the hole
 - [竹内力](https://ja.wikipedia.org/wiki/%E7%AB%B9%E5%86%85%E5%8A%9B)
 - [剣道8段](https://www.kendo.or.jp/examination/kendo-8dan/) ... 2021年5月の8段審査は合格率0.4%という、旧司法試験もびっくりの合格率。通称ハンター試験。
 - [北野武](https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%BC%E3%83%88%E3%81%9F%E3%81%91%E3%81%97)
-- [ウマ娘](https://umamusume.jp/)
+- [ウマ娘](https://umamusume.jp/) ... キングヘイローとクラシック三冠を達成すべく頑張ってます。
 - [Fate](https://www.fate-go.jp/)
 - [はたらく細胞](https://www.amazon.co.jp/dp/B012EODH18/?tag=researchatf04-22)
 - [もやしもん](https://www.amazon.co.jp/dp/B06XPC1KLW/?tag=researchatf04-22)
