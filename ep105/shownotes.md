@@ -50,24 +50,25 @@ title: 105. Filling the hole
 - [シンカリオン](https://www.shinkalion.com/)
 - 初音ミク ... ミク先生
 - [The toys that made us](https://www.netflix.com/watch/80161497) ... netlflixのホビーおじさん特集
-- ボルテスV
-- スパロボ
-- シャーマンキング
+- 超電磁マシーン ボルテスV
+- 超電磁ロボ コン・バトラーV
+- 闘将ダイモス ... 上記ロボットモノの３作品で「長浜ロマンロボシリーズ」
+- スパロボ ... スーパーロボット大戦、最近coelaは[スーパーロボット大戦V](https://srw-v.suparobo.jp)を始めました。VなのにVガンダムがいなかった・・・。
+- [シャーマンキング](https://www.amazon.co.jp/kindle-dbs/product/B09476TZCG/?tag=researchatf04-22) ... 最近アニメや続編なども盛り上がっているらしい。
 - オーバーソウル
-- パシフィック・リム
-- ファイブスターストーリーズ
-- ダンバイン
-- 閃光のハサウェイ
-- 鋼鉄ジーグ
-- 勇者ライディーン
-- ワタル
-- トップを狙え
+- [パシフィック・リム](http://www.pacificrimmovie.com)
+- [ファイブスター物語](https://automaticflowers.ne.jp/fss/) ... 収録中には「ふぁいぶすたーものがたり」と言ってしまっていますが正式な読み方は「ファイブスターストーリーズ」です。
+- [聖戦士ダンバイン](http://www.dunbine.net) ... 異世界転生ものですよね
+- [閃光のハサウェイ](http://gundam-hathaway.net) ... 今年映画公開予定！
+- [鋼鉄ジーグ](https://ja.wikipedia.org/wiki/鋼鉄ジーグ) 
+- [勇者ライディーン](https://bandai-ch.flat-flat.jp/bdc/ProductDetail.jsp?ttlmmm_c=2670)
+- [魔神英雄伝ワタル](http://www.mashin-eiyuuden-wataru.net/wataru1/)
+- [トップをねらえ！](https://ja.wikipedia.org/wiki/トップをねらえ!)
 - [GONIN](https://www.amazon.co.jp/dp/B00FWGZO4E/?tag=researchatf04-22) ... 音楽最高。
-- 2199
-- 宇宙戦艦ヤマト
+- [宇宙戦艦ヤマト2199](http://yamato2199.net) ... 宇宙戦艦ヤマトのリメイク作品
 - [もののけ姫](https://www.ghibli.jp/works/mononoke/)
 - [コダマの落書き](https://twitter.com/researchat_fm/status/1275887145505427464) ... ep62で話しました。
-- Gガンダム
+- [機動武闘伝Gガンダム](http://www.g-gundam.net)
 - [天空の城ラピュタ](https://www.ghibli.jp/works/laputa/)
 - [ドーラ一家　カキクケコ](https://ja.wikipedia.org/wiki/%E5%A4%A9%E7%A9%BA%E3%81%AE%E5%9F%8E%E3%83%A9%E3%83%94%E3%83%A5%E3%82%BF#%E7%A9%BA%E4%B8%AD%E6%B5%B7%E8%B3%8A%E3%80%8C%E3%83%89%E3%83%BC%E3%83%A9%E4%B8%80%E5%AE%B6%E3%80%8D)
 - ポム爺 ... 泣ける。石の声がわかる謎の老人。細胞の声が聞けるようになりたい。
@@ -91,18 +92,23 @@ title: 105. Filling the hole
 - [豪傑が撮影したときど選手の写真](https://twitter.com/ohsuAK/status/886874854439370752) ... この写真が撮影されたから日本の格ゲーeSportsブームが始まったとすら言われる一枚。やはり代表する写真は非常に重要。DNAのワトソンクリックの写真もそれに当たるだろう。
 - [キノコ皮](https://www.nature.com/articles/s41893-020-00606-1.epdf)
 - [Wintergatan - Marble Machine (music instrument using 2000 marbles)](https://www.youtube.com/watch?v=IvUU8joBb1Q) ... 謎の楽器を弾く男
-- エヴァの漫画
+- [新世紀エヴァンゲリオン](https://www.amazon.co.jp/dp/B00UGJULP4/?tag=researchatf04-22)
+- [新世紀エヴァンゲリオン　ピコピコ中学生伝説](https://www.amazon.co.jp/gp/product/B074CDJHRR/?tag=researchatf04-22) ... エヴァの本質を突いている気がするギャグ漫画。
 - タイムマシン ... タイムマシンじゃなくてタイムカプセル
-- ガラスの仮面
-- カムイ伝
+- [ガラスの仮面](https://www.amazon.co.jp/gp/product/B07KXB2SX4/?tag=researchatf04-22)
+- [カムイ伝](https://www.amazon.co.jp/gp/product/B078RYGSP3/?tag=researchatf04-22)
+- [拳闘暗黒伝セスタス ](https://www.amazon.co.jp/gp/product/B074CC7LZR/?tag=researchatf04-22)
+- [ベルセルク](https://www.amazon.co.jp/gp/product/B074C597F1/?tag=researchatf04-22)
+- [BASTARD!!](https://www.amazon.co.jp/gp/product/B0756XMWBZ/?tag=researchatf04-22)
 - 火の鳥
-- 格ゲーお嬢様
-- ネオファウスト
+- [ゲーミングお嬢様](https://www.amazon.co.jp/gp/product/B092CYH3B8/?tag=researchatf04-22) ... [佐子お嬢様登場](https://twitter.com/akikiwww/status/1389243657375551488?s=20)ですわ！
+- [ネオファウスト](https://www.amazon.co.jp/dp/B011BANWF2/?tag=researchatf04-22)
 - ゲーテ
-- 三菱生命研
-- 手塚治虫のD論
-- どろろ
-- 七色いんこ
+- 三菱化学生命科学研究所(https://ja.wikipedia.org/wiki/三菱化学生命科学研究所)
+- [手塚治虫の論文](http://ginmu.naramed-u.ac.jp/dspace/handle/10564/1075)
+- [どろろ](https://www.amazon.co.jp/gp/product/B07571FPH9/?tag=researchatf04-22)
+- [七色いんこ](https://www.amazon.co.jp/gp/product/B0756ZJ28Y/?tag=researchatf04-22)
 
 ## Editorial notes
 - なんだかおじいちゃんみたいに毎回同じ話ししてる気がする。これはもうダメなのでは？エヴァの話は全カットしました。(tadasu)
+- エヴァについてアツく（？）語っていたのに・・・。全然関係無いんですけどちょっと前からRustの勉強始めました。いいですねRust!(coela)
