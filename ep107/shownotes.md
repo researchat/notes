@@ -100,8 +100,8 @@ title: 107. kineto(chores|plastids)
 - tabasher
 - 伊藤徳太郎、南方熊楠
 
-#Editorial notes
-- (soh)
+# Editorial notes
+- 次のシリーズにも期待したいです (soh)
 - (tadasu)
 - (coela)
 
