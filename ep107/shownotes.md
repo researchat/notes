@@ -60,7 +60,7 @@ title: 107. kineto(chores|plastids)
 - [キネトプラスト類(kinetoplastids)](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8D%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88%E9%A1%9E)
 - RNA editing in trypanosoma
 - gRNA
-- Trypanosoma genome
+- [Berriman et al., Science (2005)](https://pubmed.ncbi.nlm.nih.gov/16020726/)...The genome of the African trypanosome Trypanosoma brucei
 - [中心体](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E4%BD%93)
 - [微小管](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%B0%8F%E7%AE%A1)
 - [ホモログ](https://www.jst.go.jp/pr/announce/20070529/yougo.html)
@@ -93,6 +93,8 @@ title: 107. kineto(chores|plastids)
 - [精製した動原体を用いた動原体とスピンドル微小管との結合の再構成](http://first.lifesciencedb.jp/archives/1673) ... 新着論文レビュー。秋吉さんの博士時代の論文解説
 - [トリパノソーマのもつ型破りな動原体タンパク質の発見](http://first.lifesciencedb.jp/archives/8467) ... 新着論文レビュー。トリパノソーマのキネトコア論文の日本語解説
 - [Sue Biggins](https://www.fredhutch.org/en/faculty-lab-directory/biggins-sue.html)
+- [Sue Biggins先生のインタビュー](https://www.fredhutch.org/en/news/center-news/2015/05/sue-biggins-named-hhmi-investigator.html)
+- [Sue Biggins先生のiBiology](https://www.youtube.com/watch?v=xtqUu8DGQko)
 - [ドブジャンスキー](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AA%E3%83%89%E3%82%B7%E3%82%A6%E3%82%B9%E3%83%BB%E3%83%89%E3%83%96%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC)
 - [高井研](https://ja.wikipedia.org/wiki/%E9%AB%98%E4%BA%95%E7%A0%94)
 - [44. Tabasheer (researchat.fm)](https://researchat.fm/episode/44) ... 伊藤篤太郎、南方熊楠を含む、1800年代後半、Natureに投稿した日本人研究者について話しました。
