@@ -88,6 +88,7 @@ title: 107. kineto(chores|plastids)
 - funabiki GFP
 - 10周年ツイート
 - [KKT1 uniprot](https://www.uniprot.org/uniprot/A0A3L6KZG8)
+- [](https://www.nature.com/articles/nature09594) ... Tension directly stabilizes reconstituted kinetochore-microtubule attachments
 - [精製した動原体を用いた動原体とスピンドル微小管との結合の再構成](http://first.lifesciencedb.jp/archives/1673) ... 新着論文レビュー。秋吉さんの博士時代の論文解説
 - [トリパノソーマのもつ型破りな動原体タンパク質の発見](http://first.lifesciencedb.jp/archives/8467) ... 新着論文レビュー。トリパノソーマのキネトコア論文の日本語解説
 - [Sue Biggins](https://www.fredhutch.org/en/faculty-lab-directory/biggins-sue.html)
