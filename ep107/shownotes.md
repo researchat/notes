@@ -35,7 +35,7 @@ title: 107. kineto(chores|plastids)
 - [2倍体](https://kotobank.jp/word/%E4%BA%8C%E5%80%8D%E4%BD%93-592567)
 - [相同組換え](https://ja.wikipedia.org/wiki/%E7%9B%B8%E5%90%8C%E7%B5%84%E6%8F%9B%E3%81%88)
 - [相同染色体](https://kotobank.jp/word/%E7%9B%B8%E5%90%8C%E6%9F%93%E8%89%B2%E4%BD%93-89611)
-- [姉妹染色体](https://ja.wikipedia.org/wiki/%E5%A7%89%E5%A6%B9%E6%9F%93%E8%89%B2%E5%88%86%E4%BD%93) ... siter chromatids
+- [姉妹染色体](https://ja.wikipedia.org/wiki/%E5%A7%89%E5%A6%B9%E6%9F%93%E8%89%B2%E5%88%86%E4%BD%93) ... sister chromatids
 - [コヒーシン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%92%E3%83%BC%E3%82%B7%E3%83%B3)
 - [シナプトネマコンプレックス](https://en.wikipedia.org/wiki/Synaptonemal_complex)
 - double strand break ... DNAの二本鎖が切断されること
