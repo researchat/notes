@@ -103,7 +103,7 @@ title: 107. kineto(chores|plastids)
 # Editorial notes
 - 次のシリーズにも期待したいです (soh)
 - (tadasu)
-- (coela)
+- キネトコアって名前かっこいい(coela)
 
 
 
