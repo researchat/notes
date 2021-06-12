@@ -47,24 +47,22 @@ title: 107. kineto(chores|plastids)
 - カイコ　オスメス？
 - ハエ
 - spo11発現の論文
-- ZW
-- XY
-- ep48
+- [48. XXXXXYYYYY (researchat.fm)](https://researchat.fm/episode/48) ... 性の多様性について。XYやZW型についても解説しています。
 - mitosis from meiosis
-- 水素仮説
-- William F Martin
-- Muller’s rachet
-- horizontal gene transfer
-- 眠り病
-- ツェツェバエ
-- キネトプラスト
-- kinetoplastids
+- [水素仮説](https://en.wikipedia.org/wiki/Hydrogen_hypothesis)
+- [William F Martin](https://en.wikipedia.org/wiki/William_F._Martin)
+- [Muller’s rachet](https://en.wikipedia.org/wiki/Muller%27s_ratchet)
+- [水平伝播(horizontal gene transfer)](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%81%AE%E6%B0%B4%E5%B9%B3%E4%BC%9D%E6%92%AD)
+- [アフリカ睡眠病](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E7%9D%A1%E7%9C%A0%E7%97%85)
+- [ナガナ病](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%AC%E3%83%8A%E7%97%85)
+- [ツェツェバエ](https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%84%E3%82%A7%E3%83%90%E3%82%A8)
+- [キネトプラスト](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8D%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88)
+- [キネトプラスト類(kinetoplastids)](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8D%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88%E9%A1%9E)
 - RNA editing in trypanosoma
-- trypanosoma
 - gRNA
 - Trypanosoma genome
-- 中心体
-- 微小管
+- [中心体](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E4%BD%93)
+- [微小管](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%B0%8F%E7%AE%A1)
 - vessel body
 - ホモログ
 - trypanosoma meiosis
@@ -73,8 +71,8 @@ title: 107. kineto(chores|plastids)
 - PiCh
 - cavalier-smith
 - LECA
-- システム生物学
-- 収斂進化
+- [システム生物学](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%9F%E7%89%A9%E5%AD%A6)
+- [収斂進化](https://ja.wikipedia.org/wiki/%E5%8F%8E%E6%96%82%E9%80%B2%E5%8C%96)
 - CENP-A
 - dinoflagellate… うずべんもうそう
 - アクシズ
@@ -83,7 +81,8 @@ title: 107. kineto(chores|plastids)
 - ヒドロキシルメチルウラシル
 - steve henikoffのCENP-A … 2008
 - ファインマン
-- デーモンコアが暖かかった
+- [デーモンコア](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B3%E3%82%A2)
+- プルトニウムは温かい
 - 作れたものしか理解できない
 - 合成生物学
 - EMBO fellowshipの話
@@ -92,12 +91,11 @@ title: 107. kineto(chores|plastids)
 - KKT1 uniprot
 - akiyoshi first author
 - akiyoshi first author
-- Sue Biggins
+- [Sue Biggins](https://www.fredhutch.org/en/faculty-lab-directory/biggins-sue.html)
 - iBiology Sue Biggins
-- ドブジャンスキー
-- 高井研
-- tabasher
-- 伊藤徳太郎、南方熊楠
+- [ドブジャンスキー](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AA%E3%83%89%E3%82%B7%E3%82%A6%E3%82%B9%E3%83%BB%E3%83%89%E3%83%96%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC)
+- [高井研](https://ja.wikipedia.org/wiki/%E9%AB%98%E4%BA%95%E7%A0%94)
+- [44. Tabasheer (researchat.fm)](https://researchat.fm/episode/44) ... 伊藤篤太郎、南方熊楠を含む、1800年代後半、Natureに投稿した日本人研究者について話しました。
 
 # Editorial notes
 - 次のシリーズにも期待したいです (soh)
