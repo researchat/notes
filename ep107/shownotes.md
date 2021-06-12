@@ -88,7 +88,7 @@ title: 107. kineto(chores|plastids)
 - funabiki GFP
 - 10周年ツイート
 - [KKT1 uniprot](https://www.uniprot.org/uniprot/A0A3L6KZG8)
-- [Akiyoshi et al., Gene Dev (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800092/) ... Quantitative proteomic analysis of purified yeast kinetochores identifies a PP1 regulatory subunit
+- [Akiyoshi et al., Genes Dev. (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800092/) ... Quantitative proteomic analysis of purified yeast kinetochores identifies a PP1 regulatory subunit
 - [Akiyoshi et al., Nature (2010)](https://www.nature.com/articles/nature09594) ... Tension directly stabilizes reconstituted kinetochore-microtubule attachments
 - [精製した動原体を用いた動原体とスピンドル微小管との結合の再構成](http://first.lifesciencedb.jp/archives/1673) ... 新着論文レビュー。秋吉さんの博士時代の論文解説
 - [トリパノソーマのもつ型破りな動原体タンパク質の発見](http://first.lifesciencedb.jp/archives/8467) ... 新着論文レビュー。トリパノソーマのキネトコア論文の日本語解説
