@@ -83,7 +83,7 @@
 ##Editorial notes
 -(soh)
 -(tadasu)
--(coela)
+- 軽いジャブのつもりが一本撮れました(coela)
 
 
 
