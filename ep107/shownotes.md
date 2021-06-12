@@ -63,32 +63,31 @@ title: 107. kineto(chores|plastids)
 - Trypanosoma genome
 - [中心体](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E4%BD%93)
 - [微小管](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%B0%8F%E7%AE%A1)
-- vessel body
-- ホモログ
+- [ホモログ](https://www.jst.go.jp/pr/announce/20070529/yougo.html)
 - trypanosoma meiosis
 - 減数分裂しないtrypanosoma
 - kinetochore EM
 - PiCh
-- cavalier-smith
+- [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith)
 - LECA
 - [システム生物学](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%9F%E7%89%A9%E5%AD%A6)
 - [収斂進化](https://ja.wikipedia.org/wiki/%E5%8F%8E%E6%96%82%E9%80%B2%E5%8C%96)
 - CENP-A
-- dinoflagellate… うずべんもうそう
+- [Dinoflagellate](https://en.wikipedia.org/wiki/Dinoflagellate)… 渦鞭毛藻
 - アクシズ
-- dinokaryon
-- だんかつまの無脊椎動物の発生
-- ヒドロキシルメチルウラシル
+- [Dinokaryon](https://en.wikipedia.org/wiki/Dinokaryon)
+- [無脊椎動物の発生](https://www.amazon.co.jp/dp/4563038083) ... 団勝磨先生ら著
+- [ヒドロキシルメチルウラシル](https://kotobank.jp/word/5-%28%E3%83%92%E3%83%89%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%A1%E3%83%81%E3%83%AB%29%E3%82%A6%E3%83%A9%E3%82%B7%E3%83%AB-2127122)
 - steve henikoffのCENP-A … 2008
-- ファインマン
+- [ファインマン](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%83%BBP%E3%83%BB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%B3)
 - [デーモンコア](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3%E3%83%BB%E3%82%B3%E3%82%A2)
 - プルトニウムは温かい
-- 作れたものしか理解できない
-- 合成生物学
+- What I cannot create, I do not understand.(自分で作れないものは、理解していない。)
+- [Synthetic biology](https://en.wikipedia.org/wiki/Synthetic_biology) ... 合成生物学
 - EMBO fellowshipの話
 - funabiki GFP
 - 10周年ツイート
-- KKT1 uniprot
+- [KKT1 uniprot](https://www.uniprot.org/uniprot/A0A3L6KZG8)
 - akiyoshi first author
 - akiyoshi first author
 - [Sue Biggins](https://www.fredhutch.org/en/faculty-lab-directory/biggins-sue.html)
