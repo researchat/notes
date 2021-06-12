@@ -24,7 +24,7 @@ title: 107. kineto(chores|plastids)
 - [Misleading Chat](https://misreading.chat/)
 - [7. In the golden age of molecular biology (researchat.fm)](https://researchat.fm/episode/7) ... シドニー・ブレナー回
 - [41. Single is not bad (researchat.fm)](https://researchat.fm/episode/41)
-- akiyoshist ... Akiyoshiさんファンの呼称
+- Akiyoshist ... Akiyoshiさんファンの呼称
 - [Akiyoshi Lab](https://bungoakiyoshi.com/)
 - [Bungo Akiyoshi](https://www.bioch.ox.ac.uk/research/akiyoshi)
 - [ハルキスト](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%82%AD%E3%82%B9%E3%83%88)
@@ -88,17 +88,16 @@ title: 107. kineto(chores|plastids)
 - funabiki GFP
 - 10周年ツイート
 - [KKT1 uniprot](https://www.uniprot.org/uniprot/A0A3L6KZG8)
-- akiyoshi first author
-- akiyoshi first author
+- [精製した動原体を用いた動原体とスピンドル微小管との結合の再構成](http://first.lifesciencedb.jp/archives/1673) ... 新着論文レビュー。秋吉さんの博士時代の論文解説
+- [トリパノソーマのもつ型破りな動原体タンパク質の発見](http://first.lifesciencedb.jp/archives/8467) ... 新着論文レビュー。トリパノソーマのキネトコア論文の日本語解説
 - [Sue Biggins](https://www.fredhutch.org/en/faculty-lab-directory/biggins-sue.html)
-- iBiology Sue Biggins
 - [ドブジャンスキー](https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%AA%E3%83%89%E3%82%B7%E3%82%A6%E3%82%B9%E3%83%BB%E3%83%89%E3%83%96%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC)
 - [高井研](https://ja.wikipedia.org/wiki/%E9%AB%98%E4%BA%95%E7%A0%94)
 - [44. Tabasheer (researchat.fm)](https://researchat.fm/episode/44) ... 伊藤篤太郎、南方熊楠を含む、1800年代後半、Natureに投稿した日本人研究者について話しました。
 
 # Editorial notes
 - 次のシリーズにも期待したいです (soh)
-- (tadasu)
+- 話し始めで構想からはずれてしまったため、アワアワしてしまいました。色々とっちらかってすいませんでした。次回チャンスがあればもう少しまとめられるようがんばります。(tadasu)
 - キネトコアって名前かっこいい(coela)
 
 
