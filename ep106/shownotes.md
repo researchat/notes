@@ -9,7 +9,7 @@
 - [冥王代](https://ja.wikipedia.org/wiki/冥王代)
 - [冥王代生物学の創生](https://www.hadean.jp)
 - SDGs ... Sustainable Development Goalsの略。日本語だと持続可能な開発目標。[関連する外務省のページ](https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/index.html)
-- [シンギュラリティ](https://ja.wikipedia.org/wiki/技術的特異点) ... 人工知能すごいことになるアレ。日本語だと技術的特異点、かっこいい。
+- [シンギュラリティ](https://ja.wikipedia.org/wiki/技術的特異点) ... 人工知能がすごいことになるアレ。日本語だと技術的特異点、かっこいい。
 - [テンセグリティ](https://ja.wikipedia.org/wiki/テンセグリティ)
 - [ムーンショット型研究開発制度](https://www8.cao.go.jp/cstp/moonshot/index.html)
 - ケンタロスアルファショット ... 月よりも遠いどこか
@@ -45,13 +45,13 @@
 - [島耕作](https://www.amazon.co.jp/gp/product/B0756ZYJ1V)
 - [騎士団長 島耕作](https://www.amazon.co.jp/gp/product/B091376QX8)
 - [騎士団長殺し](https://www.amazon.co.jp/dp/B08N5QX9TS/)
-- アカギ
-- 銀と金
+- [アカギ－闇に降り立った天才](https://www.amazon.co.jp/gp/product/B074CG99LH)
+- [銀と金](https://www.amazon.co.jp/gp/product/B074BSF6H1)
 - ヒーロー
-- おーるらうんだーめぐる
-- ホーリーランド
-- ヒカルの碁
-- 六三四の剣
+- [オールラウンダー廻](https://www.amazon.co.jp/gp/product/B074CFDDCV)
+- [ホーリーランド](https://www.amazon.co.jp/gp/product/B074CH9X3V)
+- [ヒカルの碁](https://www.amazon.co.jp/gp/product/B074CK3KFX)
+- [六三四の剣]（https://www.amazon.co.jp/gp/product/B074BGRD5B）
 - おれは鉄平
 - ジョー
 - カムイ伝
