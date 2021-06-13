@@ -64,8 +64,8 @@ title: 107. kineto(chores|plastids)
 - [微小管](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%B0%8F%E7%AE%A1)
 - [ホモログ](https://www.jst.go.jp/pr/announce/20070529/yougo.html)
 - [Ogbadoyi et al., Chromosoma (2000)](https://pubmed.ncbi.nlm.nih.gov/10794572/) ... "Architecture of the Trypanosoma brucei nucleus during interphase and mitosis": Trypanosomaのキネトコア様構造を電子顕微鏡で観察した論文
-- trypanosoma meiosis
-- 減数分裂しないtrypanosoma
+- [Peacock et al., Communications Biology (2021)](https://www.nature.com/articles/s42003-021-02058-5) ... "Sequential production of gametes during meiosis in trypanosomes": trypanosomaのmeiosisについて
+- [Weir et al., eLife (2021)](https://elifesciences.org/articles/11473) ... "Population genomics reveals the origin and asexual evolution of human infective trypanosomes": 減数分裂しないTrypanosoma brucei gambienseについて
 - [Déjardin and Kingston. Cell (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395431/) ... "Purification of Proteins Associated with Specific Genomic Loci": PICh法の論文
 - [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith)
 - [LECA](https://en.wikipedia.org/wiki/Eukaryote#Origin_of_eukaryotes) ... The last eukaryotic common ancestor
