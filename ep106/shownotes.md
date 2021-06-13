@@ -26,6 +26,7 @@
 - るろうに剣心(https://www.amazon.co.jp/gp/product/B0756ZTD3W) ... 続編の[北海道編](https://www.amazon.co.jp/gp/product/B07PFG1GDW)がジャンプSQで連載中！
 - 1/3の純情な感情 ... SIAM SHADEによる、るろうに剣心のエンディングテーマ
 - [シティハンター](https://www.amazon.co.jp/gp/product/B074C4HLM1)
+- 冴羽獠 ... シティハンターの主人公
 - [キッズステーション](https://www.kids-station.com)
 - Get wild ... TM NETWORKによるシティハンターのエンディングテーマ 
 - 海藤優 ... 幽遊白書の登場キャラクター。読みは「かいとうゆう」。
