@@ -83,9 +83,7 @@ title: 107. kineto(chores|plastids)
 - プルトニウムは温かい
 - What I cannot create, I do not understand. ... 自分で作れないものは、理解していない。
 - [Synthetic biology](https://en.wikipedia.org/wiki/Synthetic_biology) ... 合成生物学
-- EMBO fellowshipの話
-- funabiki GFP
-- 10周年ツイート
+- [ツイート1](https://twitter.com/BungoAkiyoshi/status/1094336407840178178) ... EMBO, HSFP, Wellcome Trustによるサポート
 - [KKT1 uniprot](https://www.uniprot.org/uniprot/A0A3L6KZG8)
 - [Akiyoshi et al., Genes Dev. (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800092/) ... Quantitative proteomic analysis of purified yeast kinetochores identifies a PP1 regulatory subunit
 - [Akiyoshi et al., Nature (2010)](https://www.nature.com/articles/nature09594) ... Tension directly stabilizes reconstituted kinetochore-microtubule attachments
