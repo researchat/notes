@@ -49,6 +49,7 @@ title: 107. kineto(chores|plastids)
 - spo11発現の論文
 - [48. XXXXXYYYYY (researchat.fm)](https://researchat.fm/episode/48) ... 性の多様性について。XYやZW型についても解説しています。
 - mitosis from meiosis
+- [Garg and Martin. Genome Biol. Evol. (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5390555/) ... "Mitochondria, the Cell Cycle, and the Origin of Sex via a Syncytial Eukaryote Common Ancestor": mitosisとmeiosisの進化について
 - [水素仮説](https://en.wikipedia.org/wiki/Hydrogen_hypothesis)
 - [William F Martin](https://en.wikipedia.org/wiki/William_F._Martin)
 - [Muller’s rachet](https://en.wikipedia.org/wiki/Muller%27s_ratchet)
@@ -58,23 +59,21 @@ title: 107. kineto(chores|plastids)
 - [ツェツェバエ](https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%84%E3%82%A7%E3%83%90%E3%82%A8)
 - [キネトプラスト](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8D%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88)
 - [キネトプラスト類(kinetoplastids)](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%8D%E3%83%88%E3%83%97%E3%83%A9%E3%82%B9%E3%83%88%E9%A1%9E)
-- RNA editing in trypanosoma
-- gRNA
+- [Benne et al., Cell (1986)](https://pubmed.ncbi.nlm.nih.gov/3019552/) ... " Major transcript of the frameshifted coxII gene from trypanosome mitochondria contains four nucleotides that are not encoded in the DNA": RNA editing in Trypanosoma
 - [Berriman et al., Science (2005)](https://pubmed.ncbi.nlm.nih.gov/16020726/)...The genome of the African trypanosome Trypanosoma brucei
 - [中心体](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E4%BD%93)
 - [微小管](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%B0%8F%E7%AE%A1)
 - [ホモログ](https://www.jst.go.jp/pr/announce/20070529/yougo.html)
+- [Ogbadoyi et al., Chromosoma (2000)](https://pubmed.ncbi.nlm.nih.gov/10794572/) ... "Architecture of the Trypanosoma brucei nucleus during interphase and mitosis": Trypanosomaのキネトコア様構造を電子顕微鏡で観察した論文
 - trypanosoma meiosis
 - 減数分裂しないtrypanosoma
-- kinetochore EM
-- PiCh
+- [Déjardin and Kingston. Cell (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3395431/) ... "Purification of Proteins Associated with Specific Genomic Loci": PICh法の論文
 - [Thomas Cavalier-Smith](https://en.wikipedia.org/wiki/Thomas_Cavalier-Smith)
-- LECA
+- [LECA](https://en.wikipedia.org/wiki/Eukaryote#Origin_of_eukaryotes) ... The last eukaryotic common ancestor
 - [システム生物学](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%9F%E7%89%A9%E5%AD%A6)
 - [収斂進化](https://ja.wikipedia.org/wiki/%E5%8F%8E%E6%96%82%E9%80%B2%E5%8C%96)
 - [CENP-A](https://en.wikipedia.org/wiki/CENPA)
 - [Dinoflagellate](https://en.wikipedia.org/wiki/Dinoflagellate)… 渦鞭毛藻
-- アクシズ
 - [Dinokaryon](https://en.wikipedia.org/wiki/Dinokaryon)
 - [無脊椎動物の発生](https://www.amazon.co.jp/dp/4563038083) ... 団勝磨先生ら著
 - [ヒドロキシルメチルウラシル](https://kotobank.jp/word/5-%28%E3%83%92%E3%83%89%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%A1%E3%83%81%E3%83%AB%29%E3%82%A6%E3%83%A9%E3%82%B7%E3%83%AB-2127122)
