@@ -44,11 +44,10 @@ title: 107. kineto(chores|plastids)
 - [Cas9](https://en.wikipedia.org/wiki/Cas9)
 - [DNAトポイソメラーゼ](https://ja.wikipedia.org/wiki/DNA%E3%83%88%E3%83%9D%E3%82%A4%E3%82%BD%E3%83%A1%E3%83%A9%E3%83%BC%E3%82%BC)
 - [キアズマ](https://kotobank.jp/word/%E3%82%AD%E3%82%A2%E3%82%BA%E3%83%9E-49815) ... chiasma。chiasmaがない減数分裂のことをachiasmaと呼ぶ。
-- カイコ　オスメス？
-- ハエ
-- spo11発現の論文
+- [Rasmussen.  Philos Trans R Soc Lond B Biol Sci. (1977)](https://pubmed.ncbi.nlm.nih.gov/16295/) ... "Meiosis in Bombyx mori females": カイコのメスで見られるachiasmata
+- [John et al., Front Cell Dev Biol. (2016)](https://www.frontiersin.org/articles/10.3389/fcell.2016.00075/full) ... "Achiasmy: Male Fruit Flies Are Not Ready to Mix": ハエのオスにおけるachiasmataに関する総説
+- [Xia et al., Genome Biology(2007)](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2007-8-8-r162) ... カイコの性細胞におけるspo11発現の論文(Additional Data 5)
 - [48. XXXXXYYYYY (researchat.fm)](https://researchat.fm/episode/48) ... 性の多様性について。XYやZW型についても解説しています。
-- mitosis from meiosis
 - [Garg and Martin. Genome Biol. Evol. (2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5390555/) ... "Mitochondria, the Cell Cycle, and the Origin of Sex via a Syncytial Eukaryote Common Ancestor": mitosisとmeiosisの進化について
 - [水素仮説](https://en.wikipedia.org/wiki/Hydrogen_hypothesis)
 - [William F Martin](https://en.wikipedia.org/wiki/William_F._Martin)
