@@ -4,15 +4,15 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/107.mp3
-audio_file_size: 97436219
-date: 2021-06-21 22:50:00 +0900
+audio_file_size: 97634403
+date: 2021-06-14 22:50:00 +0900
 description: トリパノソーマのキネトコアについて話しました。
-duration: "01:24:15"
+duration: "01:24:10"
 layout: article
 tags: 
   - 論文
   - 染色体シリーズ
-title: 107. kineto(chores|plastids)
+title: 107. Kineto(chores|plastids)
 
 ---
 
