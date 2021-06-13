@@ -1,9 +1,9 @@
 
 - Metaphysical podcast
 
-- 碇ゲンドウ
-- 冬月
-- 形而上生物学研究室
+- 碇ゲンドウ ... 新世紀エヴァンゲリオンの登場人物。特務機関NERV最高司令官。主人公のお父さん。
+- 冬月コウゾウ ... 新世紀エヴァンゲリオンの登場人物。特務機関NERV副司令官。
+- 形而上生物学第1研究室 ... 冬月の大学時代のラボ
 - 白眉
 - [新学術領域研究](https://www.jsps.go.jp/j-grantsinaid/34_new_scientific/index.html)
 - [冥王代](https://ja.wikipedia.org/wiki/冥王代)
@@ -20,7 +20,7 @@
 - [文字禍](https://www.amazon.co.jp/dp/B009IXHLYI)
 - 薄っぺらな嘘 ... 「ドッキリテクスチャー」とルビが振られる。[HUNTER X HUNTER](https://www.amazon.co.jp/gp/product/B074BZ2354)に登場するヒソカの能力。
 - [冨樫義博](https://ja.wikipedia.org/wiki/冨樫義博)
-- 荒木飛呂彦CELl
+- 荒木飛呂彦先生が表紙を飾ったCELL
 - [荒巻大輔](https://ja.wikipedia.org/wiki/荒巻大輔) ... 攻殻機動隊に登場する内務省公安9課の部長
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/攻殻機動隊)
 - るろうに剣心(https://www.amazon.co.jp/gp/product/B0756ZTD3W) ... 続編の[北海道編](https://www.amazon.co.jp/gp/product/B07PFG1GDW)がジャンプSQで連載中！
@@ -57,31 +57,32 @@
 - [カムイ伝](https://www.amazon.co.jp/gp/product/B078RYGSP3)
 - サスケ
 - ワタリ
-- 忍者武芸帖
-- ブラックジャック
-- ブッダ
-- 火の鳥
-- 医龍
-- 愛と幻想のファシズム
-- ああ播磨灘
+- [忍者武芸帖](https://www.amazon.co.jp/gp/product/B079VSTLBY)
+- [ブラック・ジャック](https://www.amazon.co.jp/gp/product/B0831SZ5P2)
+- [ブッダ](https://www.amazon.co.jp/gp/product/B0756ZH37F)
+- [火の鳥](https://www.amazon.co.jp/gp/product/B0756XMNQ5)
+- [医龍](https://www.amazon.co.jp/gp/product/B074CHKXS8)
+- [愛と幻想のファシズム](https://www.amazon.co.jp/dp/4061847392)
+- [ああ播磨灘](https://www.amazon.co.jp/gp/product/B074CJWP6V)
 - 大谷翔平
 - ベーブルース
 - メッシ
 - カリー
-- ワンナウツ
-- ルーキーズ
-- スラムダンク
-- duolingo
-- 竜馬がゆく
+- [ONE OUTS](https://www.amazon.co.jp/gp/product/B0756XZ31F)
+- [ROOKIES](https://www.amazon.co.jp/gp/product/B074CKJBG3)
+- [SLAM DUNK](https://www.amazon.co.jp/dp/4088716116)
+- [duolingo](https://ja.duolingo.com)
+- [竜馬がゆく](https://www.amazon.co.jp/dp/B00D3CBFC4/)
 - シーザー
-- めせるそん
-- トニースターク
-- イーロンマスク
-- ペレリマン
+- [マシュー・メセルソン](https://ja.wikipedia.org/wiki/マシュー・メセルソン) 
+- トニー・スターク ... [アイアンマン](https://www.amazon.co.jp/dp/B00G8AAXOE)の中の人
+- [イーロン・マスク](https://ja.wikipedia.org/wiki/イーロン・マスク)
+- [グリゴリー・ペレルマン](https://ja.wikipedia.org/wiki/グリゴリー・ペレルマン)
 - h-index
 - nature of metaphisical biology
-- すべてがFになる
-- ドグラマグラ
+- [すべてがFになる](https://www.amazon.co.jp/dp/B009GXMFHI)
+- 犀川創平 ... すべてがFになるの主人公
+- [ドグラ・マグラ](https://www.amazon.co.jp/dp/B00DHX5G74)
 
 ##Editorial notes
 -(soh)
