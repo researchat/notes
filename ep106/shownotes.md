@@ -16,22 +16,22 @@
 - [スプツニ子！](https://ja.wikipedia.org/wiki/Sputniko!)
 - [アンドロメダ](https://ja.wikipedia.org/wiki/アンドロメダ_(宇宙戦艦ヤマト)) ... 前衛武装宇宙艦
 - [惣流・アスカ・ラングレー](https://ja.wikipedia.org/wiki/惣流・アスカ・ラングレー) ... 式波・アスカ・ラングレーもいる
-- 円城塔
-- 文字禍
-- 薄っぺらな嘘
-- 冨樫義博
+- [円城塔](https://ja.wikipedia.org/wiki/円城塔)
+- [文字禍](https://www.amazon.co.jp/dp/B009IXHLYI)
+- 薄っぺらな嘘 ... 「ドッキリテクスチャー」とルビが振られる。[HUNTER X HUNTER](https://www.amazon.co.jp/gp/product/B074BZ2354)に登場するヒソカの能力。
+- [冨樫義博](https://ja.wikipedia.org/wiki/冨樫義博)
 - 荒木飛呂彦CELl
-- 荒巻
-- 攻殻機動隊
-- るろうに剣心
-- 1/3もつたわらない
-- シティハンター
-- キッズステーション
-- Get wild 
-- 海藤
-- 幽遊白書
-- ポロロッカ
-- zettlekasten
+- [荒巻大輔](https://ja.wikipedia.org/wiki/荒巻大輔) ... 攻殻機動隊に登場する内務省公安9課の部長
+- [攻殻機動隊](https://ja.wikipedia.org/wiki/攻殻機動隊)
+- るろうに剣心(https://www.amazon.co.jp/gp/product/B0756ZTD3W) ... 続編の[北海道編](https://www.amazon.co.jp/gp/product/B07PFG1GDW)がジャンプSQで連載中！
+- 1/3の純情な感情 ... SIAM SHADEによる、るろうに剣心のエンディングテーマ
+- [シティハンター](https://www.amazon.co.jp/gp/product/B074C4HLM1)
+- [キッズステーション](https://www.kids-station.com)
+- Get wild ... TM NETWORKによるシティハンターのエンディングテーマ 
+- 海藤優 ... 幽遊白書の登場キャラクター。読みは「かいとうゆう」。
+- [幽★遊★白書](https://www.amazon.co.jp/gp/product/B08C99RSKT)
+- ポロロッカ ... 「アマゾ…」。上記海藤のゲームマスター戦における名シーン。
+- [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) ... [Ep66. Weaving a web of ideas](https://researchat.fm/episode/66)でも取り上げさせていただきました。
 - のりまきせんべい
 - バカボン
 - クレヨンしんちゃん
