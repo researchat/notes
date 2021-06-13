@@ -18,72 +18,72 @@
 - [惣流・アスカ・ラングレー](https://ja.wikipedia.org/wiki/惣流・アスカ・ラングレー) ... 式波・アスカ・ラングレーもいる
 - [円城塔](https://ja.wikipedia.org/wiki/円城塔)
 - [文字禍](https://www.amazon.co.jp/dp/B009IXHLYI)
-- 薄っぺらな嘘 ... 「ドッキリテクスチャー」とルビが振られる。[HUNTER X HUNTER](https://www.amazon.co.jp/gp/product/B074BZ2354)に登場するヒソカの能力。
+- 薄っぺらな嘘 ... 「ドッキリテクスチャー」とルビが振られる。[HUNTER X HUNTER](https://www.amazon.co.jp/gp/product/B074BZ2354/?tag=researchatf04-22)に登場するヒソカの能力。
 - [冨樫義博](https://ja.wikipedia.org/wiki/冨樫義博)
 - 荒木飛呂彦先生が表紙を飾ったCELL
 - [荒巻大輔](https://ja.wikipedia.org/wiki/荒巻大輔) ... 攻殻機動隊に登場する内務省公安9課の部長
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/攻殻機動隊)
-- るろうに剣心(https://www.amazon.co.jp/gp/product/B0756ZTD3W) ... 続編の[北海道編](https://www.amazon.co.jp/gp/product/B07PFG1GDW)がジャンプSQで連載中！
+- るろうに剣心(https://www.amazon.co.jp/gp/product/B0756ZTD3W/?tag=researchatf04-22) ... 続編の[北海道編](https://www.amazon.co.jp/gp/product/B07PFG1GDW/?tag=researchatf04-22)がジャンプSQで連載中！
 - 1/3の純情な感情 ... SIAM SHADEによる、るろうに剣心のエンディングテーマ
-- [シティハンター](https://www.amazon.co.jp/gp/product/B074C4HLM1)
+- [シティハンター](https://www.amazon.co.jp/gp/product/B074C4HLM1/?tag=researchatf04-22)
 - 冴羽獠 ... シティハンターの主人公
 - [キッズステーション](https://www.kids-station.com)
 - Get wild ... TM NETWORKによるシティハンターのエンディングテーマ 
 - 海藤優 ... 幽遊白書の登場キャラクター。読みは「かいとうゆう」。
-- [幽★遊★白書](https://www.amazon.co.jp/gp/product/B08C99RSKT)
+- [幽★遊★白書](https://www.amazon.co.jp/gp/product/B08C99RSKT/?tag=researchatf04-22)
 - ポロロッカ ... 「アマゾ…」。上記海藤のゲームマスター戦における名シーン。
 - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) ... ノートテイキングの手法。[Ep66. Weaving a web of ideas](https://researchat.fm/episode/66)でも取り上げさせていただきました。
-- 則巻千兵衛 ... [Dr.スランプ](https://www.amazon.co.jp/gp/product/B074CFVRL6)の登場人物。
-- [天才バカボン](https://www.amazon.co.jp/gp/product/B07F97JTHX)
-- [クレヨンしんちゃん](https://www.amazon.co.jp/gp/product/B074CFSHWW)
-- [北斗の拳](https://www.amazon.co.jp/gp/product/B074C5L3F1)
-- [あしたのジョー](https://www.amazon.co.jp/dp/B074CL6Q3S)
+- 則巻千兵衛 ... [Dr.スランプ](https://www.amazon.co.jp/gp/product/B074CFVRL6/?tag=researchatf04-22)の登場人物。
+- [天才バカボン](https://www.amazon.co.jp/gp/product/B07F97JTHX/?tag=researchatf04-22)
+- [クレヨンしんちゃん](https://www.amazon.co.jp/gp/product/B074CFSHWW/?tag=researchatf04-22)
+- [北斗の拳](https://www.amazon.co.jp/gp/product/B074C5L3F1/?tag=researchatf04-22)
+- [あしたのジョー](https://www.amazon.co.jp/dp/B074CL6Q3S/?tag=researchatf04-22)
 - 矢吹丈 ... あしたのジョーの主人公
-- [GS美神 極楽大作戦!!](https://www.amazon.co.jp/gp/product/B074CJTNY8)
+- [GS美神 極楽大作戦!!](https://www.amazon.co.jp/gp/product/B074CJTNY8/?tag=researchatf04-22)
 - 横島忠夫 ... GS美神 極楽大作戦!!の登場人物。
-- [ルパン３世](https://www.amazon.co.jp/dp/B073CLPQG1/)
-- [花の慶次 ―雲のかなたに―](https://www.amazon.co.jp/gp/product/B074CGYG89)
-- [サンクチュアリ](https://www.amazon.co.jp/gp/product/B074BSDFSP)
-- [島耕作](https://www.amazon.co.jp/gp/product/B0756ZYJ1V)
-- [騎士団長 島耕作](https://www.amazon.co.jp/gp/product/B091376QX8)
-- [騎士団長殺し](https://www.amazon.co.jp/dp/B08N5QX9TS/)
-- [アカギ－闇に降り立った天才](https://www.amazon.co.jp/gp/product/B074CG99LH)
-- [銀と金](https://www.amazon.co.jp/gp/product/B074BSF6H1)
+- [ルパン３世](https://www.amazon.co.jp/dp/B073CLPQG1/?tag=researchatf04-22)
+- [花の慶次 ―雲のかなたに―](https://www.amazon.co.jp/gp/product/B074CGYG89/?tag=researchatf04-22)
+- [サンクチュアリ](https://www.amazon.co.jp/gp/product/B074BSDFSP/?tag=researchatf04-22)
+- [島耕作](https://www.amazon.co.jp/gp/product/B0756ZYJ1V/?tag=researchatf04-22)
+- [騎士団長 島耕作](https://www.amazon.co.jp/gp/product/B091376QX8/?tag=researchatf04-22)
+- [騎士団長殺し](https://www.amazon.co.jp/dp/B08N5QX9TS/?tag=researchatf04-22)
+- [アカギ－闇に降り立った天才](https://www.amazon.co.jp/gp/product/B074CG99LH/?tag=researchatf04-22)
+- [銀と金](https://www.amazon.co.jp/gp/product/B074BSF6H1/?tag=researchatf04-22)
 - ヒーロー
-- [オールラウンダー廻](https://www.amazon.co.jp/gp/product/B074CFDDCV)
-- [ホーリーランド](https://www.amazon.co.jp/gp/product/B074CH9X3V)
-- [ヒカルの碁](https://www.amazon.co.jp/gp/product/B074CK3KFX)
-- [六三四の剣](https://www.amazon.co.jp/gp/product/B074BGRD5B)
-- [おれは鉄平](https://www.amazon.co.jp/dp/4061011006)
-- [カムイ伝](https://www.amazon.co.jp/gp/product/B078RYGSP3)
+- [オールラウンダー廻](https://www.amazon.co.jp/gp/product/B074CFDDCV/?tag=researchatf04-22)
+- [ホーリーランド](https://www.amazon.co.jp/gp/product/B074CH9X3V/?tag=researchatf04-22)
+- [ヒカルの碁](https://www.amazon.co.jp/gp/product/B074CK3KFX/?tag=researchatf04-22)
+- [六三四の剣](https://www.amazon.co.jp/gp/product/B074BGRD5B/?tag=researchatf04-22)
+- [おれは鉄平](https://www.amazon.co.jp/dp/4061011006/?tag=researchatf04-22)
+- [カムイ伝](https://www.amazon.co.jp/gp/product/B078RYGSP3/?tag=researchatf04-22)
 - サスケ
 - ワタリ
-- [忍者武芸帖](https://www.amazon.co.jp/gp/product/B079VSTLBY)
-- [ブラック・ジャック](https://www.amazon.co.jp/gp/product/B0831SZ5P2)
-- [ブッダ](https://www.amazon.co.jp/gp/product/B0756ZH37F)
-- [火の鳥](https://www.amazon.co.jp/gp/product/B0756XMNQ5)
-- [医龍](https://www.amazon.co.jp/gp/product/B074CHKXS8)
-- [愛と幻想のファシズム](https://www.amazon.co.jp/dp/4061847392)
-- [ああ播磨灘](https://www.amazon.co.jp/gp/product/B074CJWP6V)
+- [忍者武芸帖](https://www.amazon.co.jp/gp/product/B079VSTLBY/?tag=researchatf04-22)
+- [ブラック・ジャック](https://www.amazon.co.jp/gp/product/B0831SZ5P2/?tag=researchatf04-22)
+- [ブッダ](https://www.amazon.co.jp/gp/product/B0756ZH37F/?tag=researchatf04-22)
+- [火の鳥](https://www.amazon.co.jp/gp/product/B0756XMNQ5/?tag=researchatf04-22)
+- [医龍](https://www.amazon.co.jp/gp/product/B074CHKXS8/?tag=researchatf04-22)
+- [愛と幻想のファシズム](https://www.amazon.co.jp/dp/4061847392/?tag=researchatf04-22)
+- [ああ播磨灘](https://www.amazon.co.jp/gp/product/B074CJWP6V/?tag=researchatf04-22)
 - 大谷翔平
 - ベーブルース
 - メッシ
 - カリー
-- [ONE OUTS](https://www.amazon.co.jp/gp/product/B0756XZ31F)
-- [ROOKIES](https://www.amazon.co.jp/gp/product/B074CKJBG3)
-- [SLAM DUNK](https://www.amazon.co.jp/dp/4088716116)
+- [ONE OUTS](https://www.amazon.co.jp/gp/product/B0756XZ31F/?tag=researchatf04-22)
+- [ROOKIES](https://www.amazon.co.jp/gp/product/B074CKJBG3/?tag=researchatf04-22)
+- [SLAM DUNK](https://www.amazon.co.jp/dp/4088716116/?tag=researchatf04-22)
 - [duolingo](https://ja.duolingo.com)
-- [竜馬がゆく](https://www.amazon.co.jp/dp/B00D3CBFC4/)
+- [竜馬がゆく](https://www.amazon.co.jp/dp/B00D3CBFC4/?tag=researchatf04-22)
 - シーザー
 - [マシュー・メセルソン](https://ja.wikipedia.org/wiki/マシュー・メセルソン) 
-- トニー・スターク ... [アイアンマン](https://www.amazon.co.jp/dp/B00G8AAXOE)の中の人
+- トニー・スターク ... [アイアンマン](https://www.amazon.co.jp/dp/B00G8AAXOE/?tag=researchatf04-22)の中の人
 - [イーロン・マスク](https://ja.wikipedia.org/wiki/イーロン・マスク)
 - [グリゴリー・ペレルマン](https://ja.wikipedia.org/wiki/グリゴリー・ペレルマン)
 - h-index
 - nature of metaphisical biology
-- [すべてがFになる](https://www.amazon.co.jp/dp/B009GXMFHI)
+- [すべてがFになる](https://www.amazon.co.jp/dp/B009GXMFHI/?tag=researchatf04-22)
 - 犀川創平 ... すべてがFになるの主人公
-- [ドグラ・マグラ](https://www.amazon.co.jp/dp/B00DHX5G74)
+- [ドグラ・マグラ](https://www.amazon.co.jp/dp/B00DHX5G74/?tag=researchatf04-22)
 
 ## Editorial notes
 - (soh)
