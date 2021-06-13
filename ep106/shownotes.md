@@ -39,7 +39,7 @@
 - [北斗の拳](https://www.amazon.co.jp/gp/product/B074C5L3F1)
 - [あしたのジョー](https://www.amazon.co.jp/dp/B074CL6Q3S)
 - 矢吹丈 ... あしたのジョーの主人公
-- GS美神 極楽大作戦!!(https://www.amazon.co.jp/gp/product/B074CJTNY8)
+- [GS美神 極楽大作戦!!](https://www.amazon.co.jp/gp/product/B074CJTNY8)
 - 横島忠夫 ... GS美神 極楽大作戦!!の登場人物。
 - [ルパン３世](https://www.amazon.co.jp/dp/B073CLPQG1/)
 - [花の慶次 ―雲のかなたに―](https://www.amazon.co.jp/gp/product/B074CGYG89)
@@ -85,9 +85,9 @@
 - 犀川創平 ... すべてがFになるの主人公
 - [ドグラ・マグラ](https://www.amazon.co.jp/dp/B00DHX5G74)
 
-##Editorial notes
--(soh)
--(tadasu)
+## Editorial notes
+- (soh)
+- (tadasu)
 - 軽いジャブのつもりが一本撮れました(coela)
 
 
