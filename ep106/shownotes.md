@@ -37,6 +37,7 @@
 - [クレヨンしんちゃん](https://www.amazon.co.jp/gp/product/B074CFSHWW)
 - [北斗の拳](https://www.amazon.co.jp/gp/product/B074C5L3F1)
 - [あしたのジョー](https://www.amazon.co.jp/dp/B074CL6Q3S)
+- 矢吹丈 ... あしたのジョーの主人公
 - GS美神 極楽大作戦!!(https://www.amazon.co.jp/gp/product/B074CJTNY8)
 - 横島忠夫 ... GS美神 極楽大作戦!!の登場人物。
 - [ルパン３世](https://www.amazon.co.jp/dp/B073CLPQG1/)
@@ -51,10 +52,9 @@
 - [オールラウンダー廻](https://www.amazon.co.jp/gp/product/B074CFDDCV)
 - [ホーリーランド](https://www.amazon.co.jp/gp/product/B074CH9X3V)
 - [ヒカルの碁](https://www.amazon.co.jp/gp/product/B074CK3KFX)
-- [六三四の剣]（https://www.amazon.co.jp/gp/product/B074BGRD5B）
-- おれは鉄平
-- ジョー
-- カムイ伝
+- [六三四の剣](https://www.amazon.co.jp/gp/product/B074BGRD5B)
+- [おれは鉄平](https://www.amazon.co.jp/dp/4061011006)
+- [カムイ伝](https://www.amazon.co.jp/gp/product/B078RYGSP3)
 - サスケ
 - ワタリ
 - 忍者武芸帖
