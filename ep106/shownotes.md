@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/106.mp3
-audio_file_size: 97436219
+audio_file_size: 77415303
 date: 2021-06-14 22:50:00 +0900
 description: 特記すべきことはありません。 
-duration: "01:24:15"
+duration: "01:10:33"
 layout: article
 tags: 
   - 雑談
