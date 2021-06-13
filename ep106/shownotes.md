@@ -31,18 +31,20 @@
 - 海藤優 ... 幽遊白書の登場キャラクター。読みは「かいとうゆう」。
 - [幽★遊★白書](https://www.amazon.co.jp/gp/product/B08C99RSKT)
 - ポロロッカ ... 「アマゾ…」。上記海藤のゲームマスター戦における名シーン。
-- [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) ... [Ep66. Weaving a web of ideas](https://researchat.fm/episode/66)でも取り上げさせていただきました。
-- のりまきせんべい
-- バカボン
-- クレヨンしんちゃん
-- 北斗の拳
-- あしたのジョー
-- ゴーストスイーパーみかみ
-- ルパン３世
-- 花の敬司
-- サンクチュアリ
-- 島耕作
-- 騎士団長殺し
+- [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) ... ノートテイキングの手法。[Ep66. Weaving a web of ideas](https://researchat.fm/episode/66)でも取り上げさせていただきました。
+- 則巻千兵衛 ... [Dr.スランプ](https://www.amazon.co.jp/gp/product/B074CFVRL6)の登場人物。
+- [天才バカボン](https://www.amazon.co.jp/gp/product/B07F97JTHX)
+- [クレヨンしんちゃん](https://www.amazon.co.jp/gp/product/B074CFSHWW)
+- [北斗の拳](https://www.amazon.co.jp/gp/product/B074C5L3F1)
+- [あしたのジョー](https://www.amazon.co.jp/dp/B074CL6Q3S)
+- GS美神 極楽大作戦!!(https://www.amazon.co.jp/gp/product/B074CJTNY8)
+- 横島忠夫 ... GS美神 極楽大作戦!!の登場人物。
+- [ルパン３世](https://www.amazon.co.jp/dp/B073CLPQG1/)
+- [花の慶次 ―雲のかなたに―](https://www.amazon.co.jp/gp/product/B074CGYG89)
+- [サンクチュアリ](https://www.amazon.co.jp/gp/product/B074BSDFSP)
+- [島耕作](https://www.amazon.co.jp/gp/product/B0756ZYJ1V)
+- [騎士団長 島耕作](https://www.amazon.co.jp/gp/product/B091376QX8)
+- [騎士団長殺し](https://www.amazon.co.jp/dp/B08N5QX9TS/)
 - アカギ
 - 銀と金
 - ヒーロー
