@@ -5,16 +5,17 @@
 - 冬月
 - 形而上生物学研究室
 - 白眉
-- 新学術
-- 冥王代
-- SDGs
-- シングラリティー
-- テンセグリティー
-- ムーンショット
-- ケンタロスアルファショット
-- スプツニ子
-- アンドロメダ級巡洋艦
-- 総流アスカラングレイ
+- [新学術領域研究](https://www.jsps.go.jp/j-grantsinaid/34_new_scientific/index.html)
+- [冥王代](https://ja.wikipedia.org/wiki/冥王代)
+- [冥王代生物学の創生](https://www.hadean.jp)
+- SDGs ... Sustainable Development Goalsの略。日本語だと持続可能な開発目標。[関連する外務省のページ](https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/index.html)
+- [シンギュラリティ](https://ja.wikipedia.org/wiki/技術的特異点) ... 人工知能すごいことになるアレ。日本語だと技術的特異点、かっこいい。
+- [テンセグリティ](https://ja.wikipedia.org/wiki/テンセグリティ)
+- [ムーンショット型研究開発制度](https://www8.cao.go.jp/cstp/moonshot/index.html)
+- ケンタロスアルファショット ... 月よりも遠いどこか
+- [スプツニ子！](https://ja.wikipedia.org/wiki/Sputniko!)
+- [アンドロメダ](https://ja.wikipedia.org/wiki/アンドロメダ_(宇宙戦艦ヤマト)) ... 前衛武装宇宙艦
+- [惣流・アスカ・ラングレー](https://ja.wikipedia.org/wiki/惣流・アスカ・ラングレー) ... 式波・アスカ・ラングレーもいる
 - 円城塔
 - 文字禍
 - 薄っぺらな嘘
