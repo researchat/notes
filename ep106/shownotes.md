@@ -23,7 +23,7 @@
 - 荒木飛呂彦先生が表紙を飾ったCELL
 - [荒巻大輔](https://ja.wikipedia.org/wiki/荒巻大輔) ... 攻殻機動隊に登場する内務省公安9課の部長
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/攻殻機動隊)
-- るろうに剣心(https://www.amazon.co.jp/gp/product/B0756ZTD3W/?tag=researchatf04-22) ... 続編の[北海道編](https://www.amazon.co.jp/gp/product/B07PFG1GDW/?tag=researchatf04-22)がジャンプSQで連載中！
+- [るろうに剣心](https://www.amazon.co.jp/gp/product/B0756ZTD3W/?tag=researchatf04-22) ... 続編の[北海道編](https://www.amazon.co.jp/gp/product/B07PFG1GDW/?tag=researchatf04-22)がジャンプSQで連載中！
 - 1/3の純情な感情 ... SIAM SHADEによる、るろうに剣心のエンディングテーマ
 - [シティハンター](https://www.amazon.co.jp/gp/product/B074C4HLM1/?tag=researchatf04-22)
 - 冴羽獠 ... シティハンターの主人公
