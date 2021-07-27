@@ -18,7 +18,7 @@ title: 108. Fullmetal Podcaster
 
 # Editorial notes
 - これでよかったのか？？？笑(tadasu)
-- (coela)
+- 漫画しか読んでなくて、アニメ版を見てないと海外の人と微妙に話が合わない事ありますよね。(coela)
 
 
 
