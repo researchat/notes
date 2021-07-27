@@ -17,4 +17,4 @@ title: 109.
 
 ## Editorial notes
 - (tadasu)
-- (coela)
+- ザンギとホンダは概念的な存在として取り上げたつもりが、感情がちょっと漏れてしまいました。(coela)
