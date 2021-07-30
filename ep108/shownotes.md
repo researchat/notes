@@ -3,10 +3,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/108.mp3
-audio_file_size: XX
+audio_file_size: 51982879
 date: 2021-07-31 XX:XX:00 +0900
 description: 汚水の調査、火災報知器の思い出、神と三単現のs、タッカー氏、アメリカ横断について話しました。
-duration: "0X:XX:XX"
+duration: "00:50:56"
 layout: article
 tags: 
   - 雑談
