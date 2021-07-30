@@ -3,14 +3,14 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/109.mp3
-audio_file_size: XXXXXX
+audio_file_size: 70934245
 date: 2021-07-31 XX:XX:XX +0900
-description: 説明書を読むのが難しい問題、実験プロトコルの記述、ゲームのキャラクターセレクトと実験テーマ選定の相似性について話しました。
-duration: "0X:XX:XX"
+description: 説明書を読むのが難しい問題、実験プロトコルの記述、ゲームのキャラクターセレクトと実験テーマ選定の類似性について話しました。
+duration: "01:09:31"
 layout: article
 tags:
   - 雑談
-title: 109.Большая победа! 
+title: 109. Большая победа! 
 ---
 
 ## Show notes
