@@ -4,7 +4,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/108.mp3
 audio_file_size: 51982879
-date: 2021-07-31 XX:XX:00 +0900
+date: 2021-07-31 07:35:00 +0900
 description: 汚水の調査、火災報知器の思い出、神と三単現のs、タッカー氏、アメリカ横断について話しました。
 duration: "00:50:56"
 layout: article
