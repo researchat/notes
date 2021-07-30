@@ -38,7 +38,7 @@ title: 109.Большая победа!
 - [ユリアン](https://game.capcom.com/cfn/sfv/character/urien)
 - [ガー不](https://w.atwiki.jp/ssf4/pages/3805.html)
 - [減数分裂](https://ja.wikipedia.org/wiki/%E6%B8%9B%E6%95%B0%E5%88%86%E8%A3%82)
-- tadasuのDの仕事
+- [tadasuのDの仕事](http://first.lifesciencedb.jp/archives/16866)
 - 画狂老人卍 ... 葛飾北斎
 - [ウメハラさん](https://ja.wikipedia.org/wiki/%E6%A2%85%E5%8E%9F%E5%A4%A7%E5%90%BE)
 - [学振](https://www.jsps.go.jp/j-pd/) ... 日本学術振興会
