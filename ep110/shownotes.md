@@ -80,7 +80,7 @@ title: 110. Seeds of seedless watermelon
 - [プラナリア](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%8A%E3%83%AA%E3%82%A2)
 - [Cebrià et al., Nature (2002)](https://www.nature.com/articles/nature01042) ... "FGFR-related gene nou-darake restricts brain tissues to the head region of planarians" プラナリアのnoudarake(ndk)に関する論文
 - [おもてうら さかさに見ても 変わらぬは 螺旋の巻きと 縄のよれ方 木原均 1974](https://twitter.com/researchat_fm/status/1399055904486694912)
-- "The History of the Earth is recorded in the Layers of its Crust; The History of all Organisms is inscribed in the Chromosomes."  Hitoshi Kihara (1946) ... "地球の歴史は地層に、生物の歴史は染色体に刻まれている。木原均 (1946)"
+- "The History of the Earth is recorded in the Layers of its Crust; The History of all Organisms is inscribed in the Chromosomes."  Hitoshi Kihara (1946) ... "地球の歴史は地層に、生物の歴史は染色体に刻まれている。" 木原均 (1946)
 
 ## Editorial notes
 - (tadasu)
