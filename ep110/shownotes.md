@@ -9,7 +9,7 @@ description: 木原均先生と3倍体種無しスイカについて話しまし
 duration: "01:10:31"
 layout: article
 tags:
-  - 雑談
+  - 論文
 title: 110. Seeds of seedless watermelon
 ---
 
@@ -24,14 +24,14 @@ title: 110. Seeds of seedless watermelon
 - [ワクワク伝説](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF)
 - [Trader Joe’s](https://www.traderjoes.com/home)
 - [NeuroRadio](https://neuroradio.tokyo/)
-- ピクルス味のポップコーン
-- 種無しスイカがnonGMOなのか？という質問はお控えください。
+- [ピクルス味のポップコーン](https://twitter.com/tak_miyawaki/status/1416435836468572160)
+- 種無しスイカがnon GMOなのか？という質問はお控えください。
 - [サイケデリック・マッシュルームやその他のエンテジェニック植物の非犯罪化に向けての協議(サマービル市)](https://www.bostonherald.com/2021/01/16/somerville-moves-toward-decriminalizing-psychedelic-mushrooms/) ... "サマービルは、マサチューセッツ州で初めて、サイケデリック・マッシュルームやその他のエンテジェニック植物の非犯罪化に向けて動き出しました。"
 - [しいな](https://dictionary.goo.ne.jp/word/%E7%B2%83/)
 - [西瓜](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%AB)
 - [シークヮーサー](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AE%E3%83%BC%E3%82%B5%E3%83%BC) ... 小さい「ヮ」って存在するんですね。
 - [スペースワールド](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89)
-- H2
+- [H2](https://www.amazon.co.jp/dp/4091939120/?tag=researchatf04-22) ... あだち充先生の傑作漫画
 - [木原均](https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%8E%9F%E5%9D%87)
 - [Kihara. Proc. Amer. Soc. Hort. Sci. (1951)](https://ci.nii.ac.jp/naid/10020268194/) ... "Triploid Watermelons" 3倍体種無しスイカについて英語で発表した最初の論文
 - [スイバ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%83%90) ... XY染色体による性決定を行う。高等植物では珍しい。
