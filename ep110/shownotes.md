@@ -46,7 +46,11 @@ title: 110. Seeds of seedless watermelon
 - [フレミング](https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%95%E3%83%AC%E3%83%9F%E3%83%B3%E3%82%B0) ... 染色体を初期に観察した人。クロマチンの名付け親。
 - [Sakamura. Shokubutsugaku zasshi (1918)](https://www.jstage.jst.go.jp/article/jplantres1887/32/379/32_379_150/_article) ...  "Kurze Mitteilung über die Chromosomenzahlen und die Verwandt-schaftsverhältnisse der Triticum-Arten." 坂村徹先生が小麦がn=7であることを発見した論文。
 - [財団法人木原生物学研究所編 生研時報](https://shigen.nig.ac.jp/wheat/komugi/ziho/pdf/seikenziho3part3.pdf) ... "西瓜に種子がなかったらとは従来多くの人たちの願望であった。ところが最近その希望にそう如く西瓜の種子を発達せしめず単位結果のみをせしむることに成功した。即ち種子をなくす二つの新技術を発見することができたのである。第一は植物ホルモン処理によって西瓜の単位結果を促す方法で(寺田・益田1938,1940,1941,1942)、第二は三倍体の不燃性を利用する方法である(寺田・益田1943)。" このことからも寺田・益田の研究が先んじていたことは明白であろう。ただ、木原ゆり子さんの手記には"しかし、前述の寺田、益田両氏、共同研究者の西山市三氏、近藤典生氏、阿久津昴氏など大勢の協力によって作出は成功した。"と書かれているので、お互い協力関係にあったことは想像できる。また、4倍体スイカの作成は「木原・山下　1939」と「寺田・益田1943」なので、木原・山下の方が先行しているようだ。詳しいことをご存知の方はご連絡ください。現状、弊チャンネルでは「木原均先生は世界で初めて種なしスイカの実用化に成功した」とします。
-- 寺田先生、益田先生  ... この寺田先生と益田先生は寺田植物研究所で研究をしていたと、木原ゆり子さんの手記には書いてあった。お二人とも北大の出身のようです。
+- 寺田甚七先生・益田健三先生  ... この寺田先生と益田先生は寺田植物研究所で研究をしていたと、木原ゆり子さんの手記には書いてあった。お二人とも北大の出身のようです。
+- 寺田・益田. 京都園芸 (1935) ... 単為結実に依る無種子西瓜に就いて: 初めての種無しスイカに関する論文。
+- 寺田・益田．京都園芸 (1938) ...．単為結実に依る無核西瓜に就いて（続報):インドール酢酸を使用？
+- 寺田・益田．農及園　(1943) ..．三倍性による西瓜の単為結実に就いて:三倍体種無しスイカに関する初めての報告
+- [Sugiyama et al., Hort. Res. (Japan) (2015)](https://www.jstage.jst.go.jp/article/hrj/14/1/14_7/_pdf) ... 上記の寺田先生と益田先生の論文群に関しては、資料を読むことができなかったために、杉山先生の論文を参考にさせていただきました。
 - [単位結果](https://ja.wikipedia.org/wiki/%E5%8D%98%E7%82%BA%E7%B5%90%E6%9E%9C)
 - [子房](https://kotobank.jp/word/%E5%AD%90%E6%88%BF-74986#:~:text=%E3%81%97%E2%80%90%E3%81%BC%E3%81%86%E3%80%94%E2%80%90%E3%83%90%E3%82%A6%E3%80%95,%E7%86%9F%E3%81%97%E3%81%A6%E6%9E%9C%E5%AE%9F%E3%81%AB%E3%81%AA%E3%82%8B%E3%80%82)
 - [受粉](https://ja.wikipedia.org/wiki/%E5%8F%97%E7%B2%89) ... 今回の話は「種子植物においては」と毎回注釈をつけるべきでした。
@@ -69,12 +73,14 @@ title: 110. Seeds of seedless watermelon
 - [大麻](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%BA%BB)
 - [29. Born to chat](https://researchat.fm/episode/29) ... researchat.fm ep29では通し矢について言及しています。
 - [カラコルム](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%B3%E3%83%AB%E3%83%A0)
-- どじょう
-- meiosisのへんなやつ
-- ギンブナ
-- プラナリア
-- ndk
-- 木原均先生の言葉
+- [Morishima et al., Heredity (2008)](https://www.nature.com/articles/hdy200817) ... "Meiotic hybridogenesis in triploid Misgurnus loach derived from a clonal lineage": 三倍体ドジョウにおけるmeiotic hybridogenesisについて
+- [プロイディゲーム 染色体セットの数と組み合わせの変化は魚介類に何をもたらすか。](https://www.jstage.jst.go.jp/article/suisan/87/3/87_WA2836/_pdf)... 上記のドジョウの減数分裂の研究も行われている北大荒井先生によるドジョウとギンブナの三倍体減数分裂の解説。まだまだ理解しきれていないので勉強させていただきます。Figure1にギンブナの三極紡錘体形成についての記述があります。めちゃくちゃワクワクしますね！
+- [ギンブナの減数分裂](https://i-my-mine.hatenablog.com/entry/2016/12/11/093020) ...  まいん先生の三倍体ギンブナクローンの解説
+- [Stenberg and Saura. Cytogenetic and Genome Research (2013)](https://pubmed.ncbi.nlm.nih.gov/23796636/) ...  "Meiosis and its deviations in polyploid animals": hybridogenesis, Kleptogenesis, Pre-equalizing hybrid meiosis, Meiotic hybridogenesisの解説。何が何だかわかりません。勉強します。
+- [プラナリア](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%8A%E3%83%AA%E3%82%A2)
+- [Cebrià et al., Nature (2002)](https://www.nature.com/articles/nature01042) ... "FGFR-related gene nou-darake restricts brain tissues to the head region of planarians" プラナリアのnoudarake(ndk)に関する論文
+- [おもてうら さかさに見ても 変わらぬは 螺旋の巻きと 縄のよれ方 木原均 1974](https://twitter.com/researchat_fm/status/1399055904486694912)
+- "The History of the Earth is recorded in the Layers of its Crust; The History of all Organisms is inscribed in the Chromosomes."  Hitoshi Kihara (1946) ... "地球の歴史は地層に、生物の歴史は染色体に刻まれている。木原均 (1946)"
 - つると染色体
 
 ## Editorial notes
