@@ -14,25 +14,23 @@ title: 110. Seeds of seedless watermelon
 ---
 
 ## Show notes
-- だらけとまみれの違い
-- マルコポーロ
-- マルコポーロ
-- 東方見聞録
-- ベネツィア
-- ジパング伝説
-- 麺の起源
-- 蕎麦粉のガレット
-- ワクワク伝説
-- trader joe’s
-- neuroradio
+- [だらけとまみれの違い](https://nihon5-bunka.net/difference-darake-mamire/)
+- [マルコ・ポーロ](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%AD) ... 東方見聞録の人
+- [マルコ・ポーロ](https://ameblo.jp/brenandyu/entry-12388065677.html) ... プールの鬼ごっこ
+- [東方見聞録](https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9%E8%A6%8B%E8%81%9E%E9%8C%B2)
+- [ジパング](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%91%E3%83%B3%E3%82%B0)
+- [麺の起源](http://world-noodle-dictionary.com/roots/origin.html)
+- [蕎麦粉のガレット](http://www.lescerisiers.jp/galette/)
+- [ワクワク伝説](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%AF%E3%83%AF%E3%82%AF)
+- [Trader Joe’s](https://www.traderjoes.com/home)
+- [NeuroRadio](https://neuroradio.tokyo/)
 - ピクルス味のポップコーン
-- 種無し西瓜がnonGMOなのか？という質問はお控えください。
-- ノンアル　フランス
-- somerville LSD
-- しいな
-- 西瓜
-- シークァーサー
-- スペースワールド
+- 種無しスイカがnonGMOなのか？という質問はお控えください。
+- [サイケデリック・マッシュルームやその他のエンテジェニック植物の非犯罪化に向けての協議(サマービル市)](https://www.bostonherald.com/2021/01/16/somerville-moves-toward-decriminalizing-psychedelic-mushrooms/) ... "サマービルは、マサチューセッツ州で初めて、サイケデリック・マッシュルームやその他のエンテジェニック植物の非犯罪化に向けて動き出しました。"
+- [しいな](https://dictionary.goo.ne.jp/word/%E7%B2%83/)
+- [西瓜](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%AB)
+- [シークヮーサー](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AE%E3%83%BC%E3%82%B5%E3%83%BC) ... 小さい「ヮ」って存在するんですね。
+- [スペースワールド](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89)
 - H2
 - 木原均
 - Kihara 1951
