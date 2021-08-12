@@ -43,7 +43,7 @@ title: 110. Seeds of seedless watermelon
 - [メンデル](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A8%E3%83%8F%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AB)
 - コレンス、チェルマク、ド・フリース ... 1900年にメンデルの法則を同時に再発見
 - [ネーゲリ](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%BC%E3%82%B2%E3%83%AA) ... 染色体を初期に発見した人。ネーゲリの細胞生物学への貢献はすさまじいのでまたいつかまとめたい。
-- [フレミング](https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%95%E3%83%AC%E3%83%9F%E3%83%B3%E3%82%B0) ... 染色体を初期に観察した人。クロマチンの名付け親。
+- [フレミング](https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%95%E3%83%AC%E3%83%9F%E3%83%B3%E3%82%B0) ... 染色体を初期に観察した人。クロマチンの名付け親。フレミングの法則のフレミングとは別人。
 - [Sakamura. Shokubutsugaku zasshi (1918)](https://www.jstage.jst.go.jp/article/jplantres1887/32/379/32_379_150/_article) ...  "Kurze Mitteilung über die Chromosomenzahlen und die Verwandt-schaftsverhältnisse der Triticum-Arten." 坂村徹先生が小麦がn=7であることを発見した論文。
 - [財団法人木原生物学研究所編 生研時報](https://shigen.nig.ac.jp/wheat/komugi/ziho/pdf/seikenziho3part3.pdf) ... "西瓜に種子がなかったらとは従来多くの人たちの願望であった。ところが最近その希望にそう如く西瓜の種子を発達せしめず単位結果のみをせしむることに成功した。即ち種子をなくす二つの新技術を発見することができたのである。第一は植物ホルモン処理によって西瓜の単位結果を促す方法で(寺田・益田1938,1940,1941,1942)、第二は三倍体の不燃性を利用する方法である(寺田・益田1943)。" このことからも寺田・益田の研究が先んじていたことは明白であろう。ただ、木原ゆり子さんの手記には"しかし、前述の寺田、益田両氏、共同研究者の西山市三氏、近藤典生氏、阿久津昴氏など大勢の協力によって作出は成功した。"と書かれているので、お互い協力関係にあったことは想像できる。また、4倍体スイカの作成は「木原・山下　1939」と「寺田・益田1943」なので、木原・山下の方が先行しているようだ。詳しいことをご存知の方はご連絡ください。現状、弊チャンネルでは「木原均先生は世界で初めて種なしスイカの実用化に成功した」とします。
 - 寺田甚七先生・益田健三先生  ... この寺田先生と益田先生は寺田植物研究所で研究をしていたと、木原ゆり子さんの手記には書いてあった。お二人とも北大の出身のようです。
@@ -63,7 +63,7 @@ title: 110. Seeds of seedless watermelon
 - [autosome](https://en.wikipedia.org/wiki/Autosome) ... 常染色体のこと
 - [自家不和合性](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%AE%B6%E4%B8%8D%E5%92%8C%E5%90%88%E6%80%A7_(%E6%A4%8D%E7%89%A9))
 - [コルヒチン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AB%E3%83%92%E3%83%81%E3%83%B3)
-- 4倍体の減数分裂
+- [Bomblies et al., Chromosoma (2016)](https://pubmed.ncbi.nlm.nih.gov/26753761/) ...  "The challenge of evolving stable polyploidy: could an increase in "crossover interference distance" play a central role?": 4倍体植物の減数分裂に関する解説。
 - [南洋興発](https://ja.wikipedia.org/wiki/%E5%8D%97%E6%B4%8B%E8%88%88%E7%99%BA)
 - [国立遺伝学研究所](https://www.nig.ac.jp/nig/ja/) ... 静岡県三島市にある遺伝学を中心とした研究所
 - [遺伝研年報](https://www.nig.ac.jp/nig/ja/about-nig/yoran) ... 1949年以降、毎年の年報が見られる。英語も毎年発行されている。
@@ -81,7 +81,6 @@ title: 110. Seeds of seedless watermelon
 - [Cebrià et al., Nature (2002)](https://www.nature.com/articles/nature01042) ... "FGFR-related gene nou-darake restricts brain tissues to the head region of planarians" プラナリアのnoudarake(ndk)に関する論文
 - [おもてうら さかさに見ても 変わらぬは 螺旋の巻きと 縄のよれ方 木原均 1974](https://twitter.com/researchat_fm/status/1399055904486694912)
 - "The History of the Earth is recorded in the Layers of its Crust; The History of all Organisms is inscribed in the Chromosomes."  Hitoshi Kihara (1946) ... "地球の歴史は地層に、生物の歴史は染色体に刻まれている。木原均 (1946)"
-- つると染色体
 
 ## Editorial notes
 - (tadasu)
