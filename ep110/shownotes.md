@@ -32,7 +32,7 @@ title: 110. Seeds of seedless watermelon
 - [シークヮーサー](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%AF%E3%83%AE%E3%83%BC%E3%82%B5%E3%83%BC) ... 小さい「ヮ」って存在するんですね。
 - [スペースワールド](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89)
 - H2
-- 木原均
+- [木原均](https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%8E%9F%E5%9D%87)
 - Kihara 1951
 - 水馬　ep48
 - ゲノム
