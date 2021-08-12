@@ -39,6 +39,7 @@ title: 110. Seeds of seedless watermelon
 - [ゲノム](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%8E%E3%83%A0)
 - [Hans Winkler](https://en.wikipedia.org/wiki/Hans_Winkler) ... 1920年にゲノムを提唱
 - [倍数性](https://ja.wikipedia.org/wiki/%E5%80%8D%E6%95%B0%E6%80%A7)
+- 多倍体　... 多倍体(polyploidy)というべきところを倍数体といってしまうの良くないですね...
 - [木原均](https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%8E%9F%E5%9D%87)
 - [メンデル](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A8%E3%83%8F%E3%83%B3%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%87%E3%83%AB)
 - コレンス、チェルマク、ド・フリース ... 1900年にメンデルの法則を同時に再発見
