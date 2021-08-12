@@ -86,5 +86,5 @@ title: 110. Seeds of seedless watermelon
 
 ## Editorial notes
 - 種無しスイカを食べるときには遺伝学に感謝しながらいただくことにします。(tadasu)
-- (coela)
+- 近場で種無しスイカ売ってないので、バナナを食べながら歴史に思いを馳せます。(coela)
 
