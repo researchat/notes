@@ -4,7 +4,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/110.mp3
 audio_file_size: 82191099
-date: 2021-08-12 XX:XX:XX +0900
+date: 2021-08-13 03:00:00 +0900
 description: 木原均先生と3倍体種無しスイカについて話しました。
 duration: "01:45:26"
 layout: article
