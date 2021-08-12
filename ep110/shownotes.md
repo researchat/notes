@@ -5,12 +5,12 @@ actor_ids:
 audio_file_path: /audio/110.mp3
 audio_file_size: X
 date: 2021-08-12 XX:XX:XX +0900
-description: 説明書を読むのが難しい問題、実験プロトコルの記述、ゲームのキャラクターセレクトと実験テーマ選定の類似性について話しました。
+description: 木原均先生と3倍体種無しスイカについて話しました。
 duration: "01:10:31"
 layout: article
 tags:
   - 雑談
-title: 109. Большая победа! 
+title: 110. Seeds of seedless watermelon
 ---
 
 ## Show notes
