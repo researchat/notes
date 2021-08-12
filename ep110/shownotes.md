@@ -3,10 +3,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/110.mp3
-audio_file_size: X
+audio_file_size: 82191099
 date: 2021-08-12 XX:XX:XX +0900
 description: 木原均先生と3倍体種無しスイカについて話しました。
-duration: "01:10:31"
+duration: "01:45:26"
 layout: article
 tags:
   - 論文
@@ -33,6 +33,7 @@ title: 110. Seeds of seedless watermelon
 - [スペースワールド](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89)
 - [H2](https://www.amazon.co.jp/dp/4091939120/?tag=researchatf04-22) ... あだち充先生の傑作漫画
 - [木原均](https://ja.wikipedia.org/wiki/%E6%9C%A8%E5%8E%9F%E5%9D%87)
+- [木原均小伝](https://www.museum.hokudai.ac.jp/wp-content/uploads/2016/06/vnews_kihara_201506.pdf) ... 木原ゆり子さんによる回顧録
 - [Kihara. Proc. Amer. Soc. Hort. Sci. (1951)](https://ci.nii.ac.jp/naid/10020268194/) ... "Triploid Watermelons" 3倍体種無しスイカについて英語で発表した最初の論文
 - [スイバ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%83%90) ... XY染色体による性決定を行う。高等植物では珍しい。
 - [48. XXXXXYYYYY](https://researchat.fm/episode/48) ... researchat.fm ep48ではスイバについても触れています。性と染色体について話しました。
@@ -84,6 +85,6 @@ title: 110. Seeds of seedless watermelon
 - "The History of the Earth is recorded in the Layers of its Crust; The History of all Organisms is inscribed in the Chromosomes."  Hitoshi Kihara (1946) ... "地球の歴史は地層に、生物の歴史は染色体に刻まれている。" 木原均 (1946)
 
 ## Editorial notes
-- (tadasu)
+- 種無しスイカを食べるときには遺伝学に感謝しながらいただくことにします。(tadasu)
 - (coela)
 
