@@ -50,13 +50,13 @@ title: 112. Anonymous poem
 - 慶応　42行聖書
 - [Harvard Rare book library](https://library.harvard.edu/libraries/houghton#collections)
 - メガネの歴史
-- ヤンセン父子
-- リベルスハイ　望遠鏡
+- [ヤンセン父子](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8F%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%BB%E3%83%B3) ... 初めて顕微鏡をつくったといわれている父子
+- [リッペルハイ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%83%E3%83%9A%E3%83%AB%E3%83%8F%E3%82%A4) ... 初めて望遠鏡を作ったと言われている人
 - ep37
-- ケプラー
-- ロバートフック
-- レーウェンフック
-- ひつしょう
+- [ケプラー](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8F%E3%83%8D%E3%82%B9%E3%83%BB%E3%82%B1%E3%83%97%E3%83%A9%E3%83%BC) ... 望遠鏡のところでなんとなくケプラーを引用しましたが、まずはガリレオというべきでした。
+- [ロバート・フック](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%95%E3%83%83%E3%82%AF) ... 初めて顕微鏡でCellを見た人
+- [レーウェンフック](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%83%AC%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%95%E3%83%83%E3%82%AF) ... 顕微鏡でさまざまなものを発見した人。例えば微生物など。
+- [畢昇(ひつしょう)](https://ja.wikipedia.org/wiki/%E7%95%A2%E6%98%87) ... 世界で初めて活版印刷を発明したといわれる北宋の発明家
 - ep28 キーボード入力
 - 出版されてきた本の数
 - シュトヘル
