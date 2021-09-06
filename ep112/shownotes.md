@@ -45,10 +45,10 @@ title: 112. Anonymous poem
 - ゴーダ
 - [42行聖書](https://dcollections.lib.keio.ac.jp/ja/incunabula/036) ... かっこいい
 - 識字率
-- 宗教改革
-- マーティンルター
+- [宗教改革](https://ja.wikipedia.org/wiki/%E5%AE%97%E6%95%99%E6%94%B9%E9%9D%A9)
+- [マーティン・ルター](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%AB%E3%82%BF%E3%83%BC)
 - 慶応　42行聖書
-- ハーバードレアライブラリ
+- [Harvard Rare book library](https://library.harvard.edu/libraries/houghton#collections)
 - メガネの歴史
 - ヤンセン父子
 - リベルスハイ　望遠鏡
