@@ -6,12 +6,12 @@ actor_ids:
 audio_file_path: /audio/112.mp3
 audio_file_size: X
 date: 2021-09-07 01:52:00 +0900
-description: ビットコインを無料配布した実験、ジョージ・ソロスのプリンター、活版印刷とインキュナブラとレンズ、ミームの原産地、読み人知らず、江上不二夫語録、下村修と1944年のウミホタルについて話しました。
+description: ビットコインを無料配布した実験、ジョージ・ソロスのプリンター、活版印刷とインキュナブラとレンズ、ミームの原産地、江上不二夫語録、下村修と1944年のウミホタルについて話しました。
 duration: "01:33:15"
 layout: article
 tags:
   - 論文
-title: 112. Anonymous poet
+title: 112. Anonymous poem
 ---
 
 ## Show notes
