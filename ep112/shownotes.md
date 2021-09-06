@@ -75,30 +75,26 @@ title: 112. Anonymous poem
 - [よみ人知らず](https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%BF%E4%BA%BA%E3%81%97%E3%82%89%E3%81%9A)
 - [君が代](https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%8C%E4%BB%A3)
 - 石井裕
-- panko
 - ep45 i love you
-- 江上不二夫
-- 江上不二夫語録
-- 三菱生命研
-- アガロース
-- あらきちょうじ
-- 寒天　酵母
-- 下村修
-- ウミホタル
-- ウッズホール海洋生物学研究所
+- [江上不二夫](https://ja.wikipedia.org/wiki/%E6%B1%9F%E4%B8%8A%E4%B8%8D%E4%BA%8C%E5%A4%AB)
+- [科学者の卵たちに贈る言葉－江上不二夫が伝えたかったこと](https://www.amazon.co.jp/dp/B00YP68U7U/) ... 江上不二夫語録
+- [三菱生命研](https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E5%8C%96%E5%AD%A6%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80)
+- [アガロース](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AC%E3%83%AD%E3%83%BC%E3%82%B9)
+- [荒木長次先生のアガロースに関する初期の論文](https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/6/2/6_2_88/_pdf)
+- [実験に用いる寒天について、食用寒天](https://www.yeast-forum.org/community_mail.php)
+- [下村修](https://ja.wikipedia.org/wiki/%E4%B8%8B%E6%9D%91%E8%84%A9)
+- [ウミホタル](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%9F%E3%83%9B%E3%82%BF%E3%83%AB)
+- [ウッズホール海洋生物学研究所](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%83%E3%82%BA%E3%83%9B%E3%83%BC%E3%83%AB%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80) ... 通称MBL。さまざまなノーベル賞級の発見を推進し、また細胞分子生物学のコミュニティーを発展させてきた。日本人としてもShinya Inoue先生やOsamu Shimomura先生の活躍が眩い。下記の三崎の臨海実験所関連でいえばKatsuma Dan先生のThe last one to go.もはずせない。
 - あわがいど
-- The last one to go
-- モーガン
-- Ed Harvey
-- Franklin
-- ノーベル賞の系譜
-- みさきの臨界研究所
-- Harvery
-- E. Willson
-- ロバート・ボイル
-- ボイルシャルル
-- はねだやた
-- 科学博物館
+- [The last one to go](https://www.mbl.edu/legacy-of-leadership/dan/)
+- [トーマス・ハント・モーガン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%AC%E3%83%B3) ... ショウジョウバエ研究、そして遺伝学研究の始祖
+- [Edmund Harvey](https://en.wikipedia.org/wiki/E._Newton_Harvey)
+- [Frank Johnson](https://academictree.org/chemistry/peopleinfo.php?pid=52355) ... 下村先生のアドバイザー
+- ノーベル賞の系譜　... researchat.fm ep 80
+- [三崎臨海実験所](https://www.mmbs.s.u-tokyo.ac.jp/wp/)
+- [ロバート・ボイル](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%9C%E3%82%A4%E3%83%AB) ... ボイルシャルルの法則のボイル
+- [羽根田弥太](http://zenhoken-std.sakura.ne.jp/ZHJ_pdf21-30/ZHJ28_01-02.pdf)
+- [国立科学博物館](https://www.kahaku.go.jp/) ... 地下一階にウミホタルのボトルがある。
 
 ## Editorial notes
 - (soh)
