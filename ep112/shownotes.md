@@ -15,13 +15,15 @@ title: 112. Anonymous poem
 ---
 
 ## Show notes
-- 2014年にMITでビットコインがばらまかれた実験
-- ビットコイン
-- Libre
-- Cambridge bitcoinのATM https://twitter.com/researchat_fm/status/1216406727106666499
-- Monk Fish
-- cocoichiの立替払い
-- オードリータン
+- [2014年にMITでビットコインがばらまかれた実験 1](https://oltnews.com/a-group-of-mit-students-received-100-in-free-bitcoin-in-2014-some-got-rich-others-squandered-it-on-sushi-cnbc)
+- [2014年にMITでビットコインがばらまかれた実験 2](https://www.bloomberg.com/news/articles/2021-06-04/bitcoin-btc-mit-experiment-nets-13-000-gain-for-students-who-held-on)
+- [ビットコイン](https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%83%E3%83%88%E3%82%B3%E3%82%A4%E3%83%B3) ... 仮想通貨
+- [ブロックチェーン](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3)
+- [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)) ... 仮想通貨
+- [Cambridge氏にあるbitcoinのATM](https://twitter.com/researchat_fm/status/1216406727106666499) ... 魔法のATM
+- [Monk Fish](https://www.themadmonkfish.com/menus/) ... MITとHarvardの間にある寿司屋。近所に住んでいたが行ったことはない。
+- [CoCo壱の立替払い](https://togetter.com/li/1649505) ... Akiなんとか氏のビットコインわらしべ長者物語。勝手に紹介してすいませんでした。
+- [オードリー・タン](https://www.news-postseven.com/archives/20200613_1569693.html/2) ... Appleでの時給が1 bitcoinだったという話
 - ビットコインのHDD
 - ビットコイン　手計算
 - 草コイン
