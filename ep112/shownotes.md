@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/112.mp3
 audio_file_size: X
 date: 2021-09-07 01:52:00 +0900
-description: ビットコインを無料配布した実験、ジョージ・ソロスのプリンター、活版印刷とインキュナブラとレンズ、ミームの原産地、江上不二夫語録、下村修と1944年のウミホタルについて話しました。
+description: MITでビットコインを無料配布した実験、ジョージ・ソロスのプリンター、活版印刷とインキュナブラとレンズ、ミームの原産地、江上不二夫語録、下村修と1944年のウミホタルについて話しました。
 duration: "01:33:15"
 layout: article
 tags:
@@ -22,7 +22,7 @@ title: 112. Anonymous poem
 - [Diem](https://en.wikipedia.org/wiki/Diem_(digital_currency)) ... 仮想通貨
 - [Cambridge氏にあるbitcoinのATM](https://twitter.com/researchat_fm/status/1216406727106666499) ... 魔法のATM
 - [Monk Fish](https://www.themadmonkfish.com/menus/) ... MITとHarvardの間にある寿司屋。近所に住んでいたが行ったことはない。
-- [CoCo壱の立替払い](https://togetter.com/li/1649505) ... Akiなんとか氏のビットコインわらしべ長者物語。勝手に紹介してすいませんでした。
+- [CoCo壱の立替払い](https://togetter.com/li/1649505) ... Akiなんとか氏のビットコインわらしべ長者物語。Akiなんとか先生、勝手に紹介してすいませんでした。
 - [オードリー・タン](https://www.news-postseven.com/archives/20200613_1569693.html/2) ... Appleでの時給が1 bitcoinだったという話
 - ビットコインのHDD
 - ビットコイン　手計算
