@@ -59,22 +59,21 @@ title: 112. Anonymous poem
 - [畢昇(ひつしょう)](https://ja.wikipedia.org/wiki/%E7%95%A2%E6%98%87) ... 世界で初めて活版印刷を発明したといわれる北宋の発明家
 - ep28 キーボード入力
 - 出版されてきた本の数
-- シュトヘル
-- せいか文字
-- トーラー
-- タルムード
-- ふうしかでん
+- [シュトヘル](https://www.amazon.co.jp/dp/B00BHTTPCM/)
+- [西夏文字](https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%A4%8F%E6%96%87%E5%AD%97)
+- [トーラー](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%A9%E3%83%BC)
+- [タルムード](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AB%E3%83%A0%E3%83%BC%E3%83%89)
+- [風姿花伝](https://www.amazon.co.jp/dp/4003300114)
 - メタルギアそりど5
-- 波を聞いてくれ
-- スティーブ・ジョブズ
-- dynabook
-- alan kay
-- zen
-- yoga
-- zenification
-- 体の柔らかさのこうざい
-- 読み人知らず
-- きみがよ
+- [波よ聞いてくれ](https://www.amazon.co.jp/dp/B08L93LR45)
+- [スティーブ・ジョブズ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%96%E3%82%BA)
+- [Dynabook](https://en.wikipedia.org/wiki/Dynabook)
+- [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay) ... The best way to predict the future is to create it.
+- [zen](https://en.wikipedia.org/wiki/Zen)
+- [yoga](https://en.wikipedia.org/wiki/Yoga)
+- 体の柔らかさやストレッチの功罪 ... side by side radioさんのどこかでお話されていたと思います！
+- [よみ人知らず](https://ja.wikipedia.org/wiki/%E3%82%88%E3%81%BF%E4%BA%BA%E3%81%97%E3%82%89%E3%81%9A)
+- [君が代](https://ja.wikipedia.org/wiki/%E5%90%9B%E3%81%8C%E4%BB%A3)
 - 石井裕
 - panko
 - ep45 i love you
