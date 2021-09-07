@@ -78,7 +78,7 @@ title: 112. Anonymous poem
 - [実験に用いる寒天について、食用寒天](https://www.yeast-forum.org/community_mail.php)
 - [下村修](https://ja.wikipedia.org/wiki/%E4%B8%8B%E6%9D%91%E8%84%A9)
 - [ウミホタル](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%9F%E3%83%9B%E3%82%BF%E3%83%AB)
-- [ウッズホール海洋生物学研究所](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%83%E3%82%BA%E3%83%9B%E3%83%BC%E3%83%AB%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80) ... 通称MBL。さまざまなノーベル賞級の発見を推進し、また細胞分子生物学のコミュニティーを発展させてきた。日本人としてもShinya Inoue先生やOsamu Shimomura先生の活躍が眩い。下記の三崎の臨海実験所関連でいえばKatsuma Dan先生のThe last one to goもはずせない。
+- [ウッズホール海洋生物学研究所](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%83%E3%82%BA%E3%83%9B%E3%83%BC%E3%83%AB%E6%B5%B7%E6%B4%8B%E7%94%9F%E7%89%A9%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80) ... 通称MBL。さまざまなノーベル賞級の発見を推進し、また細胞分子生物学のコミュニティーを発展させてきた。日本人研究者としてはShinya Inoue先生やOsamu Shimomura先生の著しい業績が思い起こされる。下記の三崎の臨海実験所関連でいえばKatsuma Dan先生のThe last one to goもはずせない。
 - [The last one to go](https://www.mbl.edu/legacy-of-leadership/dan/)
 - [トーマス・ハント・モーガン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%AC%E3%83%B3) ... ショウジョウバエ研究、そして遺伝学研究の始祖
 - [Edmund Harvey](https://en.wikipedia.org/wiki/E._Newton_Harvey)
