@@ -27,7 +27,7 @@ title: 112. Anonymous poem
 - [ビットコインが入ったHDDを掘る](https://www.cnn.co.jp/tech/35165138.html)
 - [鉛筆と紙でビットコインをマイニングする](https://postd.cc/mining-bitcoin-with-pencil-and-paper/)
 - [草コイン](https://fisco.jp/media/smallcoin-ranking/) ... researchat.coinつくるしかないじゃないか
-- [Nebla Genomics](https://nebula.org/technology/) ... George Churchの会社？ブロックチェーンとゲノムでほにゃほにゃするらしい。
+- [Nebula Genomics](https://nebula.org/technology/) ... George Churchの会社？ブロックチェーンとゲノムでほにゃほにゃするらしい。
 - Turn on, tune in, drop out.　... ティモシーの名言
 - LSD ... イケマセン
 - [僕は君たちに武器を配りたい/瀧本哲史](https://www.amazon.co.jp/-/dp/B07QLMBSVG/?tag=researchatf04-22)
