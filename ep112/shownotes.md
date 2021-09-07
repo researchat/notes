@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/112.mp3
 audio_file_size: 89793473
-date: 2021-09-07 02:52:00 +0900
+date: 2021-09-07 12:03:00 +0900
 description: MITでビットコインを無料配布した実験、ジョージ・ソロスのプリンター、活版印刷とインキュナブラとレンズ、ミームの原産地、江上不二夫語録、下村修と1944年のウミホタルについて話しました。
 duration: "02:00:13"
 layout: article
