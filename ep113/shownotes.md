@@ -45,7 +45,7 @@ title: 113. DNA transporter machine with wheel and tire
 
 ## Editorial notes
 - (soh)
-- Cipher 1.0とかクソ適当な話してすいませんでした。ラボASMRよさげ。(tadasu)
+- pher 1.0とかクソ適当な話してすいませんでした。ラボASMRよさげ。(tadasu)
 - (coela)
 
 
