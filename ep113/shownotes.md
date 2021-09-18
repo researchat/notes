@@ -20,13 +20,13 @@ title: 113. DNA transporting machine with wheel and tire
 - [遠心機](https://axel.as-1.co.jp/asone/s/A0060200/)
 - [超音波ホモジナイザー](https://www.wakenyaku.co.jp/ctg/ls.php?i=272) ... ソニケーター
 - [Boles et al., Nature Biotechnology (2017)](https://www.nature.com/articles/nbt.3859) ... "Digital-to-biological converter for on-demand production of biologics" 今回の論文
-- [Craig Ventor](https://www.jcvi.org/about/j-craig-venter) ... Biotechnology研究のリード研究者のうちの一人。自伝はマジでオススメです。
+- [J. Craig Venter](https://www.jcvi.org/about/j-craig-venter) ... Biotechnology研究のリード研究者のうちの一人。自伝はマジでオススメです。
 - [ヒトゲノムを解読した男 クレイグ・ベンター自伝](https://www.amazon.co.jp/dp/4759811583) ... もうタイトルからしてかっこよすぎます。
 - [J. Craig Venter Institute](https://www.jcvi.org/) ... Venterさんの私設研究所。研究者自前の研究所なんてもう憧れof憧れです。
 - [Daniel Gibson](https://www.jcvi.org/about/daniel-gibson) ... Gibson assemblyを作った人。
 - [Gibson Assembly](https://www.neb.com/applications/cloning-and-synthetic-biology/dna-assembly-and-cloning/gibson-assembly) ... 断片化したDNAをつなげる技術
 - [GLR parser](https://en.wikipedia.org/wiki/GLR_parser) ... 通称Tomita LR法
-- [Okazaki Fragment](https://www.itbm.nagoya-u.ac.jp/okazaki_award/okazaki_fragment_jp.html)
+- [Okazaki Fragment](https://www.itbm.nagoya-u.ac.jp/okazaki_award/okazaki_fragment_jp.html) ... "DNAの不連続的複製モデルを支持する研究成果は、1968年に行われたコールドスプリングハーバーシンポジウム (Replication of DNA in Microorganisms)において発表された。岡崎グループが発見した短いDNA鎖は、R. ホッチキス博士によるシンポジウムの最後のまとめの中で、"Okazaki pieces"と名付けられ (3)、その後「岡崎フラグメント」と呼ばれるようになった。"
 - [Synthetic genomics, INC](https://syntheticgenomics.com/)
 - [biologics](https://kotobank.jp/word/%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AD%E3%82%B8%E3%82%AF%E3%82%B9-1830519) ... バイオ医薬品とかのこと
 - [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
