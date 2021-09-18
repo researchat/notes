@@ -15,7 +15,7 @@ title: 113. DNA transporting machine with wheel and tire
 ---
 
 ## Show notes
-- [ASMR (自立聴覚絶頂反応)](https://ja.wikipedia.org/wiki/ASMR) ... Autonomous sensory meridian response (ASMR)。ラボASMR募集中です。
+- [ASMR (自立聴覚絶頂反応)](https://ja.wikipedia.org/wiki/ASMR) ... Autonomous sensory meridian response (ASMR)。[#ラボASMR](https://twitter.com/search?q=%23%E3%83%A9%E3%83%9CASMR&src=typed_query)募集中です。
 - [エッペンチューブ](https://www.eppendorf.com/JP-ja/myeppendorf/%E6%99%AF%E5%93%81%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/%E3%82%A8%E3%83%83%E3%83%9A%E3%83%B3%E3%83%89%E3%83%AB%E3%83%95%E8%A3%BD%E5%93%81/) ... エッペンドルフ社のチューブ
 - [遠心機](https://axel.as-1.co.jp/asone/s/A0060200/)
 - [超音波ホモジナイザー](https://www.wakenyaku.co.jp/ctg/ls.php?i=272) ... ソニケーター
@@ -45,7 +45,7 @@ title: 113. DNA transporting machine with wheel and tire
 
 ## Editorial notes
 - (soh)
-- Cypher 1.0とかクソ適当な話してすいませんでした。ラボASMRよさげ。論文をめくる音とかいいながら紙包みを開けつづけるおじさんにしか聞こえなくて悲しいです。(tadasu)
+- Cypher 1.0とかクソ適当な話してすいませんでした。#ラボASMR よさげ。論文をめくる音とかいいながら紙包みを開けつづけるおじさんにしか聞こえなくて悲しいです。(tadasu)
 - (coela)
 
 
