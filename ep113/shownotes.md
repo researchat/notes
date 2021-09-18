@@ -35,7 +35,7 @@ title: 113. DNA transporting machine with wheel and tire
 - [biosafety](https://www.phe.gov/s3/BioriskManagement/biosafety/Pages/Biosafety-FAQ.aspx)
 - [Star Trek](https://www.startrek.com/)
 - [Transporter](https://en.wikipedia.org/wiki/Transporter_(Star_Trek)) ... Star Trekに出てくる転送装置
-- [Reprap](https://reprap.org/) ... 3D printer
+- [Reprapプロジェクト](https://reprap.org/wiki/RepRap/ja) ... 自己複製する3D printerを目指すプロジェクト
 - [アジャイルソフトウェア開発](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A) ... このポッドキャスト、もう何回攻殻機動隊の話すれば気がすむの... 今回の話はG.I.Sです。
 - [Kilroy was here.](https://researchat.fm/episode/62) ... "Kilroy was here."
