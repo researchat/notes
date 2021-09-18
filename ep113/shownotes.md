@@ -11,7 +11,7 @@ duration: "01:19:13"
 layout: article
 tags:
   - 論文
-title: 113. DNA transporting machine with wheel and tire
+title: 113. DNA transporting machine with casters
 ---
 
 ## Show notes
