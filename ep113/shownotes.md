@@ -11,7 +11,7 @@ duration: "01:XX:13"
 layout: article
 tags:
   - 論文
-title: 113. DNA transporter machine with wheel and tire
+title: 113. DNA transporting machine with wheel and tire
 ---
 
 ## Show notes
@@ -19,7 +19,7 @@ title: 113. DNA transporter machine with wheel and tire
 - [エッペンチューブ](https://www.eppendorf.com/JP-ja/myeppendorf/%E6%99%AF%E5%93%81%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97/%E3%82%A8%E3%83%83%E3%83%9A%E3%83%B3%E3%83%89%E3%83%AB%E3%83%95%E8%A3%BD%E5%93%81/) ... エッペンドルフ社のチューブ
 - [遠心機](https://axel.as-1.co.jp/asone/s/A0060200/)
 - [超音波ホモジナイザー](https://www.wakenyaku.co.jp/ctg/ls.php?i=272) ... ソニケーター
-- [Digital to Bilogoical Converter DBC article]
+- [Boles et al., Nature Biotechnology (2017)](https://www.nature.com/articles/nbt.3859) ... "Digital-to-biological converter for on-demand production of biologics" 今回の論文
 - [Craig Ventor](https://www.jcvi.org/about/j-craig-venter) ... Biotechnology研究のリード研究者のうちの一人。自伝はマジでオススメです。
 - [ヒトゲノムを解読した男 クレイグ・ベンター自伝](https://www.amazon.co.jp/dp/4759811583) ... もうタイトルからしてかっこよすぎます。
 - [J. Craig Venter Institute](https://www.jcvi.org/) ... Venterさんの私設研究所。研究者自前の研究所なんてもう憧れof憧れです。
