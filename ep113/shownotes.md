@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/113.mp3
-audio_file_size: X
+audio_file_size: 80140452
 date: 2021-09-19 12:03:00 +0900
 description: DNA、RNA、タンパク質を、デジタルな情報から物質へとプリントするDigital-to-Biological Converter (DBC)の技術について論文を中心に議論しました。
-duration: "01:XX:13"
+duration: "01:19:13"
 layout: article
 tags:
   - 論文
