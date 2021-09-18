@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/113.mp3
 audio_file_size: X
 date: 2021-09-19 12:03:00 +0900
-description: DNA、RNA、タンパク質を、デジタルな情報から物質へプリントするDigital-to-Biological Converter (DBC)の技術について論文を中心に議論しました。
+description: DNA、RNA、タンパク質を、デジタルな情報から物質へとプリントするDigital-to-Biological Converter (DBC)の技術について論文を中心に議論しました。
 duration: "01:XX:13"
 layout: article
 tags:
@@ -38,7 +38,7 @@ title: 113. DNA transporting machine with wheel and tire
 - [Reprap](https://reprap.org/) ... 3D printer
 - [アジャイルソフトウェア開発](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)
 - [攻殻機動隊](https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A) ... このポッドキャスト、もう何回攻殻機動隊の話すれば気がすむの... 今回の話はG.I.Sです。
-- [Kilroy was here](https://researchat.fm/episode/62)
+- [Kilroy was here.](https://researchat.fm/episode/62) ... "Kilroy was here."
 - [Codex DNA](https://codexdna.com/)
 - [BioXP](https://codexdna.com/products/bioxp-system/)
 - [CodexDNA](https://twitter.com/codex_dna/status/283225750046400515)
