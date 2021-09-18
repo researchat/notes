@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: /audio/113.mp3
 audio_file_size: X
 date: 2021-09-19 12:03:00 +0900
-description: DNA、RNA、タンパク質を、デジタルな情報から物質へのプリント」するDigital-to-Biological Converter (DBC)の技術について論文を中心に議論しました。
+description: DNA、RNA、タンパク質を、デジタルな情報から物質へプリントするDigital-to-Biological Converter (DBC)の技術について論文を中心に議論しました。
 duration: "01:XX:13"
 layout: article
 tags:
