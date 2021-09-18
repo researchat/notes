@@ -21,7 +21,7 @@ title: 113. DNA transporting machine with wheel and tire
 - [超音波ホモジナイザー](https://www.wakenyaku.co.jp/ctg/ls.php?i=272) ... ソニケーター
 - [Boles et al., Nature Biotechnology (2017)](https://www.nature.com/articles/nbt.3859) ... "Digital-to-biological converter for on-demand production of biologics" 今回の論文
 - [J. Craig Venter](https://www.jcvi.org/about/j-craig-venter) ... Biotechnology研究のリード研究者のうちの一人。自伝はマジでオススメです。
-- [ヒトゲノムを解読した男 クレイグ・ベンター自伝](https://www.amazon.co.jp/dp/4759811583) ... もうタイトルからしてかっこよすぎます。
+- [ヒトゲノムを解読した男 クレイグ・ベンター自伝](https://www.amazon.co.jp/dp/4759811583/?tag=researchatf04-22) ... もうタイトルからしてかっこよすぎます。
 - [J. Craig Venter Institute](https://www.jcvi.org/) ... Venterさんの私設研究所。研究者自前の研究所なんてもう憧れof憧れです。
 - [Daniel Gibson](https://www.jcvi.org/about/daniel-gibson) ... Gibson assemblyを作った人。
 - [Gibson Assembly](https://www.neb.com/applications/cloning-and-synthetic-biology/dna-assembly-and-cloning/gibson-assembly) ... 断片化したDNAをつなげる技術
