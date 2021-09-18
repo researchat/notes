@@ -46,4 +46,4 @@ title: 113. DNA transporting machine with wheel and tire
 ## Editorial notes
 - CodexDNA試してみたいです (soh)
 - Cypher 1.0とかクソ適当な話してすいませんでした。#ラボASMR よさげ。論文をめくる音とかいいながら紙包みを開けつづけるおじさんにしか聞こえなくて悲しいです。(tadasu)
-- (coela)
+- アケコンASMRは俺に任せろーー(coela)
