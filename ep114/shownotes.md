@@ -14,8 +14,8 @@ title: 114. Logos of Logos
 ---
 
 ## Show notes
-- [researchat.fm ep100](https://researchat.fm/episode/100) ... researchat.fmの読み方について議論した回
-- [researchat.fm ep84](https://researchat.fm/episode/84) ... 格ゲー回
+- [Researchat.fm ep100](https://researchat.fm/episode/100) ... researchat.fmの読み方について議論した回
+- [Researchat.fm ep84](https://researchat.fm/episode/84) ... 格ゲー回
 - ポッドキャストのアートワーク ... researchat.fmなら灰色の風呂場のタイルにresearchatと書いているアレです。
 - [Researchat.fmのTwitter](https://twitter.com/researchat_fm)
 - [タコスとタトゥー](https://www.sfgate.com/food/article/casa-sanchez-tattoos-free-meal-promo-san-francisco-16465800.php)
@@ -48,35 +48,30 @@ title: 114. Logos of Logos
 - [パリ大学の校章](https://en.wikipedia.org/wiki/University_of_Paris#/media/File:Coat_of_arms_of_the_University_of_Paris.svg)
 - [ボローニャ大学の校章](https://commons.wikimedia.org/wiki/File:Seal_of_the_University_of_Bologna.svg)
 - [MITの校章](https://web.mit.edu/graphicidentity/seal.html)
-- ミシガン大学の校章
-- スタンフォード大学の校章
-- 東京大学の校章
-- 京都大学の校章
-- 東工大の校章
-- 一橋の校章
-- 慶応のペン
-- 開成のペン
-- 早稲田の校章
-- 同志社の校章
-- 立教大学のニョキニョキ
-- 立教大学の校章
-- 青学の校章
-- 同志社の校章
-- 同志社の三角形
-- 新島襄
-- フィリップススクール
-- アマースト校
-- 一橋の由来
-- 北京大学
-- 精華大学
-- シドニーブレナー
-- シーサー　… スフィンクス、狛犬、シーサー
-- OIST
-- UC … The university of California
-- UC berkerey … Cal
-- レッドソックスのロゴ
-- レッドソックスのB
-- 大谷回
+- [ミシガン大学の校章](https://en.wikipedia.org/wiki/University_of_Michigan#/media/File:Seal_of_the_University_of_Michigan.svg)
+- [スタンフォード大学の校章](https://en.wikipedia.org/wiki/Stanford_University#/media/File:Stanford_University_seal_2003.svg)
+- [東京大学の校章](https://www.u-tokyo.ac.jp/ja/about/public-relations/b01_05_01.html)
+- [京都大学の校章](https://www.kyoto-u.ac.jp/ja/about/operation/symbol/vi)
+- [東京工業大学の校章](https://www.titech.ac.jp/public-relations/about/overview/logo/seal)
+- [一橋大学の校章](https://www.hit-u.ac.jp/guide/outline/emblem.html)
+- [慶應義塾大学のペン](https://www.keio.ac.jp/ja/about/learn-more/logo/symbols.html)
+- [開成のペン](https://kaiseigakuen.jp/about/schoolsong/)
+- [早稲田大学の校章](https://www.waseda.jp/top/about/work/logos)
+- [同志社の校章](https://www.doshisha.ac.jp/information/history/emblem.html)
+- [立教学院の校章](https://www.rikkyogakuin.jp/about/symbol.html)
+- [青山学院の校章](https://www.aoyama.ac.jp/outline/visual_identity.html)
+- [新島襄](https://ja.wikipedia.org/wiki/%E6%96%B0%E5%B3%B6%E8%A5%84)
+- [Phillips Academy](https://en.wikipedia.org/wiki/Phillips_Academy) ... 新島襄さんの出身エリート校
+- [Phillips Exeter Academy](https://en.wikipedia.org/wiki/Phillips_Exeter_Academy) ... ザッカーバーグや望月新一先生が出身の学校は姉妹校のこちらです。
+- [University of Massachusetts Amherst](https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst) ... UMASのアマースト校
+- [北京大学](https://english.pku.edu.cn/)
+- [シドニーブレナー回](https://researchat.fm/episode/7)
+- [シーサー](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC) ... "名前は「獅子（しし）」（元はサンスクリット語のライオン、シンハー）を沖縄語で発音したものである。八重山方言ではシィーシィー、シーシ－という。スフィンクスや中国の石獅、日本本土の狛犬などと同じく、源流は古代オリエントのライオンと伝えられている。犬という説もあるが、沖縄に関連の深かった中国や南方からの影響を考えてやはり獅子であろうという意見や、またその音からも獅子と断言される事がある。中国南部や台湾には風獅爺、風獅と呼ばれる石造の獅子を風除けの守りとして設置する風習があり、これらがシーサーと訳されることがある。"
+- [OIST](https://www.oist.jp/)　... 沖縄の雄。沖縄科学技術大学院大学
+- [UC](https://en.wikipedia.org/wiki/University_of_California) … The university of California
+- [UC Berkeley](https://www.berkeley.edu/)
+- [レッドソックスのロゴ](https://sportslogohistory.com/boston-red-sox-primary-logo)
+- [Researchat.fm ep23](https://researchat.fm/episode/23) ... 大谷回
 - レッドソックスのユニフォーム
 - レッドソックスの靴下マスコット
 - 日本の野球チームのロゴ
