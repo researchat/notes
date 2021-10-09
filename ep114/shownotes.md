@@ -76,7 +76,7 @@ title: 114. Logos of Logos
 - [レッドソックスの靴下マスコット](https://twitter.com/researchat_fm/status/1440488276394065926)
 - [大阪近鉄バッファローズ](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E8%BF%91%E9%89%84%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA)
 - [鍛治舍巧監督](https://ja.wikipedia.org/wiki/%E9%8D%9B%E6%B2%BB%E8%88%8E%E5%B7%A7) ... 名将
-- 岐阜商
+- [岐阜県立岐阜商業高校](https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E7%9C%8C%E7%AB%8B%E5%B2%90%E9%98%9C%E5%95%86%E6%A5%AD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1)
 - ウォーリアーズ
 - CSH
 - JJ
