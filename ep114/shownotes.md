@@ -3,9 +3,9 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/114.mp3
-audio_file_size: X
+audio_file_size: 82387048
 date: 2021-10-08 13:43:00 +0900
-description: ブランドのカリスマ性とタトゥー/PCに貼るステッカー、大学の校章デザイン、スポーツチームのロゴデザイン、企業ロゴのデザイン、ポッドキャストのアートワークのデザインについて話しました。
+description: ブランドのカリスマ性とタトゥー/PCに貼るステッカー、大学の校章デザイン、スポーツチームのロゴデザイン、企業ロゴのデザイン、ポッドキャストのアートワークデザインについて話しました。
 duration: "02:17:38"
 layout: article
 tags:
