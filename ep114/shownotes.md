@@ -30,7 +30,7 @@ title: 114. Logos of Logos
 - [DOB君](https://prtimes.jp/main/html/rd/p/000000622.000018324.html)
 - [村上隆全集](https://www.amazon.co.jp/dp/4568104505/) ... DOB君の由来についてはここに書いてます！
 - [Thorlab](https://www.thorlabs.com/) ... 自作顕微鏡用のメーカー
-- [Thorlab Tシャツ](https://ameblo.jp/ladybird-2011/entry-12410718615.html) ... 
+- [Thorlab Tシャツ](https://ameblo.jp/ladybird-2011/entry-12410718615.html) ... 冷静になってみなおすと...
 - 学会のTシャツ … 国際学会にいくと謎のリュックと共にもらえることがある。
 - [NAIST](https://www.naist.jp/) ... 奈良先端科学技術大学院大学
 - [NAISTのTシャツ](https://www.amazon.co.jp/dp/B01E73STKI) ... JAISTしかなかったのでJAISTを貼っておきます。
