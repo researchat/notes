@@ -72,7 +72,7 @@ title: 114. Logos of Logos
 - [UC Berkeley](https://www.berkeley.edu/)
 - [レッドソックスのロゴ](https://sportslogohistory.com/boston-red-sox-primary-logo)
 - [Researchat.fm ep23](https://researchat.fm/episode/23) ... 大谷回
-- レッドソックスのユニフォーム
+- [レッドソックスのダメなユニフォーム](https://www.cbssports.com/mlb/news/why-red-sox-plan-to-wear-yellow-jerseys-in-pivotal-matchup-vs-yankees/)
 - レッドソックスの靴下マスコット
 - 日本の野球チームのロゴ
 - バッファローズ
