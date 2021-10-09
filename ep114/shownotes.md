@@ -87,25 +87,25 @@ title: 114. Logos of Logos
 - [octocat](https://myoctocat.com/)
 - [NASURA](http://www.naist.jp/about/pr/character.html) ... NAISTのキャラ。思っているよりかっこよかった。
 - interxionのokaさん　
-- droid君
-- だんぼくん
-- Dockerの鯨
-- SNK
-- NEOGEO
-- FF6
-- スターオーシャン
-- 鳥山明先生
-- 三越のライオン
-- ハンガリーの鎖橋
-- 金剛組
-- 虎屋
-- ようかんの回
+- [ドロイド君](https://www.amazon.co.jp/dp/B006BIOY9S)
+- [ダンボ君](https://www.amazon.co.jp/dp/B01ER6BN1W/)
+- [dockerのクジラ](https://www.docker.com/blog/call-me-moby-dock/)
+- [SNK](https://en.wikipedia.org/wiki/SNK)
+- [NEOGEO](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%B8%E3%82%AA)
+- [FF6](https://en.wikipedia.org/wiki/Final_Fantasy_VI)
+- [スターオーシャン](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3)
+- [鳥山明先生](https://ja.wikipedia.org/wiki/%E9%B3%A5%E5%B1%B1%E6%98%8E)
+- [三越のライオン](https://www.mistore.jp/store/nihombashi/column_list_all/nihombashi_history/list02.html)
+- [ハンガリーの鎖橋](https://www.jcca.or.jp/dobokuisan/world/easteurope/kusari.html)
+- [金剛組](https://ja.wikipedia.org/wiki/%E9%87%91%E5%89%9B%E7%B5%84)
+- [虎屋](https://www.toraya-group.co.jp/)
+- [Researchat.fm ep5](https://researchat.fm/episode/5) ... 羊羹の回
 - ネコ目です。ネコ科じゃない！
-- リーバイス
-- 笑い男
+- [levi's](https://www.levi.jp/)
+- [笑い男](https://ja.wikipedia.org/wiki/%E7%AC%91%E3%81%84%E7%94%B7_(%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A))
 - りさちゃん、ちゃっとくん、CasXくん
 - Researchatのアートワーク
-- 深津さんの記事
+- [深津さんの東京オリンピック記事](https://news.yahoo.co.jp/byline/takayukifukatsu/20150907-00049112)
 - 鏡像
 
 ## Editorial notes
