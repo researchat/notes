@@ -65,7 +65,7 @@ title: 114. Logos of Logos
 - [Phillips Exeter Academy](https://en.wikipedia.org/wiki/Phillips_Exeter_Academy) ... ザッカーバーグや望月新一先生が出身の学校は姉妹校のこちらです。
 - [University of Massachusetts Amherst](https://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst) ... UMASのアマースト校
 - [北京大学](https://english.pku.edu.cn/)
-- [シドニーブレナー回](https://researchat.fm/episode/7)
+- [Researchat.fm ep7](https://researchat.fm/episode/7) ... シドニーブレナー回
 - [シーサー](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%B5%E3%83%BC) ... "名前は「獅子（しし）」（元はサンスクリット語のライオン、シンハー）を沖縄語で発音したものである。八重山方言ではシィーシィー、シーシ－という。スフィンクスや中国の石獅、日本本土の狛犬などと同じく、源流は古代オリエントのライオンと伝えられている。犬という説もあるが、沖縄に関連の深かった中国や南方からの影響を考えてやはり獅子であろうという意見や、またその音からも獅子と断言される事がある。中国南部や台湾には風獅爺、風獅と呼ばれる石造の獅子を風除けの守りとして設置する風習があり、これらがシーサーと訳されることがある。"
 - [OIST](https://www.oist.jp/)　... 沖縄の雄。沖縄科学技術大学院大学
 - [UC](https://en.wikipedia.org/wiki/University_of_California) … The university of California
