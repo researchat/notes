@@ -41,13 +41,13 @@ title: 114. Logos of Logos
 - [Harvard's motto](https://news.harvard.edu/gazette/story/2015/05/seal-of-approval/) ... VERITASの解説記事
 - 神学部 ... Divinity School
 - [TAS](https://dic.nicovideo.jp/a/tas) ... "TASとは、TVゲーム等においてエミュレータの機能を用いたタイムアタックを行う事、およびその競技名。"
-- [Ivy league](https://en.wikipedia.org/wiki/Ivy_League) ... "Brown University, Columbia University, Cornell University, Dartmouth College, Harvard University, the University of Pennsylvania, Princeton University, and Yale University"
-- Ivy Leagueの校章
-- Oxford大学の校章
-- Cambridge大学の校章
-- パリ大学の校章
-- ボローニャ大学の校章
-- MITの校章
+- [Ivy league](https://en.wikipedia.org/wiki/Ivy_League) ... "Brown University, Columbia University, Cornell University, Dartmouth College, Harvard University, the University of Pennsylvania, Princeton University, Yale University"
+- [Ivy Leagueの校章](https://www.pinterest.ca/pin/827606869006729220/)
+- [Oxford大学の校章](https://en.wikipedia.org/wiki/Coat_of_arms_of_the_University_of_Oxford)
+- [Cambridge大学の校章](https://en.wikipedia.org/wiki/Coat_of_arms_of_the_University_of_Cambridge)
+- [パリ大学の校章](https://en.wikipedia.org/wiki/University_of_Paris#/media/File:Coat_of_arms_of_the_University_of_Paris.svg)
+- [ボローニャ大学の校章](https://commons.wikimedia.org/wiki/File:Seal_of_the_University_of_Bologna.svg)
+- [MITの校章](https://web.mit.edu/graphicidentity/seal.html)
 - ミシガン大学の校章
 - スタンフォード大学の校章
 - 東京大学の校章
