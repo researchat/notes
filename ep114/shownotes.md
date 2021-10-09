@@ -24,11 +24,11 @@ title: 114. Logos of Logos
 - [コカコーラの刺青](http://naokisakailab.blogspot.com/2013/04/) ... "コカ・コーラ大好き青年だった彼は、 背中にコカ・コーラの入れ墨を彫りたいと考える。それだけれは終わらなかった。彼は入れ墨をした背中を広告媒体にしようと電通にプレゼンテーションする。媒体料は１億円。突拍子もない企画だったが、電通の窓口は真剣に検討しようとしたという。しかし、入れ墨は牛の焼き印（ブランディング）にイメージ が重なるなど、まだアメリカ社会でもタブー視されていた。結局、広告には向かないと没になる。"
 - [アイスマンとタトゥー](https://natgeo.nikkeibp.co.jp/nng/article/news/14/8469/) ... "エッツィの凍りついたミイラには、銅器時代の入れ墨が良好な状態で残っている。合計50片を超える入れ墨が頭から足先まで全身を覆いつくすように刻まれている。これらは針を使って彫られたのではなく、皮膚に細かな傷をつけ、そこに炭を擦り込むことで描かれたものだ"
 - [るろうに剣心](https://www.amazon.co.jp/dp/B009PL82SC/)
-- [ドカベン](https://www.amazon.co.jp/dp/B002CZPJZ2/) ... 傑作。土佐丸高校の犬丸じゃなくて、犬神です。大変もうしわけございませんでした。
+- [ドカベン](https://www.amazon.co.jp/dp/B002CZPJZ2/?tag=researchatf04-22/) ... 傑作。土佐丸高校の犬丸じゃなくて、犬神です。大変もうしわけございませんでした。
 - [井岡タトゥー問題](https://news.yahoo.co.jp/articles/c4a80872e1e04866d5ec32829175f5d1c91cc079)
 - [村上隆](https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E9%9A%86) ... 現代芸術家
 - [DOB君](https://prtimes.jp/main/html/rd/p/000000622.000018324.html)
-- [村上隆全集](https://www.amazon.co.jp/dp/4568104505/) ... DOB君の由来についてはここに書いてます！
+- [村上隆全集](https://www.amazon.co.jp/dp/4568104505/?tag=researchatf04-22/) ... DOB君の由来についてはここに書いてます！
 - [Thorlab](https://www.thorlabs.com/) ... 自作顕微鏡用のメーカー
 - [Thorlab Tシャツ](https://ameblo.jp/ladybird-2011/entry-12410718615.html) ... 冷静になってみなおすと...
 - 学会のTシャツ … 国際学会にいくと謎のリュックと共にもらえることがある。
@@ -36,7 +36,7 @@ title: 114. Logos of Logos
 - [NAISTのTシャツ](https://www.amazon.co.jp/dp/B01E73STKI) ... JAISTしかなかったのでJAISTを貼っておきます。
 - スウェットパンツ … 私が言いたかったのはスウェットパンツ
 - [ハーバードの校章](https://www.harvard.edu/about-harvard/harvard-history/harvard-shields/)
-- [鋼の錬金術師](https://www.amazon.co.jp/dp/B009T8RYF8/)
+- [鋼の錬金術師](https://www.amazon.co.jp/dp/B009T8RYF8/?tag=researchatf04-22/)
 - [dessan](https://twitter.com/D_Strangedea)
 - [Harvard's motto](https://news.harvard.edu/gazette/story/2015/05/seal-of-approval/) ... VERITASの解説記事
 - 神学部 ... Divinity School
@@ -87,8 +87,8 @@ title: 114. Logos of Logos
 - [octocat](https://myoctocat.com/)
 - [NASURA](http://www.naist.jp/about/pr/character.html) ... NAISTのキャラ。思っているよりかっこよかった。
 - ["物性犬、地球犬、情報犬、びけん以外の研究所犬キャラ情報をお待ちしております" by okaさん](https://twitter.com/nowohyeah/status/1433397842589085697)　
-- [ドロイド君](https://www.amazon.co.jp/dp/B006BIOY9S)
-- [ダンボ君](https://www.amazon.co.jp/dp/B01ER6BN1W/)
+- [ドロイド君](https://www.amazon.co.jp/dp/B006BIOY9S/?tag=researchatf04-22/)
+- [ダンボ君](https://www.amazon.co.jp/dp/B01ER6BN1W/?tag=researchatf04-22/)
 - [dockerのクジラ](https://www.docker.com/blog/call-me-moby-dock/)
 - [SNK](https://en.wikipedia.org/wiki/SNK)
 - [NEOGEO](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AA%E3%82%B8%E3%82%AA)
@@ -109,4 +109,4 @@ title: 114. Logos of Logos
 
 ## Editorial notes
 - ポッドキャストのアートワークをしっかり考えないとね。多方面に先に謝罪しておきます。(tadasu)
-- (coela)
+- TBD (coela)
