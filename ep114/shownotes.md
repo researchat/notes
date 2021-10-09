@@ -73,10 +73,9 @@ title: 114. Logos of Logos
 - [レッドソックスのロゴ](https://sportslogohistory.com/boston-red-sox-primary-logo)
 - [Researchat.fm ep23](https://researchat.fm/episode/23) ... 大谷回
 - [レッドソックスのダメなユニフォーム](https://www.cbssports.com/mlb/news/why-red-sox-plan-to-wear-yellow-jerseys-in-pivotal-matchup-vs-yankees/)
-- レッドソックスの靴下マスコット
-- 日本の野球チームのロゴ
-- バッファローズ
-- 鍛冶舎監督
+- [レッドソックスの靴下マスコット](https://twitter.com/researchat_fm/status/1440488276394065926)
+- [大阪近鉄バッファローズ](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%98%AA%E8%BF%91%E9%89%84%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA)
+- [鍛治舍巧監督](https://ja.wikipedia.org/wiki/%E9%8D%9B%E6%B2%BB%E8%88%8E%E5%B7%A7) ... 名将
 - 岐阜商
 - ウォーリアーズ
 - CSH
