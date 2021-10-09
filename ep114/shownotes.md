@@ -103,7 +103,7 @@ title: 114. Logos of Logos
 - [levi's](https://www.levi.jp/)
 - [笑い男](https://ja.wikipedia.org/wiki/%E7%AC%91%E3%81%84%E7%94%B7_(%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A))
 - りさちゃん、ちゃっとくん、CasXくん
-- [Researchatのアートワーク](images/blog/researchat_artwork_211004.png)
+- [Researchatのアートワーク](https://researchat.fm/images/blog/researchat_artwork_211004.png)
 - [深津さんの東京オリンピック記事](https://news.yahoo.co.jp/byline/takayukifukatsu/20150907-00049112)
 - [Researchat.fm ep111](https://researchat.fm/episode/111) ... 鏡像異性体ポリメラーゼの話
 
