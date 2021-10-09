@@ -106,7 +106,7 @@ title: 114. Logos of Logos
 - りさちゃん、ちゃっとくん、CasXくん
 - Researchatのアートワーク
 - [深津さんの東京オリンピック記事](https://news.yahoo.co.jp/byline/takayukifukatsu/20150907-00049112)
-- 鏡像
+- [Researchat.fm ep111](https://researchat.fm/episode/111) ... 鏡像異性体ポリメラーゼの話
 
 ## Editorial notes
 - (tadasu)
