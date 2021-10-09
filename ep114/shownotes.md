@@ -21,7 +21,7 @@ title: 114. Logos of Logos
 - [タコスとタトゥー](https://www.sfgate.com/food/article/casa-sanchez-tattoos-free-meal-promo-san-francisco-16465800.php)
 - [坂井直樹](https://ja.wikipedia.org/wiki/%E5%9D%82%E4%BA%95%E7%9B%B4%E6%A8%B9)
 - [企業のカリスマ性とタトゥー](http://sakainaoki.blogspot.com/2010/12/blog-post_559.html)
-- [コカコーラの刺青](http://naokisakailab.blogspot.com/2013/04/)
+- [コカコーラの刺青](http://naokisakailab.blogspot.com/2013/04/) ... "コカ・コーラ大好き青年だった彼は、 背中にコカ・コーラの入れ墨を彫りたいと考える。それだけれは終わらなかった。彼は入れ墨をした背中を広告媒体にしようと電通にプレゼンテーションする。媒体料は１億円。突拍子もない企画だったが、電通の窓口は真剣に検討しようとしたという。しかし、入れ墨は牛の焼き印（ブランディング）にイメージ が重なるなど、まだアメリカ社会でもタブー視されていた。結局、広告には向かないと没になる。"
 - [アイスマンとタトゥー](https://natgeo.nikkeibp.co.jp/nng/article/news/14/8469/) ... "エッツィの凍りついたミイラには、銅器時代の入れ墨が良好な状態で残っている。合計50片を超える入れ墨が頭から足先まで全身を覆いつくすように刻まれている。これらは針を使って彫られたのではなく、皮膚に細かな傷をつけ、そこに炭を擦り込むことで描かれたものだ"
 - [るろうに剣心](https://www.amazon.co.jp/dp/B009PL82SC/)
 - [ドカベン](https://www.amazon.co.jp/dp/B002CZPJZ2/) ... 傑作。土佐丸高校の犬丸じゃなくて、犬神です。大変もうしわけございませんでした。
@@ -41,7 +41,7 @@ title: 114. Logos of Logos
 - [Harvard's motto](https://news.harvard.edu/gazette/story/2015/05/seal-of-approval/) ... VERITASの解説記事
 - 神学部 ... Divinity School
 - [TAS](https://dic.nicovideo.jp/a/tas) ... "TASとは、TVゲーム等においてエミュレータの機能を用いたタイムアタックを行う事、およびその競技名。"
-- Ivy league
+- [Ivy league](https://en.wikipedia.org/wiki/Ivy_League) ... "Brown University, Columbia University, Cornell University, Dartmouth College, Harvard University, the University of Pennsylvania, Princeton University, and Yale University"
 - Ivy Leagueの校章
 - Oxford大学の校章
 - Cambridge大学の校章
