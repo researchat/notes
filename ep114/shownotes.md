@@ -86,7 +86,7 @@ title: 114. Logos of Logos
 - [キャノン](https://global.canon/en/news/2014/sep02e.html) ... Kwanonかっこいい！！！
 - [octocat](https://myoctocat.com/)
 - [NASURA](http://www.naist.jp/about/pr/character.html) ... NAISTのキャラ。思っているよりかっこよかった。
-- interxionのokaさん　
+- ["物性犬、地球犬、情報犬、びけん以外の研究所犬キャラ情報をお待ちしております" by okaさん](https://twitter.com/nowohyeah/status/1433397842589085697)　
 - [ドロイド君](https://www.amazon.co.jp/dp/B006BIOY9S)
 - [ダンボ君](https://www.amazon.co.jp/dp/B01ER6BN1W/)
 - [dockerのクジラ](https://www.docker.com/blog/call-me-moby-dock/)
@@ -100,7 +100,6 @@ title: 114. Logos of Logos
 - [金剛組](https://ja.wikipedia.org/wiki/%E9%87%91%E5%89%9B%E7%B5%84)
 - [虎屋](https://www.toraya-group.co.jp/)
 - [Researchat.fm ep5](https://researchat.fm/episode/5) ... 羊羹の回
-- ネコ目です。ネコ科じゃない！
 - [levi's](https://www.levi.jp/)
 - [笑い男](https://ja.wikipedia.org/wiki/%E7%AC%91%E3%81%84%E7%94%B7_(%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A))
 - りさちゃん、ちゃっとくん、CasXくん
