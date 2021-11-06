@@ -10,7 +10,7 @@ duration: "00:57:40"
 layout: article
 tags:
   - 論文
-title: 115. 
+title: 115. Googlability Again
 ---
 
 ## Show notes
