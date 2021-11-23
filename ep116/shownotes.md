@@ -3,14 +3,14 @@ actor_ids:
   - soh
   - tadasu
 audio_file_path: /audio/116.mp3
-audio_file_size: 
+audio_file_size: 69602742
 date: 2021-11-24 5:34:00 +0900
 description: ブリティッシュ・コロンビア州に広がる広大な自然の魅力、絶滅の危機に瀕した言語、イヌイットの人々の暮らし、数の概念について話しました。
-duration: "00:57:40"
+duration: "01:36:40"
 layout: article
 tags:
   - 雑談
-title: 116. Podcaster Evangelist
+title: 116. Podcast Evangelist
 ---
 
 - [はじめよう！ 研究者ポッドキャスト―多様な研究者を“聴ける化”する新たなメディア (実験医学11月号)](https://www.yodosha.co.jp/jikkenigaku/book/9784758125499/index.html) ... 研エンの仲とNeuroRadio、Researchat.fmの３つの番組による対談が実験医学で特集されています。
