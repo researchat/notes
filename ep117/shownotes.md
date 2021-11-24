@@ -20,14 +20,10 @@ title: 117. The father of the internet in a Gakuran
 - [CPT Japan 予選](https://liquipedia.net/fighters/Capcom_Pro_Tour/2021/Asia/Japan/3)
 - [スミソニアン博物館・美術館のリスト](https://www.si.edu/museums)
 - [某先生のスペースデブリとハッブル望遠鏡のツイート](https://twitter.com/minesoh/status/1444720701383053315) ... 貫通したとは言っていない
-- [National Air and Space Museum Steven F. Udvar-Hazy Center](https://www.si.edu/museums/air-and-space-museum-udvar-hazy-center)
-- 生物 https://naturalhistory.si.edu/
-- アメリカ
-- 美術館二個
-- フェルメール
-- 草間彌生
-- 電動キックボード loop
-- キツツキ
+- [National Air and Space Museum Steven F. Udvar-Hazy Center](https://www.si.edu/museums/air-and-space-museum-udvar-hazy-center) ... いわゆる国立航空宇宙博物館
+- [National Museum of Natural History](https://naturalhistory.si.edu/)　... 国立自然史博物館。みんなが想像している化石の博物館はここ。
+- [レンタル式電動キックボード](https://www.li.me/en-US/home) ... bostonにはないので乗ったことがない。乗ってみたい。
+- [絶滅認定されたハシジロキツツキ](https://natgeo.nikkeibp.co.jp/atcl/news/21/100400481/)
 - DKの本
 - 某先生の穴ツイート
 - 鴨嘴のツイート
