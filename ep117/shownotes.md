@@ -47,8 +47,8 @@ title: 117. The father of the internet in a Gakuran
 - [DARPA(The Defense Advanced Research Projects Agency: DARPA)](https://www.darpa.mil/) ... ".mil"ってあるのか....
 - [トンビ服](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%90%E3%83%8D%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88) ... 昔の写真でしかみたことがないアレ
 - [村井純](https://ja.wikipedia.org/wiki/%E6%9D%91%E4%BA%95%E7%B4%94) ... "「日本のインターネットの父」とされ、「ミスター・インターネット」と呼ばれることもある。英語圏では「インターネット・サムライ」のニックネームを持つ。"
-- サソリ飴
-- サソリウォッカ
+- [サソリ飴](https://twitter.com/researchat_fm/status/1449522271073103872) ... 次世代の虫色である。
+- [サソリウォッカ](https://www.thailandunique.com/unique-food-drink/scorpion-whiskey-vodka) ... この会社、イカれてるぜ...!!!
 - こいずみさん
 - 村井純さんと小泉さんの本
 - 小泉さんのポッドキャスト
