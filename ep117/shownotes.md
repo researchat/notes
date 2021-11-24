@@ -58,4 +58,4 @@ title: 117. The father of the internet in a Gakuran
 
 ## Editorial notes
 - 学ランが似合うイケおじになりたい(無理)(tadasu)
-- (coela)
+- 格ゲーにおける飯綱落としについてはもっと語りたかったのですが自重しました。(coela)
