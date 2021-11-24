@@ -3,10 +3,10 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: /audio/117.mp3
-audio_file_size: 57814035
+audio_file_size: 16790464
 date: 2021-11-24 12:00:00 +0900
 description: 告知事項がございます。Researchat.LT vol.2 開催に関しての告知を行いました。
-duration: "01:13:07"
+duration: "00:07:00"
 layout: article
 tags:
   - 雑談
