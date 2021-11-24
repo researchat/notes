@@ -29,19 +29,24 @@ title: 117. The father of the internet in a Gakuran
 - [カモノハシのクチバシ1](https://twitter.com/researchat_fm/status/1234128486907826177)
 - [カモノハシのクチバシ2](https://twitter.com/researchat_fm/status/1449318740110290946)
 - [The British Museum](https://www.britishmuseum.org/) ... 大英博物館
-- 日清のカップラーメン
-- 鯨骨生物群集
-- 鯨爆発
-- アメリカ歴史博物館
-- vf3
-- 海ほたる
-- ゔぃんとさーふ
-- ティムバーナードリー
-- webby award
-- インターネット
-- DARPA
-- トンビ
-- 村井潤
+- [水圧によって潰される日清のカップラーメン](https://twitter.com/researchat_fm/status/1449318754802970626) ... なぜ日清なのか、深海には破棄された未開封の日清が集まっているのか。調査隊はその調査をしに深海へ...
+- [鯨骨生物群集](https://ja.wikipedia.org/wiki/%E9%AF%A8%E9%AA%A8%E7%94%9F%E7%89%A9%E7%BE%A4%E9%9B%86) ... ロマンしかない。色々実験がされていますよね。鯨骨生物群集（げいこつせいぶつぐんしゅう、(fauna of) whale falls）とは、深海において沈降したクジラの死骸を中心に形成される生物群集のことである。熱水噴出孔と同様、隔離された環境の特殊な生態系として注目されている。"
+- [鯨爆発](https://ja.wikipedia.org/wiki/%E9%AF%A8%E3%81%AE%E7%88%86%E7%99%BA) ... ドッッカアアアアアアアアン！！！！！
+- [National Museum of American History](https://americanhistory.si.edu/) ... 国立アメリカ歴史博物館
+- [バーチャファイター3がスミソニアンに？ 1](https://www.gamespot.com/articles/sega-storms-the-smithsonian/1100-2463077/) ... 一体どこにあるのか...
+- [バーチャファイター3がスミソニアンに？ 2](https://www.interactive.org/special_awards/details.asp?idSpecialAwards=4) ... ないぞ... "The Virtua Fighter series is recognized for its contributions in the fields of Arts & Entertainment and is the only video game on permanent display in the Smithsonian Institution's Permanent Research Collection on Information Technology Innovation, at the Smithsonian's National Museum of American History in Washington D.C."
+- [ウミホタルとresearchat.fm](https://researchat.fm/episode/112) ... ep112
+- [Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) ... インターネットの父
+- [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)
+- [The Webby Award](https://www.webbyawards.com/)
+- [Vint Cerf氏がWebby Awardを受賞した時の写真](https://winners.webbyawards.com/2010/specialachievement/197/vinton-cerf) ... どうみても学ランである。
+- [Vint Cerf氏と学ラン2](https://www.businessinsider.com/how-vint-cerf-is-trying-to-make-the-web-last-forever-2016-6) ... カッコ良過ぎる。このお茶目感最高である。
+- [Vint Cerf氏と学ラン3](https://www.iadas.net/member/vint-cerf/) ... どっからどうみても学ラ(以下略)
+- [慶應義塾大学にやってきたVint Cerf](https://www.keio.ac.jp/en/news/2012/120920-2.html) ... どっからどうみても学ラ(以下略)
+- [インターネット](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88) ...　インターネットとはなんなのか。
+- [DARPA(The Defense Advanced Research Projects Agency: DARPA)](https://www.darpa.mil/) ... ".mil"ってあるのか....
+- [トンビ服](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%90%E3%83%8D%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88) ... 昔の写真でしかみたことがないアレ
+- [村井純](https://ja.wikipedia.org/wiki/%E6%9D%91%E4%BA%95%E7%B4%94) ... "「日本のインターネットの父」とされ、「ミスター・インターネット」と呼ばれることもある。英語圏では「インターネット・サムライ」のニックネームを持つ。"
 - サソリ飴
 - サソリウォッカ
 - こいずみさん
