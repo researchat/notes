@@ -4,7 +4,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/117.mp3
 audio_file_size: 16790464
-date: 2021-11-24 12:00:00 +0900
+date: 2021-11-24 23:10:00 +0900
 description: 告知事項がございます。Researchat.LT vol.2 開催に関しての告知を行いました。
 duration: "00:07:00"
 layout: article
