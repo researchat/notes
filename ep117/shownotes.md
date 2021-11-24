@@ -24,10 +24,11 @@ title: 117. The father of the internet in a Gakuran
 - [National Museum of Natural History](https://naturalhistory.si.edu/)　... 国立自然史博物館。みんなが想像している化石の博物館はここ。
 - [レンタル式電動キックボード](https://www.li.me/en-US/home) ... bostonにはないので乗ったことがない。乗ってみたい。
 - [絶滅認定されたハシジロキツツキ](https://natgeo.nikkeibp.co.jp/atcl/news/21/100400481/)
-- DKの本
-- 某先生の穴ツイート
-- 鴨嘴のツイート
-- 大英博物館
+- [Natural History](https://www.amazon.com/dp/0744035015) ... スミソニアンのNatural history本。あたらしい版が英語では出ました。アメリカ版、安過ぎる(小声) 一冊購入しましたが、紙もとてもいいです。
+- [地球博物学大図鑑](https://www.amazon.co.jp/dp/4487805643?tag=researchatf04-22) ...日本語版
+- [カモノハシのクチバシ1](https://twitter.com/researchat_fm/status/1234128486907826177)
+- [カモノハシのクチバシ2](https://twitter.com/researchat_fm/status/1449318740110290946)
+- [The British Museum](https://www.britishmuseum.org/) ... 大英博物館
 - 日清のカップラーメン
 - 鯨骨生物群集
 - 鯨爆発
