@@ -5,7 +5,7 @@ actor_ids:
 audio_file_path: /audio/117.mp3
 audio_file_size: 57814035
 date: 2021-11-24 12:00:00 +0900
-description: スミソニアン博物館に行って感じたことと、インターネットの父と学ラン問題、ポッドキャスト音源を流し続ける配信について話しました。
+description: スミソニアン博物館に行って感じたことと、インターネットの父と学ラン、ポッドキャスト音源を流し続ける配信について話しました。
 duration: "01:13:07"
 layout: article
 tags:
@@ -14,13 +14,13 @@ title: 117. The father of the internet in a Gakuran
 ---
 
 ## Show notes
-- 実験医学
-- ケンエンノナカ
-- neuroradio
-- CPT japan 予選
-- スミソニアン一覧
-- ツイート
-- 宇宙航空博物館
+- [実験医学 2021年11月号 Vol.39 No.18](https://www.yodosha.co.jp/jikkenigaku/book/9784758125499/index.html) ... "はじめよう！ 研究者ポッドキャスト―多様な研究者を“聴ける化”する新たなメディア"
+- [研エンの仲](https://anchor.fm/ken-en-no-naka) ... "「研エンの仲」は、神経科学の研究者Ayakaとソフトウェアエンジニア Ryoheiの2人によるPodcastです。科学やエンジニアリング、カルチャーや日常の話題についても話しています。"
+- [NeuroRadio](https://neuroradio.tokyo/) ... "神経科学者のとによるポッドキャスト。論文紹介や日々の雑談など、大西洋をまたいで収録しています。"
+- [CPT Japan 予選](https://liquipedia.net/fighters/Capcom_Pro_Tour/2021/Asia/Japan/3)
+- [スミソニアン博物館・美術館のリスト](https://www.si.edu/museums)
+- [某先生のスペースデブリとハッブル望遠鏡のツイート](https://twitter.com/minesoh/status/1444720701383053315) ... 貫通したとは言っていない
+- [National Air and Space Museum Steven F. Udvar-Hazy Center](https://www.si.edu/museums/air-and-space-museum-udvar-hazy-center)
 - 生物 https://naturalhistory.si.edu/
 - アメリカ
 - 美術館二個
