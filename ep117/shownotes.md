@@ -14,7 +14,7 @@ title: 117. Researchat.LT vol.2 (announcement)
 ---
 
 ## Show notes
-- Researchat.LT vol.2 2021/12/18 19:00- 開催 ... [Researchat.fmのYouTubeチャンネル](https://www.youtube.com/channel/UC2bDx3CfYJwqBKQHF-9j3FA)で配信します。
+- Researchat.LT vol.2 2021/12/18 19:00- (JST) 開催 ... [Researchat.fmのYouTubeチャンネル](https://www.youtube.com/channel/UC2bDx3CfYJwqBKQHF-9j3FA)で配信します。
 - [Researchat.LT vol.2  演題投稿フォーム 12/05 23:59 (JST) 締切](https://docs.google.com/forms/d/e/1FAIpQLScyKb5DjZJbDhz-mU76i5JKR12Y3GhMONyhA4cyJuWIaNObLg/viewform)　... 皆様、こちらから演題登録よろしくお願いします。
 - [Researchat.LT vol.2の説明会](https://youtu.be/NHZLWYMPOCo)
 - [Researchat.LT vol.1 動画](https://youtu.be/kKLt956ieSM)
