@@ -2,15 +2,15 @@
 actor_ids:
   - tadasu
   - coela
-audio_file_path: /audio/117.mp3
-audio_file_size: 57814035
-date: 2021-11-24 12:00:00 +0900
+audio_file_path: /audio/118.mp3
+audio_file_size: 77000694
+date: 2021-11-26 12:00:00 +0900
 description: スミソニアン博物館に行って感じたことと、インターネットの父と学ラン、ポッドキャスト音源を流し続ける配信について話しました。
-duration: "01:13:07"
+duration: "01:13:09"
 layout: article
 tags:
   - 雑談
-title: 117. The father of the internet in a Gakuran
+title: 118. The father of the internet in a Gakuran
 ---
 
 ## Show notes
@@ -46,16 +46,17 @@ title: 117. The father of the internet in a Gakuran
 - [インターネット](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88) ...　インターネットとはなんなのか。
 - [DARPA(The Defense Advanced Research Projects Agency: DARPA)](https://www.darpa.mil/) ... ".mil"ってあるのか....
 - [トンビ服](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%90%E3%83%8D%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%88) ... 昔の写真でしかみたことがないアレ
-- [村井純](https://ja.wikipedia.org/wiki/%E6%9D%91%E4%BA%95%E7%B4%94) ... "「日本のインターネットの父」とされ、「ミスター・インターネット」と呼ばれることもある。英語圏では「インターネット・サムライ」のニックネームを持つ。"
-- [サソリ飴](https://twitter.com/researchat_fm/status/1449522271073103872) ... 次世代の虫色である。
+- [村井純](https://ja.wikipedia.org/wiki/%E6%9D%91%E4%BA%95%E7%B4%94) ... tadasuは授業を受けていたような気がしなくもない。"「日本のインターネットの父」とされ、「ミスター・インターネット」と呼ばれることもある。英語圏では「インターネット・サムライ」のニックネームを持つ。"
+- [サソリ飴](https://twitter.com/researchat_fm/status/1449522271073103872) ... 次世代の虫食である。
 - [サソリウォッカ](https://www.thailandunique.com/unique-food-drink/scorpion-whiskey-vodka) ... この会社、イカれてるぜ...!!!
-- こいずみさん
-- 村井純さんと小泉さんの本
-- 小泉さんのポッドキャスト
-- researchat streaming
-- あらB
-- researchatfm youtube
-
+- [竹中直純さん](https://twitter.com/uhyoppo) ... 第一回ポッドキャストアワードではResearchat.fmに[コメント](https://www.japanpodcastawards2019.com/judges-1)をくださり実は死ぬほどうれしかった。
+- [DX時代に考える シン・インターネット](https://www.amazon.co.jp/dp/4797680806/?tag=researchatf04-22) ... 村井さんと竹中さんの本
+- [竹中さんのポッドキャスト](https://soundcloud.com/operation-sound-recovery) ... 竹中さんのポッドキャスト。まりんさんと、國崎さんと、竹中さんがデジタル時代の音楽についてあれこれ話すポッドキャスト。
+- [Researchat.fm 24/7 streaming station](https://www.youtube.com/watch?v=1jW621Efg8c&ab_channel=Researchatfm) ... Researchat.fm 24時間配信。元ネタは[ep61](https://researchat.fm/episode/61) だった気がする。あらB氏の助言により、Raspiで完成。一回配信が止まるとリンクが死ぬのでこのリンクもいつまで維持できるか... コメントしてください〜。実際はニコ動みたいな感じで同じ音源の時にコメントをみんなで残すのをやりたいのだけどねぇ... 今ポッドキャストに求められているのはそれじゃないかな？(適当)
+- [あらB氏のポッドキャストを24時間、RaspiからYouTubeに配信するための記事](https://note.com/arkb/n/nf7c75d44d2aa) ...　あらB氏、ほんまありがとう。アイデアのタネはポッドキャストで話しておくべきですね。
+- [あらB.fm](https://anchor.fm/arkbfm/) ... 毎回多種多様なゲストを呼びまくっているあらB氏のポッドキャスト
+- [Researchat.fmのYouTube](https://www.youtube.com/channel/UC2bDx3CfYJwqBKQHF-9j3FA) ... 登録していただけるととてもうれしいです。
+- 
 ## Editorial notes
 - 学ランが似合うイケおじになりたい(無理)(tadasu)
- 詰襟は見る分には良いんですけど、着るのは嫌です。(coela)
+- 詰襟は見る分には良いんですけど、着るのは嫌です。(coela)
