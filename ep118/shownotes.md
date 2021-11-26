@@ -52,7 +52,7 @@ title: 118. The father of the internet in a Gakuran
 - [竹中直純さん](https://twitter.com/uhyoppo) ... 第一回ポッドキャストアワードではResearchat.fmに[コメント](https://www.japanpodcastawards2019.com/judges-1)をくださり実は死ぬほどうれしかった。
 - [DX時代に考える シン・インターネット](https://www.amazon.co.jp/dp/4797680806/?tag=researchatf04-22) ... 村井さんと竹中さんの本
 - [竹中さんのポッドキャスト](https://soundcloud.com/operation-sound-recovery) ... 竹中さんのポッドキャスト。まりんさんと、國崎さんと、竹中さんがデジタル時代の音楽についてあれこれ話すポッドキャスト。
-- [Researchat.fm 24/7 streaming station](https://www.youtube.com/watch?v=1jW621Efg8c&ab_channel=Researchatfm) ... Researchat.fm 24時間配信。元ネタは[ep61](https://researchat.fm/episode/61) だった気がする。あらB氏の助言により、Raspiで完成。一回配信が止まるとリンクが死ぬのでこのリンクもいつまで維持できるか... コメントしてください〜。実際はニコ動みたいな感じで同じ音源の時にコメントをみんなで残すのをやりたいのだけどねぇ... 今ポッドキャストに求められているのはそれじゃないかな？(適当)
+- [Researchat.fm 24/7 streaming station](https://www.youtube.com/watch?v=1jW621Efg8c&ab_channel=Researchatfm) ... Researchat.fm 24時間配信。元ネタは[ep61](https://researchat.fm/episode/61) だった気がする。あらB氏の助言により、Raspiで完成。一回配信が止まるとリンクが死ぬのでこのリンクもいつまで維持できるか... コメントしてください〜。実際はニコ動みたいな感じで同じエピソードの同じ場所を聴いている時にコメントをみんなで残すのをやりたいのだけどねぇ... 今ポッドキャストに求められているのはそれじゃないかな？(適当)
 - [あらB氏のポッドキャストを24時間、RaspiからYouTubeに配信するための記事](https://note.com/arkb/n/nf7c75d44d2aa) ...　あらB氏、ほんまありがとう。アイデアのタネはポッドキャストで話しておくべきですね。
 - [あらB.fm](https://anchor.fm/arkbfm/) ... 毎回多種多様なゲストを呼びまくっているあらB氏のポッドキャスト
 - [Researchat.fmのYouTube](https://www.youtube.com/channel/UC2bDx3CfYJwqBKQHF-9j3FA) ... 登録していただけるととてもうれしいです。
