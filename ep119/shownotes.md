@@ -54,7 +54,7 @@ title: 119. 66200000000000
 - [通信ケーブル](https://ja.wikipedia.org/wiki/%E9%80%9A%E4%BF%A1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB_(%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4))) … ボンバーマンじゃなかった… 
 - [田尻智さんとゼビウス](https://news.denfaminicogamer.jp/projectbook/xevious)
 - [パックマンランドで捕まえて](https://www.amazon.co.jp/dp/4757710046/?tag=researchatf04-22) ... 「ゲーマー」田尻智さんの青春エッセイ
-- [ゲームフリーク](https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B0%BB%E6%99%BA#%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%95%E3%83%AA%E3%83%BC%E3%82%AF%E5%89%B5%E5%88%8A) ... 税所は自主攻略本
+- [ゲームフリーク](https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B0%BB%E6%99%BA#%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%95%E3%83%AA%E3%83%BC%E3%82%AF%E5%89%B5%E5%88%8A) ... 最初は自主攻略本
 - [新ゲームデザイン―TVゲーム制作のための発想法](https://www.amazon.co.jp/dp/4870258587/?tag=researchatf04-22)　... ポケモン前夜の田尻智さんの著作。読みたすぎて読みたすぎて。持っている人教えてください。
 
 ## Editorial notes
