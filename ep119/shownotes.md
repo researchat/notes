@@ -23,7 +23,7 @@ title: 119. 66200000000000
 - [讃岐弁検定](https://quiz-maker.site/quiz/play/7Oz43G20200125163259)
 - [ポケモン](https://www.pokemon.co.jp/) ... ポケットモンスター
 - [ポケモンカード](https://www.pokemon-card.com/)　... ポケカの話したのに、遊戯王ばっかりshownotesに貼ってごめんなさいね。ごめんね〜。
-- [『能町みね子のときめきサッカーうどんサポーター』、略して　能サポ](https://www.amazon.co.jp/dp/B06XW8G9N6/) ... 能町みね子氏のエッセイ。丸亀市の商店街でもくもくとカードゲームに興じる人たちの記述がある。私もその光景を実際に見たことがあるが異様だった。
+- [『能町みね子のときめきサッカーうどんサポーター』、略して　能サポ](https://www.amazon.co.jp/dp/B06XW8G9N6/?tag=researchatf04-22) ... 能町みね子氏のエッセイ。丸亀市の商店街でもくもくとカードゲームに興じる人たちの記述がある。私もその光景を実際に見たことがあるが異様だった。
 - [遊戯王の例の動画](https://www.youtube.com/watch?v=MYukvudjzsA&ab_channel=multi) ... カードゲームとはこういうものだ！
 - [遊戯王](https://www.yugioh-card.com/japan/)
 - [Magic: The Gathering](https://mtg-jp.com/) ... 憧れのカードゲーム
@@ -45,19 +45,20 @@ title: 119. 66200000000000
 - [恒大集団の負債額](https://www.news24.jp/articles/2021/09/22/10943352.html)
 - [リーマンブラザーズの負債額](http://www.asahi.com/special/08017/TKY200809160009.html)
 - [垂金権造と国家予算](https://taokasu.com/48104/)
-- [幽遊白書](https://www.amazon.co.jp/dp/B00KCC0YKC/)
+- [幽遊白書](https://www.amazon.co.jp/dp/B00KCC0YKC/?tag=researchatf04-22)
 - [垂金権造](https://dic.pixiv.net/a/%E5%9E%82%E9%87%91%E6%A8%A9%E9%80%A0)　… 日本のイーロンマスク。いや、どちらかというと左京がイーロンマスクだろ...
 - [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) ... Bitcoin作った人。何回話すんだろう...
 - [田尻智](https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B0%BB%E6%99%BA)
 - [宮本茂](https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E8%8C%82)
 - [ピカチュウがなぜ選ばれたのか](https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AB%E3%83%81%E3%83%A5%E3%82%A6_(%E3%82%B5%E3%83%88%E3%82%B7%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3)) ... アンケートで選ばれたのかと思っていたがそれが直接の理由ではなかったのか...
-- [通信ケーブル](https://ja.wikipedia.org/wiki/%E9%80%9A%E4%BF%A1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB_(%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4)） … ボンバーマンじゃなかった… 
-- 田尻智とゼビウス
-- パックマンランドで捕まえて
-- ゲームフリークス
-- 田尻さとしの著作
+- [通信ケーブル](https://ja.wikipedia.org/wiki/%E9%80%9A%E4%BF%A1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB_(%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4))) … ボンバーマンじゃなかった… 
+- [田尻智さんとゼビウス](https://news.denfaminicogamer.jp/projectbook/xevious)
+- [パックマンランドで捕まえて](https://www.amazon.co.jp/dp/4757710046/?tag=researchatf04-22) ... 「ゲーマー」田尻智さんの青春エッセイ
+- [ゲームフリーク](https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B0%BB%E6%99%BA#%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%95%E3%83%AA%E3%83%BC%E3%82%AF%E5%89%B5%E5%88%8A) ... 税所は自主攻略本
+- [新ゲームデザイン―TVゲーム制作のための発想法](https://www.amazon.co.jp/dp/4870258587/?tag=researchatf04-22)　... ポケモン前夜の田尻智さんの著作。読みたすぎて読みたすぎて。持っている人教えてください。
 
 ## Editorial notes
-
+- (tadasu)
+- (coela)
 
 
