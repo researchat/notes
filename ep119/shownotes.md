@@ -34,27 +34,24 @@ title: 119. 66200000000000
 - [スイスドロー](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9%E5%BC%8F%E3%83%88%E3%83%BC%E3%83%8A%E3%83%A1%E3%83%B3%E3%83%88)
 - [早稲田式](https://post.gamer2.jp/wasedasiki/) ... こちらも覚えておくといいことがあるぞ！
 - [遊戯王がもうけた話](https://srad.jp/story/21/02/01/0336212/)
-- [ダンジョンズ・アンド・ドラゴンズ](http://hobbyjapan.co.jp/dd/)
+- [ダンジョンズ・アンド・ドラゴンズ](http://hobbyjapan.co.jp/dd/) ... 遊戯王の御伽くんとやってたゲームの元っぽいゲーム。
 - [うどん県とヤドン](https://yadon.my-kagawa.jp/)
-- ビオトープ
-- ビオトープ
-- 等身大ルカリオ
-- カラカラとガルーラ
-- パルシェンとヤドラン
-- 菖蒲
-- ミュウ
-- バグの意味がぐちゃぐちゃになってる。バグを使って作るけれどもめちゃくちゃにならない。初期ロム
-- データが崩れない
-- 広大集団
-- リーマンブラザーズ
-- たるがねごんぞうと国家予算
-- 幽遊白書
-- たるかね　… 日本のイーロンマスク
-- なかもとさとし
-- たじりさとし
-- みやもとしげる
-- ピカチュウ　アンケート
-- 通信ケーブル … ボンバーマンじゃなかった… https://ja.wikipedia.org/wiki/%E9%80%9A%E4%BF%A1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB_(%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4)
+- [等身大ルカリオ](https://www.pokemoncenter-online.com/?p_cd=4521329371924)
+- [カラカラとガルーラ](https://pokemon-toshidensetsu.net/karakara-garura/) ... 有名な都市伝説
+- [パルシェンとヤドラン](https://pokemonchronicle.com/slowbro-slowking-shellder/) ... こっちは公式だったか...
+- [飯食わぬ女房と菖蒲](https://ja.wikipedia.org/wiki/%E9%A3%9F%E3%82%8F%E3%81%9A%E5%A5%B3%E6%88%BF) ... 二口女と菖蒲の魔除け
+- [ミュウ](https://zukan.pokemon.co.jp/detail/151) ... 1996年はtadasuの人生の中でもっとも濃い一年の一つになった。
+- [けつばん](https://wiki.xn--rckteqa2e.com/wiki/%E3%81%91%E3%81%A4%E3%81%B0%E3%82%93) ... 懐かしい。
+- [恒大集団の負債額](https://www.news24.jp/articles/2021/09/22/10943352.html)
+- [リーマンブラザーズの負債額](http://www.asahi.com/special/08017/TKY200809160009.html)
+- [垂金権造と国家予算](https://taokasu.com/48104/)
+- [幽遊白書](https://www.amazon.co.jp/dp/B00KCC0YKC/)
+- [垂金権造](https://dic.pixiv.net/a/%E5%9E%82%E9%87%91%E6%A8%A9%E9%80%A0)　… 日本のイーロンマスク。いや、どちらかというと左京がイーロンマスクだろ...
+- [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) ... Bitcoin作った人。何回話すんだろう...
+- [田尻智](https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B0%BB%E6%99%BA)
+- [宮本茂](https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E8%8C%82)
+- [ピカチュウがなぜ選ばれたのか](https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AB%E3%83%81%E3%83%A5%E3%82%A6_(%E3%82%B5%E3%83%88%E3%82%B7%E3%81%AE%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3)) ... アンケートで選ばれたのかと思っていたがそれが直接の理由ではなかったのか...
+- [通信ケーブル](https://ja.wikipedia.org/wiki/%E9%80%9A%E4%BF%A1%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB_(%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%9C%E3%83%BC%E3%82%A4)） … ボンバーマンじゃなかった… 
 - 田尻智とゼビウス
 - パックマンランドで捕まえて
 - ゲームフリークス
