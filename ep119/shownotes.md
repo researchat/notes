@@ -4,7 +4,7 @@ actor_ids:
   - coela
 audio_file_path: /audio/119.mp3
 audio_file_size: 63756831
-date: 2021-12-03 07:00:00 +0900
+date: 2021-12-03 07:23:00 +0900
 description: 中華料理屋で耳にした謎の単語、ポケモンカードを始めた初心者の感想、垂金権造という男について話しました。
 duration: "01:01:01"
 layout: article
@@ -58,7 +58,7 @@ title: 119. 66200000000000
 - [新ゲームデザイン―TVゲーム制作のための発想法](https://www.amazon.co.jp/dp/4870258587/?tag=researchatf04-22)　... ポケモン前夜の田尻智さんの著作。読みたすぎて読みたすぎて。持っている人教えてください。
 
 ## Editorial notes
-- (tadasu)
-- (coela)
+- さすがに今回は反省しております。(tadasu)
+- さすがに今回は反省しております。(偽coela)
 
 
