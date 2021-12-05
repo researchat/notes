@@ -34,16 +34,16 @@ title: 121. panpanya
 - [梅田駅](https://kansai-sanpo.com/ume-d12/)
 - なんば駅 … 梅田駅と混同していました。多分。
 - 横浜駅 … 工事が長いだけで大した駅ではないことについては住民にはアグリーしてもらえると思う。以前、最寄駅として使っていたことがある身としてはあまり面白い駅ではない。
-- みやたまき
-- ４じげんおんせんりょかん
-- 鶴見線
-- 探偵ナイトスクープ
-- nutsはどこにいった。
-- 楽園
+- [宮田珠己](https://ja.wikipedia.org/wiki/%E5%AE%AE%E7%94%B0%E7%8F%A0%E5%B7%B1)
+- [四次元温泉日記](https://www.amazon.co.jp/dp/4480432388)
+- [探偵!ナイトスクープ](https://www.asahi.co.jp/knight-scoop/)
+- [ナットはどこにいった。](https://twitter.com/researchat_fm/status/1452274353111019527)
+- [楽園](https://www.hakusensha.co.jp/rakuen/vol37/)
 
 ## Editorial notes
-- 術者は己の秘術を編み出した時、その術を破る方法も考えるものだ。(tadasu)
-- 格ゲーにおける飯綱落としについてはもっと語りたかったのですが自重しました。(coela)
+- (dessan)
+- (yamaken)
+- (tadasu)
 
 
 
