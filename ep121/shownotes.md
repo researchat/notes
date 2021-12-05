@@ -28,7 +28,7 @@ title: 121. panpanya
 - [ガロ](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AD_(%E9%9B%91%E8%AA%8C))
 - [つげ義春](https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%92%E7%BE%A9%E6%98%A5)
 - [佐々木マキ](https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E3%83%9E%E3%82%AD)
-- [ぬむいぬむいねずみ](https://www.amazon.co.jp/dp/B00E9RFN70)
+- [ねむいねむいねずみ](https://www.amazon.co.jp/dp/B00E9RFN70)
 - [魔の四角形](https://www.amazon.co.jp/dp/493861829X)
 - [新宿駅ダンジョン](https://nlab.itmedia.co.jp/nl/articles/1403/11/news093.html)
 - [梅田駅](https://kansai-sanpo.com/ume-d12/)
