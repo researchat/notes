@@ -15,25 +15,25 @@ title: 121. panpanya
 ---
 
 ## Show notes
-- panpanya
+- [panpanya](https://ja.wikipedia.org/wiki/Panpanya)
 - 作品
-- researchatLT vol.1
-- 魔術的レアリズム
-- がぶりあ
-- ホルヘイスボルヘス
-- 100年の孤独
-- ほりおこるかさす
-- あくまのよだれ
-- 南部高速道路
-- ガロ
-- ささきまき
-- ぬむいぬむいねずみ
-- 魔の四角形
-- 新宿駅
-- 新宿ダンジョン https://nlab.itmedia.co.jp/nl/articles/1403/11/news093.html
-- 梅田　https://kansai-sanpo.com/ume-d12/
-- なんば駅　… 梅田駅のほうがやばかったかも？(もう大阪に行って無さすぎて覚えていない…
-- 横浜駅 … 工事が長いだけで大した駅ではないことについては住民にはアグリーしてもらえると思う。以前最寄駅として使っていたことがある身としてはあまり面白い駅ではない。
+- [researchatLT vol.1](https://www.youtube.com/watch?v=kKLt956ieSM&ab_channel=Researchatfm) ... この懇親会でpanpanyaを知ることができました。ありがとうございます。
+- [魔術的リアリズム](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0)
+- [ガブリエル・ガルシア＝マルケス](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%96%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2%EF%BC%9D%E3%83%9E%E3%83%AB%E3%82%B1%E3%82%B9)
+- [ホルヘ・ルイス・ボルヘス](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%98%E3%83%BB%E3%83%AB%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%9C%E3%83%AB%E3%83%98%E3%82%B9)
+- [100年の孤独](https://www.amazon.co.jp/dp/4105090119)
+- [フリオ・コルタサル](https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%AA%E3%83%BB%E3%82%B3%E3%83%AB%E3%82%BF%E3%82%B5%E3%83%AB)
+- [悪魔の涎](https://www.amazon.co.jp/dp/4003279018)
+- 南部高速道路 ... フリオ・コルタサルの作品
+- [ガロ](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AD_(%E9%9B%91%E8%AA%8C))
+- [つげ義春](https://ja.wikipedia.org/wiki/%E3%81%A4%E3%81%92%E7%BE%A9%E6%98%A5)
+- [佐々木マキ](https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E3%83%9E%E3%82%AD)
+- [ぬむいぬむいねずみ](https://www.amazon.co.jp/dp/B00E9RFN70)
+- [魔の四角形](https://www.amazon.co.jp/dp/493861829X)
+- [新宿駅ダンジョン](https://nlab.itmedia.co.jp/nl/articles/1403/11/news093.html)
+- [梅田駅](https://kansai-sanpo.com/ume-d12/)
+- なんば駅 … 梅田駅と混同していました。多分。
+- 横浜駅 … 工事が長いだけで大した駅ではないことについては住民にはアグリーしてもらえると思う。以前、最寄駅として使っていたことがある身としてはあまり面白い駅ではない。
 - みやたまき
 - ４じげんおんせんりょかん
 - 鶴見線
