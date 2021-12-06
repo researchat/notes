@@ -16,14 +16,14 @@ title: 121. panpanya
 
 ## Show notes
 - [panpanya](https://ja.wikipedia.org/wiki/Panpanya)
-- [足摺り水族館](https://www.amazon.co.jp/dp/4907259026)
-- [蟹に誘われて](https://www.amazon.co.jp/dp/B077D3Z5GY/)
-- [枕魚](https://www.amazon.co.jp/dp/B077ZMYLYM)
-- [動物たち](https://www.amazon.co.jp/dp/B077ZSMKFF/)
-- [二匹目の金魚](https://www.amazon.co.jp/dp/B0799FX5GK)
-- [グヤバノ・ホリデー](https://www.amazon.co.jp/dp/B07N383SMS)
-- [おむすびの転がる町](https://www.amazon.co.jp/dp/B086DPMDPS)
-- [魚社会](https://www.amazon.co.jp/dp/B097QMGBDF/)
+- [足摺り水族館](https://www.amazon.co.jp/dp/4907259026) ... dessanのおすすめ作品
+- [蟹に誘われて](https://www.amazon.co.jp/dp/B077D3Z5GY/) ... tadasuのおすすめ作品
+- [枕魚](https://www.amazon.co.jp/dp/B077ZMYLYM) ... yamaken氏のおすすめ作品
+- [動物たち](https://www.amazon.co.jp/dp/B077ZSMKFF/) ... tadasuのおすすめ作品
+- [二匹目の金魚](https://www.amazon.co.jp/dp/B0799FX5GK) ... tadasuのおすすめ作品　最初のメロディをまず読んでください。
+- [グヤバノ・ホリデー](https://www.amazon.co.jp/dp/B07N383SMS) ... yamaken氏おすすめの「比較鳩学入門」収録作品
+- [おむすびの転がる町](https://www.amazon.co.jp/dp/B086DPMDPS) ... tadasuは買いそびれていたので買いました。
+- [魚社会](https://www.amazon.co.jp/dp/B097QMGBDF/) ... 最新作。とてもいい話がびっちりなのでpanpanya道への入門には最適。
 - [researchatLT vol.1](https://www.youtube.com/watch?v=kKLt956ieSM&ab_channel=Researchatfm) ... この懇親会でpanpanyaを知ることができました。ありがとうございます。
 - [魔術的リアリズム](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AA%E3%82%BA%E3%83%A0)
 - [ガブリエル・ガルシア＝マルケス](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%96%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2%EF%BC%9D%E3%83%9E%E3%83%AB%E3%82%B1%E3%82%B9)
@@ -53,7 +53,7 @@ title: 121. panpanya
 ## Editorial notes
 - 朝イチ収録で最初のほう頭が回ってない感がある。(dessan)
 - (yamaken)
-- (tadasu)
+- 全部いいです。(tadasu)
 
 
 
