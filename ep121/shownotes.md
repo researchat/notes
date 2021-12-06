@@ -11,7 +11,7 @@ duration: "01:13:49"
 layout: article
 tags:
   - 雑談
-title: 121. panpanya
+title: 121. Panpanya
 ---
 
 ## Show notes
