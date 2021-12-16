@@ -26,7 +26,7 @@ title: 122. Cylume and Fluorescently tagged Ruyi Jingu Bang in the cell
 ": Linghuの一つ前の論文。こちらも自己組織化するタンパク質を用いた細胞内レコーディング、通称signaling reporter islands (SiRIs)の開発論文
 - [Adam Cohen](http://cohenweb.rc.fas.harvard.edu/) … こーへんじゃなくて普通にかんがえてコーエンですよね…
 - [Luke Lavis](https://www.janelia.org/lab/lavis-lab) ... 化学のバックグラウンドを生かした、蛍光dyeの開発をもりもり行っている。
-- [David Baker](https://www.bakerlab.org/) ... タンパク質構造モデリングの巨匠
+- [David Baker](https://www.bakerlab.org/) ... タンパク質デザインの巨匠
 - [Expansion microscopy](https://www.science.org/doi/10.1126/science.1260088) ... Fei ChenとEd Boydenの論文
 - [Zamft et al., PloS One (2012)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043876) ... "Measuring Cation Dependent DNA Polymerase Fidelity Landscapes by Deep Sequencing": DNA polymeraseの特性を活かした細胞内レコーディングの論文。Ed Boyden + George Church
 
