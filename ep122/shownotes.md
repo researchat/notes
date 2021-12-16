@@ -14,7 +14,8 @@ title: 122. Cylume and Fluorescently tagged Ruyi Jingu Bang in the cell
 ---
 
 ## Show notes
-- bioxive
+- [Linghu et al., biorxiv (2021)](https://www.biorxiv.org/content/10.1101/2021.10.13.464006v1) ... "Recording of cellular physiological histories along optically readable self-assembling protein chains"
+- [Lin et al., biorxiv (2021)](https://www.biorxiv.org/content/10.1101/2021.10.13.463862v1) ... "Time-tagged ticker tapes for intracellular recordings"
 - 02138, 02139, 02115 ... アメリカのZip code、すなわち日本の郵便番号。これを知っていると論文と研究の地理感がよりよくわかる。02138はHarvard University、02139はMIT、02115はHarvard Medical School
 - [Ed Boyden](https://mcgovern.mit.edu/profile/ed-boyden/)
 - [Karl Deisseroth](http://web.stanford.edu/group/dlab/) ... optogeneticsの開発者。Ed BoydenとCRISPRを用いたgenome editingで有名なFeng ZhangはKarlのラボ出身。
@@ -27,9 +28,7 @@ title: 122. Cylume and Fluorescently tagged Ruyi Jingu Bang in the cell
 - [Luke Lavis](https://www.janelia.org/lab/lavis-lab) ... 化学のバックグラウンドを生かした、蛍光dyeの開発をもりもり行っている。
 - [David Baker](https://www.bakerlab.org/) ... タンパク質構造モデリングの巨匠
 - [Expansion microscopy](https://www.science.org/doi/10.1126/science.1260088) ... Fei ChenとEd Boydenの論文
-- Ed + GC
-
-
+- [Zamft et al., PloS One (2012)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043876) ... "Measuring Cation Dependent DNA Polymerase Fidelity Landscapes by Deep Sequencing": DNA polymeraseの特性を活かした細胞内レコーディングの論文。Ed Boyden + George Church
 
 ## Editorial notes
 - (soh)
