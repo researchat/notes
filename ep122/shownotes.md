@@ -32,7 +32,7 @@ title: 122. Cylume and Fluorescently tagged Ruyi Jingu Bang in the cell
 - [Zamft et al., PloS One (2012)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043876) ... "Measuring Cation Dependent DNA Polymerase Fidelity Landscapes by Deep Sequencing": DNA polymeraseの特性を活かした細胞内レコーディングの論文。Ed Boyden + George Church
 
 ## Editorial notes
-- (soh)
+- このアイデアの行く末を見守ります。(soh)
 - 面白い発想の論文はいいですね。(tadasu)
 
 
