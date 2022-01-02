@@ -34,7 +34,7 @@ title: 124. Researchat.LT vol.2 (post-analysis)
 - [Slainte!](https://anchor.fm/wataru-toyokawa) ... tadasuが最近聴いているポッドキャスト
 - [78. You can(not) do science in one country](https://researchat.fm/episode/78) ... SHIOTAさんがゲスト出演してくださったResearchat.fmのエピソード。留学について。
 - [雛形さんによるResearchat.fmのエピソードおすすめ](https://twitter.com/hinahypersonica/status/1472379462570622982) ... 雛形さんによるResearchat.fmのオススメエピソードに関するまとめ記事。
-- [SpatialChat](https://spatial.chat/)
+- [SpatialChat](https://spatial.chat/) ... ネット懇親会用ツール。めっちゃいいです！懇親会やりたい人はアイデアをresearchat.fmに送ってください。
 - [Researchat.fm at Apple Podcast](https://podcasts.apple.com/jp/podcast/researchat-fm/id1453892334?mt=2)
 - [Researchat.fm at Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9yZXNlYXJjaGF0LmZtL2ZlZWQueG1s)
 - [Researchat.fm at Spotify](https://open.spotify.com/show/6pqHenuqtkEpnFg9tShg4J)
