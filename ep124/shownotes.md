@@ -26,6 +26,7 @@ title: 124. Researchat.LT vol.2 (post-analysis)
 - [remonさんのLT発表スライドのまとめ記事](https://note.com/runningremon/n/n731f0ed34845)
 - [凍らない魚](https://note.com/eryr13f/n/n3f9883eefaa0)
 - [Hope of Birds 〜楽曲分析エンターテイメントpodcast〜](https://twitter.com/birds_hope) ... サイトウナヲキさんのポッドキャスト "ポッドキャスト Hope of Birds です。コントラバス奏者のサイトウナヲキが、丸の内OLのmamekoや仲間たちと気楽に楽曲分析したり雑談したりする番組です。"
+- [#ホットサンドオススメ](https://twitter.com/hashtag/%E3%83%9B%E3%83%83%E3%83%88%E3%82%B5%E3%83%B3%E3%83%89%E3%82%AA%E3%82%B9%E3%82%B9%E3%83%A1?src=hashtag_click&f=live) ... みんな！ホットサンドをつくってつぶやいてね！
 - [ハーモニックドライブ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%83%E3%82%AF%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96)
 - [Side by Side Radio](https://sidebysideradio.libsyn.com/) ... Ryota Nishizonoさんのポッドキャスト "Side by Side Radioは、元プロロード選手の西薗良太 (Ryota Nishizono) がサイクリング全般のことから、サイクリングに関係がないことまで、お話するPodcastです。中でもロードレースやシクロクロス、スポーツサイエンスのことが多いです。"
 - [sxsradio 2021 podcasting setup](https://sidebysideradio.libsyn.com/website/sxsradio-2021-podcasting-setup) ... "2018年6月から開始したsxsradioは2021年ついに100回に到達した。初回はまともに話すことすらうまくできておらず音声編集の技術も未熟だったために黒歴史化しているが、さすがに100回やったらそれなりにできるようになってきた。その技術の一端をここに記述したい。"
