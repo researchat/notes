@@ -10,7 +10,7 @@ description: Researchat.LT vol.2の振り返りを行いました。
 duration: "00:57:40"
 layout: article
 tags:
-  - 論文
+  - 雑談
 title: 124. Researchat.LT vol.2 (post-analysis)
 ---
 
