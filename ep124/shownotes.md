@@ -22,6 +22,7 @@ title: 124. Researchat.LT vol.2 (post-analysis)
 - [Ayaneさんのコンテンツ](http://mono-kyo.com/index.html)
 - [Interaxion Podcast](https://interaxion-podcast.github.io/) ... okaさんのポッドキャスト。"Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。"
 - [ポアニュネップリの始め方](https://interaxion-podcast.github.io/blog/2021-12-23)　... 君もポアニュネップリを始めよう！
+- [remonさんのLT発表スライドのまとめ記事](https://note.com/runningremon/n/n731f0ed34845)
 - [凍らない魚](https://note.com/eryr13f/n/n3f9883eefaa0)
 - [Hope of Birds 〜楽曲分析エンターテイメントpodcast〜](https://twitter.com/birds_hope) ... サイトウナヲキさんのポッドキャスト "ポッドキャスト Hope of Birds です。コントラバス奏者のサイトウナヲキが、丸の内OLのmamekoや仲間たちと気楽に楽曲分析したり雑談したりする番組です。"
 - [ハーモニックドライブ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%83%E3%82%AF%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96)
