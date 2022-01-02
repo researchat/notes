@@ -28,6 +28,7 @@ title: 124. Researchat.LT vol.2 (post-analysis)
 - [Side by Side Radio](https://sidebysideradio.libsyn.com/) ... Ryota Nishizonoさんのポッドキャスト "Side by Side Radioは、元プロロード選手の西薗良太 (Ryota Nishizono) がサイクリング全般のことから、サイクリングに関係がないことまで、お話するPodcastです。中でもロードレースやシクロクロス、スポーツサイエンスのことが多いです。"
 - [sxsradio 2021 podcasting setup](https://sidebysideradio.libsyn.com/website/sxsradio-2021-podcasting-setup) ... "2018年6月から開始したsxsradioは2021年ついに100回に到達した。初回はまともに話すことすらうまくできておらず音声編集の技術も未熟だったために黒歴史化しているが、さすがに100回やったらそれなりにできるようになってきた。その技術の一端をここに記述したい。"
 - [NeuroRadio](https://neuroradio.tokyo/)
+- [あいまいまいんの生物学](https://i-my-mine.hatenablog.com/) ... まいん先生のブログ。生物の勉強に興味がある方はチェックです！
 - [ScienTALK](https://lit.link/scientalk) ... レンさんのポッドキャスト "おしゃべり研究者レンと普通のOLエマによるポッドキャスト"
 - [サイエンマニア](https://open.spotify.com/playlist/5eaYVqhaoCxDSPAN21r9Cg?si=5MYIWsV4R_ajhB0-WwYtPA&nd=1) ... レンさんの科学者インタビューに特化したポッドキャスト
 - [Slainte!](https://anchor.fm/wataru-toyokawa) ... tadasuが最近聴いているポッドキャスト
