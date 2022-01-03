@@ -3,7 +3,7 @@ actor_ids:
   - soh
   - tadasu
   - coela
-audio_file_path: /audio/124.mp3
+audio_file_path: https://traffic.libsyn.com/secure/researchat/124.mp3
 audio_file_size: 66167305
 date: 2022-01-03 07:10:00 +0900
 description: Researchat.LT vol.2の振り返りを行いました。
