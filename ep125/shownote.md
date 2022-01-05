@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: https://traffic.libsyn.com/secure/researchat/125.mp3
 audio_file_size: 36487837
-date: 2022-01-05 9:00:00 +0900
+date: 2022-01-06 7:00:00 +0900
 rec_date: 2021-01-03 13:00:00 +0900
 edit_by: soh
 description: Researchat.fm前年の反省と2022年の目標について話しました。
@@ -18,7 +18,7 @@ title: 125. A scalable podcast show
 ---
 
 ## Show notes
-- [曙デビュー戦は衝撃的な初回失神ＫＯ負け／復刻](https://www.nikkansports.com/battle/news/1759035.html) ... 2003年でした...
+- [曙デビュー戦は衝撃的な初回失神ＫＯ負け／復刻 | 日刊スポーツ](https://www.nikkansports.com/battle/news/1759035.html) ... 2003年でした...
 - [GitHub Actions](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions)
 - [sxsradio 2021 podcasting setup](https://sidebysideradio.libsyn.com/website/sxsradio-2021-podcasting-setup)
 - [Researchat.fm お便りフォーム](https://researchat.fm/form.html) ... ぜひ2022年もお便りを宜しくお願いします。
@@ -27,6 +27,6 @@ title: 125. A scalable podcast show
 - [Yattecast (Github)](https://github.com/r7kamura/yattecast)
 
 ## Editorial notes
-- LogicProほしいですね (soh)
+- LogicPro買おうかな。ちなみにウェブサイトに今年から編集した人と収録日を載せるようにしてみました。 (soh)
 - ぼちぼちやります (tadasu)
-- coela
+- (coela)
