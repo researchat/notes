@@ -27,5 +27,5 @@ title: 125. A scalable podcast show
 
 ## Editorial notes
 - soh
-- tadasu
+- ぼちぼちやります(tadasu)
 - coela
