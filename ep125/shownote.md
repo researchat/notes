@@ -22,10 +22,11 @@ title: 125. A scalable podcast show
 - [GitHub Actions](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions)
 - [sxsradio 2021 podcasting setup](https://sidebysideradio.libsyn.com/website/sxsradio-2021-podcasting-setup)
 - [Researchat.fm お便りフォーム](https://researchat.fm/form.html) ... ぜひ2022年もお便りを宜しくお願いします。
+- [7. ローカルとリモートに複数人のゲストがいる場合のポッドキャスト録音 | Researchat.fm Blog](https://researchat.fm/blog/7/)
 - [Podcast Hosting the Way You Want It | Libsyn Podcast Hosting](https://libsyn.com/)
 - [Yattecast (Github)](https://github.com/r7kamura/yattecast)
 
 ## Editorial notes
-- soh
-- ぼちぼちやります(tadasu)
+- LogicProほしいですね (soh)
+- ぼちぼちやります (tadasu)
 - coela
