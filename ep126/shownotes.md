@@ -27,11 +27,13 @@ title: 126. Duel of Recommendations
 - [ロマ音楽](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E9%9F%B3%E6%A5%BD)
 - [ユーゴスラビア](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%B4%E3%82%B9%E3%83%A9%E3%83%93%E3%82%A2)
 - [アンダーグラウンド](https://www.amazon.co.jp/dp/B00005LJV6)
+- [アンダーグラウンドのサウンドトラックCD](https://www.amazon.co.jp/Underground-Various-Artists/dp/B00000134U/ref=pd_sbs_3/356-6295237-3888932?pd_rd_w=paZkr&pf_rd_p=52ecde5f-22cd-44a8-9320-89e5f2926931&pf_rd_r=TA9R9HZWQ1B6BJ4S9KZZ&pd_rd_r=8a13b19e-bec2-4b89-af51-ecdb6a551395&pd_rd_wg=S1GDO&pd_rd_i=B00000134U&psc=1) ... ノリノリのジプシー音楽が楽しめます。
 - [DMM英会話](https://eikaiwa.dmm.com/)
 - [エミール・クストリッツァ](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9F%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%AF%E3%82%B9%E3%83%88%E3%83%AA%E3%83%83%E3%83%84%E3%82%A1)
 - [ジプシーのとき](https://www.amazon.co.jp/dp/B01CN9DOB2)
 - [オン・ザ・ミルキー・ロード](https://www.amazon.co.jp/dp/B07D9VMF86)
 - [サラエボの花](https://www.amazon.co.jp/dp/B0015ASHJ0)
+- [ゆはる ユーゴスラビア-大国の誕生と滅亡の歴史 Chapter1](https://www.youtube.com/watch?v=zJfdhcFdkAA&list=PLxXngW6yhEvsjhzNFYFOMnexsU23-h1Xr) ... ゆはる氏の世界史解説Youtubeチャンネル
 - [コードギアス　亡国のアキト](https://www.amazon.co.jp/dp/B01L5TZYBO)
 - [TSUTAYA宅配レンタル](https://movie-tsutaya.tsite.jp/netdvd/dvd/top.do)
 - [台風クラブ](https://www.amazon.co.jp/dp/B093JQPNGL)
@@ -42,6 +44,9 @@ title: 126. Duel of Recommendations
 - [キャリー・フィッシャー](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC)
 - [三幕構成](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B9%95%E6%A7%8B%E6%88%90)
 - [隷属への道](https://www.amazon.co.jp/dp/4393621824/)
+- [青い花](https://webcomic.ohtabooks.com/aoihana/) ... 志村貴子先生の漫画。女の子と女の子が仲良くするお話
+- [田舎](https://webcomic.ohtabooks.com/inaka/) ... 子供は見てはいけません。
+- [本の雑誌社 絶景本棚](https://www.amazon.co.jp/絶景本棚-本の雑誌編集部/dp/4860114116) ... 様々な作家の本棚の写真を集めた本。背表紙読書を楽しもう！
 - [scrapbox](https://scrapbox.io/)
 - [千葉雅也](https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E9%9B%85%E4%B9%9F)
 - ひとこわ　... 本当に怖いのは人間
@@ -49,5 +54,5 @@ title: 126. Duel of Recommendations
 
 ## Editorial notes
 - いま2021コンテンツ ベスト25を考えています(dessan)
-- (yamaken)
+- みなさま、表紙だけでもいいんで小説アクト・オブ・ボディを買ってください。あと、遊戯○形式のコンテンツ紹介楽しかったです。(yamaken)
 - panpanya先生回の次に出そうと思っていたのですが色々と遅れてしまってすいません。2022年もよろしくお願いします。(tadasu)
