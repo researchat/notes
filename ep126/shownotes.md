@@ -13,7 +13,7 @@ duration: "01:15:08"
 layout: article
 tags:
   - 雑談
-title: 126. Duel of Recommendations
+title: 126. The act of recommendation
 
 ---
 
@@ -55,4 +55,4 @@ title: 126. Duel of Recommendations
 ## Editorial notes
 - いま2021コンテンツ ベスト25を考えています(dessan)
 - みなさま、表紙だけでもいいんで小説アクト・オブ・ボディを買ってください。あと、遊戯○形式のコンテンツ紹介楽しかったです。(yamaken)
-- panpanya先生回の次に出そうと思っていたのですが色々と遅れてしまってすいません。2022年もよろしくお願いします。(tadasu)
+- panpanya先生回の次に出そうと思っていたのですが色々と遅れてしまってすいません。2022年もよろしくお願いします。そしてデュエリスト募集中です。(tadasu)
