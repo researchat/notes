@@ -41,12 +41,13 @@ title: 126. Duel of Recommendations
 - [スクリプトドクターのサクゲキRADIO](https://open.spotify.com/show/5aPFP7uyLVoNXI598zsZYr) ... "脚本家・映画監督・スクリプトドクターの三宅隆太が「サクゲキ＝作劇」にまつわるアレコレを語る番組です。"
 - [キャリー・フィッシャー](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC)
 - [三幕構成](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%B9%95%E6%A7%8B%E6%88%90)
+- [隷属への道](https://www.amazon.co.jp/dp/4393621824/)
 - [scrapbox](https://scrapbox.io/)
 - [千葉雅也](https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E9%9B%85%E4%B9%9F)
 - ひとこわ　... 本当に怖いのは人間
 - [平山夢明](https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B1%B1%E5%A4%A2%E6%98%8E)
 
 ## Editorial notes
-- (dessan)
+- いま2021コンテンツ ベスト25を考えています(dessan)
 - (yamaken)
 - panpanya先生回の次に出そうと思っていたのですが色々と遅れてしまってすいません。2022年もよろしくお願いします。(tadasu)
