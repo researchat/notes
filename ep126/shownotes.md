@@ -21,7 +21,7 @@ title: 126. Duel of Recommendations
 - [文学少女対数学少女](https://www.amazon.co.jp/dp/B08P71DG4J)
 - [アクト・オブ・キリング](https://www.amazon.co.jp/dp/B00R3JFBHI)
 - [ジョシュア・オッペンハイマー](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%82%A2%E3%83%BB%E3%82%AA%E3%83%83%E3%83%9A%E3%83%B3%E3%83%8F%E3%82%A4%E3%83%9E%E3%83%BC_(%E6%98%A0%E7%94%BB%E7%9B%A3%E7%9D%A3))
-- [アクト・オブ・ボディ](https://booth.pm/ja/items/3462031) ... yamaken氏の小説！
+- [アクト・オブ・ボディ](https://booth.pm/ja/items/3462031) ... yamaken氏の小説！みんな買って読んでください！ "「健康な身体がほしけりゃ、人に借りればいいのに……」人の身体をレンタルして寝ているあいだも働けるようになった世界で、30代管理職の聡美は24時間働いていた。ある日、身体の交換に失敗する事故に巻き込まれた聡美は、そこで昔蒸発した彼氏に再会する。本作品は「24時間働けるようになった世界で人はより幸せになれたのか？自分の身体を脱ぐことで私たちは何をアクトしているか気づくのか？それともアクトし続けるのか？」を描いた30代男女入れ替わりSFである。"
 - [MCU](https://www.marvel.com/movies)
 - [ファルコン&ウィンターソルジャー](https://disneyplus.disney.co.jp/program/the-falcon-and-the-winter-soldier.html)
 - [ロマ音楽](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E9%9F%B3%E6%A5%BD)
