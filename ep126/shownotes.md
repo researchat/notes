@@ -4,8 +4,8 @@ actor_ids:
   - yamaken
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/126.mp3
-audio_file_size: X
-date: 2022-01-09 7:00:00 +0900
+audio_file_size: 47533793
+date: 2022-01-11 04:18:00 +0900
 rec_date: 2021-12-04 10:00:00 +0900
 edit_by: tadasu
 description: ゲストにdessan氏とyamaken氏を迎え、2021年に観た・読んだおすすめコンテンツについて語ってもらいました。
