@@ -32,7 +32,7 @@ title: 126. Duel of Recommendations
 - ジプシーのとき
 - On the Milky Road (2016)
 - サラエボの花
-- コードギアス　亡国のアギト
+- コードギアス　亡国のアキト
 - TSUTAYA宅配レンタル
 - 台風クラブ
 - 相米慎二
