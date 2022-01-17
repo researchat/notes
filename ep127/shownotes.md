@@ -5,7 +5,7 @@ actor_ids:
 audio_file_path: https://traffic.libsyn.com/secure/researchat/127.mp3
 audio_file_size: 61956979
 date: 2022-01-16 0X:XX:00 +0900
-rec_date: 2021-12-04 10:00:00 +0900
+rec_date: 2021-12-26 22:00:00 -0500
 edit_by: tadasu
 description: ゲストにdessan氏を迎え、反証可能性に関して考えたことを話し合いました。
 duration: "01:21:03"
