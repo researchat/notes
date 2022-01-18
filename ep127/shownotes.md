@@ -8,7 +8,7 @@ date: 2022-01-16 0X:XX:00 +0900
 rec_date: 2021-12-26 22:00:00 -0500
 edit_by: tadasu
 description: ゲストにdessan氏を迎え、反証可能性に関して考えたことを話し合いました。
-duration: "01:21:03"
+duration: "01:20:39"
 layout: article
 tags:
   - 雑談
