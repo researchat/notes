@@ -18,7 +18,8 @@ title: 128. Let's start a science podcast
 
 ---
 ## Show notes
-- 実験医学
+- [実験医学 2021年11月号 Vol.39 No.18](https://www.yodosha.co.jp/jikkenigaku/book/9784758125499/index.html) ... "はじめよう！ 研究者ポッドキャスト―多様な研究者を“聴ける化”する新たなメディア 座談会／石黒　宗，加藤郁佳，宮脇健行"
+- [第123回　ポッドキャストで語るサイエンスとその魅力 by Soh (実験医学)](https://www.yodosha.co.jp/jikkenigaku/opinion/vol38n14.html)
 - [研エンの仲](https://anchor.fm/ken-en-no-naka) ...  "「研エンの仲」は、神経科学の研究者 Ayaka (@kayautoka) とソフトウェアエンジニア Ryohei (@fushimir)
 の2人によるPodcastです。科学やエンジニアリング、日常の話題についても話しています。"
 - [NeuroRadio](https://neuroradio.tokyo/) ... "NeuroRadioは神経科学者のKentaM_Hagiharaとtak_miyawakiが神経科学の新着論文、研究業界、海外での研究生活等、様々な話題を語るPodcast。大西洋を越えて収録しています。"
