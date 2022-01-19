@@ -26,20 +26,20 @@ title: 128. Let's start a science podcast.
 - [#46 波瀾万丈、プログラミング言語「JavaScript」の20年史 (研エンの仲)](https://anchor.fm/ken-en-no-naka/episodes/46-JavaScript20-e13h70t) ... 激動の1995年から始まるJavaScriptの話。当時の状況もよく理解でるすばらしいエピソード。それにしても1995年濃すぎる。
 - [#29 Podcastのしくみと歴史 (研エンの仲)](https://anchor.fm/ken-en-no-naka/episodes/29-Podcast-eplbhm) ... Podcastの始まりからその性質までをわかりやすく説明している回。ポッドキャストをはじめてその歴史や仕組みが気になった方にはおすすめです。
 - [#14 リモート会議を支える技術: 速さだけじゃないネットワークの品質 (研エンの仲)](https://anchor.fm/ken-en-no-naka/episodes/14-emr30r)
-- [#13 Non-stealth marketing – the inaugural 1st author review (NeuroRadio)](https://neuroradio.tokyo/2021/05/25/13-non-stealth-marketing-the-inaugural-1st-author-review/) ... HagiharaさんのNature 1st論文紹介回。強すぎる！我々の目標とするエピソード。
 - researchat.fmのediting … sohとtadasuが今のところ半々ぐらいかな。coela編集回は0
 - [#53 どこどこは岡山弁じゃけん (研エンの仲)](https://anchor.fm/ken-en-no-naka/episodes/53-e15hmqp) ... 「なんてろかんてろ」が飛び出した神回。こういう話したい！ってなりました。ただあんまりおもしろい方言がないのがコンプレックス(香川県民, tadasu)
 - [#65 AIにPodcastの台本を書いてもらいました (研エンの仲)](https://anchor.fm/ken-en-no-naka/episodes/65-AIPodcast-e1adjff) ... AIに台本を書かせて読んでみる回。AIが結構ちゃんとした台本を出していてびっくりします。企画力の高さが光るエピソード。
 - [#54 理系2人暮らし9ヶ月目、リアルな家事分担事情 (研エンの仲)](https://anchor.fm/ken-en-no-naka/episodes/54-29-e15k12u) ... 生活における最適化問題を解くプロセスの話は大好物です。#10や#6あたりも聴いていただきたい。
 - [#48 なんで私がF1に？ (ゲスト@namicha_1) (研エンの仲)](https://anchor.fm/ken-en-no-naka/episodes/48-F1-namicha_1-e13toto) ... 今までスポーツ観戦にハマることがなかったというなみちゃん氏をゲストに迎え、F1沼にはまっていく序章となるエピソード。ここから何回かに分けてそのF1沼にはまっていく様子が語られていくことになる。
-- [Rebuild.fm](https://rebuild.fm/)
+- [#13 Non-stealth marketing – the inaugural 1st author review (NeuroRadio)](https://neuroradio.tokyo/2021/05/25/13-non-stealth-marketing-the-inaugural-1st-author-review/) ... HagiharaさんのNature 1st論文紹介回。強すぎる！我々の目標とするエピソード。
+- [#11 Sequencing the Connectome (NeuroRadio)](https://neuroradio.tokyo/2021/05/21/11-sequencing-the-connectome/) ... Zadorのsequencingとconnectomeを繋げるという話はResearchat.fmでずっとやりたいなぁと思いつつも、話せてなかった論文群なのでとても勉強になった。
 - NeuroRadioさんのゲスト回 ... 全部最高なんですが、今回のエピソード内に出てきたゲスト回とResearchat.fmのTwitterでコメントした回を載せておきます。
 - [#30 Being a technologist at 10x (NeuroRadio)](https://neuroradio.tokyo/2021/12/10/30-being-a-technologist-at-10x/) ... 10xに研究者として就職されたSasakiさんのインタビューをMiyawakiさん単体で行ったすらばしいエピソード。
 - [#8 Social Interaction with Dr. Teruhiro Okuyama – Part 1 (NeuroRadio)](https://neuroradio.tokyo/2021/04/14/8-social-interaction-with-dr-teruhiro-okuyama-part-1/) ... MITに留学されていたOkuyamaさんのエピソード。親近感もありつつ、Okuyamaさんの戦略をしっかり聞き込めるすばらしいエピソード。
 - [なぜ，バナナは黄色だと思うのか，思いつく事をしゃべってみろ！](https://www.s.u-tokyo.ac.jp/ja/story/newsletter/doctor/14-2.html) ... 奥山さんの留学記。tadasuは以前にこれを読んでいたので#8のエピソードには興味津々でした。
 - [#20. A programmed round-trip for Europe by Dr. Keisuke Yonehara – Part 1 (NeuroRadio)](https://neuroradio.tokyo/2021/08/13/20-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-1/) ... デンマークでPIされた後に昨年日本の遺伝研でもPIになられたYoneharaさんのエピソード。研究の進め方やラボの運営についてとても参考になる話が聞けます！
 - [#16 Mechanistic vs population codes – Inter-show interaction with Ayaka Kato (NeuroRadio)](https://neuroradio.tokyo/2021/06/28/16-mechanistic-vs-population-codes-inter-show-interaction-with-ayaka-kato/) ... 研エンの仲のAyakaさんがNeuroRadioに出演した回。控えめに言って神回です。
-- [#11 Sequencing the Connectome (NeuroRadio)](https://neuroradio.tokyo/2021/05/21/11-sequencing-the-connectome/) ... Zadorのsequencingとconnectomeを繋げるという話はResearchat.fmでずっとやりたいなぁと思いつつも、話せてなかった論文群なのでとても勉強になった。
+- [Rebuild.fm](https://rebuild.fm/) ... 日本のテック系ポッドキャストで最も有名かつ、最高峰の番組。
 - okaさんのrebuild
 - RX
 - Acon Sweet
