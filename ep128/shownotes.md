@@ -10,7 +10,7 @@ date: 2022-01-21 XX:YY:00 +0900
 rec_date: 2021-01-07 22:00:00 -0500
 edit_by: tadasu
 description: 研エンの仲のRyoheiさん、NeuroRadioのHagiharaさんをゲストにお呼びし、研究者/科学者ポッドキャストのはじめ方について話しました。
-duration: "01:XX:YY"
+duration: "01:24:43"
 layout: article
 tags:
   - 雑談
@@ -41,15 +41,12 @@ title: 128. Let's start a science podcast
 - [#20. A programmed round-trip for Europe by Dr. Keisuke Yonehara – Part 1 (NeuroRadio)](https://neuroradio.tokyo/2021/08/13/20-a-programmed-round-trip-for-europe-by-dr-keisuke-yonehara-part-1/) ... デンマークでPIされた後に昨年日本の遺伝研でもPIになられたYoneharaさんのエピソード。研究の進め方やラボの運営についてとても参考になる話が聞けます！
 - [#16 Mechanistic vs population codes – Inter-show interaction with Ayaka Kato (NeuroRadio)](https://neuroradio.tokyo/2021/06/28/16-mechanistic-vs-population-codes-inter-show-interaction-with-ayaka-kato/) ... 研エンの仲のAyakaさんがNeuroRadioに出演した回。控えめに言って神回です。
 - [Rebuild.fm](https://rebuild.fm/) ... 日本のテック系ポッドキャストで最も有名かつ、最高峰の番組。
-- okaさんのrebuild
-- RX
-- Acon Sweet
-- #けんえん
-- #neuroradio
-- つぶあんこしあん
-- anchor
-- アートワーク
-- logos of logos
+- [okaさんによるRebuildのタイトル考察](https://twitter.com/nowohyeah/status/1341400023557419009)
+- [#研エンの仲](https://twitter.com/search?q=%23%E7%A0%94%E3%82%A8%E3%83%B3%E3%81%AE%E4%BB%B2&src=hashtag_click) ...  めっちゃつぶやこうぜ！
+- [#NeuroRadio](https://twitter.com/search?q=%23neuroradio&src=typed_query&f=live) ... ツイートバンバンしようぜ
+- [104. Resolution of sweet bean (Researchat.fm)](https://researchat.fm/episode/104) ... つぶあんこしあんについて話し合った回
+- [Anchor](https://anchor.fm/) ... みんなここでポッドキャスト始めよう！「Anchor はじめ方」でググってください！
+- [114. Logos of Logos (Researchat.fm)](https://researchat.fm/episode/114) ... ポッドキャストのアートワークについて語った回
 - [実験医学のポッドキャスト](https://www.yodosha.co.jp/jikkenigaku/podcast.html) ... 実は存在していたのである。
 - [RIKEN CBS presents ❝真夜中の脳科学 Brain Science 'round midnight❞](https://anchor.fm/riken-cbs) 
 - [Misreading Chat](https://misreading.chat/)
@@ -58,8 +55,8 @@ title: 128. Let's start a science podcast
 - [グラントの書き方](https://ryasuda.hatenadiary.org/entry/20110811/p1) ... Ryohei Yasudaさんのグラントライティングテクニックの根幹が書かれているページ。tadasuは毎回ここに立ち返る。
 - [Ryohei Yasuda先生のツイート](https://twitter.com/Ryohei_Neuro/status/1043480232848760833) ... 最近だとこのツイートが唐突すぎておもしろかった。
 - [職探しTips　by 五十嵐](http://www.igarashilab.org/jobhunting) ... [NeuoRadioにも出演された](https://neuroradio.tokyo/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)五十嵐先生のポジションを取るまでの記録。あまりにも最高すぎる資料です。
-- neuroradioまとめ
-- researchatのtips
+- [NeuroRadioのポッドキャストはじめ方まとめ](https://note.com/neuroradio/n/n533a73eb7c67)
+- [researchat.fmの収録tips](https://researchat.fm/blog/2/)
 
 ## Editorial notes
 - (ryohei)
