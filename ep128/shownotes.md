@@ -53,9 +53,10 @@ title: 128. Let's start a science podcast.
 - [RIKEN CBS presents ❝真夜中の脳科学 Brain Science 'round midnight❞](https://anchor.fm/riken-cbs) 
 - [Misreading Chat](https://misreading.chat/)
 - [Ryohei Yasuda](https://mpfi.org/science/our-labs/yasuda-lab/) ... tadasuが神の如く尊敬する研究者。実はtadasuの高校の先輩。
-- [](http://www.linkclub.or.jp/~hiikoysd/ryohei/rindex.html)
+- [吾輩は科学者である](http://www.linkclub.or.jp/~hiikoysd/ryohei/rindex.html) ... Ryohei Yasudaさんのポスドク時代からPIになるまでの記録が記されている伝説のサイト。
+- [グラントの書き方](https://ryasuda.hatenadiary.org/entry/20110811/p1) ... Ryohei Yasudaさんのグラントライティングテクニックの根幹が書かれているページ。tadasuは毎回ここに立ち返る。
 - [Ryohei Yasuda先生のツイート](https://twitter.com/Ryohei_Neuro/status/1043480232848760833) ... 最近だとこのツイートが唐突すぎておもしろかった。
-- [職探しTips　by 五十嵐](http://www.igarashilab.org/jobhunting) ... NeuoRadioにも出演された五十嵐先生のポジションを取るまでの記録。あまりにも最高すぎる資料です。
+- [職探しTips　by 五十嵐](http://www.igarashilab.org/jobhunting) ... [NeuoRadioにも出演された](https://neuroradio.tokyo/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)五十嵐先生のポジションを取るまでの記録。あまりにも最高すぎる資料です。
 - neuroradioまとめ
 - researchatのtips
 
