@@ -21,6 +21,8 @@ title: 127. XYZ
 - [HARKing](https://ja.wikipedia.org/wiki/HARKing) ... "HARKingは社会心理学者のノーバート・カーが造語した頭字語であり、「結果が判明したあとに仮説を作る」hypothesizing after the results are knownという疑わしい研究慣行を意味する。"
 - [p-hacking](https://en.wikipedia.org/wiki/Data_dredging)
 - [ランジャタイ](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%B8%E3%83%A3%E3%82%BF%E3%82%A4) ... dessanとtadasuはここ数年、彼らの動向を追いかけてきた。
+- [科学技術の革新と資本主義（１） ポパー科学理論の再検討](https://rissho.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=2810&item_no=1&page_id=13&block_id=21) ... 小畑二郎先生の議論を参考にしました。
+- [科学技術の革新と資本主義(2) ―イノベーションと起業家に関するオーストリア理論の検討―](https://rissho.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=2797&item_no=1&page_id=13&block_id=21)
 - [カール・ポパー](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9D%E3%83%91%E3%83%BC)
 - [科学的発見の倫理](https://www.amazon.co.jp/dp/4769902549)
 - [客観的知識](https://www.amazon.co.jp/dp/4833290014/) ... なぜかこれと科学革命の構造を読めと怖い先輩に言われた。チラ見はした(tadasu)
