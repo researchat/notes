@@ -14,7 +14,7 @@ duration: "01:XX:YY"
 layout: article
 tags:
   - 雑談
-title: 128. Let's start a science podcast.
+title: 128. Let's start a science podcast
 
 ---
 ## Show notes
