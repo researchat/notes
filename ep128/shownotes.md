@@ -49,11 +49,13 @@ title: 128. Let's start a science podcast.
 - anchor
 - アートワーク
 - logos of logos
-- 実験医学のポッドキャスト
-- RIKEN
-- misreadingchat.fm
-- ryohei yasuda
-- Hmart 明太子
+- [実験医学のポッドキャスト](https://www.yodosha.co.jp/jikkenigaku/podcast.html) ... 実は存在していたのである。
+- [RIKEN CBS presents ❝真夜中の脳科学 Brain Science 'round midnight❞](https://anchor.fm/riken-cbs) 
+- [Misreading Chat](https://misreading.chat/)
+- [Ryohei Yasuda](https://mpfi.org/science/our-labs/yasuda-lab/) ... tadasuが神の如く尊敬する研究者。実はtadasuの高校の先輩。
+- [](http://www.linkclub.or.jp/~hiikoysd/ryohei/rindex.html)
+- [Ryohei Yasuda先生のツイート](https://twitter.com/Ryohei_Neuro/status/1043480232848760833) ... 最近だとこのツイートが唐突すぎておもしろかった。
+- [職探しTips　by 五十嵐](http://www.igarashilab.org/jobhunting) ... NeuoRadioにも出演された五十嵐先生のポジションを取るまでの記録。あまりにも最高すぎる資料です。
 - neuroradioまとめ
 - researchatのtips
 
