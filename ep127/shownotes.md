@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/127.mp3
 audio_file_size: 61956979
-date: 2022-01-16 0X:XX:00 +0900
+date: 2022-01-19 21:06:00 +0900
 rec_date: 2021-12-26 22:00:00 -0500
 edit_by: tadasu
 description: ゲストにdessan氏を迎え、反証可能性に関して考えたことを話し合いました。
@@ -12,7 +12,7 @@ duration: "01:20:39"
 layout: article
 tags:
   - 雑談
-title: 127. Peach-value
+title: 127. Momo
 
 ---
 
@@ -45,5 +45,5 @@ title: 127. Peach-value
 - [デュエム=クワインのテーゼ](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%A5%E3%82%A8%E3%83%A0-%E3%82%AF%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%86%E3%83%BC%E3%82%BC)
 
 ## Editorial notes
-- (dessan)
+- 今回はいろいろ大変でしたが、収録（特に後半）は楽しかったです (dessan)
 - 熱出たんです...色々と考えてみましたが勉強になりました。科学哲学ぼちぼち勉強したい。(tadasu)
