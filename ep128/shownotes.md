@@ -51,6 +51,7 @@ title: 128. Let's start a science podcast
 - [RIKEN CBS presents ❝真夜中の脳科学 Brain Science 'round midnight❞](https://anchor.fm/riken-cbs) 
 - [Misreading Chat](https://misreading.chat/)
 - [Ryohei Yasuda](https://mpfi.org/science/our-labs/yasuda-lab/) ... tadasuが神の如く尊敬する研究者。実はtadasuの高校の先輩。
+- [働き者のラボ](https://ryasuda.hatenadiary.org/entry/20041230/p1) ... なお萩原の今ボスは安田さんのポスドク時代のボスと同一人物で、こんな感じらしい笑 (h)
 - [吾輩は科学者である](http://www.linkclub.or.jp/~hiikoysd/ryohei/rindex.html) ... Ryohei Yasudaさんのポスドク時代からPIになるまでの記録が記されている伝説のサイト。
 - [グラントの書き方](https://ryasuda.hatenadiary.org/entry/20110811/p1) ... Ryohei Yasudaさんのグラントライティングテクニックの根幹が書かれているページ。tadasuは毎回ここに立ち返る。
 - [Ryohei Yasuda先生のツイート](https://twitter.com/Ryohei_Neuro/status/1043480232848760833) ... 最近だとこのツイートが唐突すぎておもしろかった。
@@ -59,7 +60,7 @@ title: 128. Let's start a science podcast
 - [researchat.fmの収録tips](https://researchat.fm/blog/2/)
 
 ## Editorial notes
-- (ryohei)
-- (hagihara)
+- (Ryohei)
+- ゲストで登場していきなり"私は今ストレスで機嫌が悪いです"という感じの悪い自己紹介をしていてどうしようもないですが、後半に行くに連れてそこそこちゃんと喋ったと思うのでお許しを... (米国移住でほんとに若干テンパってた)(Hagihara)
 - (coela)
-- (tadasu)
+- 初めて他のポッドキャストの方々にゲストとしてきていただいたので結構しどろもどろでした。でもめちゃ楽しかったです！ありがとうございます。(tadasu)
