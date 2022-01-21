@@ -9,7 +9,7 @@ audio_file_size: 91823141
 date: 2022-01-22 20:30:00 +0900
 rec_date: 2021-01-07 22:00:00 -0500
 edit_by: tadasu
-description: 研エンの仲のRyoheiさん、NeuroRadioのHagiharaさんをゲストに迎え、研究者/科学者ポッドキャストのはじめ方について話しました。
+description: 研エンの仲のRyoheiさん、NeuroRadioのHagiharaさんをゲストに迎え、研究者/科学者ポッドキャストについて話しました。
 duration: "01:24:43"
 layout: article
 tags:
@@ -44,12 +44,13 @@ title: 128. Let's start a science podcast
 - [okaさんによるRebuildのタイトル考察](https://twitter.com/nowohyeah/status/1341400023557419009)
 - [#研エンの仲](https://twitter.com/search?q=%23%E7%A0%94%E3%82%A8%E3%83%B3%E3%81%AE%E4%BB%B2&src=hashtag_click) ...  めっちゃつぶやこうぜ！
 - [#NeuroRadio](https://twitter.com/search?q=%23neuroradio&src=typed_query&f=live) ... ツイートバンバンしようぜ
-- [NeuroRadioのマシュマロ](https://marshmallow-qa.com/neuroradio_?utm_medium=twitter&utm_source=promotion) ... 発掘したからみんなで投げようぜ！
+- [NeuroRadioのマシュマロ](https://marshmallow-qa.com/neuroradio_?utm_medium=twitter&utm_source=promotion) ... 発掘したからみんなでマシュマロ投げつけようぜ！
 - [104. Resolution of sweet bean (Researchat.fm)](https://researchat.fm/episode/104) ... つぶあんこしあんについて話し合った回
 - [Anchor](https://anchor.fm/) ... みんなここでポッドキャスト始めよう！「Anchor はじめ方」でググってください！
 - [114. Logos of Logos (Researchat.fm)](https://researchat.fm/episode/114) ... ポッドキャストのアートワークについて語った回
-- [実験医学のポッドキャスト](https://www.yodosha.co.jp/jikkenigaku/podcast.html) ... 実は存在していたのである。
-- [RIKEN CBS presents ❝真夜中の脳科学 Brain Science 'round midnight❞](https://anchor.fm/riken-cbs) 
+- [実験医学のポッドキャスト](https://www.yodosha.co.jp/jikkenigaku/podcast.html) ... 実は存在していたのである。実験医学さん！ポッドキャストをはじめる機運ですよ！
+- [RIKEN CBS presents ❝真夜中の脳科学 Brain Science 'round midnight❞](https://anchor.fm/riken-cbs) ... RIKEN CBSのポッドキャスト
+- [The OIST Podcast](https://www.oist.jp/oist-podcast) ... OISTのポッドキャスト。これからは大学・研究所の広報の一環としてポッドキャストが重要視されるはず！
 - [Misreading Chat](https://misreading.chat/)
 - [Ryohei Yasuda](https://mpfi.org/science/our-labs/yasuda-lab/) ... tadasuが神の如く尊敬する研究者。実はtadasuの高校の先輩。
 - [働き者のラボ](https://ryasuda.hatenadiary.org/entry/20041230/p1) ... なお萩原の今ボスは安田さんのポスドク時代のボスと同一人物で、こんな感じらしい笑 (h)
@@ -59,6 +60,9 @@ title: 128. Let's start a science podcast
 - [職探しTips　by 五十嵐](http://www.igarashilab.org/jobhunting) ... [NeuoRadioにも出演された](https://neuroradio.tokyo/2021/09/15/23-poor-is-the-pupil-who-does-not-surpass-his-master-part-1/)五十嵐先生のポジションを取るまでの記録。あまりにも最高すぎる資料です。
 - [NeuroRadioのポッドキャストはじめ方まとめ](https://note.com/neuroradio/n/n533a73eb7c67)
 - [researchat.fmの収録tips](https://researchat.fm/blog/2/)
+- [高井研先生のポッドキャスト考察1](https://twitter.com/1031kentakai/status/746362343773212672) ... tadasuが鬼の如く尊敬する高井先生のツイート。"「科学教育アウトリーチにおけるエフォートと効果について」ハーバード大学のピーター・ガーガスというワシの同世代のワイルド天才が笑撃的な論文を書いておる（海洋性ゴリラ経由）。おそらく最も効果的なのは、ラジオやポッドキャストで、休日の市民講演会は最も意味なしらしい（アメリカでは）。" : Peter Girguis先生のことであることはわかるがどこに書いてあるのかわからん！ソースちょうだい！
+- [高井研先生のポッドキャスト考察2](https://twitter.com/1031kentakai/status/746364619090862080) ... tadasuが鬼神の如く尊敬する高井先生のツイート。"まあ日本とアメリカでは社会の科学教育アウトリーチというとらえ方が結構違うのでワシの個人的印象とはやや異なるが市民講演会が効果が低いというのはなんとなくわかる。人気のあるラジオやポッドキャストが極めて効果的というのも賛成。ただしピーターはテレビや映画に出るほどイケメソではない（笑）"高井鬼神がすすめるんだからポッドキャストは重要なんだ！重要なんだ！
+- [高井・イケメソ鬼神・研先生がバイリンガルニュースに出た回](https://podcasts.apple.com/gy/podcast/199-%E7%89%B9%E5%88%A5%E7%B7%A8-takai-02-11-16/id653415937?i=1000362708814) ... このエピソードか、爆笑問題の太田さんがラジオで触れていた時にバイリンガルニュースっていうのがあるらしいと知った記憶。このエピソードは非常にいい感じだった。
 
 ## Editorial notes
 -  Podcastの持続可能性に話せたのもよかったです。推しは推せるときに推そう。(Ryohei)
