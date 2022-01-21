@@ -9,7 +9,7 @@ audio_file_size: 91823141
 date: 2022-01-22 20:30:00 +0900
 rec_date: 2021-01-07 22:00:00 -0500
 edit_by: tadasu
-description: 研エンの仲のRyoheiさん、NeuroRadioのHagiharaさんをゲストに迎え、研究者/科学者ポッドキャストについて話しました。
+description: 研エンの仲のRyoheiさんとNeuroRadioのHagiharaさんをゲストに迎え、研究者/科学者ポッドキャストについて色々話しました。
 duration: "01:24:43"
 layout: article
 tags:
