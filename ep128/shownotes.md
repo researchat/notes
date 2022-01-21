@@ -51,6 +51,7 @@ title: 128. Let's start a science podcast
 - [実験医学のポッドキャスト](https://www.yodosha.co.jp/jikkenigaku/podcast.html) ... 実は存在していたのである。実験医学さん！ポッドキャストをはじめる機運ですよ！
 - [RIKEN CBS presents ❝真夜中の脳科学 Brain Science 'round midnight❞](https://anchor.fm/riken-cbs) ... RIKEN CBSのポッドキャスト
 - [The OIST Podcast](https://www.oist.jp/oist-podcast) ... OISTのポッドキャスト。これからは大学・研究所の広報の一環としてポッドキャストが重要視されるはず！
+- [100. Researchat.fm (Researchat.fm)](https://researchat.fm/episode/100) ... Researchat.fmの命名問題についてはこちらをお聴きください。
 - [Misreading Chat](https://misreading.chat/)
 - [Ryohei Yasuda](https://mpfi.org/science/our-labs/yasuda-lab/) ... tadasuが神の如く尊敬する研究者。実はtadasuの高校の先輩。
 - [働き者のラボ](https://ryasuda.hatenadiary.org/entry/20041230/p1) ... なお萩原の今ボスは安田さんのポスドク時代のボスと同一人物で、こんな感じらしい笑 (h)
