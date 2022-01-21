@@ -5,11 +5,11 @@ actor_ids:
   - coela
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/128.mp3
-audio_file_size: X
-date: 2022-01-21 XX:YY:00 +0900
+audio_file_size: 91823141
+date: 2022-01-22 20:30:00 +0900
 rec_date: 2021-01-07 22:00:00 -0500
 edit_by: tadasu
-description: 研エンの仲のRyoheiさん、NeuroRadioのHagiharaさんをゲストにお呼びし、研究者/科学者ポッドキャストのはじめ方について話しました。
+description: 研エンの仲のRyoheiさん、NeuroRadioのHagiharaさんをゲストに迎え、研究者/科学者ポッドキャストのはじめ方について話しました。
 duration: "01:24:43"
 layout: article
 tags:
@@ -64,4 +64,4 @@ title: 128. Let's start a science podcast
 -  Podcastの持続可能性に話せたのもよかったです。推しは推せるときに推そう。(Ryohei)
 - ゲストで登場していきなり"私は今ストレスで機嫌が悪いです"という感じの悪い自己紹介をしていてどうしようもないですが、後半に行くに連れてそこそこちゃんと喋ったと思うのでお許しを... (米国移住でほんとに若干テンパってた)(Hagihara)
 - 実は結構緊張していたのですが、終わってみれば楽しく収録できて最高でした！実験医学さんにもこの場を借りて改めてお礼申し上げます。(coela)
-- 初めて他のポッドキャストの方々にゲストとしてきていただいたのですが、結構しどろもどろでした。でもめちゃ楽しかったです！ありがとうございます。(tadasu)
+- 初めて、他のポッドキャストの方々にゲストとしてきていただいたのですが、結構しどろもどろでした。でもめちゃ楽しかったです！ありがとうございます。(tadasu)
