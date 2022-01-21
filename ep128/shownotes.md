@@ -44,6 +44,7 @@ title: 128. Let's start a science podcast
 - [okaさんによるRebuildのタイトル考察](https://twitter.com/nowohyeah/status/1341400023557419009)
 - [#研エンの仲](https://twitter.com/search?q=%23%E7%A0%94%E3%82%A8%E3%83%B3%E3%81%AE%E4%BB%B2&src=hashtag_click) ...  めっちゃつぶやこうぜ！
 - [#NeuroRadio](https://twitter.com/search?q=%23neuroradio&src=typed_query&f=live) ... ツイートバンバンしようぜ
+- [NeuroRadioのマシュマロ](https://marshmallow-qa.com/neuroradio_?utm_medium=twitter&utm_source=promotion) ... 発掘したからみんなで投げようぜ！
 - [104. Resolution of sweet bean (Researchat.fm)](https://researchat.fm/episode/104) ... つぶあんこしあんについて話し合った回
 - [Anchor](https://anchor.fm/) ... みんなここでポッドキャスト始めよう！「Anchor はじめ方」でググってください！
 - [114. Logos of Logos (Researchat.fm)](https://researchat.fm/episode/114) ... ポッドキャストのアートワークについて語った回
@@ -60,7 +61,7 @@ title: 128. Let's start a science podcast
 - [researchat.fmの収録tips](https://researchat.fm/blog/2/)
 
 ## Editorial notes
-- (Ryohei)
+-  Podcastの持続可能性に話せたのもよかったです。推しは推せるときに推そう。(Ryohei)
 - ゲストで登場していきなり"私は今ストレスで機嫌が悪いです"という感じの悪い自己紹介をしていてどうしようもないですが、後半に行くに連れてそこそこちゃんと喋ったと思うのでお許しを... (米国移住でほんとに若干テンパってた)(Hagihara)
 - 実は結構緊張していたのですが、終わってみれば楽しく収録できて最高でした！実験医学さんにもこの場を借りて改めてお礼申し上げます。(coela)
 - 初めて他のポッドキャストの方々にゲストとしてきていただいたのですが、結構しどろもどろでした。でもめちゃ楽しかったです！ありがとうございます。(tadasu)
