@@ -26,4 +26,4 @@ title: 129. We Are Smart Enough
 ## Editorial notes
 - 定期的にやりたいです (soh)
 - coela
-- tadasu
+- みなさまからの挑戦待っています。問題文だけこっそりDMください。(tadasu)
