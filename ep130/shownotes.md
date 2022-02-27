@@ -4,7 +4,7 @@ actor_ids:
   - hagihara
   - coela
   - tadasu
-audio_file_path: https://traffic.libsyn.com/secure/researchat/128.mp3
+audio_file_path: https://traffic.libsyn.com/secure/researchat/1.mp3
 audio_file_size: 81672173
 date: 2022-03-05 XX:XX:XX +0900
 rec_date: 2021-01-09 01:00:00 -0500
