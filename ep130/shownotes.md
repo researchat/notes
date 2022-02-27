@@ -24,8 +24,8 @@ title: 130. Let's start a science podcast
 - [League of Legends (LoL)](https://www.leagueoflegends.com/en-us/)
 - [ボタン連打とポケモン](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1221187502)
 - [岐阜コンボ](https://www.youtube.com/watch?v=fHEvlT9uqe4)
-- [あめみやたいよう　vs kazu](https://www.youtube.com/watch?v=YJ9f50hUNV8&ab_channel=DaigotheBeasTV) ... 獣道４ Kemonomichi 4 - あめみやたいよう VS kazu | Taiyo Amemiya VS kazu | ぷよぷよテトリス Puyo Puyo Tetris
-
+- [あめみやたいよう　vs kazu](https://www.youtube.com/watch?v=YJ9f50hUNV8&ab_channel=DaigotheBeasTV) ... 獣道４ あめみやたいよう VS kazu ぷよぷよテトリス
+- [今夜勝ちたい](https://goziline.com/cat/%E3%82%B9%E3%83%885)
 
 ## Editorial notes
 - (Ryohei)
