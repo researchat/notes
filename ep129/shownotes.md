@@ -18,6 +18,7 @@ title: 129. We Are Smart Enough
 ---
 ## Show notes
 - [115. Ramen Restaurant Serves Foie Gras (tadasu, hinakamo, and Zaikou) - Side by Side Radio](https://sidebysideradio.libsyn.com/115-ramen-restaurant-serves-foie-gras-tadasu-hinacamo-and-zaikou)
+- [#73 論文の未来を語ろう - 研エンの仲](https://anchor.fm/ken-en-no-naka/episodes/73-e1d9uf5)
 - [128. Let's start a science podcast - Researchat.fm](https://researchat.fm/episode/128) ... "研エンの仲のRyoheiさんとNeuroRadioのHagiharaさんをゲストに迎え、研究者/科学者ポッドキャストについて色々話しました"
 - [80. Guest explains everything - Researchat.fm](https://researchat.fm/episode/80) ... "pomeさんをゲストに迎え、TALEN・UCART治療・シングルセル解析・核酸医薬・DNA合成に関する技術と関連のバイオテック企業の動向について話を伺いました"
 - [フェルミ推定 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9F%E6%8E%A8%E5%AE%9A)
