@@ -14,7 +14,7 @@ duration: "01:18:04"
 layout: article
 tags:
   - 雑談
-title: 130. Let's start a science podcast
+title: 130. SOMEBODY TO LOVE
 
 ---
 ## Show notes
@@ -30,6 +30,6 @@ title: 130. Let's start a science podcast
 ## Editorial notes
 - (Ryohei)
 - (Hagihara)
-- (coela)
+- FFTは本当におすすめなのでみんなにやって欲しいです。LOL観戦面白そうなのでちょっとルールを覚え始めました(coela)
 - いろいろ書き物で死んでいたので公開までに時間がかかってしまいました。FFTもLoLもおもしろそうです。(tadasu)
 
