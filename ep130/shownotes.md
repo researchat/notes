@@ -6,7 +6,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/130.mp3
 audio_file_size: 81672173
-date: 2022-03-06 21::15:00 +0900
+date: 2022-03-06 21:05:00 +0900
 rec_date: 2021-01-09 01:00:00 -0500
 edit_by: tadasu
 description: 研エンの仲のRyoheiさんとNeuroRadioのHagiharaさんをゲストに迎え、FFTとLoLについて話しました。
