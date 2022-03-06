@@ -28,7 +28,7 @@ title: 130. SOMEBODY TO LOVE
 - [岐阜コンボ](https://www.youtube.com/watch?v=fHEvlT9uqe4)
 - [あめみやたいよう　vs kazu](https://www.youtube.com/watch?v=YJ9f50hUNV8&ab_channel=DaigotheBeasTV) ... 獣道４ あめみやたいよう VS kazu ぷよぷよテトリス
 - [今夜勝ちたい](https://goziline.com/cat/%E3%82%B9%E3%83%885)
-- キャラのリメイク ... 公式には VGU (Visual Gameplay Update) と呼ばれている。(例)[https://www.leagueoflegends.com/ja-jp/news/dev/dev-kicking-off-udyr-s-vgu/]
+- キャラのリメイク ... 公式には VGU (Visual Gameplay Update) と呼ばれている。[例](https://www.leagueoflegends.com/ja-jp/news/dev/dev-kicking-off-udyr-s-vgu/)
 - LoL のキャラ数 ... 2022年時点で158キャラ。昨年の世界大会ではそのうち80キャラが使用された。
 - [Project L](https://www.riotgames.com/ja/news/project-l-dev-finding-our-game-ja) ... LoLの格ゲー (開発中)
 
