@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: https://traffic.libsyn.com/secure/researchat/131.mp3
 audio_file_size: 68389407
-date: 2022-03-09 21:05:00 +0900
+date: 2022-03-11 04:43:00 +0900
 rec_date: 2022-01-15 22:00:00 -0500
 edit_by: tadasu
 description: 過去2年分のお便りを紹介しました。
