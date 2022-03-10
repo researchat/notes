@@ -32,28 +32,27 @@ title: 131. A Pile of Letters
 - [Artiste](https://www.amazon.co.jp/dp/4107719669)
 - [防衛漫玉日記](https://www.amazon.co.jp/dp/B00KSV9FFM/)
 - [神戸在住](https://www.amazon.co.jp/dp/B00AAR1ZUW/)
-- dessan
-- pomeさん
+- [76. The Chimeric RNA (Researchat.fm)](https://researchat.fm/episode/76) ... dessanがCRISPRについて説明してくれた回
+- [79. Connecting Dots (Researchat.fm)](https://researchat.fm/episode/79) ... pomeさんがバイオスタートアップについて説明してくれた回
 - AAVとT4 phageの論文
-- いいねの数だけ論文を紹介する
-- 紹介した論文リスト
-- のぼりさんサイト
-- 情熱大陸
-- 論理的思考の放棄
-- 相分離
-- 相分離の元論
-- Darzacqの批判論文
-- chromatin loop extrusion
+- [いいねの数だけ論文を今年紹介する](https://twitter.com/researchat_fm/status/1480972388837769216)
+- [2020年の論文紹介実績](https://twitter.com/researchat_fm/status/1344399399988805632)
+- [2019年の論文紹介実績](https://twitter.com/researchat_fm/status/1211747797864574976)
+- [登さんのブログ](https://softether.hatenadiary.org/)
+- [登さんの情熱大陸](https://www.mbs.jp/jounetsu/2021/02_07.shtml)
+- [論理的思考の放棄](https://softether.hatenadiary.org/entry/20070324/p1)
+- [相分離 (Phase separation)](https://en.wikipedia.org/wiki/Phase_separation)
+- [LLPSに関する言及](http://genesdev.cshlp.org/content/early/2019/10/08/gad.331520.119.abstract) ... LLPS研究の歴史から問題点まで
+- Chromatin/DNA loop extrusion ... 興味がある方はググってください。
 - [Cytoscape](https://cytoscape.org/)
 - [Bioconductor](https://www.bioconductor.org/)
 - [Fiji/ImageJ](https://imagej.net/software/fiji/)
-- zuckerberg 財団
+- [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
 - [BioPerl](https://bioperl.org/)
 - [Biopython](https://biopython.org/)
 - [BioRuby](http://bioruby.org/)
-- DNA origami
-- dessan 38
-- ポップ　メンター
+- [74. Imaging-by-Sequencing (Researchat.fm)](https://researchat.fm/episode/74) ... DNA origamiについての軽い言及があります。
+- [37. Biological Enigma (Researchat.fm)](https://researchat.fm/episode/37) ... dessanによる分子生物学入門
 
 ## Editorial notes
 - こう見えて懸命に答えをだそうとはしています (soh)
