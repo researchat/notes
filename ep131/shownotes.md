@@ -13,7 +13,7 @@ duration: "01:06:46"
 layout: article
 tags:
   - 雑談
-title: 131. XXX
+title: 131. A Pile of Letters
 
 ---
 ## Show notes
