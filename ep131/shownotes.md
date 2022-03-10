@@ -34,7 +34,7 @@ title: 131. A Pile of Letters
 - [神戸在住](https://www.amazon.co.jp/dp/B00AAR1ZUW/?tag=researchatf04-22)
 - [76. The Chimeric RNA (Researchat.fm)](https://researchat.fm/episode/76) ... dessanがCRISPRについて説明してくれた回
 - [79. Connecting Dots (Researchat.fm)](https://researchat.fm/episode/79) ... pomeさんがバイオスタートアップについて説明してくれた回
-- [Zhu et al., Advanced Science 2019](https://advances.sciencemag.org/content/5/8/eaax0064) ... "A prokaryotic-eukaryotic hybrid viral vector for delivery of large cargos of genes and proteins into human cells" たうちさん紹介ありがとうございます。おもしろい論文です。
+- [Zhu et al., Science Advances (2019)](https://advances.sciencemag.org/content/5/8/eaax0064) ... "A prokaryotic-eukaryotic hybrid viral vector for delivery of large cargos of genes and proteins into human cells" たうちさん紹介ありがとうございます。おもしろい論文です。
 - [いいねの数だけ論文を今年紹介する](https://twitter.com/researchat_fm/status/1480972388837769216)
 - [2020年の論文紹介実績](https://twitter.com/researchat_fm/status/1344399399988805632)
 - [2019年の論文紹介実績](https://twitter.com/researchat_fm/status/1211747797864574976)
