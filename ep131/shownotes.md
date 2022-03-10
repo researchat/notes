@@ -56,8 +56,8 @@ title: 131. A Pile of Letters
 - DNA origami
 - dessan 38
 - ポップ　メンター
-- 
+
 ## Editorial notes
-- (soh)
+- こう見えて懸命に答えをだそうとはしています (soh)
 - 遅くなりましたが、お便りありがとうございます。(tadasu)
 - (coela)
