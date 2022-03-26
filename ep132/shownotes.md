@@ -29,22 +29,18 @@ title: 132. A Pile of Letters 2
 - [Ep57. All papers are created equal (Researchat.fm)](https://researchat.fm/episode/57) ... "科学論文の探し方、読み方とその楽しみ、そして理想の論文について三人で熱っぽく話しました。"
 - [ZEQUENZ/ジークエンス](https://www.ito-ya.co.jp/tokushu/ZEQUENZ.html) ... SiO2さんにおすすめいただいたノート
 - [ユニボール ワン 0.38mm](https://www.mpuni.co.jp/products/ballpoint_pens/gel/uniball_one/one/umns.html) ...SiO2におすすめいただいたボールペン
-- LILY 58 pro
-- NABCのふぉーまっと
-- けんえんこらぼかい
-- 遺伝けんのサイエンスプレゼン
-- 論文の書き方
-- ep48
+- [Lily58 Pro](https://keyhive.xyz/shop/lily58) ... 自作キーボード
+- [Ep48. XXXXXYYYYY (Researchat.fm)](https://researchat.fm/episode/48) ... "レベルEのサキ王女編からスタートし、アメフラシ、ボネリムシ 、半倍数性、ヴォルバキアによる破壊、ゾウリムシ、カモノハシ、オスの三毛猫など、真核生物における多様な性決定システムと性染色体について話しました。"
 - nakamura回
-- Docker
-- R markdown
-- Jupiternotebook
-- history
-- researchat.book
-- open cola
-- 10 simple rules plos comp
-- ep70 武器
-- ボールペンこじき
+- [Docker](https://www.docker.com/)
+- [R Markdown](https://rmarkdown.rstudio.com/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [history](https://www.geeksforgeeks.org/history-command-in-linux-with-examples/)
+- researchat.book ... 未だ見ぬ大作？
+- [Ep12. Open Source Cola](https://researchat.fm/episode/12) ... "ボストンのコーヒー事情、コーヒーのこだわり、希少性の高い食品や物の価値、地球温暖化の原因、お便り機能の実装、おすすめの本紹介、書店や図書館の魅力、科学研究におけるデータ共有の難しさ、オープンソース化されたコーラの作り方などについて話しました。"
+- [Ten simple rules to improve academic work–life balance](https://journals.plos.org/ploscompbiol/article/comments?id=10.1371/journal.pcbi.1009124)
+- [70. Existing Legend](https://researchat.fm/episode/70) ... "現存する伝説の武器について話しました。"
+- [ぼおるぺん古事記](https://www.amazon.co.jp/dp/4582287468/?tag=researchatf04-22)
 - ep17
 - iBiology
 - American Genetic Society
