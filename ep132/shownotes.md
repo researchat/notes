@@ -30,8 +30,21 @@ title: 132. A Pile of Letters 2
 - z-quenzのほうがん
 - 0.38mm ボールペン
 - LILY 58 pro
+- NABCのふぉーまっと
+- けんえんこらぼかい
+- 遺伝けんのサイエンスプレゼン
 - 論文の書き方
 - ep48
+- nakamura回
+- Docker
+- R markdown
+- Jupiternotebook
+- history
+- researchat.book
+- open cola
+- 10 simple rules plos comp
+- ep70 武器
+
 
 ## Editorial notes
 - (soh)
