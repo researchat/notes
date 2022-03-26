@@ -44,7 +44,17 @@ title: 132. A Pile of Letters 2
 - open cola
 - 10 simple rules plos comp
 - ep70 武器
-
+- ボールペンこじき
+- ep17
+- iBiology
+- American Genetic Society
+- MIT
+- Messelson interview
+- ImageCast Coffee
+- Tasting notes
+- 実験医学1
+- 実験医学2
+- ポッドキャスト
 
 ## Editorial notes
 - (soh)
