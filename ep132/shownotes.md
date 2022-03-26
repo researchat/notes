@@ -31,7 +31,6 @@ title: 132. A Pile of Letters 2
 - [ユニボール ワン 0.38mm](https://www.mpuni.co.jp/products/ballpoint_pens/gel/uniball_one/one/umns.html) ...SiO2におすすめいただいたボールペン
 - [Lily58 Pro](https://keyhive.xyz/shop/lily58) ... 自作キーボード
 - [Ep48. XXXXXYYYYY (Researchat.fm)](https://researchat.fm/episode/48) ... "レベルEのサキ王女編からスタートし、アメフラシ、ボネリムシ 、半倍数性、ヴォルバキアによる破壊、ゾウリムシ、カモノハシ、オスの三毛猫など、真核生物における多様な性決定システムと性染色体について話しました。"
-- nakamura回
 - [Docker](https://www.docker.com/)
 - [R Markdown](https://rmarkdown.rstudio.com/)
 - [Jupyter Notebook](https://jupyter.org/)
