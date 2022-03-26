@@ -25,10 +25,10 @@ title: 132. A Pile of Letters 2
 - [アメリカの救急車のマーク](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%95) ... "スター・オブ・ライフ（英: star of life、命の星）は「アスクレピオスの杖」を中心に青い六本の柱が突出したデザインのマーク。"
 - NAIST Tシャツ ... グツグツするTシャツ
 - [Ep10. The endgame keyboard (Researchat.fm)](https://researchat.fm/episode/10) ... "記念すべき第10回のエピソードは、キーボードを自作する楽しみ、研究における道具や技術を自作するか問題、ゲームコントローラーの改造、Hit Box、超解像顕微鏡の設計と組み立て、マンガについて話しました。"
-- のーとかい
-- 論文のよみかた
-- z-quenzのほうがん
-- 0.38mm ボールペン
+- [Ep66. Weaving a web of ideas (Researchat.fm)](https://researchat.fm/episode/66) ... "アイデアとノートの取り方、ノートの変遷、Zettelkasten (ノート作成方法)について話しました。"
+- [Ep57. All papers are created equal (Researchat.fm)](https://researchat.fm/episode/57) ... "科学論文の探し方、読み方とその楽しみ、そして理想の論文について三人で熱っぽく話しました。"
+- [ZEQUENZ/ジークエンス](https://www.ito-ya.co.jp/tokushu/ZEQUENZ.html) ... SiO2さんにおすすめいただいたノート
+- [ユニボール ワン 0.38mm](https://www.mpuni.co.jp/products/ballpoint_pens/gel/uniball_one/one/umns.html) ...SiO2におすすめいただいたボールペン
 - LILY 58 pro
 - NABCのふぉーまっと
 - けんえんこらぼかい
