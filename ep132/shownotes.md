@@ -18,11 +18,18 @@ title: 132. A Pile of Letters 2
 ---
 ## Show notes
 - Tokyo Wardrobe
+- 顕微鏡かい
 - ロゴ回
 - 東京外国語大学
 - 横浜市鶴見区
 - アメリカの救急車のマーク
 - NAIST Tシャツ
+- 自作きーぼーどかい
+- のーとかい
+- 論文のよみかた
+- z-quenzのほうがん
+- 0.38mm ボールペン
+- LILY 58 pro
 - 論文の書き方
 - ep48
 
