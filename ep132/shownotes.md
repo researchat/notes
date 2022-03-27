@@ -47,6 +47,6 @@ title: 132. A Pile of Letters 2
 - [Image Cast](https://podcasts.apple.com/jp/podcast/image-cast/id1542436827)
 
 ## Editorial notes
-- (soh)
+- 引き続きお便りお願いします！(soh)
 - 遅くなりましたが、お便りありがとうございます。(tadasu)
 - (coela)
