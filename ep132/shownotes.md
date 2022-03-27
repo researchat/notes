@@ -44,7 +44,7 @@ title: 132. A Pile of Letters 2
 - [iBiology](https://www.ibiology.org/) ... 最強の動画シリーズ
 - [Conversations in Genetics](https://www.youtube.com/channel/UCD4IZFtu9YYyBc9jl9H3YVg) ... 最高の動画シリーズ
 - [MITのOpen Course](https://www.youtube.com/watch?v=MDcAOTaCXHs&list=PLUl4u3cNGP62xuxL4CQpy8uo2MeM4a3YD&ab_channel=MITOpenCourseWare) ... あとはこれをひたすら流します。
-- Tasting notes
+- [Image Cast](https://podcasts.apple.com/jp/podcast/image-cast/id1542436827)
 
 ## Editorial notes
 - (soh)
