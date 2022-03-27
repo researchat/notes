@@ -32,15 +32,15 @@ title: 133. The longest self-introduciton
 - 飛ばした修士の研究（の一部）は、地面や水面の近くを飛行するときに生じる「地面効果 ground effect」という空気力学的現象が研究テーマで、ホバリング中のショウジョウバエについてこれをシミュレートしたら、羽ばたきによる吹き下ろしが地面付近に高圧のエア・クッションをつくり、この上に胴体 (abdomen) が乗る、いわばホバークラフト的なことが起きていた、というもの（[論文](https://en.wikipedia.org/wiki/Image_resolution)）。
 - マルハナバチ： ここで言っている羽ばたき周波数（1秒間の羽ばたき回数）は過大で、実際にはホバリングでは 145-165 Hz程度 (Fig. 7 in [Dudley & Ellington, 1990](https://en.wikipedia.org/wiki/Image_resolution))。
 - 翼： 読みは「つばさ」または「よく」だが工学的には後者の読みが多い。昆虫の翼は「翅（はね）」と呼ばれる事が多い。鳥の場合、1枚1枚の feather は羽毛（うもう）または羽根（はね）と呼ばれる。
-- ライト兄弟が史上初の動力飛行とされる Write Flyer I を飛ばしたのは キルデビルヒルズ（複数形が正しかった）で、キティホーク はその少し北にある町。
-- レイノルズ (Reynolds) の相似則： たとえば 日本語版 や 英語版ウィキペディア あるいは NASAのページ などを参照。
+- ライト兄弟が史上初の動力飛行とされる Write Flyer I を飛ばしたのは [キルデビルヒルズ](https://en.wikipedia.org/wiki/Image_resolution)（複数形が正しかった）で、[キティホーク](https://en.wikipedia.org/wiki/Image_resolution)はその少し北にある町。
+- レイノルズ (Reynolds) の相似則： たとえば [日本語版](https://en.wikipedia.org/wiki/Image_resolution) や [英語版ウィキペディア](https://en.wikipedia.org/wiki/Image_resolution) あるいは [NASAのページ](https://en.wikipedia.org/wiki/Image_resolution) などを参照。
 - 前縁渦 (leading-edge vortex, LEV) の発見:
-  - スズメガ（昆虫）： Ellington et al., 1996. 翼の長さが約1 mの拡大模型でホバリング飛行を模擬。このサイズは元にした蛾の約10倍。一方、本物の蛾は1秒間に26回羽ばたく (= 26 Hz) が、この模型は大きくしたぶんだけ 0.3 Hz とゆっくりと動かすことができた。
-  - アマツバメ（鳥）： Videler et al., 2004. 模型（1.5倍に拡大）で滑空を模した風洞実験をし、流れを煙とレーザーシートで可視化 (= particle image velocimetry, PIV)。
-  - コウモリ： Muijres et al., 2008. 生きたコウモリに風洞で飛んでもらい、流れをPIVで可視化。
-  - マダラヒタキ（鳥）： Muijres et al., 2012. 生きた鳥に風洞で飛んでもらい、流れをPIVで可視化。
-  - 翼果・翅果（植物）： Lentink et al., 2009. [explanation TBD（ちょっとちゃんと読みます）] 動画 (Wired)
-  - 前縁渦じゃないけどタンポポ： Cummins et al., 2018. 動画 (Nature)
+  - スズメガ（昆虫）： [Ellington et al., 1996](https://en.wikipedia.org/wiki/Image_resolution). 翼の長さが約1 mの拡大模型でホバリング飛行を模擬。このサイズは元にした蛾の約10倍。一方、本物の蛾は1秒間に26回羽ばたく (= 26 Hz) が、この模型は大きくしたぶんだけ 0.3 Hz とゆっくりと動かすことができた。
+  - アマツバメ（鳥）： [Videler et al., 2004](https://en.wikipedia.org/wiki/Image_resolution). 模型（1.5倍に拡大）で滑空を模した風洞実験をし、流れを煙とレーザーシートで可視化 (= particle image velocimetry, PIV)。
+  - コウモリ： [Muijres et al., 2008](https://en.wikipedia.org/wiki/Image_resolution). 生きたコウモリに風洞で飛んでもらい、流れをPIVで可視化。
+  - マダラヒタキ（鳥）： [Muijres et al., 2012](https://en.wikipedia.org/wiki/Image_resolution). 生きた鳥に風洞で飛んでもらい、流れをPIVで可視化。
+  - 翼果・翅果（植物）： [Lentink et al., 2009.](https://en.wikipedia.org/wiki/Image_resolution) [explanation TBD（ちょっとちゃんと読みます）] [動画](https://en.wikipedia.org/wiki/Image_resolution) (Wired)
+  - 前縁渦じゃないけどタンポポ： [Cummins et al., 2018](https://en.wikipedia.org/wiki/Image_resolution). [動画 (Nature)](https://en.wikipedia.org/wiki/Image_resolution)
 - 「1秒間に200回のミニ竜巻」←誤り。ハエやハチのホバリングでは、打ち下ろしで1回だけでなく打ち上げでも1回発生するため、1秒間には400回ほど生成・消滅を繰り返している。後でハチドリの羽ばたきの話をするときにもこれに言及している。なお全く話せなかったが、前縁渦以外にも空気力（くうきりょく）増大メカニズムはいくつか提唱されている（少し古いがよく参照される総説論文 Sane et al., 2003）。最近、蚊で後縁渦というのも見つかっている（Bomphrey et al., 2017、動画 (Nature)、日本語の解説記事）。
 - 北米のハチドリ： 東側にいるのは Ruby-Throated hummingbird（ノドアカハチドリ）のようです。マイグレーション (migration) はこの文脈では「渡り」の意味。ノドアカハチドリはフロリダやメキシコへ渡って越冬する模様。
 - 多摩動物公園： 昆虫園にかつていたチャムネエメラルドハチドリというハチドリが対象だった。長崎バイオパークにもいたらしい。ワシントン条約の関係で輸入はかなり難しいようだ。
