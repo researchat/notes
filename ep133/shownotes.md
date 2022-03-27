@@ -18,6 +18,7 @@ title: 133. The longest self-introduciton
 ---
 ## Show notes
 - maz
+- [maz式ツイートの例](https://twitter.com/dynamicsoar/status/1368332326858526727)
 - kagaya … リザバーコンピューティングについてお聞きしたい。maz & kagaya回お待ちしております。
 - biomimetics/bio-inspired design: このあたりについて全く話せなかったが、生物は人の目から見て有用な特定の指標に特化しているとは限らない（一般にはしていない）ので、模倣する（バイオミメティクス）よりもそこから何らかの設計指針や着想を得るのに使う（生物規範工学・設計）方が良いだろうというのが大まかな流れとしてある、と思う。
 - ソフトロボティクス
