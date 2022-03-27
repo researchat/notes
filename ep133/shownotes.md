@@ -27,21 +27,21 @@ title: 133. The longest self-introduciton
 - [ゆるふわ生物学さんのシャコパンチ回](https://www.youtube.com/watch?v=u6gDoawF8pc)
 - ショウジョウバエのホバリング： 高速度カメラによる運動計測 [Fry et al., 2003](https://doi.org/10.1126/science.1081944); それを基にした数値流体力学シミュレーション (computational fluid dynamics, CFD) の論文 [Aono et al., 2008](https://doi.org/10.1242/jeb.008649), および[動画](https://youtu.be/d2gleoY9_2I).
 - ハイスピードカメラ（高速度カメラ）とフィルム
-- 分解能と解像度： mazの私見だが「解像度 ([image resolution](https://en.wikipedia.org/wiki/Image_resolution))」は、画像や画面などについて、その実空間での物理的な寸法とは無関係に縦と横の画素数だけを指す場合と、寸法を考慮しての画素密度 (dpi, ppi) の意味との両方で使われることがあるように思う。密度や「2点を区別できる最小の距離」という方について議論したいことを明確にするためには「空間分解能 ([spatial resolution](https://en.wikipedia.org/wiki/Image_resolution))」の方が誤解を避けやすくてよいのではないかと思う。同様に時間方向の刻み幅については「時間分解能 ([temporal resolution](https://en.wikipedia.org/wiki/Image_resolution))」がある。
+- 分解能と解像度： mazの私見だが「解像度 ([image resolution](https://en.wikipedia.org/wiki/Image_resolution))」は、画像や画面などについて、その実空間での物理的な寸法とは無関係に縦と横の画素数だけを指す場合と、寸法を考慮しての画素密度 (dpi, ppi) の意味との両方で使われることがあるように思う。密度や「2点を区別できる最小の距離」という方について議論したいことを明確にするためには「空間分解能 ([spatial resolution](https://en.wikipedia.org/wiki/Spatial_resolution))」の方が誤解を避けやすくてよいのではないかと思う。同様に時間方向の刻み幅については「時間分解能 ([temporal resolution](https://en.wikipedia.org/wiki/Temporal_resolution))」がある。
 - 29:45あたり、シャッタースピードをなぜ上げたいか（露光時間をなぜ減らしたいか）の説明がないが、物体の運動を撮影するときの「ぶれ（モーションブラー）」を減らしたいから。その直後、絞りと被写界深度の話で「奥行方向に動くようなカメラ」というのは意味不明だが、動くのはもちろんカメラではなく翼。「複数台のカメラで同時に撮影したときに、画像上で翼が奥の方に動いていくように見える配置になってしまうカメラがある」という意味。
-- 飛ばした修士の研究（の一部）は、地面や水面の近くを飛行するときに生じる「地面効果 ground effect」という空気力学的現象が研究テーマで、ホバリング中のショウジョウバエについてこれをシミュレートしたら、羽ばたきによる吹き下ろしが地面付近に高圧のエア・クッションをつくり、この上に胴体 (abdomen) が乗る、いわばホバークラフト的なことが起きていた、というもの（[論文](https://en.wikipedia.org/wiki/Image_resolution)）。
-- マルハナバチ： ここで言っている羽ばたき周波数（1秒間の羽ばたき回数）は過大で、実際にはホバリングでは 145-165 Hz程度 (Fig. 7 in [Dudley & Ellington, 1990](https://en.wikipedia.org/wiki/Image_resolution))。
+- 飛ばした修士の研究（の一部）は、地面や水面の近くを飛行するときに生じる「地面効果 ground effect」という空気力学的現象が研究テーマで、ホバリング中のショウジョウバエについてこれをシミュレートしたら、羽ばたきによる吹き下ろしが地面付近に高圧のエア・クッションをつくり、この上に胴体 (abdomen) が乗る、いわばホバークラフト的なことが起きていた、というもの（[論文](https://doi.org/https://doi.org/10.1299/jbse.8.344)）。
+- マルハナバチ： ここで言っている羽ばたき周波数（1秒間の羽ばたき回数）は過大で、実際にはホバリングでは 145-165 Hz程度 (Fig. 7 in [Dudley & Ellington, 1990](https://doi.org/10.1242/jeb.148.1.19))。
 - 翼： 読みは「つばさ」または「よく」だが工学的には後者の読みが多い。昆虫の翼は「翅（はね）」と呼ばれる事が多い。鳥の場合、1枚1枚の feather は羽毛（うもう）または羽根（はね）と呼ばれる。
-- ライト兄弟が史上初の動力飛行とされる Write Flyer I を飛ばしたのは [キルデビルヒルズ](https://en.wikipedia.org/wiki/Image_resolution)（複数形が正しかった）で、[キティホーク](https://en.wikipedia.org/wiki/Image_resolution)はその少し北にある町。
-- レイノルズ (Reynolds) の相似則： たとえば [日本語版](https://en.wikipedia.org/wiki/Image_resolution) や [英語版ウィキペディア](https://en.wikipedia.org/wiki/Image_resolution) あるいは [NASAのページ](https://en.wikipedia.org/wiki/Image_resolution) などを参照。
+- ライト兄弟が史上初の動力飛行とされる Write Flyer I を飛ばしたのは [キルデビルヒルズ](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%83%87%E3%83%93%E3%83%AB%E3%83%92%E3%83%AB%E3%82%BA)（複数形が正しかった）で、[キティホーク](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%86%E3%82%A3%E3%83%9B%E3%83%BC%E3%82%AF_(%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AB%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%8A%E5%B7%9E))はその少し北にある町。
+- レイノルズ (Reynolds) の相似則： たとえば [日本語版](https://ja.wikipedia.org/wiki/%E7%9B%B8%E4%BC%BC%E5%89%87) や [英語版ウィキペディア](https://en.wikipedia.org/wiki/Similitude) あるいは [NASAのページ](https://www.grc.nasa.gov/www/k-12/airplane/airsim.html) などを参照。
 - 前縁渦 (leading-edge vortex, LEV) の発見:
-  - スズメガ（昆虫）： [Ellington et al., 1996](https://en.wikipedia.org/wiki/Image_resolution). 翼の長さが約1 mの拡大模型でホバリング飛行を模擬。このサイズは元にした蛾の約10倍。一方、本物の蛾は1秒間に26回羽ばたく (= 26 Hz) が、この模型は大きくしたぶんだけ 0.3 Hz とゆっくりと動かすことができた。
-  - アマツバメ（鳥）： [Videler et al., 2004](https://en.wikipedia.org/wiki/Image_resolution). 模型（1.5倍に拡大）で滑空を模した風洞実験をし、流れを煙とレーザーシートで可視化 (= particle image velocimetry, PIV)。
-  - コウモリ： [Muijres et al., 2008](https://en.wikipedia.org/wiki/Image_resolution). 生きたコウモリに風洞で飛んでもらい、流れをPIVで可視化。
-  - マダラヒタキ（鳥）： [Muijres et al., 2012](https://en.wikipedia.org/wiki/Image_resolution). 生きた鳥に風洞で飛んでもらい、流れをPIVで可視化。
-  - 翼果・翅果（植物）： [Lentink et al., 2009.](https://en.wikipedia.org/wiki/Image_resolution) [explanation TBD（ちょっとちゃんと読みます）] [動画](https://en.wikipedia.org/wiki/Image_resolution) (Wired)
-  - 前縁渦じゃないけどタンポポ： [Cummins et al., 2018](https://en.wikipedia.org/wiki/Image_resolution). [動画 (Nature)](https://en.wikipedia.org/wiki/Image_resolution)
-- 「1秒間に200回のミニ竜巻」←誤り。ハエやハチのホバリングでは、打ち下ろしで1回だけでなく打ち上げでも1回発生するため、1秒間には400回ほど生成・消滅を繰り返している。後でハチドリの羽ばたきの話をするときにもこれに言及している。なお全く話せなかったが、前縁渦以外にも空気力（くうきりょく）増大メカニズムはいくつか提唱されている（少し古いがよく参照される総説論文 Sane et al., 2003）。最近、蚊で後縁渦というのも見つかっている（Bomphrey et al., 2017、動画 (Nature)、日本語の解説記事）。
+  - スズメガ（昆虫）： [Ellington et al., 1996](https://doi.org/10.1038/384626a0). 翼の長さが約1 mの拡大模型でホバリング飛行を模擬。このサイズは元にした蛾の約10倍。一方、本物の蛾は1秒間に26回羽ばたく (= 26 Hz) が、この模型は大きくしたぶんだけ 0.3 Hz とゆっくりと動かすことができた。
+  - アマツバメ（鳥）： [Videler et al., 2004](https://doi.org/10.1126/science.1104682). 模型（1.5倍に拡大）で滑空を模した風洞実験をし、流れを煙とレーザーシートで可視化 (= particle image velocimetry, PIV)。
+  - コウモリ： [Muijres et al., 2008](https://doi.org/10.1126/science.1153019). 生きたコウモリに風洞で飛んでもらい、流れをPIVで可視化。
+  - マダラヒタキ（鳥）： [Muijres et al., 2012](https://doi.org/10.1098/rsbl.2012.0130). 生きた鳥に風洞で飛んでもらい、流れをPIVで可視化。
+  - 翼果・翅果（植物）： [Lentink et al., 2009.](https://doi.org/10.1126/science.1174196n) [explanation TBD（ちょっとちゃんと読みます）] [動画](https://youtu.be/ce2HUKizMTw) (Wired)
+  - 前縁渦じゃないけどタンポポ： [Cummins et al., 2018](https://doi.org/10.1038/s41586-018-0604-2). [動画 (Nature)](https://youtu.be/N2UbaDV9O9Q)
+- 「1秒間に200回のミニ竜巻」←誤り。ハエやハチのホバリングでは、打ち下ろしで1回だけでなく打ち上げでも1回発生するため、1秒間には400回ほど生成・消滅を繰り返している。後でハチドリの羽ばたきの話をするときにもこれに言及している。なお全く話せなかったが、前縁渦以外にも空気力（くうきりょく）増大メカニズムはいくつか提唱されている（少し古いがよく参照される総説論文 [Sane et al., 2003](https://doi.org/10.1242/jeb.00663)）。最近、蚊で後縁渦というのも見つかっている（[Bomphrey et al., 2017](https://doi.org/10.1038/nature21727)、[動画 (Nature)](https://youtu.be/JQl4OP2XdYA)、[日本語の解説記事](https://academist-cf.com/journal/?p=4632)）。
 - 北米のハチドリ： 東側にいるのは Ruby-Throated hummingbird（ノドアカハチドリ）のようです。マイグレーション (migration) はこの文脈では「渡り」の意味。ノドアカハチドリはフロリダやメキシコへ渡って越冬する模様。
 - 多摩動物公園： 昆虫園にかつていたチャムネエメラルドハチドリというハチドリが対象だった。長崎バイオパークにもいたらしい。ワシントン条約の関係で輸入はかなり難しいようだ。
 - オオスカシバ： ウィキペディア
