@@ -49,4 +49,4 @@ title: 132. A Pile of Letters 2
 ## Editorial notes
 - 引き続きお便りお願いします！(soh)
 - 遅くなりましたが、お便りありがとうございます。(tadasu)
-- はよかけコラ by tadasu (coela)
+- お便りを頂いた時点での感想をメモしておこうと思いました (coela)
