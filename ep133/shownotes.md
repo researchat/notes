@@ -7,7 +7,7 @@ audio_file_size: 100268268
 date: 2022-03-29 XX:XX:00 +0900
 rec_date: 2022-02-19 08:00:00 -0500
 edit_by: tadasu
-description: mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさについて話していただきました。
+description: mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさを話していただきました。
 duration: "02:36:51"
 layout: article
 tags:
@@ -19,7 +19,7 @@ title: 133. The longest self-introduciton
 ## Show notes
 - maz
 - [maz式ツイートの例](https://twitter.com/dynamicsoar/status/1368332326858526727)
-- kagaya … リザバーコンピューティングについてお聞きしたい。maz & kagaya回お待ちしております。
+- Kagaya … リザバーコンピューティングについてお聞きしたい。maz & kagaya回お待ちしております。
 - biomimetics/bio-inspired design: このあたりについて全く話せなかったが、生物は人の目から見て有用な特定の指標に特化しているとは限らない（一般にはしていない）ので、模倣する（バイオミメティクス）よりもそこから何らかの設計指針や着想を得るのに使う（生物規範工学・設計）方が良いだろうというのが大まかな流れとしてある、と思う。
 - ソフトロボティクス
 - Wyss Institute
