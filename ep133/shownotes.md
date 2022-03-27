@@ -17,18 +17,17 @@ title: 133. The longest self-introduciton
 
 ---
 ## Show notes
-- maz
+- [maz](https://twitter.com/dynamicsoar)
 - [maz式ツイートの例](https://twitter.com/dynamicsoar/status/1368332326858526727)
-- Kagaya … リザバーコンピューティングについてお聞きしたい。maz & kagaya回お待ちしております。
+- [Kagayaさん](https://twitter.com/katzkagaya) … リザバーコンピューティングについてお聞きしたい。maz & kagaya回お待ちしております。
 - biomimetics/bio-inspired design: このあたりについて全く話せなかったが、生物は人の目から見て有用な特定の指標に特化しているとは限らない（一般にはしていない）ので、模倣する（バイオミメティクス）よりもそこから何らかの設計指針や着想を得るのに使う（生物規範工学・設計）方が良いだろうというのが大まかな流れとしてある、と思う。
-- ソフトロボティクス
-- Wyss Institute
-- intelligence requires a body
-- dabel
-- ゆるふわ生物学のシャコパンチ回
-- ショウジョウバエのホバリング： 高速度カメラによる運動計測 Fry et al., 2003; それを基にした数値流体力学シミュレーション (computational fluid dynamics, CFD) の論文 Aono et al., 2008, および動画.
+- [Soft Robotics](https://en.wikipedia.org/wiki/Soft_robotics)
+- [Wyss Institute](https://wyss.harvard.edu/)
+- Intelligence requires a body
+- [ゆるふわ生物学さんのシャコパンチ回](https://www.youtube.com/watch?v=u6gDoawF8pc)
+- ショウジョウバエのホバリング： 高速度カメラによる運動計測 [Fry et al., 2003](https://doi.org/10.1126/science.1081944); それを基にした数値流体力学シミュレーション (computational fluid dynamics, CFD) の論文 [Aono et al., 2008](https://doi.org/10.1242/jeb.008649), および[動画](https://youtu.be/d2gleoY9_2I).
 - ハイスピードカメラ（高速度カメラ）とフィルム
-- 分解能と解像度： mazの私見だが「解像度 (image resolution)」は、画像や画面などについて、その実空間での物理的な寸法とは無関係に縦と横の画素数だけを指す場合と、寸法を考慮しての画素密度 (dpi, ppi) の意味との両方で使われることがあるように思う。密度や「2点を区別できる最小の距離」という方について議論したいことを明確にするためには「空間分解能 (spatial resolution)」の方が誤解を避けやすくてよいのではないかと思う。同様に時間方向の刻み幅については「時間分解能 (temporal resolution)」がある。
+- 分解能と解像度： mazの私見だが「解像度 ([image resolution](https://en.wikipedia.org/wiki/Image_resolution))」は、画像や画面などについて、その実空間での物理的な寸法とは無関係に縦と横の画素数だけを指す場合と、寸法を考慮しての画素密度 (dpi, ppi) の意味との両方で使われることがあるように思う。密度や「2点を区別できる最小の距離」という方について議論したいことを明確にするためには「空間分解能 ([spatial resolution](https://en.wikipedia.org/wiki/Image_resolution))」の方が誤解を避けやすくてよいのではないかと思う。同様に時間方向の刻み幅については「時間分解能 ([temporal resolution](https://en.wikipedia.org/wiki/Image_resolution))」がある。
 - 29:45あたり、シャッタースピードをなぜ上げたいか（露光時間をなぜ減らしたいか）の説明がないが、物体の運動を撮影するときの「ぶれ（モーションブラー）」を減らしたいから。その直後、絞りと被写界深度の話で「奥行方向に動くようなカメラ」というのは意味不明だが、動くのはもちろんカメラではなく翼。「複数台のカメラで同時に撮影したときに、画像上で翼が奥の方に動いていくように見える配置になってしまうカメラがある」という意味。
 - 飛ばした修士の研究（の一部）は、地面や水面の近くを飛行するときに生じる「地面効果 ground effect」という空気力学的現象が研究テーマで、ホバリング中のショウジョウバエについてこれをシミュレートしたら、羽ばたきによる吹き下ろしが地面付近に高圧のエア・クッションをつくり、この上に胴体 (abdomen) が乗る、いわばホバークラフト的なことが起きていた、というもの（論文）。
 - マルハナバチ： ここで言っている羽ばたき周波数（1秒間の羽ばたき回数）は過大で、実際にはホバリングでは 145-165 Hz程度 (Fig. 7 in Dudley & Ellington, 1990)。
