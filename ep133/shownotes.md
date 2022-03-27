@@ -1,8 +1,7 @@
 ---
 actor_ids:
-  - soh
+  - maz
   - tadasu
-  - coela
 audio_file_path: https://traffic.libsyn.com/secure/researchat/133.mp3
 audio_file_size: 100268268
 date: 2022-03-29 XX:XX:00 +0900
