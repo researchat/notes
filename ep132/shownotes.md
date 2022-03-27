@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: https://traffic.libsyn.com/secure/researchat/132.mp3
 audio_file_size: 74300673
-date: 2022-03-XX 04:43:00 +0900
+date: 2022-03-27 20:38:00 +0900
 rec_date: 2022-01-15 23:30:00 -0500
 edit_by: tadasu
 description: 過去2年分のお便りを紹介しました。
@@ -49,4 +49,4 @@ title: 132. A Pile of Letters 2
 ## Editorial notes
 - 引き続きお便りお願いします！(soh)
 - 遅くなりましたが、お便りありがとうございます。(tadasu)
-- (coela)
+- はよかけコラ by tadasu (coela)
