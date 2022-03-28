@@ -59,35 +59,35 @@ title: 133. The longest self-introduciton
 - マダラヒタキ： [ウィキペディア](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%80%E3%83%A9%E3%83%92%E3%82%BF%E3%82%AD)。気候変動（地球温暖化）関係でよく研究されているらしい。
 - スウェーデン・ルンド大学のラボ： [Animal Flight Lab](https://portal.research.lu.se/en/organisations/animal-flight-lab). 昆虫・鳥・コウモリの飛行を全部やってる。昆虫と鳥とかはチラホラあるがコウモリも含めた3グループ全部というのは非常にレアと思われる。[風洞の論文](https://doi.org/10.1242/jeb.200.10.1441)があったが、7度ではなく8度傾けられるとのこと。
 - 東昭（あずま あきら）： 研究者の名前。日本での生物飛行・遊泳の力学の草分け的存在。日本語の本も多いが内容的には少し古いため、今から読む場合は他の本も読んだほうが良い。
-- 木から落ちる蟻： Yanoviak et al., 2005.Yanoviak による動画。さらにイシノミやクモもあり。たまにまっすぐ落下してるやつはビー玉かなんかの対照実験です。制御について、頭を振るというのは勘違いだったようで、そもそも逆さまになって腹部 (abdomen) 側へ落ちていくらしい。さらに Yanoviak et al., 2010 によると主に後脚で制御してるようです（色々な脚を remove しての比較落下試験をしている）。また、落下角度が水平から45度を境界とする（それより浅いのを gliding, 深いのを parachuting）のは確かに文献にあるようです（初出？は Oliver, 1951 らしいが読めなかった）が、そういうことよりも飛行が制御されてるかどうかで分けろや、とかなんか色々あるようです。詳しくは Moffett, 2000 などを参照。この場合 descent としているのは、このへんのゴタゴタを避けたいからんあじゃないかって気もします。滑空関係でもっとガッツリ進化と絡んだ話を読みたい人向けにはたとえば Dudley et al., 2007 の総説もあります。←書きすぎでは？？
-- mealworm: ゴミムシダマシの幼虫、らしい。
-- マニューバー（機動）： コウモリの機動の論文
-- Robert Wood の Harvard Microrobotics Lab: 超小型羽ばたき飛翔体の RoboBee で有名（YouTube channel, ナショジオの動画）。Wyss Institute の Associate Faculty となっている。
-- 長崎ペンギン水族館： 世界で最多の9種のペンギンを飼育している。
-- ジェンツーペンギン： オレンジのクチバシと、頭の上の白い帯が特徴的。似た種がいないので見分けやすい。
+- 木から落ちる蟻： [Yanoviak et al., 2005](https://doi.org/10.1038/nature03254). [Yanoviak による動画](https://canopyants.net/research/gliding-arthropods/ant-videos/)。さらに[イシノミ](https://canopyants.net/research/gliding-arthropods/bristletail-videos/)や[クモ](https://canopyants.net/research/gliding-arthropods/gliding-spider-videos/)もあり。たまにまっすぐ落下してるやつはビー玉かなんかの対照実験です。制御について、頭を振るというのは勘違いだったようで、そもそも逆さまになって腹部 (abdomen) 側へ落ちていくらしい。さらに [Yanoviak et al., 2010](https://doi.org/10.1098/rspb.2010.0170) によると主に後脚で制御してるようです（色々な脚を remove しての比較落下試験をしている）。また、落下角度が水平から45度を境界とする（それより浅いのを gliding, 深いのを parachuting）のは確かに文献にあるようです（初出？は [Oliver, 1951](https://doi.org/https://doi.org/10.1086/281666) らしいが読めなかった）が、そういうことよりも飛行が制御されてるかどうかで分けろや、とかなんか色々あるようです。詳しくは [Moffett, 2000](https://doi.org/10.1646/0006-3606(2000)032[0569:WSUACL]2.0.CO;2) などを参照。この場合 descent としているのは、このへんのゴタゴタを避けたいからんあじゃないかって気もします。滑空関係でもっとガッツリ進化と絡んだ話を読みたい人向けにはたとえば [Dudley et al., 2007](https://doi.org/10.1146/annurev.ecolsys.37.091305.110014) の総説もあります。←書きすぎでは？？
+- mealworm: [ゴミムシダマシの幼虫](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%BC%E3%83%AB%E3%83%AF%E3%83%BC%E3%83%A0)、らしい。
+- マニューバー（機動）： [コウモリの機動の論文](https://doi.org/10.1098/rsif.2018.0441)
+- Robert Wood の [Harvard Microrobotics Lab](https://www.micro.seas.harvard.edu/): 超小型羽ばたき飛翔体の RoboBee で有名（[YouTube channel, ナショジオの動画](https://www.youtube.com/user/MicroroboticsLab)）。[Wyss Institute の Associate Faculty](https://wyss.harvard.edu/team/associate-faculty/robert-wood/) となっている。
+- [長崎ペンギン水族館](https://penguin-aqua.jp/)： 世界で最多の9種のペンギンを飼育している。
+- [ジェンツーペンギン](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%84%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3)： オレンジのクチバシと、頭の上の白い帯が特徴的。似た種がいないので見分けやすい。
 - GoPro: むき出しでもプール程度の水圧には耐えられるが、市販の透明な保護ケースに入れ、さらに各カメラの視野が最適になるような角度のケースを3Dプリントしておき、そこにはめ込んだ。
-- ペンギンの羽ばたき周波数： 4 Hz は巡航（採餌）遊泳時としては高すぎ。体サイズによって変わる（大きいほどゆったり）だが、最小の種であるリトルペンギンで3.5 Hz, 最大の種であるエンペラーペンギンで約1.5 Hz (Sato et al., 2010).
-- ペンギンの羽ばたき運動論文： 東工大のプレスリリースがよく書けていて動画も載っている。「なん日かに分けて…4日」は間違い。論文に使ったデータを撮影したのは連続しない2日間で、初めの日に3個体、1年半後の別の日に初回の3個体に含まれていた1個体。
-- バイオロギング： 動物に記録計（ロガー）を付けて、位置・速度・深度などの行動情報を記録する研究手法。日本バイオロギング研究会のページを参照。狭義のロギングは記録計の回収が必要となる。最近は送信機を付けてのテレメトリも増えている模様。
+- ペンギンの羽ばたき周波数： 4 Hz は巡航（採餌）遊泳時としては高すぎ。体サイズによって変わる（大きいほどゆったり）だが、最小の種であるリトルペンギンで3.5 Hz, 最大の種であるエンペラーペンギンで約1.5 Hz ([Sato et al., 2010](https://doi.org/10.1098/rspb.2009.1515)).
+- ペンギンの羽ばたき運動論文： [東工大のプレスリリース](https://www.titech.ac.jp/news/2021/062248)がよく書けていて動画も載っている。「なん日かに分けて…4日」は間違い。論文に使ったデータを撮影したのは連続しない2日間で、初めの日に3個体、1年半後の別の日に初回の3個体に含まれていた1個体。
+- バイオロギング： 動物に記録計（ロガー）を付けて、位置・速度・深度などの行動情報を記録する研究手法。[日本バイオロギング研究会のページ](http://japan-biologgingsci.org/home/)を参照。狭義のロギングは記録計の回収が必要となる。最近は送信機を付けてのテレメトリも増えている模様。
 - 菊地デイル万次郎さん・SHIOMIさん： 仲のいいバイオロギング屋さん。
-- レヴィフライト (Lévy flight)： 英語版ウィキペディア。採餌（餌探索）の例でざっくりいうと、一箇所にとどまってその付近で餌を探すモードと、ある程度離れた場所まで割と一直線に動くモードとの組み合わせからなるような行動。レヴィウォークとも。
+- レヴィフライト (Lévy flight)： [英語版ウィキペディア](https://en.wikipedia.org/wiki/L%C3%A9vy_flight)。採餌（餌探索）の例でざっくりいうと、一箇所にとどまってその付近で餌を探すモードと、ある程度離れた場所まで割と一直線に動くモードとの組み合わせからなるような行動。レヴィウォークとも。
 - 「彼らのフィールドワーク」： 話のつながりがおかしいが、これは理論屋でなくバイオロギング屋さんのこと。
-- 三代始祖：馬は専門外です。
-- 三代始祖について話した回
-- Royal Veterinary College (RVC) の Structure and Motion Laboratory (SML) という研究所。主に歩行・走行の研究者が多い。飛行のPIは2名しかいないが2人ともトップレベル（仲もいい）。
-- Alan Wilsonの論文例： ライオン・シマウマ・チーター・インパラでした。
-- Oxford喋り[要出典] ... Oxford周辺の方々、ご意見待っています。
-- Imperial College of London: 自然史博物館 Natural History Museum (NHM) London がすぐ隣にある。入場無料だしオススメ。
-- mechanosensor: 機械的受容体と言っているが、受容器が正しいのかも。トンボの翅上の機械センサを調べた共著論文 (Fabian et al., 2022)。
-- Imperial College London の Huai-Ti lab.
-- ハエで有名な Holger Krapp.
-- AutoDesk Fusion 360： 無料なのでよく使われるCAD.
-- Rhinoceros 3D：有料だがかなり安い。建築や宝石分野での利用が多いが、自由曲面生成に強いサーフェスモデラー。Grasshopper というプラグインでできるビジュアルプログラミングがおすすめ。
+- [三代始祖](https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A4%A7%E5%A7%8B%E7%A5%96)：馬は専門外です。
+- [三代始祖について話した回](https://researchat.fm/episode/15)
+- Royal Veterinary College (RVC) の [Structure and Motion Laboratory (SML)](https://www.rvc.ac.uk/research/facilities-and-resources/structure-and-motion) という研究所。主に歩行・走行の研究者が多い。飛行のPIは2名しかいないが2人ともトップレベル（仲もいい）。
+- [Alan Wilsonの論文例](https://doi.org/10.1038/nature25479)： ライオン・シマウマ・チーター・インパラでした。
+- Oxford喋り[要出典] ... Oxford周辺の方々、ご意見お待ちしております。
+- Imperial College of London: 自然史博物館 「Natural History Museum (NHM) London](https://www.nhm.ac.uk/) がすぐ隣にある。入場無料だしオススメ。
+- mechanosensor: 機械的受容体と言っているが、受容器が正しいのかも。トンボの翅上の機械センサを調べた共著論文 ([Fabian et al., 2022](https://doi.org/10.1016/j.isci.2022.104150))。
+- Imperial College London の [Huai-Ti lab](https://htlinlab.com/).
+- ハエで有名な [Holger Krapp](https://hkrapp.bg-research.cc.ic.ac.uk/).
+- [AutoDesk Fusion 360](https://www.autodesk.com/products/fusion-360/)： 無料なのでよく使われるCAD.
+- [Rhinoceros 3D](https://www.rhino3d.com/)：有料だがかなり安い。建築や宝石分野での利用が多いが、自由曲面生成に強いサーフェスモデラー。[Grasshopper](https://www.rhino3d.com/6/new/grasshopper/) というプラグインでできるビジュアルプログラミングがおすすめ。
 何度か言及のあった「メッシュを切る」というのは、CADで作った形状モデルを基にして、構造または流体シミュレーションのために表面や構造または流体内部に格子点（およびそれからなるセル）を作ること。
-- メガネウラ
-- 翅脈（しみゃく）： 昆虫の翅のうち、膜じゃない骨組みの部分。英語は vein. ウィキペディアの昆虫の翅の記事も参照。
-- トンボの pterostigma（縁紋）： マスバランス効果を論じた論文は1992でなく1972 でした。
-- Pterosaur（翼竜）： 翼竜の研究はしたことがないので話せることはほとんどありませんが、昔バイオメカニクス研究者が古生物学者にボロクソに言われてた話なんかはあります（ボロクソに言われていた論文 Wilkinson et al., 2005）。
+- [メガネウラ](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AC%E3%83%8D%E3%82%A6%E3%83%A9) ... 眼鏡ウラではない。メガ-ネウラ
+- 翅脈（しみゃく）： 昆虫の翅のうち、膜じゃない骨組みの部分。英語は vein. ウィキペディアの[昆虫の翅の記事](https://ja.wikipedia.org/wiki/%E6%98%86%E8%99%AB%E3%81%AE%E7%BF%85)も参照。
+- トンボの [pterostigma（縁紋）](https://en.wikipedia.org/wiki/Pterostigma)： [マスバランス効果を論じた論文は1992でなく1972](https://doi.org/10.1007/BF00693547)でした。
+- Pterosaur（翼竜）： 翼竜の研究はしたことがないので話せることはほとんどありませんが、昔バイオメカニクス研究者が古生物学者にボロクソに言われてた話なんかはあります（ボロクソに言われていた論文 [Wilkinson et al., 2005](https://doi.org/10.1098/rspb.2005.3278)）。
 
 ## Editorial notes
 - 久々に沢山話せて楽しかったです。後半、のどがかれていてちょっと聞きづらいいですね。失礼しました。残りの80%（そんなに無いと思うが）はまたいずれどこかで… (maz)
