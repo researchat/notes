@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/133.mp3
 audio_file_size: 99168344
-date: 2022-03-29 XX:XX:00 +0900
+date: 2022-03-28 20:35:00 +0900
 rec_date: 2022-02-19 08:00:00 -0500
 edit_by: tadasu
 description: mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさを話していただきました。
