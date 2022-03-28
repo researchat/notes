@@ -21,6 +21,7 @@ title: 133. The longest self-introduciton
 - [maz式ツイートの例](https://twitter.com/dynamicsoar/status/1368332326858526727)
 - [Kagayaさん](https://twitter.com/katzkagaya) … リザバーコンピューティングについてお聞きしたい。maz & kagaya回お待ちしております。
 - biomimetics/bio-inspired design: このあたりについて全く話せなかったが、生物は人の目から見て有用な特定の指標に特化しているとは限らない（一般にはしていない）ので、模倣する（バイオミメティクス）よりもそこから何らかの設計指針や着想を得るのに使う（生物規範工学・設計）方が良いだろうというのが大まかな流れとしてある、と思う。
+- 生物多様性を規範とする革新的材料技術: [平成26年度の中間評価(B評価)](https://mext.go.jp/a_menu/shinkou/hojyo/chukan-jigohyouka/1352821.htm), [平成29年度の事後評価(A-)](https://www.mext.go.jp/a_menu/shinkou/hojyo/1400495.htm) ... 中間評価がBで、事後評価はA-でした。大変もうしわけございませんでした。ちなみに生物飛行・遊泳の流体力学みたいな部分はメインではなく一部に過ぎませんでした（指導教員の劉先生が班長ではあったかも）。メインは領域タイトルにもなっているように材料系。
 - [Soft Robotics](https://en.wikipedia.org/wiki/Soft_robotics)
 - [Wyss Institute](https://wyss.harvard.edu/)
 - Intelligence requires a body
