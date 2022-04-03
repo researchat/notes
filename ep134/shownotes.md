@@ -7,12 +7,12 @@ audio_file_size: 31888189
 date: 2022-04-03 23:00:00 +0900
 rec_date: 2022-03-11 22:00:00 -0500
 edit_by: tadasu
-description: DNAオリガミを使って迷路を探索する方法に関する論文を紹介しました。
+description: DNAを用いて迷路を探索する方法を開発した論文を紹介しました。
 duration: "00:30:37"
 layout: article
 tags:
   - 論文
-title: 134. Maze solver by DNA origami
+title: 134. Maze solver by DNA navigator
 
 ---
 ## Show notes
