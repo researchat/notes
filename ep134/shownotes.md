@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/134.mp3
 audio_file_size: 31888189
-date: 2022-04-03 23:00:00 +0900
+date: 2022-04-04 04:30:00 +0900
 rec_date: 2022-03-11 22:00:00 -0500
 edit_by: tadasu
 description: DNAを用いて迷路を探索する方法を開発した論文を紹介しました。
