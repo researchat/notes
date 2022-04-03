@@ -12,7 +12,7 @@ duration: "00:30:37"
 layout: article
 tags:
   - 論文
-title: 134. Maze solver by DNA navigator
+title: 134. Maze solver by single-molecule DNA navigators
 
 ---
 ## Show notes
