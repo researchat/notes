@@ -12,7 +12,7 @@ duration: "00:33:01"
 layout: article
 tags:
   - 論文
-title: 135. 
+title: 135. No Protein Involved.
 ---
 
-- hoge
+- [A split ribozyme that links detection of a native RNA to orthogonal protein outputs. BioRxiv 2022](https://www.biorxiv.org/content/10.1101/2022.01.12.476080v1) ... 今回紹介するプレプリントの論文。
