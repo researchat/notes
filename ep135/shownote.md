@@ -6,8 +6,8 @@ audio_file_path:
 audio_file_size: 37370774
 date: 2022-04-04 04:30:00 +0900
 rec_date: 2022-03-11 22:00:00 -0500
-edit_by: tadasu
-description: 
+edit_by: soh
+description: 特定のRNAの発現に反応する細胞内センサーについての原著論文を紹介しました。
 duration: "00:33:01"
 layout: article
 tags:
