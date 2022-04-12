@@ -15,6 +15,9 @@ tags:
   - 研究
 title: 136. I want to taste defeat!
 ---
+
+## Show notes
+
 - アミノ酸
 - リシン
 - トリプトファン
@@ -50,10 +53,7 @@ title: 136. I want to taste defeat!
 - リッケチア
 - メガウイルス
 
-
-## Show notes
-
 ## Editorial notes
 - (nakamura)
-- (tadasu)
+- 敗北が知りたい。(tadasu)
 - (coela)
