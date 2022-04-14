@@ -18,12 +18,12 @@ title: 136. I want to taste defeat!
 
 ## Show notes
 
-- アミノ酸
-- リシン
-- トリプトファン
-- グリシン
+- [アミノ酸](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%8E%E9%85%B8)
+- [リシン](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B7%E3%83%B3) ... ライシン、リジン。ヒストンといえば、これ。
+- [トリプトファン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%97%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3)
+- [グリシン](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%82%B7%E3%83%B3)
 - 過去の中村回
-- りんさんか
+- [リン酸化](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E9%85%B8%E5%8C%96) ... タンパク質修飾のひとつ
 - セリン
 - スレオニン
 - チロシン
@@ -45,7 +45,7 @@ title: 136. I want to taste defeat!
 - かにむし
 - フィブロイン
 - ダーウィンズバークスパイダー
- くもの喧嘩
+- くもの喧嘩試合
 - オオミノガ
 - 地球防衛軍
 - 刃牙とかまきり
