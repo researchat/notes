@@ -8,7 +8,7 @@ audio_file_size: X
 date: 2022-04-15 1X:30:00 +0900
 rec_date: 2022-03-26 23:00:00 -0500
 edit_by: tadasu
-description: 生き物がつくる「糸」の強度に関する議論を行いました。(guest:なぜかクモに詳しいnakamuraさん)
+description: 生き物がつくる「糸」の強度に関する議論を行いました。(guest:なぜかクモに詳しい人)
 duration: "00:XX:XX"
 layout: article
 tags:
@@ -22,7 +22,8 @@ title: 136. I want to taste defeat!
 - [リシン](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B7%E3%83%B3) ... ライシン、リジン。ヒストンといえば、これ。
 - [トリプトファン](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%83%97%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3)
 - [グリシン](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%82%B7%E3%83%B3)
-- 過去の中村回
+- [ep55. Homecoming (Researchat.fm)](https://researchat.fm/episode/55) ... "クモに詳しいゲストをお呼びして、クモについて話しました。(過去のnakamura回-1)"
+- [ep56. Readable lab notebook (Researchat.fm)](https://researchat.fm/episode/55) ... "クモについて詳しいゲストを迎え、フリーハンドで丸と直線を描くトレーニング、メールで進むかまいたちの夜、自作PC、論文管理の難しさ、趣味としてのポッドキャスト、コーディング環境とWet/Dryのデータ管理について話しました。(過去のnakamura回-2)"
 - [リン酸化](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E9%85%B8%E5%8C%96) ... タンパク質修飾のひとつ
 - [セリン](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AA%E3%83%B3) ... 名前はどこからとられたでしょうか？
 - [スレオニン (トレオニン)](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%AA%E3%83%8B%E3%83%B3)
@@ -39,7 +40,7 @@ title: 136. I want to taste defeat!
 - ザザムシ ... カワゲラやトビケラの幼虫の総称。シルクで巣を作るのはトビケラの方でした。佃煮にして食べると美味しい。長野県に行くと食べられます。[Amazonでも買えます](https://www.amazon.co.jp/dp/B012RF8KXE)。
 - ザザムシの糸 ... [漁網みたいになっていて綺麗 (Fig. 2)](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0206)。特にβシートを形成する部分の配列が特徴的 [Wang et al., 2010](https://link.springer.com/article/10.1007/s11033-009-9847-1)。
 - 昆虫食 ... 近年一般的になってきた風習。タイや長野がよく知られている。東京近辺では[米とサーカス](https://asia-tokyo-world.com/store/kome-to-circus/)が有名。
-- ざざむしぶろぐ
+- [ざざむし。](http://zazamushi.net/) ... 食虫ブログといえば
 - おかいこさま ... カイコはおかいこさまと呼ばれて大切にされていた。
 - タナイス ... 2mm 程度の甲殻類。[かわいい](https://academic.oup.com/view-large/figure/325178490/evab281f2.tif)。[Kakui et al., 2021](https://academic.oup.com/gbe/article/13/12/evab281/6460816)
 - [カニムシ](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8B%E3%83%A0%E3%82%B7) ... 小さくてかわいい。
@@ -47,11 +48,7 @@ title: 136. I want to taste defeat!
 - ダーウィンズバークスパイダー ... [クモ界最強](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011234)との呼び声も高い。網の張り方は [Gregoric et al., 2011](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026847) に詳しい。牽引糸に含まれるタンパク質も[明らかになっている](https://royalsocietypublishing.org/doi/10.1098/rsob.210242)。
 - くもの喧嘩試合 ... 四万十市で開催されていた。[2020年から中止されていて残念](https://www.shimanto-kankou.com/kanko/culture/kumo.html)。
 - ミノガとクモどっちが強いの問題 ... [諸](https://www.nature.com/articles/s41467-019-09350-3)[説](https://www.nature.com/articles/s42003-019-0412-8)あります。
-- 地球防衛軍
-- 刃牙とかまきり
-- トリビアのいずみ　なっとうのやつおもいだす
-- リッケチア
-- メガウイルス
+- [地球防衛軍](https://www.d3p.co.jp/edf6/)
 
 ## Editorial notes
 - 歯にざざ虫が挟まってたんですよね…(nakamura)
