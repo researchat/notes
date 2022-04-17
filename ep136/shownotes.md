@@ -35,7 +35,7 @@ title: 136. I want to taste defeat!
 - カイコ ... いわゆるシルクといえばカイコガのシルクのことを指す。最も材料として使われている構造タンパク質の一つであり、医療用材料にも使われている。国内外で盛んに研究されている。
 - ミノムシ ... オオミノガは最近寄生バエにやられて数が減っていると言われている。ミノを持って帰ってきてハエが出てきた時の衝撃は大きい。
 - 鱗翅目 (りんしもく) ... 羽根にウロコがある人たち。鱗翅目のシルクについては [Fedic et al., 2002](https://www.jstage.jst.go.jp/article/jibs2001/71/1/71_1_1/_article/-char/ja/) にまとまっています。
-- honey bee silk
+- [honeybee silk](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0016489)
 - 糸腺 (しせん) ... 絹糸腺のことをそう言っている。クモやカイコなど、糸を作る生物は専用の器官を持っており、絹糸腺と呼ばれる。
 - ザザムシ ... カワゲラやトビケラの幼虫の総称。シルクで巣を作るのはトビケラの方でした。佃煮にして食べると美味しい。長野県に行くと食べられます。[Amazonでも買えます](https://www.amazon.co.jp/dp/B012RF8KXE)。
 - ザザムシの糸 ... [漁網みたいになっていて綺麗 (Fig. 2)](https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0206)。特にβシートを形成する部分の配列が特徴的 [Wang et al., 2010](https://link.springer.com/article/10.1007/s11033-009-9847-1)。
@@ -47,6 +47,7 @@ title: 136. I want to taste defeat!
 - フィブロイン ... シルクを構成する主要なタンパク質。クモ糸を構成する主要なタンパク質は Spider Fibroin で Spidroin と呼ばれる。
 - ダーウィンズバークスパイダー ... [クモ界最強](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0011234)との呼び声も高い。網の張り方は [Gregoric et al., 2011](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026847) に詳しい。牽引糸に含まれるタンパク質も[明らかになっている](https://royalsocietypublishing.org/doi/10.1098/rsob.210242)。
 - くもの喧嘩試合 ... 四万十市で開催されていた。[2020年から中止されていて残念](https://www.shimanto-kankou.com/kanko/culture/kumo.html)。
+- [加治木くも合戦の動画](https://www.youtube.com/watch?t=101&v=xLPhCrX6n94&feature=youtu.be) ... 完全にスマブラ
 - ミノガとクモどっちが強いの問題 ... [諸](https://www.nature.com/articles/s41467-019-09350-3)[説](https://www.nature.com/articles/s42003-019-0412-8)あります。
 - [地球防衛軍](https://www.d3p.co.jp/edf6/)
 
