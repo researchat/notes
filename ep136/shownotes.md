@@ -4,12 +4,12 @@ actor_ids:
   - tadasu
   - coela
 audio_file_path: https://traffic.libsyn.com/secure/researchat/136.mp3
-audio_file_size: X
-date: 2022-04-15 1X:30:00 +0900
+audio_file_size: 63846055
+date: 2022-04-17 12:05:00 +0900
 rec_date: 2022-03-26 23:00:00 -0500
 edit_by: tadasu
 description: 生き物がつくる「糸」の強度に関する議論を行いました。(guest:なぜかクモに詳しい人)
-duration: "00:XX:XX"
+duration: "01:22:10"
 layout: article
 tags:
   - 研究
