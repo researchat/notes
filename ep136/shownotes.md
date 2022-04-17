@@ -13,7 +13,7 @@ duration: "00:XX:XX"
 layout: article
 tags:
   - 研究
-title: 136. I want to taste defeat!
+title: 136. Silk Lord
 ---
 
 ## Show notes
@@ -54,4 +54,4 @@ title: 136. I want to taste defeat!
 ## Editorial notes
 - 歯にざざ虫が挟まってたんですよね…(nakamura)
 - 敗北が知りたい。(tadasu)
-- (coela)
+- 早くかけコラ by tadasu (coela)
