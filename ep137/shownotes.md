@@ -1,9 +1,9 @@
 ---
 actor_ids:
-  - nakamura
+  - soh
   - tadasu
   - coela
-audio_file_path: https://traffic.libsyn.com/secure/researchat/136.mp3
+audio_file_path: https://traffic.libsyn.com/secure/researchat/137.mp3
 audio_file_size: 60672573
 date: 2022-05-03 05:05:00 +0900
 rec_date: 2022-04-29 22:00:00 -0500
@@ -12,8 +12,8 @@ description: アガロースだけを温めた電子レンジ、ラボを渡り�
 duration: "00:57:17"
 layout: article
 tags:
-  - 研究
-title: 137. Silk Lord
+  - 雑談
+title: 137. Paper clips in season
 ---
 
 ## Show notes
