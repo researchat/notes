@@ -30,17 +30,17 @@ title: 137. Paper Clips in Season
 - PS4と弾道計算 ... 本当にそんな話あるのか？
 - PS4と仮想通貨　... [本当にそんな話あるのか？](https://gigazine.net/news/20210714-ps4-pros-cryptocurrency-mine-ukraine/)
 - [山本直樹](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E7%9B%B4%E6%A8%B9) ... a.k.a. 森山塔 or 塔山森
-- [明日また電話するよ](https://www.amazon.co.jp/dp/B07256BW2R/) ... 最近になって読んでめちゃくちゃよかった山本作品。後半のCl2とか呼ぶ声の路線も好きすぎる。お子様注意。
+- [明日また電話するよ](https://www.amazon.co.jp/dp/B07256BW2R/?tag=researchatf04-22) ... 最近になって読んでめちゃくちゃよかった山本作品。後半のCl2とか呼ぶ声の路線も好きすぎる。お子様注意。
 - [イラレじゃなくてフォトショでした…](https://twitter.com/musicapiccolino/status/842708557304750080) ... NHKの漫勉で紹介されていました。
 - [1.5ml チューブ](https://axel.as-1.co.jp/asone/s/D0220000/)
-- [CHEMEX](https://www.amazon.co.jp/dp/B00XIZ1I6O/)
+- [CHEMEX](https://www.amazon.co.jp/dp/B00XIZ1I6O/?tag=researchatf04-22)
 - [きみはコフィアを知っているか？](https://tabelog.com/yamagata/A0603/A060302/6002505/)
 - [コフィアに関するブログ](https://yamaguchi-coffee.com/coffea-tsuruoka/)
 - [University of California Irvine](https://uci.edu/)
 - [ギルソン](https://www.gilson.com/) ... ピペットのメーカー
 - [Mathiew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson) ... MM
 - [Mark Ptashne](https://en.wikipedia.org/wiki/Mark_Ptashne) ...  発音多分まちがえてた。いつもわからない。
-- [遺伝子の調節機構](https://www.amazon.co.jp/dp/4274202305/) ... 分子遺伝学をやる人にとっての必読本。英語もとても読みやすいのでおすすめ。
+- [遺伝子の調節機構](https://www.amazon.co.jp/dp/4274202305/?tag=researchatf04-22) ... 分子遺伝学をやる人にとっての必読本。英語もとても読みやすいのでおすすめ。
 - [Meselson's interview by Ptashne!!!](https://www.youtube.com/watch?v=M3ydkf1ihHQ&ab_channel=ConversationsinGenetics) ... Mark PtashneによるMeselsonのインタビュー。本当によすぎる！
 - [Harvardの分子生物学勃興時に撮影された記念映画](https://www.youtube.com/watch?v=kdOgoTl9Fog&ab_channel=ZH)　... Ptashneにフォーカスした映画。若いときのWatsonやらなんやら全部出てくる。
 - [暗黒バエ](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%92%E3%83%90%E3%82%A8)
