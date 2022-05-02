@@ -32,17 +32,15 @@ title: 137. Paper Clips in Season
 - [山本直樹](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E7%9B%B4%E6%A8%B9) ... a.k.a. 森山塔 or 塔山森
 - [明日また電話するよ](https://www.amazon.co.jp/dp/B07256BW2R/) ... 最近になって読んでめちゃくちゃよかった山本作品。後半のCl2とか呼ぶ声の路線も好きすぎる。お子様注意。
 - [イラレじゃなくてフォトショでした…](https://twitter.com/musicapiccolino/status/842708557304750080) ... NHKの漫勉で紹介されていました。
-- 1.5ml チューブ
-- ケメックス
-- コフィア
-- UCIrvine
-- 美味しんぼ　米粒揃える
-- shaker
-- ギルソン
-- Mathiew Meselson
-- Ptashne 発音多分まちがえてた。いつもわからない。
-- Genetic Swtich
-- meselsonの論文
+- [1.5ml チューブ](https://axel.as-1.co.jp/asone/s/D0220000/)
+- [CHEMEX](https://www.amazon.co.jp/dp/B00XIZ1I6O/)
+- [きみはコフィアを知っているか？](https://tabelog.com/yamagata/A0603/A060302/6002505/)
+- [コフィアに関するブログ](https://yamaguchi-coffee.com/coffea-tsuruoka/)
+- [University of California Irvine](https://uci.edu/)
+- [ギルソン](https://www.gilson.com/) ... ピペットのメーカー
+- [Mathiew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson) ... MM
+- [Mark Ptashne](https://en.wikipedia.org/wiki/Mark_Ptashne) ...  発音多分まちがえてた。いつもわからない。
+- [遺伝子の調節機構](https://www.amazon.co.jp/dp/4274202305/) ... 分子遺伝学をやる人にとっての必読本。英語もとても読みやすいのでおすすめ。
 - meselsonのインタビュー
 - 時系列適当すぎたかもしれん
 - 暗黒バエ
