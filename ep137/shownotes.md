@@ -51,4 +51,4 @@ title: 137. Paper Clips in Season
 ## Editorial notes
 - 似たようなエピソードもお待ちしています (soh)
 - 彼/彼女も科学の発展に貢献したのだよ...(tadasu)
-- (coela)
+- 他の分野の意外な機器たちが知りたい(coela)
