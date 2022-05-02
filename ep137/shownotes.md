@@ -41,16 +41,14 @@ title: 137. Paper Clips in Season
 - [Mathiew Meselson](https://en.wikipedia.org/wiki/Matthew_Meselson) ... MM
 - [Mark Ptashne](https://en.wikipedia.org/wiki/Mark_Ptashne) ...  発音多分まちがえてた。いつもわからない。
 - [遺伝子の調節機構](https://www.amazon.co.jp/dp/4274202305/) ... 分子遺伝学をやる人にとっての必読本。英語もとても読みやすいのでおすすめ。
-- meselsonのインタビュー
-- 時系列適当すぎたかもしれん
-- 暗黒バエ
-- レンスキー
-- 美味しんぼ
-- すっぽん
-- 白浜水族館の展示
-- キムワイプじゃなくてVWRのほげほげ
+- [Meselson's interview by Ptashne!!!](https://www.youtube.com/watch?v=M3ydkf1ihHQ&ab_channel=ConversationsinGenetics) ... Mark PtashneによるMeselsonのインタビュー。本当によすぎる！
+- [Harvardの分子生物学勃興時に撮影された記念映画](https://www.youtube.com/watch?v=kdOgoTl9Fog&ab_channel=ZH)　... Ptashneにフォーカスした映画。若いときのWatsonやらなんやら全部出てくる。
+- [暗黒バエ](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%92%E3%83%90%E3%82%A8)
+- [リチャード・レンスキー](https://wired.jp/2017/03/31/richard-lenski/)
+- [白浜水族館の展示(生物学者のひみつ道具展)](http://www.seto.kyoto-u.ac.jp/aquarium/event-annai/special-exhibition.html) ... 7/20まで！いそげ！
+- キムワイプじゃなくてVWRのLight-Duty Tissue Wipersっていう商品だったわ...
 
 ## Editorial notes
 - 似たようなエピソードもお待ちしています (soh)
-- (tadasu)
+- 彼/彼女も科学の発展に貢献したのだよ...(tadasu)
 - (coela)
