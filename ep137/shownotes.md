@@ -13,7 +13,7 @@ duration: "00:57:17"
 layout: article
 tags:
   - 雑談
-title: 137. Paper clips in season
+title: 137. Paper Clips in Season
 ---
 
 ## Show notes
@@ -52,6 +52,6 @@ title: 137. Paper clips in season
 - キムワイプじゃなくてVWRのほげほげ
 
 ## Editorial notes
-- (soh)
+- 似たようなエピソードもお待ちしています (soh)
 - (tadasu)
 - (coela)
