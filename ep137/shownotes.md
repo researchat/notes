@@ -27,7 +27,7 @@ title: 137. Paper Clips in Season
 - [ブロッキング](https://ruo.mbl.co.jp/bio/support/method/westernblotting.html) ... 非特異的なタンパク質への吸着を防ぐために、おこなわれる処理。スキムミルクが用いられることがある。
 - [やかんオートクレーブ](https://twitter.com/researchat_fm/status/1416150009163169795)
 - なんちゃらしん ... カナマイシン、ネオマイシン、ナタマイシン、などなど。クロちゃんではない。
-- PS4と弾道計算 ... 本当にそんな話あるのか？
+- PS3と軍 ... [本当にそんな話あるのか？](https://nlab.itmedia.co.jp/games/articles/0912/16/news083.html)
 - PS4と仮想通貨　... [本当にそんな話あるのか？](https://gigazine.net/news/20210714-ps4-pros-cryptocurrency-mine-ukraine/)
 - [山本直樹](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E7%9B%B4%E6%A8%B9) ... a.k.a. 森山塔 or 塔山森
 - [明日また電話するよ](https://www.amazon.co.jp/dp/B07256BW2R/?tag=researchatf04-22) ... 最近になって読んでめちゃくちゃよかった山本作品。後半のCl2とか呼ぶ声の路線も好きすぎる。お子様注意。
@@ -46,7 +46,7 @@ title: 137. Paper Clips in Season
 - [暗黒バエ](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%92%E3%83%90%E3%82%A8)
 - [リチャード・レンスキー](https://wired.jp/2017/03/31/richard-lenski/)
 - [白浜水族館の展示(生物学者のひみつ道具展)](http://www.seto.kyoto-u.ac.jp/aquarium/event-annai/special-exhibition.html) ... 7/20まで！いそげ！
-- キムワイプじゃなくてVWRのLight-Duty Tissue Wipersっていう商品だったわ...
+- キムワイプじゃなくてVWRのLight-Duty Tissue Wipersっていう商品でした...
 
 ## Editorial notes
 - 似たようなエピソードもお待ちしています (soh)
