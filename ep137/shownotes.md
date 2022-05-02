@@ -24,7 +24,7 @@ title: 137. Paper Clips in Season
 - [電気泳動](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E6%B3%B3%E5%8B%95)
 - [エチブロ(エチジウムブロマイド)](https://www.nippongene.com/siyaku/product/electrophoresis/stain/etbr-solution.html) ... 電気泳動後にゲル中のDNAを染色するために用いられる。発癌性があるために取り扱いに注意が必要であり、最近は他の代替物によって置換されつつある。
 - サランラップ ... 日本のラップは神。サランって何？余談ではあるが、wrapである。tadasuがアメリカに来た当初のノートにはrapと書かれており、それを同僚に見られて爆笑されてしまったことがある...
-- [ブロッキング](https://ruo.mbl.co.jp/bio/support/method/westernblotting.html) ... 非特異的なタンパク質への吸着を防ぐために、おこなわれる処理。　スキムミルクが用いられることがある。
+- [ブロッキング](https://ruo.mbl.co.jp/bio/support/method/westernblotting.html) ... 非特異的なタンパク質への吸着を防ぐために、おこなわれる処理。スキムミルクが用いられることがある。
 - [やかんオートクレーブ](https://twitter.com/researchat_fm/status/1416150009163169795)
 - なんちゃらしん ... カナマイシン、ネオマイシン、ナタマイシン、などなど。クロちゃんではない。
 - PS4と弾道計算 ... 本当にそんな話あるのか？
