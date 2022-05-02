@@ -17,20 +17,21 @@ title: 137. Paper Clips in Season
 ---
 
 ## Show notes
-- mazさん回
-- nakamura
-- tamura先生のツイート
-- 電気泳動
-- エチブロ
-- サランラップ
-- ブロッキング　スキムミルク
-- やかんオートクレーブ
-- なんちゃらしん
-- PS4弾道けいさん
-- PS4 仮想通貨
-- やまもとなおき　https://twitter.com/musicapiccolino/status/842708557304750080
-- 先生の漫画　最近読んだやつ
-- イラレじゃなくてフォトショでした…
+- [133. The longest self-introduction (Researchat.fm)](https://researchat.fm/episode/133) ... "mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさを話していただきました。"
+- [136. Silk Lord (Researchat.fm)](https://researchat.fm/episode/136) ... "生き物がつくる「糸」の強度に関する議論を行いました。(guest:なぜかクモに詳しい人)"
+- アガロース ... いわゆる寒天。生物実験のいろいろなものを固めるために使われる。温めて溶かすため、電子レンジが多用される。突沸注意！
+- [アガロースを温め続けた電子レンジ by @Tamura_Lab](https://twitter.com/Tamura_Lab/status/1481890948162359298)
+- [電気泳動](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E6%B3%B3%E5%8B%95)
+- [エチブロ(エチジウムブロマイド)](https://www.nippongene.com/siyaku/product/electrophoresis/stain/etbr-solution.html) ... 電気泳動後にゲル中のDNAを染色するために用いられる。発癌性があるために取り扱いに注意が必要であり、最近は他の代替物によって置換されつつある。
+- サランラップ ... 日本のラップは神。サランって何？余談ではあるが、wrapである。tadasuがアメリカに来た当初のノートにはrapと書かれており、それを同僚に見られて爆笑されてしまったことがある...
+- [ブロッキング](https://ruo.mbl.co.jp/bio/support/method/westernblotting.html) ... 非特異的なタンパク質への吸着を防ぐために、おこなわれる処理。　スキムミルクが用いられることがある。
+- [やかんオートクレーブ](https://twitter.com/researchat_fm/status/1416150009163169795)
+- なんちゃらしん ... カナマイシン、ネオマイシン、ナタマイシン、などなど。クロちゃんではない。
+- PS4と弾道計算 ... 本当にそんな話あるのか？
+- PS4と仮想通貨　... [本当にそんな話あるのか？](https://gigazine.net/news/20210714-ps4-pros-cryptocurrency-mine-ukraine/)
+- [山本直樹](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E7%9B%B4%E6%A8%B9) ... a.k.a. 森山塔 or 塔山森
+- [明日また電話するよ](https://www.amazon.co.jp/dp/B07256BW2R/) ... 最近になって読んでめちゃくちゃよかった山本作品。後半のCl2とか呼ぶ声の路線も好きすぎる。お子様注意。
+- [イラレじゃなくてフォトショでした…](https://twitter.com/musicapiccolino/status/842708557304750080) ... NHKの漫勉で紹介されていました。
 - 1.5ml チューブ
 - ケメックス
 - コフィア
