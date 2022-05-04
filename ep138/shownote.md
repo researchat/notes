@@ -30,11 +30,19 @@ title: 138. What We Talk About When We Talk About Formula 1
 - [Race Highlights | 2021 Abu Dhabi Grand Prix (YouTube)](https://www.youtube.com/watch?v=7QJ-N-AQJYc) ... アブダビGP2021年のハイライト動画。
 - [Verstappen Wins Title With Final Lap Overtake! | 2021 Abu Dhabi Grand Prix (YouTube)](https://www.youtube.com/watch?v=MTe12fH2xtQ) ... MaxとLewisのセーフティーカー明けの伝説的なラップ...このような終末になるとは誰も予想できなかった。
 - [Formula 1: Drive to Survive | Netflix Official Site](https://www.netflix.com/ca/title/80204890) ... ネットフリックスによるF1のドキュメンタリーシリーズ
-- [Verstappen & Hamilton Clash at Monza | 2021 Italian Grand Prix (YouTube)](https://www.youtube.com/watch?v=_VSwwZYDW94&t=1s) ... モンツァで起きてしまったMaxとLewisのクラッシュ
+- [Verstappen & Hamilton Clash at Monza | 2021 Italian Grand Prix (YouTube)](https://www.youtube.com/watch?v=_VSwwZYDW94&t=1s) ... モンツァで起きてしまったMaxとLewisのクラッシュ。優勝を争う二人はシーズンを通して激烈なバトルを繰り広げた。
 - [グラウンド・エフェクト・カー (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%AB%E3%83%BC)
 - [Haas part ways with Nikita Mazepin 'with immediate effect' (formula1.com)](https://www.formula1.com/en/latest/article.breaking-haas-to-part-ways-with-nikita-mazepin-with-immediate-effect.nmmqyclyJjFNkPJjQyiyF.html)
 - [F1 announces termination of Russian GP contract](https://www.motorsport.com/f1/news/russian-gp-contract-terminated-sochi-petersburg/8661644/)
 - [ウラルカリ (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A9%E3%83%AB%E3%82%AB%E3%83%AA) ... ロシアの肥料メーカーであり、ハースのメインスポンサーでもあり、そして社長の息子のニキーマゼピンはハースのF1ドライバーだった。
+- [Haas Automation Inc](https://www.haascnc.com/index.html)
+- [Mathematicians Protest Russia Hosting Major Conference (Scientific American)](https://www.scientificamerican.com/article/mathematicians-protest-russia-hosting-major-conference/)
+- [The future of research collaborations involving Russia (CAREER NEWS, Nature)](https://www.nature.com/articles/d41586-022-00761-9)
+- [Formula 1 launches #WeRaceAsOne initiative to fight challenges of COVID-19 and global inequality](https://www.formula1.com/en/latest/article.formula-1-launches-we-race-as-one-initiative.3s2AhNDApNDzrCoQDc1RY8.html)
+- [サウジアラビアにおける女性の人権 (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%A5%B3%E6%80%A7%E3%81%AE%E4%BA%BA%E6%A8%A9#:~:text=%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E5%9B%BD%E6%B0%91%E3%81%AE%E5%A5%B3%E6%80%A7%E3%81%AF,%E3%82%92%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82)
+- [Sebastian Vettel organised women-only kart race in Saudi Arabia](https://www.espn.com/f1/story/_/id/32771470/vettel-organised-women-only-kart-race-saudi-arabia)
+- [The Hamilton Commission into improving representation of Black people in UK motorsport](https://www.hamiltoncommission.org/)
+- [22 Yuki Tsunoda](https://www.formula1.com/en/drivers/yuki-tsunoda.html) ... アルファタウリで活躍する日本人ドライバー
 
 ## Editorial notes
 - 2022年のシーズンはすでに開幕し、去年とは勢力図も大きく変わり、面白くなってきましたね (soh)
