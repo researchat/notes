@@ -6,14 +6,14 @@ actor_ids:
   - ayaka
 audio_file_path: https://traffic.libsyn.com/secure/researchat/XXX.mp3
 audio_file_size: XXX
-date: 2022-04-17 12:05:00 +0900
-rec_date: 2022-03-26 23:00:00 -0500
+date: 2022-05-05 12:05:00 +0900
+rec_date: 2022-03-19 23:00:00 -0500
 edit_by: soh
-description: 2021年にF1で起きたさまざまなニュースを取り上げ、
+description: F1好きなゲストを迎え、2021年にF1で起きたニュースを取り上げ、F1という競技の面白さや複雑さ、国際情勢とスポーツの関係などについて話しました。
 duration: "01:22:10"
 layout: article
 tags:
-  - 研究
+  - F1
 title: 138. What We Talk About When We Talk About Formula 1
 ---
 
@@ -21,10 +21,16 @@ title: 138. What We Talk About When We Talk About Formula 1
 - [研エンの仲 - A podcast on Anchor](https://anchor.fm) ... "「研エンの仲」は、神経科学の研究者 Ayaka (@kayautoka) とソフトウェアエンジニア Ryohei (@fushimir)
 の2人によるPodcastです。科学やエンジニアリング、日常の話題についても話しています"
 - [93. Language Is Not Required](https://researchat.fm/episode/93) ... Researchat.fmのF1回をsohが一人で話しているエピソード。
-- [128. Let's start a science podcast](https://researchat.fm/episode/128) ... 研エンとのコラボ回
-- [130. SOMEBODY TO LOVE](https://researchat.fm/episode/130) ... 研エンとのコラボ回
+- [128. Let's start a science podcast](https://researchat.fm/episode/128) ... Researchat.fmと研エンとのコラボ回
+- [130. SOMEBODY TO LOVE](https://researchat.fm/episode/130) ... Researchat.fmと研エンとのコラボ回
 - [Radio port F](https://www.listennotes.com/podcasts/radio-port-f-port-f-8oyx_3SjNp2/) ... F1のレギュレーションを読むポッドキャスト番組
 - [国際モータースポーツ諸規則](https://motorsports.jaf.or.jp/regulations/information/international)
 - [FIA REGULATIONS](https://www.fia.com/regulation/category/110) ... ここから100ページ以上に及ぶF1のレギュレーションを読むことができます（英語）
 - [2021 F1 ABU DHABI GRAND PRIX - REPORT TO THE WORLD MOTOR SPORT COUNCIL - 19 MARCH 2022](https://www.fia.com/2021-f1-abu-dhabi-grand-prix-report-world-motor-sport-council-19-march-2022) ... アブダビGPの問題について、何が起こり何が問題だったのか、様々な解決策などが記されている。これが2022のシーズンに実装されることになった。
-- AbudabiのHighlight Youtube
+- Abudabi Highlight YouTube
+
+## Editorial notes
+- 2022年のシーズンはすでに開幕し、去年とは勢力図も大きく変わり、面白くなってきましたね (soh)
+- (nami)
+- ryohei
+- ayaka
