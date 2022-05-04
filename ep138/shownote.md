@@ -27,10 +27,13 @@ title: 138. What We Talk About When We Talk About Formula 1
 - [国際モータースポーツ諸規則](https://motorsports.jaf.or.jp/regulations/information/international)
 - [FIA REGULATIONS](https://www.fia.com/regulation/category/110) ... ここから100ページ以上に及ぶF1のレギュレーションを読むことができます（英語）
 - [2021 F1 ABU DHABI GRAND PRIX - REPORT TO THE WORLD MOTOR SPORT COUNCIL - 19 MARCH 2022](https://www.fia.com/2021-f1-abu-dhabi-grand-prix-report-world-motor-sport-council-19-march-2022) ... アブダビGPの問題について、何が起こり何が問題だったのか、様々な解決策などが記されている。これが2022のシーズンに実装されることになった。
-- Abudabi Highlight YouTube
+- [Race Highlights | 2021 Abu Dhabi Grand Prix (YouTube)](https://www.youtube.com/watch?v=7QJ-N-AQJYc) ... アブダビGP2021年のハイライト動画。
+- [Verstappen Wins Title With Final Lap Overtake! | 2021 Abu Dhabi Grand Prix (YouTube)](https://www.youtube.com/watch?v=MTe12fH2xtQ) ... MaxとLewisのセーフティーカー明けの伝説的なラップ...このような終末になるとは誰も予想できなかった。
+- [Formula 1: Drive to Survive | Netflix Official Site](https://www.netflix.com/ca/title/80204890) ... ネットフリックスによるF1のドキュメンタリーシリーズ
+- [Verstappen & Hamilton Clash at Monza | 2021 Italian Grand Prix (YouTube)](https://www.youtube.com/watch?v=_VSwwZYDW94&t=1s) ... モンツァで起きてしまったMaxとLewisのクラッシュ
 
 ## Editorial notes
 - 2022年のシーズンはすでに開幕し、去年とは勢力図も大きく変わり、面白くなってきましたね (soh)
 - (nami)
-- ryohei
-- ayaka
+- (ryohei)
+- (ayaka)
