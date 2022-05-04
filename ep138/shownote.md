@@ -5,12 +5,12 @@ actor_ids:
   - ryohei
   - ayaka
 audio_file_path: https://traffic.libsyn.com/secure/researchat/XXX.mp3
-audio_file_size: XXX
+audio_file_size: 80294243
 date: 2022-05-05 12:05:00 +0900
 rec_date: 2022-03-19 23:00:00 -0500
 edit_by: soh
 description: F1好きなゲストを迎え、2021年にF1で起きたニュースを取り上げ、F1という競技の面白さや複雑さ、国際情勢とスポーツの関係などについて話しました。
-duration: "01:22:10"
+duration: "01:51:31"
 layout: article
 tags:
   - F1
