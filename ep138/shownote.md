@@ -4,7 +4,7 @@ actor_ids:
   - nami
   - ryohei
   - ayaka
-audio_file_path: https://traffic.libsyn.com/secure/researchat/XXX.mp3
+audio_file_path: https://traffic.libsyn.com/secure/researchat/138.mp3
 audio_file_size: 80294243
 date: 2022-05-05 12:05:00 +0900
 rec_date: 2022-03-19 23:00:00 -0500
