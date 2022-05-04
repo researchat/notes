@@ -31,6 +31,7 @@ title: 138. What We Talk About When We Talk About Formula 1
 - [Verstappen Wins Title With Final Lap Overtake! | 2021 Abu Dhabi Grand Prix (YouTube)](https://www.youtube.com/watch?v=MTe12fH2xtQ) ... MaxとLewisのセーフティーカー明けの伝説的なラップ...このような終末になるとは誰も予想できなかった。
 - [Formula 1: Drive to Survive | Netflix Official Site](https://www.netflix.com/ca/title/80204890) ... ネットフリックスによるF1のドキュメンタリーシリーズ
 - [Verstappen & Hamilton Clash at Monza | 2021 Italian Grand Prix (YouTube)](https://www.youtube.com/watch?v=_VSwwZYDW94&t=1s) ... モンツァで起きてしまったMaxとLewisのクラッシュ
+- [グラウンド・エフェクト・カー (Wikipedia)](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%83%BB%E3%82%A8%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88%E3%83%BB%E3%82%AB%E3%83%BC)
 
 ## Editorial notes
 - 2022年のシーズンはすでに開幕し、去年とは勢力図も大きく変わり、面白くなってきましたね (soh)
