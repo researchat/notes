@@ -25,13 +25,22 @@ title: 138. Aminase Mounting
 - 北米のスーパー事情
 - フールナイト
 - BRUTAS
+- [BRUTAS 危険な読書](https://www.amazon.co.jp/exec/obidos/ASIN/B01N0IPEL3/)
+- dancyu
+- [dancyu 餃子の王道](https://www.amazon.co.jp/dp/B00U0VZMDO/) ... 巻頭で紹介されている沼津の[中央亭](https://tabelog.com/shizuoka/A2205/A220501/22003420/)が今でも世界最強だとおもっています。本当にあの餃子を最初に食べた時は衝撃だった。(by tadasu)
 - POPEYE
 - すばる
 - 早稲田文学
 - 群像
 - SFマガジン
 - NUMBER
+- [Number あの人のノートが見たい](https://number.bunshun.jp/articles/-/247) ... ノートフェチにとっては本当に最高だった。Researchat.fm の[ノート回](https://researchat.fm/episode/66)も一緒にどうぞ
 - 将棋世界
+- [kotoba](https://www.amazon.co.jp/dp/B00KH7SZZS/)
+- [エルフェンリート](https://www.amazon.co.jp/dp/B00ECT85R0)
+- [なるたる](https://www.amazon.co.jp/dp/B00A2MCNSS)
+- [のりりん](https://www.amazon.co.jp/dp/4063523187)
+- [ぼくらの](https://www.amazon.co.jp/dp/B009JZH94C)
 
 ## Editorial notes
 - みなさんはあんかけで困っていますか？(soh)
