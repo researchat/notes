@@ -35,5 +35,5 @@ title: 138. Aminase Mounting
 
 ## Editorial notes
 - みなさんはあんかけで困っていますか？(soh)
-- (tadasu)
+- あんかけがびしゃびしゃになる人がいるの本当に目からウロコです。アスパラガス尿なみにびっくり。(tadasu)
 - (coela)
