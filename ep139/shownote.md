@@ -36,7 +36,7 @@ title: 138. Aminase Mounting
 - NUMBER
 - [Number あの人のノートが見たい](https://number.bunshun.jp/articles/-/247) ... ノートフェチにとっては本当に最高だった。Researchat.fm の[ノート回](https://researchat.fm/episode/66)も一緒にどうぞ
 - 将棋世界
-- [kotoba 生命とは何か](https://www.amazon.co.jp/dp/B00KH7SZZS/) ...Torsten Wieselの良い研究は「対」によって行われるとか、今の研究は星を繋いで星座を作るようなもの、みたいな批判やPaul Nurseの「良い研究者はいくつかの問いを投げ掛ければすぐにわかる」みたいな念能力者の会話みたいなのがすごいよかった笑 (by tadasu)
+- [kotoba 生命とは何か](https://www.amazon.co.jp/dp/B00KH7SZZS/) ...Torsten Wieselの良い研究は「対」によって行われるとか、今の研究は星を繋いで星座を作るようなもの、みたいな批判やPaul Nurseの「良い研究者はいくつかの問いを投げ掛ければすぐにわかる」みたいな念能力者の言葉みたいなのがすごいよかった笑 (by tadasu)
 - [エルフェンリート](https://www.amazon.co.jp/dp/B00ECT85R0)
 - [なるたる](https://www.amazon.co.jp/dp/B00A2MCNSS)
 - [のりりん](https://www.amazon.co.jp/dp/4063523187)
