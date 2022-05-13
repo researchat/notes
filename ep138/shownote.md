@@ -47,5 +47,5 @@ title: 138. What We Talk About When We Talk About Formula 1
 ## Editorial notes
 - 2022年のシーズンはすでに開幕し、去年とは勢力図も大きく変わり、面白くなってきましたね (soh)
 - (nami)
-- (ryohei)
+- Instagramではボッタスだけをフォローしています。ほっこりする近況がたくさん流れてきておすすめです (ryohei)
 - 出演させていただきありがとうございました！シーズン開幕戦直前の期待と不安がつまった収録で、現時点までのレースでもすでに語りたいことが多すぎます笑 (ayaka)
