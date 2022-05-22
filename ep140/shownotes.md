@@ -34,24 +34,24 @@ title: 140. Recurrency
 - mazさん回
 - 自発性行動開始の脳機構
 - シャコ
-- ゆるふわ生物学 の シャコパンチ回
--カニの行動の個性の研究
-- ソフロボ：ソフトロボット、新学術領域ソフトロボット学
-- リザバー: リザバー・コンピューティング(recurrent neural networkの機械学習法のひとつ) 中嶋さんの総説
-- 北大水泳部
-- 北大理学部生物学科
-- 山本貴司さん
-- 千葉すずさん
+- [ゆるふわ生物学](https://www.youtube.com/channel/UCjo-hXH1PX8Ls4sj6OAAcug) の [シャコパンチ回](https://youtu.be/u6gDoawF8pc)
+- [カニの行動の個性の研究](https://researchmap.jp/kagaya/published_papers/22396770/attachment_file.pdf)
+- ソフロボ：ソフトロボット、[新学術領域ソフトロボット学](https://softrobot.jp/)
+- リザバー: リザバー・コンピューティング(recurrent neural networkの機械学習法のひとつ) [中嶋さんの総説](https://iopscience.iop.org/article/10.35848/1347-4065/ab8d4f/pdf)
+- [北大水泳部](https://twitter.com/shirokumakai)
+- [北大理学部生物学科](https://www2.sci.hokudai.ac.jp/dept/bio/)
+- [山本貴司さん](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E8%B2%B4%E5%8F%B8)
+- [千葉すずさん](https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E3%81%99%E3%81%9A)
 - イトマンオーストラリア遠征：年に一度、全国のイトマンスイミングスクールから選抜され豪州遠征があった。
 近大附属高校：近畿大学附属高等学校。当時、普通科、理数科、国際科のほか、水泳をはじめスポーツによる活動を重視するクラスもあった。
-- 「鳥が飛ぶようにヒトは言語をつかう」Steven Pinker,  Language Instinct
-- 高畑雅一たかはたまさかず： kagayaの北大在籍時の先生
-- あめりふらし　しんけい：キャンデル神経科学のエリック・キャンデルのアメフラシの神経系で学習の分子機構の研究
-- いか　しんけい: ホジキンとハクスレーはじめとする活動電位の発生メカニズムの研究が念頭にありました 
+- 「鳥が飛ぶようにヒトは言語をつかう」[Steven Pinker,  Language Instinct](https://books.google.co.jp/books?hl=ja&lr=lang_ja|lang_en&id=UtFqXQosVP0C&oi=fnd&pg=PT6&dq=language+instinct&ots=6Ia3IEwCPx&sig=Ypa3xiDQCnj9TnJZg3XvJhQg12k)
+- [高畑雅一 (たかはたまさかず)](https://nrid.nii.ac.jp/ja/nrid/1000010111147/)： kagayaの北大在籍時の先生
+- アメフラシの神経：キャンデル神経科学のエリック・キャンデルの[アメフラシの神経系で学習の分子機構の研究](https://www.nobelprize.org/prizes/medicine/2000/kandel/facts/)
+- イカの神経: ホジキンとハクスレーはじめとする[活動電位の発生メカニズムの研究](https://www.nobelprize.org/prizes/medicine/1963/summary/)が念頭にありました 
 - シナプス統合作用：中枢ニューロンは、複雑な形状をもった樹状突起をもって多くの他のニューロンとシナプスを形成する。細胞でのシナプス電位の空間的時間的分布は、シナプス部位からの解剖学的距離だけでなく、三次元構造、膜・細胞質の電気的性質、電位依存型イオンチャネルによるコンダクタンス変化などの影響を受ける。シナプスでの電流が細胞内をどう拡散していくかと合わせてこれらが「神経計算の実体」に大きな影響を与える。この入出力関係(計算)を決めている諸過程をシナプス統合作用という。
-- ザリガニの脳：kagayaが学部4年生のときに作成したザリガニの脳の組織切片の染色像
-- ザリガニ論文1：Kagaya & Takahata, 2010 
-- ザリガニ論文2：Kagaya & Takahata, 2011 
+- ザリガニの脳：kagayaが学部4年生のときに作成した[ザリガニの脳の組織切片の染色像](https://invbrain.neuroinf.jp/modules/htmldocs/IVBPF/Crayfish/Crayfish_brain.html?ml_lang=ja)
+- ザリガニ論文1：[Kagaya & Takahata, 2010](https://doi.org/10.1523/JNEUROSCI.4885-09.2010)
+- ザリガニ論文2：[Kagaya & Takahata, 2011](https://doi.org/10.1126/science.1202244)
 - 細胞内記録(イントラ)：ガラス管微小電極が刺さったとき、カレントクランプでは細胞内の電極と細胞外の電極の電位差を測る。ガラス管内に蛍光色素を充填して細胞内染色をすることが可能。
 - マイクロエレクトロード(ガラス管微小電極)：シャープエレクトロードともいう。クラシックな手法。パッチ電極では細胞膜を密着させるが、自然に膜がシールするのを待つ。膜が破れて細胞を破壊してしまうことも。
 - カレントクランプ：電流固定法。電流を固定して、電位を測る。
