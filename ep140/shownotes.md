@@ -109,7 +109,7 @@ title: 140. Recurrency
 https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
 - はてブ：はてなブックマーク
 - Comparative Biomechanics:「比較」は多様な生物種を対象とするニュアンスがある。
-- SICB: Society for Integrative and Comparative Biology というアメリカの学会。毎年1月に年会があり 2011 Annual Meetingで Kagaya と maz はニアミスしていた。非ヒトのバイオメカニクス研究発表の場としてはこの SICB とヨーロッパの SEB (Society for Experimental Biology) が代表的と思われる【maz】
+- SICB: Society for Integrative and Comparative Biology というアメリカの学会。毎年1月に年会があり [2011 Annual Meeting](https://sicb.org/meetings/sicb-annual-meeting-2011/)で Kagaya と maz はニアミスしていた。非ヒトのバイオメカニクス研究発表の場としてはこの SICB とヨーロッパの SEB (Society for Experimental Biology) が代表的と思われる【maz】
 - リザバー計算 (reservoir computing)
 - 中嶋浩平さん Kohei Nakajima：https://www.kohei-nakajima.com/
 - 京大の白眉プロジェクト: https://www.hakubi.kyoto-u.ac.jp/
@@ -125,7 +125,7 @@ https://mantas.info/code/simple_esn/
 - ブラックボックスを解剖する方法：https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043135
 - Echo State Property: “Intuitively, the ESP states that the reservoir will asymptotically wash out any information from initial conditions.” - http://www.scholarpedia.org/article/Echo_state_network
 - 流体構造連成: ある物体、たとえば布みたいなものに風があたって力（いわゆる揚力や抗力）が生じて、形が変わったとする。そうすると、形が変わったことで揚力や抗力が変わるので、また変形がおきる。この繰り返しで振動的な挙動が生じたりする。このように、流れと物体変形の相互作用現象（問題）を流体構造連成 (fluid-structure interation, FSI) と呼ぶ【maz】
-- 双子渦（カルマン渦？): 円柱などの物体の後方には、流れのスケールで決まる無次元数である Reynolds 数に応じて左右対称な双子渦や左右交互の周期的な渦放出（Kármán 渦列）ができる。このうち双子渦を利用してリザバコンピューティングをしようという発想がある (Goto et al., 2021). なお双子渦ができるのは Reynolds 数が低いときで、つまり { サイズが小さい OR 流れが遅い OR 流体の粘性が高い（ねばねばしてる）} ような状態で、具体的には40程度まで。たとえば直径 2 cm の電線を風が 1 m/s でゆっくりと吹きすぎるような場面ですら Reynolds 数は 1300 程度で、双子渦はできない。興味深いことに、上記論文では双子渦からカルマン渦に遷移する直前の Reynolds 数で最も成績がよいという結果が出ているようだ【maz】
+- 双子渦（カルマン渦？): 円柱などの物体の後方には、流れのスケールで決まる無次元数である Reynolds 数に応じて左右対称な双子渦や左右交互の周期的な渦放出（Kármán 渦列）ができる。このうち双子渦を利用してリザバコンピューティングをしようという発想がある [(Goto et al., 2021)](https://doi.org/10.1088/1367-2630/ac024d). なお双子渦ができるのは Reynolds 数が低いときで、つまり { サイズが小さい OR 流れが遅い OR 流体の粘性が高い（ねばねばしてる）} ような状態で、具体的には40程度まで。たとえば直径 2 cm の電線を風が 1 m/s でゆっくりと吹きすぎるような場面ですら Reynolds 数は 1300 程度で、双子渦はできない。興味深いことに、上記論文では双子渦からカルマン渦に遷移する直前の Reynolds 数で最も成績がよいという結果が出ているようだ【maz】
 - カオス的遍歴：https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/68097/1/tech172.pdf, “Chaotic itinerancy as a dynamical basis of hermeneutics in brain and mind”,  https://www.tandfonline.com/doi/abs/10.1080/02604027.1991.9972257
 - 井上さんの論文: Inoue, K., Nakajima, K., & Kuniyoshi, Y. (2020). Designing spontaneous behavioral switching via chaotic itinerancy. Science advances, https://www.science.org/doi/full/10.1126/sciadv.abb3989
 - unconventional computing: https://en.wikipedia.org/wiki/Unconventional_computing
