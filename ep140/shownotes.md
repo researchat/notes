@@ -92,22 +92,22 @@ title: 140. Recurrency
 - [スケールしないことをしよう](https://review.foundx.jp/entry/do-things-that-dont-scale-cases) ... [FoundX](https://foundx.jp/)の馬田さんによる解説記事
 - [naoya_tさんによるポール・グレアムの日本語翻訳記事まとめ](http://practical-scheme.net/wiliki/wiliki.cgi?naoya_t%3A%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E3%81%AE%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%81%A8%E5%92%8C%E8%A8%B3%E4%B8%80%E8%A6%A7)
 - Coffee machine: いわゆる「コーヒーメーカー」だが[英語版ウィキペディア記事](https://en.wikipedia.org/wiki/Coffeemaker)では冒頭文（定義文）で “A coffeemaker, coffee maker, or coffee machine” と並列されており英語では同義語のようだ。
-- 雲のツイート; https://twitter.com/katzkagaya/status/1417520649040318466
-- 自由意志:　https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97
+- [雲のツイート](https://twitter.com/katzkagaya/status/1417520649040318466)
+- [自由意志](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97)
 - ヒトであれば内省、内観を言葉で伝えることができるが（リベットの実験）、そうでない動物では行動や生理現象を分析するにとどまる。
-- 運動準備電位: Kornhuber & Deecke, 1965 https://www.jstage.jst.go.jp/article/joma1947/93/1-2/93_1-2_31/_pdf/-char/en
-- コンフォーカル：共焦点走査型顕微鏡 https://bsd.neuroinf.jp/wiki/%E5%85%B1%E7%84%A6%E7%82%B9%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%B5%B0%E6%9F%BB%E5%9E%8B%E9%A1%95%E5%BE%AE%E9%8F%A1
-- ブラックホールの観測
-- スーパーカミオカンデとニュートリノの観察：https://www.nippon.com/ja/japan-topics/g00965/　
-- スーパーカミオカンデとニュートリノの観察：https://twitter.com/dcastelvecchi/status/1496045911730016256
-- 重力波の観測: Researchat.fm でも話していました。　https://researchat.fm/episode/8
-- シャコパンチ：https://cns.neuroinf.jp/jscpb/wiki/%E8%B6%85%E9%AB%98%E9%80%9F%E9%81%8B%E5%8B%95
-- 冨菜雄介さん：https://researchmap.jp/lobster　(関係ないですが、researchmapのiDがlobsterなのいかつすぎますね)  
+- 運動準備電位: [Kornhuber & Deecke, 1965](https://www.jstage.jst.go.jp/article/joma1947/93/1-2/93_1-2_31/_pdf/-char/en)
+- コンフォーカル：[共焦点走査型顕微鏡](https://bsd.neuroinf.jp/wiki/%E5%85%B1%E7%84%A6%E7%82%B9%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%B5%B0%E6%9F%BB%E5%9E%8B%E9%A1%95%E5%BE%AE%E9%8F%A1)
+- ブラックホールの観測: [Researchat.fm ep8](https://researchat.fm/episode/8)でも話していました。　
+- [スーパーカミオカンデとニュートリノの検出](https://www.nippon.com/ja/japan-topics/g00965/)
+- [スーパーカミオカンデとニュートリノの検出](https://twitter.com/dcastelvecchi/status/1496045911730016256)
+- [重力波の初検出](https://ja.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E6%B3%A2%E3%81%AE%E5%88%9D%E6%A4%9C%E5%87%BA)
+- [シャコパンチ](https://cns.neuroinf.jp/jscpb/wiki/%E8%B6%85%E9%AB%98%E9%80%9F%E9%81%8B%E5%8B%95)
+- [冨菜雄介さん](https://researchmap.jp/lobster) ...　(関係ないですが、researchmapのIDがlobsterなのいかつすぎますね)  
 - シーラ・パテック：シャコパンチはじめ、生物と物理の境界を研究されている。kagayaのシャコパンチ研究のメンター。Ted Talk https://www.ted.com/talks/sheila_patek_the_shrimp_with_a_kick
 - The Patek Lab: https://pateklab.biology.duke.edu/
 - キャビテーション:
 https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
-- はてブ：はてなブックマーク
+- [はてブ](https://b.hatena.ne.jp/)：はてなブックマーク
 - Comparative Biomechanics:「比較」は多様な生物種を対象とするニュアンスがある。
 - SICB: Society for Integrative and Comparative Biology というアメリカの学会。毎年1月に年会があり [2011 Annual Meeting](https://sicb.org/meetings/sicb-annual-meeting-2011/)で Kagaya と maz はニアミスしていた。非ヒトのバイオメカニクス研究発表の場としてはこの SICB とヨーロッパの SEB (Society for Experimental Biology) が代表的と思われる【maz】
 - リザバー計算 (reservoir computing)
