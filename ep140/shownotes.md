@@ -29,11 +29,9 @@ title: 140. Recurrency
 
 
 ## Shownotes
-- kagaya
-- maz
-- mazさん回
-- 自発性行動開始の脳機構
-- シャコ
+- [Katsushi Kagaya](https://twitter.com/katzkagaya)
+- [maz](https://twitter.com/dynamicsoar)
+- [Researchat.fm mazさん回 (ep133)](https://researchat.fm/episode/133) ... "mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさを話していただきました。"
 - [ゆるふわ生物学](https://www.youtube.com/channel/UCjo-hXH1PX8Ls4sj6OAAcug) の [シャコパンチ回](https://youtu.be/u6gDoawF8pc)
 - [カニの行動の個性の研究](https://researchmap.jp/kagaya/published_papers/22396770/attachment_file.pdf)
 - ソフロボ：ソフトロボット、[新学術領域ソフトロボット学](https://softrobot.jp/)
