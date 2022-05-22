@@ -91,7 +91,7 @@ title: 140. Recurrency
 - [Researchatのポールグレアム回　(ep87)](https://researchat.fm/episode/87)
 - [スケールしないことをしよう](https://review.foundx.jp/entry/do-things-that-dont-scale-cases) ... [FoundX](https://foundx.jp/)の馬田さんによる解説記事
 - [naoya_tさんによるポール・グレアムの日本語翻訳記事まとめ](http://practical-scheme.net/wiliki/wiliki.cgi?naoya_t%3A%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E3%81%AE%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%81%A8%E5%92%8C%E8%A8%B3%E4%B8%80%E8%A6%A7)
-- Coffee machine: いわゆる「コーヒーメーカー」だが英語版ウィキペディア記事では冒頭文（定義文）で “A coffeemaker, coffee maker, or coffee machine” と並列されており英語では同義語のようだ。
+- Coffee machine: いわゆる「コーヒーメーカー」だが[英語版ウィキペディア記事](https://en.wikipedia.org/wiki/Coffeemaker)では冒頭文（定義文）で “A coffeemaker, coffee maker, or coffee machine” と並列されており英語では同義語のようだ。
 - 雲のツイート; https://twitter.com/katzkagaya/status/1417520649040318466
 - 自由意志:　https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97
 - ヒトであれば内省、内観を言葉で伝えることができるが（リベットの実験）、そうでない動物では行動や生理現象を分析するにとどまる。
