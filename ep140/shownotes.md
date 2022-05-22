@@ -87,7 +87,10 @@ title: 140. Recurrency
 - [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
 - [ハッカーと画家](http://www.paulgraham.com/hackpaint.html) ... [オーム社による和書あり。](https://www.ohmsha.co.jp/book/9784274065972/)
 - 早すぎる最適化：これは [Donald Knuth 博士による記述](https://wiki.c2.com/?PrematureOptimization)
-- Researchatのポールグレアム回
+- 早すぎる最適化 ... [ANRIの江原ニーナさんによるハッカーと画家と早すぎる最適化に関する記事](https://note.com/anri_vc/n/nfe9c0a0ddcf2) (関係ないですが、[江原ニーナさんのポッドキャスト](https://podcasts.apple.com/jp/podcast/%E3%83%8B%E3%83%BC%E3%83%8A%E3%81%AE%E4%B8%96%E7%95%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB/id1479332504)、復活希望です。)
+- [Researchatのポールグレアム回　(ep87)](https://researchat.fm/episode/87)
+- [スケールしないことをしよう](https://review.foundx.jp/entry/do-things-that-dont-scale-cases) ... [FoundX](https://foundx.jp/)の馬田さんによる解説記事
+- [naoya_tさんによるポール・グレアムの日本語翻訳記事まとめ](http://practical-scheme.net/wiliki/wiliki.cgi?naoya_t%3A%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E3%81%AE%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%81%A8%E5%92%8C%E8%A8%B3%E4%B8%80%E8%A6%A7)
 - Coffee machine: いわゆる「コーヒーメーカー」だが英語版ウィキペディア記事では冒頭文（定義文）で “A coffeemaker, coffee maker, or coffee machine” と並列されており英語では同義語のようだ。
 - 雲のツイート; https://twitter.com/katzkagaya/status/1417520649040318466
 - 自由意志:　https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97
