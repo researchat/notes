@@ -69,24 +69,24 @@ title: 140. Recurrency
 - 神経計算の実体：アナログ的な神経膜電位活動の記録について、 [田渕さん並木さんの比較生理2019「神経回路の自発活動パターンとその機能的役割」](https://www.jstage.jst.go.jp/article/hikakuseiriseika/36/2/36_100/_article/-char/ja/
 )に詳細にまとめられています
 - キイロショウジョウバエ：いわゆるモデル生物のひとつ。
-- コネクトーム -- brainbow も関連する？(色分け染色する技術だとは思いますが、直接は関係ないかなと - kagaya) researchat の ep どっかでもメンションあったよね
-- HHMI Janelia
+- [コネクトーム](https://bsd.neuroinf.jp/wiki/%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E3%83%BC%E3%83%A0)
+- [HHMI Janelia](https://www.janelia.org/)
 - デンドライトdendrite: 樹状突起のこと。
-- ウチダザリガニ
+- [ウチダザリガニ](https://www.nies.go.jp/biodiversity/invasive/DB/detail/70050.html) ... ウチダザリガニと染色体の話は記念すべき[Researchat.fm ep1](https://researchat.fm/episode/1)で話しています。Researchat.fmはウチダザリガニと共に始まったと言っても過言ではない。
 - 氷冷麻酔: 昆虫ではCO2が（も？）よく使われる印象がある (maz)
 - クチクラ：外骨格表面
 - おおらかな指導：先生ははじめから10年かけてもいいとは思われてはいなかった、はず。
-- identifiable neuron、 identified neuron 同定(可能)ニューロン: Scholapediaに期待したらまだ書かれておらず「どなたかご存命の方に書いて欲しい」というようなことが書いてあり。別の個体から得られたニューロンどうしであっても生理学的、形態学的に似ていて同一視できるニューロン。運動ニューロンや感覚ニューロンであればそれぞれの効果器と感覚器との接続関係で同一視しやすい。介在ニューロン、とくに中枢のニューロンになってくると生理と形態の情報の再現性の問題で同一視しづらくなる。また、同定ニューロンであっても個体間変異が生じる。
+- identifiable neuron、 identified neuron 同定(可能)ニューロン: [Scholapedia](http://www.scholarpedia.org/article/Identified_neuron)に期待したらまだ書かれておらず「どなたかご存命の方に書いて欲しい」というようなことが書いてあり。別の個体から得られたニューロンどうしであっても生理学的、形態学的に似ていて同一視できるニューロン。運動ニューロンや感覚ニューロンであればそれぞれの効果器と感覚器との接続関係で同一視しやすい。介在ニューロン、とくに中枢のニューロンになってくると生理と形態の情報の再現性の問題で同一視しづらくなる。また、同定ニューロンであっても個体間変異が生じる。
 - washington university のcdkノーベル賞
 - 仮説生成型 vs 仮説検証型
-- strong inference の翻訳
-- Ronald Hoy: https://scholar.google.com/citations?user=oBmqfO0AAAAJ&hl=ja
-- 柳田敏夫: https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E6%95%8F%E9%9B%84
+- [Strong inference の翻訳](http://physiology.jp/wp-content/uploads/2014/01/061060233.pdf) ... めちゃくちゃいいので必読！kagayaさんご紹介ありがとうございます。今度これについて話したいです。(tadasu)
+- [Ronald Hoy](https://scholar.google.com/citations?user=oBmqfO0AAAAJ&hl=ja)
+- [柳田敏夫](https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E6%95%8F%E9%9B%84)
 - 研究をすすめる「よりどころ」、inflection point（変曲点）: mazの脳内では横軸が時間、縦軸が成果みたいなものとして、最初はあまり成果が伸びないが途中からぐいっと上に曲がるような曲線が想像されていた【maz】
-- ポール・グレアム: 本人の公式ページ・英語版ウィキペディア
-- Y Combinator
-- ハッカーと画家（本）。オーム社による和書あり。
-- 早すぎる最適化：これは Donald Knuth 博士 https://wiki.c2.com/?PrematureOptimization
+- ポール・グレアム: [本人の公式ページ](http://www.paulgraham.com/index.html)・[英語版ウィキペディア](https://en.wikipedia.org/wiki/Paul_Graham_(programmer))
+- [Y Combinator](https://en.wikipedia.org/wiki/Y_Combinator)
+- [ハッカーと画家](http://www.paulgraham.com/hackpaint.html) ... [オーム社による和書あり。](https://www.ohmsha.co.jp/book/9784274065972/)
+- 早すぎる最適化：これは [Donald Knuth 博士による記述](https://wiki.c2.com/?PrematureOptimization)
 - Researchatのポールグレアム回
 - Coffee machine: いわゆる「コーヒーメーカー」だが英語版ウィキペディア記事では冒頭文（定義文）で “A coffeemaker, coffee maker, or coffee machine” と並列されており英語では同義語のようだ。
 - 雲のツイート; https://twitter.com/katzkagaya/status/1417520649040318466
