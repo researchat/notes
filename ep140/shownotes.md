@@ -1,0 +1,184 @@
+title: Recurrency
+kagayaさんをゲストに迎え、アメリカザリガニの自発性行動開始の脳研究としてザリガニ脳内の単一ニューロンの膜電位活動とその形態染色の技術の話、超高速パンチをするシャコの研究、リカレントニューラルネットワークの機械学習フレームワークであるリザバーコンピューティングについてお話をうかがいました。 (w/ maz)
+
+Main contents:
+加賀谷の研究履歴
+アメリカザリガニの自発性行動開始の脳機構研究(高畑雅一lab)
+行動が外部感覚刺激ではなく自発内発的に生じるとき、その開始が起こる脳内機構を調べるため、ザリガニ脳内の単一ニューロンの膜電位活動を記録、形態染色の技を卒論時から9年間継続してようやく特定のニューロンが見つかった。
+シャコの超高速運動の研究(Sheila Patek lab)
+神経系が身体機構を通して環境に働きかけるメカニズムの研究として、超高速パンチをするシャコを研究。
+カニの行動の個性の研究(Seto Marine Biology lab)
+京大白浜水族館の飼育員の原田桂太さんがカイメンで帽子をつくるカニをシャコ水槽の隣でされていて、体のわりに小さすぎる帽子をつくってるカニがいたりして、行動実験とデータ解析を計画。ベイズ統計による解析。
+ソフトロボット研究(中嶋浩平 lab→國吉中嶋 lab 2022-)
+科研費の新学術領域ソフトロボット学に公募班で採用されて、ソフトロボット的研究開始。中嶋さんとは京大白眉、この領域でお世話になり、現在中嶋ラボへ。
+
+
+
+kagaya
+maz
+mazさん回
+自発性行動開始の脳機構
+シャコ
+ゆるふわ生物学 の シャコパンチ回
+カニの行動の個性の研究
+ソフロボ：ソフトロボット、新学術領域ソフトロボット学
+リザバー: リザバー・コンピューティング(recurrent neural networkの機械学習法のひとつ) 中嶋さんの総説
+北大水泳部
+北大理学部生物学科
+山本貴司さん
+千葉すずさん
+イトマンオーストラリア遠征：年に一度、全国のイトマンスイミングスクールから選抜され豪州遠征があった。
+近大附属高校：近畿大学附属高等学校。当時、普通科、理数科、国際科のほか、水泳をはじめスポーツによる活動を重視するクラスもあった。
+
+「鳥が飛ぶようにヒトは言語をつかう」Steven Pinker,  Language Instinct
+高畑雅一たかはたまさかず： kagayaの北大在籍時の先生
+あめりふらし　しんけい：キャンデル神経科学のエリック・キャンデルのアメフラシの神経系で学習の分子機構の研究
+いか　しんけい: ホジキンとハクスレーはじめとする活動電位の発生メカニズムの研究が念頭にありました 
+
+シナプス統合作用：中枢ニューロンは、複雑な形状をもった樹状突起をもって多くの他のニューロンとシナプスを形成する。細胞でのシナプス電位の空間的時間的分布は、シナプス部位からの解剖学的距離だけでなく、三次元構造、膜・細胞質の電気的性質、電位依存型イオンチャネルによるコンダクタンス変化などの影響を受ける。シナプスでの電流が細胞内をどう拡散していくかと合わせてこれらが「神経計算の実体」に大きな影響を与える。この入出力関係(計算)を決めている諸過程をシナプス統合作用という。
+
+ザリガニの脳：kagayaが学部4年生のときに作成したザリガニの脳の組織切片の染色像
+ザリガニ論文1：Kagaya & Takahata, 2010 
+ザリガニ論文2：Kagaya & Takahata, 2011 
+
+細胞内記録(イントラ)：ガラス管微小電極が刺さったとき、カレントクランプでは細胞内の電極と細胞外の電極の電位差を測る。ガラス管内に蛍光色素を充填して細胞内染色をすることが可能。
+
+マイクロエレクトロード(ガラス管微小電極)：シャープエレクトロードともいう。クラシックな手法。パッチ電極では細胞膜を密着させるが、自然に膜がシールするのを待つ。膜が破れて細胞を破壊してしまうことも。
+
+カレントクランプ：電流固定法。電流を固定して、電位を測る。
+
+細胞外記録(エクストラ)：ほぼスパイク(イントラの記録の活動電位だけフィルタされた電位記録)だけの記録。電極と細胞との位置関係、その他もろもろの複雑な細胞外液の状況に依存した記録になるのでスパイクのタイミングだけを主にデータとする。また、近くに複数の細胞があれば複数のスパイクが混じるのでスパイク・ソーティングする必要がある。一方、イントラではシナプス活動と同時に活動電位も記録できる。が、細胞の刺さる場所によってはスパイクしか見えない。ザリガニでは樹状突起の肥厚部が主なシナプス統合部でここに刺さればシナプス活動も見える。
+
+パッチ電極をつかったパッチクランプ
+
+イオンチャネル
+ルシファーイエロー
+下村おさむ
+コマンドニューロン: ザリガニコマンドニューロンのレビュー→ “Fifty years of a command neuron: the neurobiology of escape behavior in the crayfish” 
+
+アメフラシの水管刺激によるエラの引き込み反射: 
+光遺伝学
+
+神経軸索：シナプス活動によって生じる活動電位は、脊椎動物の運動ニューロンでは軸索の起始部で生じる。ここは活動電位を発生するための電位依存型イオンチャネルがたくさんあって閾値が低い。脊椎動物の細胞ではシナプスからこの部位までに細胞体が介在する。一方、ザリガニなど節足動物では細胞体はこの流れから離れたところにあってシナプス統合に関与しない。よって、統合部位として肥厚した樹状突起に電極を刺入してシナプス統合作用を調べることになる。その神経計算の結果、発生した活動電位は軸索を伝導する。
+
+下行性ニューロン：脳内に細胞体と樹状突起をもっていて脳を出て胸部へと軸索を伸ばしていく。
+腹髄、囲食道縦連合：梯子型神経系の腹側を通る縦連合を腹髄という。囲食道縦連合は、食道を囲んでいる縦連合。左右をつなぐ連合を横連合という。
+
+神経計算の実体：アナログ的な神経膜電位活動の記録について、 田渕さん並木さんの比較生理2019「神経回路の自発活動パターンとその機能的役割」に詳細にまとめられています：
+https://www.jstage.jst.go.jp/article/hikakuseiriseika/36/2/36_100/_article/-char/ja/
+
+キイロショウジョウバエ：いわゆるモデル生物のひとつ。
+
+コネクトーム -- brainbow も関連する？(色分け染色する技術だとは思いますが、直接は関係ないかなと - kagaya) researchat の ep どっかでもメンションあったよね
+HHMI Janelia
+
+デンドライトdendrite: 樹状突起のこと。
+
+ウチダザリガニ
+氷冷麻酔: 昆虫ではCO2が（も？）よく使われる印象がある (maz)
+クチクラ：外骨格表面
+
+おおらかな指導：先生ははじめから10年かけてもいいとは思われてはいなかった、はず。
+
+identifiable neuron、 identified neuron 同定(可能)ニューロン: Scholapediaに期待したらまだ書かれておらず「どなたかご存命の方に書いて欲しい」というようなことが書いてあり。別の個体から得られたニューロンどうしであっても生理学的、形態学的に似ていて同一視できるニューロン。運動ニューロンや感覚ニューロンであればそれぞれの効果器と感覚器との接続関係で同一視しやすい。介在ニューロン、とくに中枢のニューロンになってくると生理と形態の情報の再現性の問題で同一視しづらくなる。また、同定ニューロンであっても個体間変異が生じる。
+
+washington university のcdkノーベル賞
+仮説生成型 vs 仮説検証型
+strong inference の翻訳
+Ronald Hoy: https://scholar.google.com/citations?user=oBmqfO0AAAAJ&hl=ja
+柳田敏夫: https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E6%95%8F%E9%9B%84
+
+研究をすすめる「よりどころ」、inflection point（変曲点）: mazの脳内では横軸が時間、縦軸が成果みたいなものとして、最初はあまり成果が伸びないが途中からぐいっと上に曲がるような曲線が想像されていた【maz】
+
+ポール・グレアム: 本人の公式ページ・英語版ウィキペディア
+Y Combinator
+ハッカーと画家（本）。オーム社による和書あり。
+早すぎる最適化：これは Donald Knuth 博士 https://wiki.c2.com/?PrematureOptimization
+Researchatのポールグレアム回
+
+Coffee machine: いわゆる「コーヒーメーカー」だが英語版ウィキペディア記事では冒頭文（定義文）で “A coffeemaker, coffee maker, or coffee machine” と並列されており英語では同義語のようだ。
+
+雲のツイート; https://twitter.com/katzkagaya/status/1417520649040318466
+自由意志:　https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97
+ヒトであれば内省、内観を言葉で伝えることができるが（リベットの実験）、そうでない動物では行動や生理現象を分析するにとどまる。
+
+運動準備電位: Kornhuber & Deecke, 1965 https://www.jstage.jst.go.jp/article/joma1947/93/1-2/93_1-2_31/_pdf/-char/en
+
+コンフォーカル：共焦点走査型顕微鏡 https://bsd.neuroinf.jp/wiki/%E5%85%B1%E7%84%A6%E7%82%B9%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%B5%B0%E6%9F%BB%E5%9E%8B%E9%A1%95%E5%BE%AE%E9%8F%A1
+
+ブラックホールの観測
+スーパーカミオカンデとニュートリノの観察：https://www.nippon.com/ja/japan-topics/g00965/　
+スーパーカミオカンデとニュートリノの観察：https://twitter.com/dcastelvecchi/status/1496045911730016256
+重力波の観測: Researchat.fm でも話していました。　https://researchat.fm/episode/8
+
+シャコパンチ：https://cns.neuroinf.jp/jscpb/wiki/%E8%B6%85%E9%AB%98%E9%80%9F%E9%81%8B%E5%8B%95
+
+冨菜雄介さん：https://researchmap.jp/lobster　(関係ないですが、researchmapのiDがlobsterなのいかつすぎますね)  
+シーラ・パテック：シャコパンチはじめ、生物と物理の境界を研究されている。kagayaのシャコパンチ研究のメンター。Ted Talk https://www.ted.com/talks/sheila_patek_the_shrimp_with_a_kick
+
+The Patek Lab: https://pateklab.biology.duke.edu/
+
+キャビテーション:
+https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+
+はてブ：はてなブックマーク
+
+Comparative Biomechanics:「比較」は多様な生物種を対象とするニュアンスがある。
+
+SICB: Society for Integrative and Comparative Biology というアメリカの学会。毎年1月に年会があり 2011 Annual Meetingで Kagaya と maz はニアミスしていた。非ヒトのバイオメカニクス研究発表の場としてはこの SICB とヨーロッパの SEB (Society for Experimental Biology) が代表的と思われる【maz】
+
+リザバー計算 (reservoir computing)
+中嶋浩平さん Kohei Nakajima：https://www.kohei-nakajima.com/
+
+京大の白眉プロジェクト: https://www.hakubi.kyoto-u.ac.jp/
+
+シャコパンチ論文：https://journals.biologists.com/jeb/article/219/3/319/16771/Feed-forward-motor-control-of-ultrafast-ballistic
+
+リカレントニューラルネットワーク：回帰的
+Herbert Jaeger (https://scholar.google.de/citations?user=0uztVbMAAAAJ&hl=en)
+リードアウト：リザバー計算の基本設定でパラメータチューニングはほぼこの線形読み出し器部分だけなので学習にかかる計算コストがとても小さい。
+
+echo state neural network：シンプルなPC上での Echo State Network (ESN) による計算の例：
+https://mantas.info/code/simple_esn/
+
+spiking neural network: https://en.wikipedia.org/wiki/Spiking_neural_network
+
+たこあし、シリコン計算機：中嶋さんの royal society interface に掲載された論文のひとつhttps://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.0437
+
+Wolfgang Maass: https://igi-web.tugraz.at/people/maass/
+
+ブラックボックスを解剖する方法：https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043135
+
+Echo State Property: “Intuitively, the ESP states that the reservoir will asymptotically wash out any information from initial conditions.” - http://www.scholarpedia.org/article/Echo_state_network
+
+流体構造連成: ある物体、たとえば布みたいなものに風があたって力（いわゆる揚力や抗力）が生じて、形が変わったとする。そうすると、形が変わったことで揚力や抗力が変わるので、また変形がおきる。この繰り返しで振動的な挙動が生じたりする。このように、流れと物体変形の相互作用現象（問題）を流体構造連成 (fluid-structure interation, FSI) と呼ぶ【maz】
+
+双子渦（カルマン渦？): 円柱などの物体の後方には、流れのスケールで決まる無次元数である Reynolds 数に応じて左右対称な双子渦や左右交互の周期的な渦放出（Kármán 渦列）ができる。このうち双子渦を利用してリザバコンピューティングをしようという発想がある (Goto et al., 2021). なお双子渦ができるのは Reynolds 数が低いときで、つまり { サイズが小さい OR 流れが遅い OR 流体の粘性が高い（ねばねばしてる）} ような状態で、具体的には40程度まで。たとえば直径 2 cm の電線を風が 1 m/s でゆっくりと吹きすぎるような場面ですら Reynolds 数は 1300 程度で、双子渦はできない。興味深いことに、上記論文では双子渦からカルマン渦に遷移する直前の Reynolds 数で最も成績がよいという結果が出ているようだ【maz】
+
+カオス的遍歴：https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/68097/1/tech172.pdf, “Chaotic itinerancy as a dynamical basis of hermeneutics in brain and mind”,  https://www.tandfonline.com/doi/abs/10.1080/02604027.1991.9972257
+
+井上さんの論文: Inoue, K., Nakajima, K., & Kuniyoshi, Y. (2020). Designing spontaneous behavioral switching via chaotic itinerancy. Science advances, https://www.science.org/doi/full/10.1126/sciadv.abb3989
+
+unconventional computing: https://en.wikipedia.org/wiki/Unconventional_computing
+digital computing, “Towards a generalized theory comprising digital, neuromorphic and unconventional computing” https://iopscience.iop.org/article/10.1088/2634-4386/abf151/meta
+
+大自由度力学系
+
+E-kagen: 鈴森康一「新学術領域研究「ソフトロボット学」 https://www.jstage.jst.go.jp/article/jrsj/37/1/37_37_53/_article/-char/ja/
+
+[ルースカップリングとタイトカップリング](https://brh.co.jp/s_library/interview/58/) … 柳田敏雄先生による一分子研究の歴史とその解説
+
+モルフォロジカル・コンピュテーション：
+
+Kunt Shmidt-Nielsen 
+
+
+下澤先生：下澤楯夫先生
+
+
+
+editirial notes:
+(kagaya) ザリガニ研究は出てから10年以上たってからのもので、あまり外で話す機会がなくなっていたので、今回紹介する機会をいただけて感謝です。シャコパンチはまた別の機会に(？)
+(maz) ほぼ聞き役でした。シャコパンチや関連して高速運動・超高速運動の面白さみたいな話はもうちょっとしたかったけど、それやったらたぶんリザバまで行かなかったですね…
+kagayaさんとmazさん出演いただきありがとうございます。全然掘りきれていませんが、また次回よろしくお願いします。リザバーの部分については更なる自身での理解が必要だと思いました。完全版は+40minぐらいあるのですがまたいつか。(tadasu)
+
