@@ -103,10 +103,9 @@ title: 140. Recurrency
 - [重力波の初検出](https://ja.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E6%B3%A2%E3%81%AE%E5%88%9D%E6%A4%9C%E5%87%BA)
 - [シャコパンチ](https://cns.neuroinf.jp/jscpb/wiki/%E8%B6%85%E9%AB%98%E9%80%9F%E9%81%8B%E5%8B%95)
 - [冨菜雄介さん](https://researchmap.jp/lobster) ...　(関係ないですが、researchmapのIDがlobsterなのいかつすぎますね)  
-- シーラ・パテック：シャコパンチはじめ、生物と物理の境界を研究されている。kagayaのシャコパンチ研究のメンター。Ted Talk https://www.ted.com/talks/sheila_patek_the_shrimp_with_a_kick
-- The Patek Lab: https://pateklab.biology.duke.edu/
-- キャビテーション:
-https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+- シーラ・パテック：シャコパンチはじめ、生物と物理の境界を研究されている。kagayaのシャコパンチ研究のメンター。[TED Talk]https://www.ted.com/talks/sheila_patek_the_shrimp_with_a_kick)
+- [The Patek Lab](https://pateklab.biology.duke.edu/)
+- [キャビテーション](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - [はてブ](https://b.hatena.ne.jp/)：はてなブックマーク
 - Comparative Biomechanics:「比較」は多様な生物種を対象とするニュアンスがある。
 - SICB: Society for Integrative and Comparative Biology というアメリカの学会。毎年1月に年会があり [2011 Annual Meeting](https://sicb.org/meetings/sicb-annual-meeting-2011/)で Kagaya と maz はニアミスしていた。非ヒトのバイオメカニクス研究発表の場としてはこの SICB とヨーロッパの SEB (Society for Experimental Biology) が代表的と思われる【maz】
