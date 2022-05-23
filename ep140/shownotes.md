@@ -75,7 +75,9 @@ title: 140. Recurrency
 - クチクラ：外骨格表面
 - おおらかな指導：先生ははじめから10年かけてもいいとは思われてはいなかった、はず。
 - identifiable neuron、 identified neuron 同定(可能)ニューロン: [Scholapedia](http://www.scholarpedia.org/article/Identified_neuron)に期待したらまだ書かれておらず「どなたかご存命の方に書いて欲しい」というようなことが書いてあり。別の個体から得られたニューロンどうしであっても生理学的、形態学的に似ていて同一視できるニューロン。運動ニューロンや感覚ニューロンであればそれぞれの効果器と感覚器との接続関係で同一視しやすい。介在ニューロン、とくに中枢のニューロンになってくると生理と形態の情報の再現性の問題で同一視しづらくなる。また、同定ニューロンであっても個体間変異が生じる。
-- washington university のcdkノーベル賞
+- [Leland H. Hartwell](https://en.wikipedia.org/wiki/Leland_H._Hartwell) ... 出芽酵母を用いた細胞周期に関する研究により、2001年度のノーベル生理学・医学賞を受賞
+- [Leland Hartwellの動画](https://www.youtube.com/watch?v=4okAtR2Gwa4&t=49s&ab_channel=ConversationsinGenetics) ... 観察から細胞周期に関する因子を同定していく様の解説。
+- [Leland Hartwellの動画](https://www.youtube.com/watch?v=mJNyKHRAp0k&ab_channel=iBiologyScienceStories) ... インタビューワーは[Researchat.fm ep107](https://researchat.fm/episode/107)で紹介したBungo Akiyoshiさんの指導教官であるSue Biggins先生。
 - 仮説生成型 vs 仮説検証型
 - [Strong inference の翻訳](http://physiology.jp/wp-content/uploads/2014/01/061060233.pdf) ... めちゃくちゃいいので必読！kagayaさんご紹介ありがとうございます。今度これについて話したいです。(tadasu)
 - [Ronald Hoy](https://scholar.google.com/citations?user=oBmqfO0AAAAJ&hl=ja)
