@@ -43,7 +43,7 @@ title: 140. Recurrency
 - イトマンオーストラリア遠征：年に一度、全国のイトマンスイミングスクールから選抜され豪州遠征があった。
 近大附属高校：近畿大学附属高等学校。当時、普通科、理数科、国際科のほか、水泳をはじめスポーツによる活動を重視するクラスもあった。
 - 「鳥が飛ぶようにヒトは言語をつかう」[Steven Pinker,  Language Instinct](https://books.google.co.jp/books?hl=ja&lr=lang_ja|lang_en&id=UtFqXQosVP0C&oi=fnd&pg=PT6&dq=language+instinct&ots=6Ia3IEwCPx&sig=Ypa3xiDQCnj9TnJZg3XvJhQg12k)
-- [高畑雅一 (たかはたまさかず)](https://nrid.nii.ac.jp/ja/nrid/1000010111147/)： kagayaの北大在籍時の先生
+- [高畑雅一 (たかはたまさかず)](https://nrid.nii.ac.jp/ja/nrid/1000010111147/)： kagayaの北大在籍時の[先生](https://researchmap.jp/cabinets/cabinet_files/download/791102/d2a6fd7771781d54b2db795d9de5ceeb?frame_id=1442011)
 - アメフラシの神経：キャンデル神経科学のエリック・キャンデルの[アメフラシの神経系で学習の分子機構の研究](https://www.nobelprize.org/prizes/medicine/2000/kandel/facts/)
 - イカの神経: ホジキンとハクスレーはじめとする[活動電位の発生メカニズムの研究](https://www.nobelprize.org/prizes/medicine/1963/summary/)が念頭にありました 
 - シナプス統合作用：中枢ニューロンは、複雑な形状をもった樹状突起をもって多くの他のニューロンとシナプスを形成する。細胞でのシナプス電位の空間的時間的分布は、シナプス部位からの解剖学的距離だけでなく、三次元構造、膜・細胞質の電気的性質、電位依存型イオンチャネルによるコンダクタンス変化などの影響を受ける。シナプスでの電流が細胞内をどう拡散していくかと合わせてこれらが「神経計算の実体」に大きな影響を与える。この入出力関係(計算)を決めている諸過程をシナプス統合作用という。
@@ -126,7 +126,7 @@ title: 140. Recurrency
 - [井上さんの論文: Inoue, K., Nakajima, K., & Kuniyoshi, Y. (2020). Designing spontaneous behavioral switching via chaotic itinerancy. Science advances](https://www.science.org/doi/full/10.1126/sciadv.abb3989)
 - [Unconventional Computing](https://en.wikipedia.org/wiki/Unconventional_computing)
 - [Diagital Computing, “Towards a generalized theory comprising digital, neuromorphic and unconventional computing” ](https://iopscience.iop.org/article/10.1088/2634-4386/abf151/meta)
-- 大自由度力学系
+- [大自由度力学系](https://www.wpi-aimr.tohoku.ac.jp/chiba/index.html)
 - [E-kagen: 鈴森康一「新学術領域研究「ソフトロボット学」](https://www.jstage.jst.go.jp/article/jrsj/37/1/37_37_53/_article/-char/ja/)
 - [ルースカップリングとタイトカップリング](https://brh.co.jp/s_library/interview/58/) … 柳田敏雄先生による一分子研究の歴史とその解説
 - [モルフォロジカル・コンピュテーション](https://twitter.com/4_d/status/1013253570869714944)
@@ -135,7 +135,7 @@ title: 140. Recurrency
 
 
 
-## Editrial Notes
+## Editorial Notes
 - ザリガニ研究は出てから10年以上たってからのもので、あまり外で話す機会がなくなっていたので、今回紹介する機会をいただけて感謝です。シャコパンチはまた別の機会に(？)(kagaya)
 - ほぼ聞き役でした。シャコパンチや関連して高速運動・超高速運動の面白さみたいな話はもうちょっとしたかったけど、それやったらたぶんリザバまで行かなかったですね… (maz) 
 - kagayaさんとmazさん出演いただきありがとうございます。全然掘りきれていませんが、また次回よろしくお願いします。リザバーの部分については更なる自身での理解が必要だと思いました。完全版は+40minぐらいあるのですがまたいつか。(tadasu)
