@@ -59,6 +59,8 @@ title: 140. Recurrency
 - [イオンチャネル](https://bsd.neuroinf.jp/wiki/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB)
 - [ルシファーイエロー](https://www.sigmaaldrich.com/JP/ja/product/sigma/l0144)
 - [下村脩](https://ja.wikipedia.org/wiki/%E4%B8%8B%E6%9D%91%E8%84%A9) ... [Researchat.fm ep112](https://researchat.fm/episode/112)を参照
+- [下村脩先生がクラゲを採っていた様子](https://www.nobelprize.org/prizes/chemistry/2008/illustrated-information/) ... 家族とクラゲを採っていた下村先生。写真に映っているお子様の一人は伝説のハッカー[Tsutomu Shimomura](https://en.wikipedia.org/wiki/Tsutomu_Shimomura)さんである。
+- [下村先生のクラゲ漁の伝説](https://www.sankei.com/article/20181021-OEYI6LG3ABLA3ML2EB2QQCTKDE/) ... "海岸で朝６時から夜まで毎日、家族総出でクラゲを取り続け、１７年間で８５万匹も捕獲し分析。ごく微量しか含まれないＧＦＰが光る仕組みを突き止めた。"
 - コマンドニューロン: ザリガニコマンドニューロンのレビュー [“Fifty years of a command neuron: the neurobiology of escape behavior in the crayfish” ](https://www.sciencedirect.com/science/article/abs/pii/S016622369801340X)
 - [アメフラシの水管刺激によるエラの引き込み反射](https://cns.neuroinf.jp/jscpb/wiki/%E5%AD%A6%E7%BF%92%EF%BC%9A%E3%81%A8%E3%81%8F%E3%81%AB%E3%82%A2%E3%83%A1%E3%83%95%E3%83%A9%E3%82%B7%E3%81%AE%E5%A0%B4%E5%90%88)
 - [光遺伝学](https://bsd.neuroinf.jp/wiki/%E5%85%89%E9%81%BA%E4%BC%9D%E5%AD%A6#:~:text=%E5%85%89%E9%81%BA%E4%BC%9D%E5%AD%A6%E3%81%A8%E3%81%AF,%E5%88%9D%E3%82%81%E3%81%A6%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E3%80%82)
