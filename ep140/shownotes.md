@@ -50,18 +50,18 @@ title: 140. Recurrency
 - ザリガニの脳：kagayaが学部4年生のときに作成した[ザリガニの脳の組織切片の染色像](https://invbrain.neuroinf.jp/modules/htmldocs/IVBPF/Crayfish/Crayfish_brain.html?ml_lang=ja)
 - ザリガニ論文1：[Kagaya & Takahata, 2010](https://doi.org/10.1523/JNEUROSCI.4885-09.2010)
 - ザリガニ論文2：[Kagaya & Takahata, 2011](https://doi.org/10.1126/science.1202244)
-- 細胞内記録(イントラ)：ガラス管微小電極が刺さったとき、カレントクランプでは細胞内の電極と細胞外の電極の電位差を測る。ガラス管内に蛍光色素を充填して細胞内染色をすることが可能。
+- 細胞内記録(イントラ)：ガラス管微小電極を細胞に刺入し、主にカレントクランプで細胞内外の電位差を測る。ガラス管内に蛍光色素を充填して細胞内染色をすることが可能。
 - マイクロエレクトロード(ガラス管微小電極)：シャープエレクトロードともいう。クラシックな手法。パッチ電極では細胞膜を密着させるが、自然に膜がシールするのを待つ。膜が破れて細胞を破壊してしまうことも。
 - カレントクランプ：電流固定法。電流を固定して、電位を測る。
-- 細胞外記録(エクストラ)：ほぼスパイク(イントラの記録の活動電位だけフィルタされた電位記録)だけの記録。電極と細胞との位置関係、その他もろもろの複雑な細胞外液の状況に依存した記録になるのでスパイクのタイミングだけを主にデータとする。また、近くに複数の細胞があれば複数のスパイクが混じるのでスパイク・ソーティングする必要がある。一方、イントラではシナプス活動と同時に活動電位も記録できる。が、細胞の刺さる場所によってはスパイクしか見えない。ザリガニでは樹状突起の肥厚部が主なシナプス統合部でここに刺さればシナプス活動も見える。
+- 細胞外記録(エクストラ)：ほぼスパイク(イントラの記録の活動電位だけフィルタされた電位記録)だけの記録。電極と細胞との位置関係、その他もろもろの複雑な細胞外液の状況に依存した記録になるのでスパイクのタイミングだけをデータとすることが多い。また、近くに複数の細胞があれば複数のスパイクが混じるので一つの電極に複数のユニットが混じるのでスパイク・ソーティングする必要がある。一方、イントラではシナプス活動と同時に活動電位も記録できる。が、細胞の刺さる場所が軸索だとスパイクしか見えない。ザリガニでは樹状突起の肥厚部が主なシナプス統合部でここに刺さればシナプス活動が見える。
 - [パッチ電極をつかったパッチクランプ](https://bsd.neuroinf.jp/wiki/%E3%83%91%E3%83%83%E3%83%81%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%97%E6%B3%95)
 - [イオンチャネル](https://bsd.neuroinf.jp/wiki/%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%81%E3%83%A3%E3%83%8D%E3%83%AB)
 - [ルシファーイエロー](https://www.sigmaaldrich.com/JP/ja/product/sigma/l0144)
 - [下村脩](https://ja.wikipedia.org/wiki/%E4%B8%8B%E6%9D%91%E8%84%A9) ... [Researchat.fm ep112](https://researchat.fm/episode/112)を参照
-- コマンドニューロン: ザリガニコマンドニューロンのレビュー→ [“Fifty years of a command neuron: the neurobiology of escape behavior in the crayfish” ](https://www.sciencedirect.com/science/article/abs/pii/S016622369801340X)
+- コマンドニューロン: ザリガニコマンドニューロンのレビュー [“Fifty years of a command neuron: the neurobiology of escape behavior in the crayfish” ](https://www.sciencedirect.com/science/article/abs/pii/S016622369801340X)
 - [アメフラシの水管刺激によるエラの引き込み反射](https://cns.neuroinf.jp/jscpb/wiki/%E5%AD%A6%E7%BF%92%EF%BC%9A%E3%81%A8%E3%81%8F%E3%81%AB%E3%82%A2%E3%83%A1%E3%83%95%E3%83%A9%E3%82%B7%E3%81%AE%E5%A0%B4%E5%90%88)
 - [光遺伝学](https://bsd.neuroinf.jp/wiki/%E5%85%89%E9%81%BA%E4%BC%9D%E5%AD%A6#:~:text=%E5%85%89%E9%81%BA%E4%BC%9D%E5%AD%A6%E3%81%A8%E3%81%AF,%E5%88%9D%E3%82%81%E3%81%A6%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%AA%E3%81%A3%E3%81%9F%E3%80%82)
-- 神経軸索：シナプス活動によって生じる活動電位は、脊椎動物の運動ニューロンでは軸索の起始部で生じる。ここは活動電位を発生するための電位依存型イオンチャネルがたくさんあって閾値が低い。脊椎動物の細胞ではシナプスからこの部位までに細胞体が介在する。一方、ザリガニなど節足動物では細胞体はこの流れから離れたところにあってシナプス統合に関与しない。よって、統合部位として肥厚した樹状突起に電極を刺入してシナプス統合作用を調べることになる。その神経計算の結果、発生した活動電位は軸索を伝導する。
+- 神経軸索：シナプス活動によって生じる活動電位は、脊椎動物の運動ニューロンでは軸索の起始部で生じる。ここは活動電位を発生するための電位依存型イオンチャネルがたくさんあって閾値が低い。脊椎動物の細胞ではシナプスからこの部位までに細胞体が介在する。一方、ザリガニなど節足動物では細胞体はこの流れから離れたところにあってシナプス統合に関与しない。よって、統合部位として肥厚した樹状突起に電極を狙って刺入してシナプス統合作用を調べることになる。シナプス統合、つまり神経計算の結果発生した活動電位は軸索を伝導する。
 - 下行性ニューロン：脳内に細胞体と樹状突起をもっていて脳を出て胸部へと軸索を伸ばしていく。
 - 腹髄、囲食道縦連合：梯子型神経系の腹側を通る縦連合を腹髄という。囲食道縦連合は、食道を囲んでいる縦連合。左右をつなぐ連合を横連合という。
 - 神経計算の実体：アナログ的な神経膜電位活動の記録について、 [田渕さん並木さんの比較生理2019「神経回路の自発活動パターンとその機能的役割」](https://www.jstage.jst.go.jp/article/hikakuseiriseika/36/2/36_100/_article/-char/ja/
@@ -74,11 +74,11 @@ title: 140. Recurrency
 - 氷冷麻酔: 昆虫ではCO2が（も？）よく使われる印象がある (maz)
 - クチクラ：外骨格表面
 - おおらかな指導：先生ははじめから10年かけてもいいとは思われてはいなかった、はず。
-- identifiable neuron、 identified neuron 同定(可能)ニューロン: [Scholapedia](http://www.scholarpedia.org/article/Identified_neuron)に期待したらまだ書かれておらず「どなたかご存命の方に書いて欲しい」というようなことが書いてあり。別の個体から得られたニューロンどうしであっても生理学的、形態学的に似ていて同一視できるニューロン。運動ニューロンや感覚ニューロンであればそれぞれの効果器と感覚器との接続関係で同一視しやすい。介在ニューロン、とくに中枢のニューロンになってくると生理と形態の情報の再現性の問題で同一視しづらくなる。また、同定ニューロンであっても個体間変異が生じる。
+- identifiable neuron、 identified neuron 同定(可能)ニューロン: [Scholapedia](http://www.scholarpedia.org/article/Identified_neuron)に期待したらまだ書かれておらず「どなたかご存命の方に書いて欲しい」というようなことが。別の個体から得られたニューロンどうしであっても生理学的、形態学的に似ていて同一視できるニューロン。運動ニューロンだと筋肉との関係で厳密な意味で同定ニューロンになる。介在ニューロン、とくに中枢のニューロンになってくると生理と形態の情報の再現性の問題で同一視しづらくなる。なお、同定ニューロンであっても個体間変異が生じる。
 - [Leland H. Hartwell](https://en.wikipedia.org/wiki/Leland_H._Hartwell) ... 出芽酵母を用いた細胞周期に関する研究により、2001年度のノーベル生理学・医学賞を受賞
 - [Leland Hartwellの動画](https://www.youtube.com/watch?v=4okAtR2Gwa4&t=49s&ab_channel=ConversationsinGenetics) ... 観察から細胞周期に関する因子を同定していく様の解説。
 - [Leland Hartwellの動画](https://www.youtube.com/watch?v=mJNyKHRAp0k&ab_channel=iBiologyScienceStories) ... インタビューワーは[Researchat.fm ep107](https://researchat.fm/episode/107)で紹介したBungo Akiyoshiさんの指導教官であるSue Biggins先生。
-- 仮説生成型 vs 仮説検証型
+- 仮説生成型 vs 仮説検証型: [Researchat.fm ep127](https://researchat.fm/episode/127)のHARKingも参照。
 - [Strong inference の翻訳](http://physiology.jp/wp-content/uploads/2014/01/061060233.pdf) ... めちゃくちゃいいので必読！kagayaさんご紹介ありがとうございます。今度これについて話したいです。(tadasu)
 - [Ronald Hoy](https://scholar.google.com/citations?user=oBmqfO0AAAAJ&hl=ja)
 - [柳田敏夫](https://ja.wikipedia.org/wiki/%E6%9F%B3%E7%94%B0%E6%95%8F%E9%9B%84)
@@ -93,7 +93,7 @@ title: 140. Recurrency
 - [naoya_tさんによるポール・グレアムの日本語翻訳記事まとめ](http://practical-scheme.net/wiliki/wiliki.cgi?naoya_t%3A%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A2%E3%83%A0%E3%81%AE%E3%82%A8%E3%83%83%E3%82%BB%E3%82%A4%E3%81%A8%E5%92%8C%E8%A8%B3%E4%B8%80%E8%A6%A7)
 - Coffee machine: いわゆる「コーヒーメーカー」だが[英語版ウィキペディア記事](https://en.wikipedia.org/wiki/Coffeemaker)では冒頭文（定義文）で “A coffeemaker, coffee maker, or coffee machine” と並列されており英語では同義語のようだ。
 - [雲のツイート](https://twitter.com/katzkagaya/status/1417520649040318466)
-- [自由意志](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97)
+- [自由意志](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97):「で、ザリガニに自由意志はあるの?」って[Paul Katz氏](https://mobile.twitter.com/pskatz)に聞かれたのが思い出されます。
 - ヒトであれば内省、内観を言葉で伝えることができるが（リベットの実験）、そうでない動物では行動や生理現象を分析するにとどまる。
 - 運動準備電位: [Kornhuber & Deecke, 1965](https://www.jstage.jst.go.jp/article/joma1947/93/1-2/93_1-2_31/_pdf/-char/en)
 - コンフォーカル：[共焦点走査型顕微鏡](https://bsd.neuroinf.jp/wiki/%E5%85%B1%E7%84%A6%E7%82%B9%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%B5%B0%E6%9F%BB%E5%9E%8B%E9%A1%95%E5%BE%AE%E9%8F%A1)
@@ -103,7 +103,7 @@ title: 140. Recurrency
 - [重力波の初検出](https://ja.wikipedia.org/wiki/%E9%87%8D%E5%8A%9B%E6%B3%A2%E3%81%AE%E5%88%9D%E6%A4%9C%E5%87%BA)
 - [シャコパンチ](https://cns.neuroinf.jp/jscpb/wiki/%E8%B6%85%E9%AB%98%E9%80%9F%E9%81%8B%E5%8B%95)
 - [冨菜雄介さん](https://researchmap.jp/lobster) ...　(関係ないですが、researchmapのIDがlobsterなのいかつすぎますね)  
-- シーラ・パテック：シャコパンチはじめ、生物と物理の境界を研究されている。kagayaのシャコパンチ研究のメンター。[TED Talk](https://www.ted.com/talks/sheila_patek_the_shrimp_with_a_kick)
+- シーラ・パテック：シャコパンチはじめ、生物と物理の境界を研究されている。kagayaのシャコパンチ研究のメンター。シーラの[TED Talk](https://www.ted.com/talks/sheila_patek_the_shrimp_with_a_kick)
 - [The Patek Lab](https://pateklab.biology.duke.edu/)
 - [キャビテーション](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - [はてブ](https://b.hatena.ne.jp/)：はてなブックマーク
@@ -113,14 +113,14 @@ title: 140. Recurrency
 - [中嶋浩平さん Kohei Nakajima](https://www.kohei-nakajima.com/)
 - [京大の白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp/)
 - [シャコパンチ論文](https://journals.biologists.com/jeb/article/219/3/319/16771/Feed-forward-motor-control-of-ultrafast-ballistic)
-- リカレントニューラルネットワーク：回帰的
+- リカレントニューラルネットワーク：回帰的神経回路網 RNN。典型的なRNNとしてはランダムにそれぞれが結合した echo state network (後述)がある。スパイクニューラルネット型もある。
 - [Herbert Jaeger](https://scholar.google.de/citations?user=0uztVbMAAAAJ&hl=en)
-- リードアウト：リザバー計算の基本設定でパラメータチューニングはほぼこの線形読み出し器部分だけなので学習にかかる計算コストがとても小さい。
+- リードアウト：リザバー計算の典型的設定のパラメータチューニングはこの線形読み出し器部分だけなので学習にかかる計算コストがとても小さい。
 - echo state neural network：[シンプルなPC上での Echo State Network (ESN) による計算の例](https://mantas.info/code/simple_esn/)
 - [spiking neural network](https://en.wikipedia.org/wiki/Spiking_neural_network)
-- たこあし、シリコン計算機：[中嶋さんの royal society interface に掲載された論文のひとつ](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.0437)
+- たこあし、シリコンたこあし計算機：[中嶋さんの royal society interface に掲載された論文のひとつ](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2014.0437)
 - [Wolfgang Maass](https://igi-web.tugraz.at/people/maass/)
-- [ブラックボックスを解剖する方法](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043135)
+- [ブラックボックスを解剖する研究](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043135)
 - Echo State Property: [“Intuitively, the ESP states that the reservoir will asymptotically wash out any information from initial conditions.”  ](http://www.scholarpedia.org/article/Echo_state_network)
 - 流体構造連成: ある物体、たとえば布みたいなものに風があたって力（いわゆる揚力や抗力）が生じて、形が変わったとする。そうすると、形が変わったことで揚力や抗力が変わるので、また変形がおきる。この繰り返しで振動的な挙動が生じたりする。このように、流れと物体変形の相互作用現象（問題）を流体構造連成 (fluid-structure interation, FSI) と呼ぶ【maz】
 - 双子渦（カルマン渦？): 円柱などの物体の後方には、流れのスケールで決まる無次元数である Reynolds 数に応じて左右対称な双子渦や左右交互の周期的な渦放出（Kármán 渦列）ができる。このうち双子渦を利用してリザバコンピューティングをしようという発想がある [(Goto et al., 2021)](https://doi.org/10.1088/1367-2630/ac024d). なお双子渦ができるのは Reynolds 数が低いときで、つまり { サイズが小さい OR 流れが遅い OR 流体の粘性が高い（ねばねばしてる）} ような状態で、具体的には40程度まで。たとえば直径 2 cm の電線を風が 1 m/s でゆっくりと吹きすぎるような場面ですら Reynolds 数は 1300 程度で、双子渦はできない。興味深いことに、上記論文では双子渦からカルマン渦に遷移する直前の Reynolds 数で最も成績がよいという結果が出ているようだ【maz】
@@ -138,7 +138,7 @@ title: 140. Recurrency
 
 
 ## Editorial Notes
-- ザリガニ研究は出てから10年以上たってからのもので、あまり外で話す機会がなくなっていたので、今回紹介する機会をいただけて感謝です。シャコパンチはまた別の機会に(？)(kagaya)
+- ザリガニ研究は出てから10年以上たってからのもので、あまり外で話す機会がなくなっていたので、今回紹介する機会をいただけて感謝です。シャコパンチを詳しくはまた別の機会に(？)(kagaya)
 - ほぼ聞き役でした。シャコパンチや関連して高速運動・超高速運動の面白さみたいな話はもうちょっとしたかったけど、それやったらたぶんリザバまで行かなかったですね… (maz) 
 - kagayaさんとmazさん出演いただきありがとうございます。全然掘りきれていませんが、また次回よろしくお願いします。リザバーの部分については更なる自身での理解が必要だと思いました。完全版は+40minぐらいあるのですがまたいつか。(tadasu)
 
