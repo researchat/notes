@@ -4,12 +4,12 @@ actor_ids:
   - maz
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/140.mp3 
-audio_file_size: XYZ
-date: 2022-05-22 0X:00:00 +0900
+audio_file_size: 94371150
+date: 2022-05-25 05:00:00 +0900
 rec_date: 2022-04-23 22:00:00 -0500
-edit_by: soh
+edit_by: tadasu
 description: kagayaさんをゲストに迎え、アメリカザリガニの自発性行動開始の脳研究における単一ニューロンの膜電位活動の記録とその形態染色技術の話、超高速パンチをするシャコの研究、リカレントニューラルネットワークの機械学習フレームワークであるリザバーコンピューティングについてお話をうかがいました。 (w/ maz)
-duration: "01:09:03"
+duration: "02:40:28"
 layout: article
 tags:
   - 研究
