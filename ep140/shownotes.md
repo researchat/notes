@@ -37,6 +37,7 @@ title: 140. Recurrency
 - ソフロボ：ソフトロボット、[新学術領域ソフトロボット学](https://softrobot.jp/)
 - リザバー: リザバー・コンピューティング(recurrent neural networkの機械学習法のひとつ) [中嶋さんの総説](https://iopscience.iop.org/article/10.35848/1347-4065/ab8d4f/pdf)
 - [北大水泳部](https://twitter.com/shirokumakai)
+- [kagayaさんの輝かしい水泳の記録](https://twitter.com/katzkagaya/status/1227214236285190149) ... 勝手に貼ってすいません！(tadasu)
 - [北大理学部生物学科](https://www2.sci.hokudai.ac.jp/dept/bio/)
 - [山本貴司さん](https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E8%B2%B4%E5%8F%B8)
 - [千葉すずさん](https://ja.wikipedia.org/wiki/%E5%8D%83%E8%91%89%E3%81%99%E3%81%9A)
