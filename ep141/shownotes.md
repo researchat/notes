@@ -52,5 +52,5 @@ title: 141. Rock, Tweezers, Pepper
 -でかいロックフィッシュ
 
 ## Editorial Notes
-- (soh)
+- 今年のカナダは歴史的な降水量で雨ばかりの日々でしたが、先週から1ヶ月遅れでようやく夏が来ました (soh)
 - (tadasu)
