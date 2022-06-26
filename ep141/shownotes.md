@@ -7,13 +7,13 @@ audio_file_size: X
 date: 2022-06-26 10:31:00 +0900
 rec_date: 2022-04-08 22:00:00 -0500
 edit_by: tadasu
-description: 
+description: 春の訪れ、Daylight saving time、ペッパーランチの思い出、マリトッツォって何、ライブセルにおいて、磁力で染色体を動かす論文、寿命のバリエーションが非常に大きい(10-200歳)根魚のゲノム解析論文について話しました。
 duration: "01:XX:XX"
 layout: article
 tags:
   - 雑談
   - 論文
-title: 141. XXX
+title: 141. Rock, Tweezers, Pepper
 ---
 
 ## Shownotes
