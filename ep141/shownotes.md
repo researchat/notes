@@ -19,7 +19,7 @@ title: 141. Rock, Tweezers, Pepper
 ## Shownotes
 - [Daylight saving time](https://en.wikipedia.org/wiki/Daylight_saving_time) ... いわゆるサマータイム
 - [ソメイヨシノ](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%A1%E3%82%A4%E3%83%A8%E3%82%B7%E3%83%8E) ... ソメイヨシノ研究といえば遺伝研の竹中要先生。
-- [Daylight saving timeを一年中使う方針について](https://www.nbcchicago.com/news/local/after-senate-passes-permanent-daylight-saving-time-bill-where-does-house-stand/2804188/)
+- [Daylight saving timeを一年中使うことの議論](https://www.nbcchicago.com/news/local/after-senate-passes-permanent-daylight-saving-time-bill-where-does-house-stand/2804188/)
 - [ペッパーランチ](https://pepperlunch.com/)
 - [超高級食材でペッパーランチ作ったら美味すぎて言葉を失いました… (by ヒカキン)](https://www.youtube.com/watch?v=3qCcZ_WrHPs&ab_channel=HikakinTV) ... 飯テロ許すまじ！
 - [Pepper Lunch in Vancouver](https://www.pepperlunch.com/world/canada/8206.html)
