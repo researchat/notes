@@ -7,7 +7,7 @@ audio_file_size: 74665519
 date: 2022-06-26 10:31:00 +0900
 rec_date: 2022-04-08 22:00:00 -0500
 edit_by: tadasu
-description: 春の訪れ、Daylight saving time、ペッパーランチの思い出、マリトッツォって何、ライブセルにおいて、磁力で染色体を動かす論文、寿命のバリエーションが非常に大きい(10-200歳)根魚のゲノム解析論文について話しました。
+description: 春の訪れ、Daylight saving time、ペッパーランチの思い出、マリトッツォって何、ライブセルにおいて、磁力で染色体を動かす論文、寿命のバリエーションが非常に大きい(11-200歳)根魚のゲノム解析論文について話しました。
 duration: "01:10:28"
 layout: article
 tags:
@@ -41,9 +41,9 @@ title: 141. Rock, Tweezers, Pepper
 - [Yang and Shah Front. Oncol. 2020](https://www.frontiersin.org/articles/10.3389/fonc.2020.01182/full) ... "Nanobodies: Next Generation of Cancer Diagnostics and Therapeutics"
 - [Ferritin](https://en.wikipedia.org/wiki/Ferritin)
 - [パーマロイ](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AD%E3%82%A4) ... ニッケル鉄の合金
-- origins of rock fishes
-- 根魚　根魚
--でかいロックフィッシュ
+- [Kolora et al. Science 2021](https://www.science.org/doi/10.1126/science.abg5332) ... "Origins and evolution of extreme life span in Pacific Ocean rockfishes"
+- [根魚](https://ja.wikipedia.org/wiki/%E6%A0%B9%E9%AD%9A)
+- [Lu et al., Science 2021](https://www.science.org/doi/10.1126/science.abm3392) ... "Long-lived fish in a big pond"
 
 ## Editorial Notes
 - 今年のカナダは歴史的な降水量で雨ばかりの日々でしたが、先週から1ヶ月遅れでようやく夏が来ました (soh)
