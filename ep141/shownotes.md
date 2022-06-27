@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/141.mp3 
 audio_file_size: 74665519
-date: 2022-06-26 10:31:00 +0900
+date: 2022-06-27 10:00:00 +0900
 rec_date: 2022-04-08 22:00:00 -0500
 edit_by: tadasu
 description: 春の訪れ、Daylight saving time、ペッパーランチの思い出、マリトッツォって何、磁力を使って生きた細胞の中のクロマチンを動かす論文、種間で寿命のばらつきが非常に大きい(11-200歳)根魚のゲノム解析論文について話しました。
@@ -47,4 +47,4 @@ title: 141. Rock, Tweezers, Pepper
 
 ## Editorial Notes
 - 今年のカナダは歴史的な降水量で雨ばかりの日々でしたが、先週から1ヶ月遅れでようやく夏が来ました (soh)
-- 時節の話なんかするものだから季節外れの話になってしまいました。タイトルにはTweezersを入れましたが、magnetic tweezersの論文ではないです。(tadasu)
+- 時節の話なんかするものだから季節外れの話になってしまいました。タイトルにはTweezersを入れましたが、magnetic tweezersの論文ではないです。Rockfishの寿命論文はオープンアクセスではなかった...すいません。(tadasu)
