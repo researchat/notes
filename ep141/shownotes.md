@@ -30,20 +30,20 @@ title: 141. Rock, Tweezers, Pepper
 - Tsurumen davis ... Researchat.fm ep5で登場した1000日しか営業しないラーメン屋さん。ついに1000日を迎え、営業を終えた（らしい）
 - マリトッツォ ... 名前だけ聞いたことがある伝説上の食べ物
 - [BOOK OFF NY](https://www.bookoffusa.com/bookoff-49-w-45th-ny-store/)
-- [Keizer et al. 2021 bioRxiv](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1) ... "Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics"
+- [Keizer et al. bioRxiv (2021) ](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1) ... "Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics"
 - [John Gurdon](https://en.wikipedia.org/wiki/John_Gurdon)
-- [Egli et al. Nature 2007](https://pubmed.ncbi.nlm.nih.gov/17554301/) ... "Developmental reprogramming after chromosome transfer into mitotic mouse zygotes"
+- [Egli et al. Nature (2007)](https://pubmed.ncbi.nlm.nih.gov/17554301/) ... "Developmental reprogramming after chromosome transfer into mitotic mouse zygotes"
 - [光ピンセット(Optical tweezers)](https://ja.wikipedia.org/wiki/%E5%85%89%E3%83%94%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88)
 - [磁気ピンセット(Magnetic tweezers)](https://en.wikipedia.org/wiki/Magnetic_tweezers)
 - [Atomic Force Microscope (AFM)](https://en.wikipedia.org/wiki/Atomic_force_microscopy)
 - [Tetracycline (Tet) Inducible Expression](https://www.addgene.org/collections/tetracycline/)
 - [mCherry](https://www.fpbase.org/protein/mcherry/)
-- [Yang and Shah Front. Oncol. 2020](https://www.frontiersin.org/articles/10.3389/fonc.2020.01182/full) ... "Nanobodies: Next Generation of Cancer Diagnostics and Therapeutics"
+- [Yang and Shah Front. Oncol. (2020)](https://www.frontiersin.org/articles/10.3389/fonc.2020.01182/full) ... "Nanobodies: Next Generation of Cancer Diagnostics and Therapeutics"
 - [Ferritin](https://en.wikipedia.org/wiki/Ferritin)
 - [パーマロイ](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AD%E3%82%A4) ... ニッケル鉄の合金
-- [Kolora et al. Science 2021](https://www.science.org/doi/10.1126/science.abg5332) ... "Origins and evolution of extreme life span in Pacific Ocean rockfishes"
+- [Kolora et al. Science (2021)](https://www.science.org/doi/10.1126/science.abg5332) ... "Origins and evolution of extreme life span in Pacific Ocean rockfishes"
 - [根魚](https://ja.wikipedia.org/wiki/%E6%A0%B9%E9%AD%9A)
-- [Lu et al., Science 2021](https://www.science.org/doi/10.1126/science.abm3392) ... "Long-lived fish in a big pond"
+- [Lu et al., Science (2021)](https://www.science.org/doi/10.1126/science.abm3392) ... "Long-lived fish in a big pond"
 
 ## Editorial Notes
 - 今年のカナダは歴史的な降水量で雨ばかりの日々でしたが、先週から1ヶ月遅れでようやく夏が来ました (soh)
