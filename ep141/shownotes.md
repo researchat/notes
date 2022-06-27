@@ -32,7 +32,7 @@ title: 141. Rock, Tweezers, Pepper
 - [BOOK OFF NY](https://www.bookoffusa.com/bookoff-49-w-45th-ny-store/)
 - [Keizer et al. bioRxiv (2021) ](https://www.biorxiv.org/content/10.1101/2021.04.20.439763v1) ... "Live-cell micromanipulation of a genomic locus reveals interphase chromatin mechanics"
 - [John Gurdon](https://en.wikipedia.org/wiki/John_Gurdon)
-- [Egli et al. Nature (2007)](https://pubmed.ncbi.nlm.nih.gov/17554301/) ... "Developmental reprogramming after chromosome transfer into mitotic mouse zygotes"
+- [Egli et al. Nature (2007)](https://pubmed.ncbi.nlm.nih.gov/17554301/) ... "Developmental reprogramming after chromosome transfer into mitotic mouse zygotes" 体細胞の染色体スワップではなかったです...
 - [光ピンセット(Optical tweezers)](https://ja.wikipedia.org/wiki/%E5%85%89%E3%83%94%E3%83%B3%E3%82%BB%E3%83%83%E3%83%88)
 - [磁気ピンセット(Magnetic tweezers)](https://en.wikipedia.org/wiki/Magnetic_tweezers)
 - [Atomic Force Microscope (AFM)](https://en.wikipedia.org/wiki/Atomic_force_microscopy)
