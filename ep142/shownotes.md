@@ -1,10 +1,10 @@
 
 ---
 actor_ids:
-  - tadasu
   - ryohei
   - ayaka
   - miyawaki
+  - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/141.mp3 
 audio_file_size: 20041079
 date: 2022-07-19 22:00:00 +0900
@@ -36,4 +36,4 @@ title: 142. Is Aye-aye a monkey?
 - (ryohei)
 - (ayaka)
 - (miyawaki)
-- ポッドキャストのつながりでお会いできてよかったです！(tadasu)
+- ポッドキャストのつながりでお会いできてよかったです！miyawakiさんも来てくれてありがとう！博物館はかなりアイデアを得られてよかったです。(tadasu)
