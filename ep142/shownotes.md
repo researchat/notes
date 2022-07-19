@@ -1,10 +1,10 @@
 
 ---
 actor_ids:
+  - tadasu
   - ryohei
   - ayaka
   - miyawaki
-  - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/141.mp3 
 audio_file_size: 20041079
 date: 2022-07-19 22:00:00 +0900
