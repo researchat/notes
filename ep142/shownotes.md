@@ -4,12 +4,12 @@ actor_ids:
   - ayaka
   - miyawaki
   - tadasu
-audio_file_path: https://traffic.libsyn.com/secure/researchat/141.mp3 
+audio_file_path: https://traffic.libsyn.com/secure/researchat/142.mp3 
 audio_file_size: 20041079
 date: 2022-07-19 22:00:00 +0900
 rec_date: 2022-07-18 16:00:00 -0500
 edit_by: tadasu
-description: 研エンの仲の二人が大学に訪問されたので記念収録しました。
+description: 研エンの仲の二人が大学に訪問されたので記念収録しました。(w/ miyawaki)
 duration: "00:20:18"
 layout: article
 tags:
