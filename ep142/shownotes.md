@@ -1,21 +1,20 @@
 
 ---
 actor_ids:
-  - ryohei
-  - ayaka
-  - miyawaki
+  - kagaya
+  - maz
   - tadasu
-audio_file_path: https://traffic.libsyn.com/secure/researchat/14２.mp3 
-audio_file_size: 20041079
-date: 2022-07-19 22:00:00 +0900
-rec_date: 2022-07-18 16:00:00 -0500
+audio_file_path: https://traffic.libsyn.com/secure/researchat/140.mp3 
+audio_file_size: 94371150
+date: 2022-05-25 03:31:00 +0900
+rec_date: 2022-04-23 22:00:00 -0500
 edit_by: tadasu
-description: 研エンの仲の二人が大学に訪問されたので記念収録しました。
-duration: "00:20:18"
+description: kagayaさんをゲストに迎え、アメリカザリガニの自発性行動開始の脳研究における単一ニューロンの膜電位活動の記録とその形態染色技術の話、超高速パンチをするシャコの研究、リカレントニューラルネットワークの機械学習フレームワークであるリザバーコンピューティングについてお話をうかがいました。 (w/ maz)
+duration: "02:40:28"
 layout: article
 tags:
-  - 雑談
-title: 142. Is Aye-aye a monkey?
+  - 研究
+title: 140. Recurrency
 ---
 
 ## Shownotes
