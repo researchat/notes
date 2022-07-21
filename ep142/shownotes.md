@@ -30,9 +30,9 @@ title: 142. Is Aye-aye a monkey?
 - [The Power Hour](https://www.grc.org/the-power-hour/) 
 - [ハーバードの古いコンピューター](http://scihi.org/howard-aiken-harvard-mark-i/) ... Howard Aikenが作ったMark IがScience Centerには展示されていた。今は他の場所に移動。
 - [Harvard Yard](https://en.wikipedia.org/wiki/Harvard_Yard)
+- [Nicholas Bellono](https://www.mcb.harvard.edu/directory/nicholas-bellono/) ... この会合の時に話したtadasuがたまげた研究者。
 
 ## Editorial Notes
-- (ryohei)
-- (ayaka)
-- (miyawaki)
+- 環境音が乗ると Vlog (Alog?) 感があって新鮮ですね。ボストン案内していただきありがとうございました! (ryohei & ayaka)
+- ゲリラ収録面白かったです。三番組のパーソナリティが対面で集まった時の定番になったりして笑　またなんかやりましょう！(miyawaki)
 - ポッドキャストのつながりでお会いできてよかったです！miyawakiさんも来てくれてありがとう！博物館では刺激をいただきました。(tadasu)
