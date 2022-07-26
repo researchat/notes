@@ -37,7 +37,7 @@ title: 145. XYZ
 - [CDC(Centers for Disease Control and Prevention)](https://www.cdc.gov/)
 - [Biobotによる測定値](https://biobot.io/data/) ... 見るだけで楽しい。
 - Oct-Nov 2020 in Cambridge ... Cambridgeでは綺麗にBiobotの測定値が患者数のearly indicatorになっていたのだが、今となって見直すともう数が違いすぎて何が何だかわからない笑
-- 遠藤さんのD論
+- [Endo 2017](https://dspace.mit.edu/handle/1721.1/111433) ... 遠藤さんのD論:Malaria transmission around the Koka Reservoir in Ethiopia : field observations, model predictions, and strategies for prevention
 - [コカ貯水池](https://ja.upwiki.one/wiki/Koka_Reservoir)
 - [マラリア](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2)
 - [hydrology](https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%96%87%E5%AD%A6) … 水文学
