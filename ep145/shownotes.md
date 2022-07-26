@@ -45,6 +45,7 @@ title: 145. XYZ
 - ルネサンスダム
 - Civil and Environmental Engineering
 - Earth Science
+- political science
 - ハマダラ蚊
 - デング熱
 - ジカ熱
