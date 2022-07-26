@@ -29,7 +29,7 @@ title: 145. XYZ
 - overdose ...過剰摂取
 - policy intervention ... 政策介入
 - legal consequence ... 法的効果
-- 論文　by Biobot	
+- [Duvallet et al. ACS EST Water (2022))](https://pubs.acs.org/doi/10.1021/acsestwater.1c00434) ... "Nationwide Trends in COVID-19 Cases and SARS-CoV-2 RNA Wastewater Concentrations in the United States": Biobot社の論文
 - [pepper mottle virus](https://www.nature.com/articles/s41545-018-0019-5)
 - [Cambridge Covid19](https://www.cambridgema.gov/covid19)
 - [Weekly Municipal Wastewater Sampling Data](https://cityofcambridge.shinyapps.io/COVID19/)
@@ -38,25 +38,24 @@ title: 145. XYZ
 - [Biobotによる測定値](https://biobot.io/data/) ... 見るだけで楽しい。
 - Oct-Nov 2020 in Cambridge ... Cambridgeでは綺麗にBiobotの測定値が患者数のearly indicatorになっていたのだが、今となって見直すともう数が違いすぎて何が何だかわからない笑
 - 遠藤さんのD論
-- コカ貯水池
-- マラリア
-- hydrology … 水文学
-- hydrodynamics … 水力学
-- エチオピア
-- ナイル川
-- ルネサンスダム
-- Civil and Environmental Engineering
-- Earth Science
-- political science
-- ハマダラ蚊
-- デング熱
-- ジカ熱
-- undergrad
-- 世界銀行
-- アジア開発銀行
-- depression
-- 遠藤のりこのキャリアの文章
-- 高校浪人
+- [コカ貯水池](https://ja.upwiki.one/wiki/Koka_Reservoir)
+- [マラリア](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2)
+- [hydrology](https://ja.wikipedia.org/wiki/%E6%B0%B4%E6%96%87%E5%AD%A6) … 水文学
+- [hydraulics/hydrodynamics](https://ja.wikipedia.org/wiki/%E6%B0%B4%E7%90%86%E5%AD%A6) … 水理学/水力学
+- [エチオピア](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2)
+- [ナイル川](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%83%AB%E5%B7%9D)
+- [ルネサンスダム](https://ja.wikipedia.org/wiki/%E5%A4%A7%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%83%BB%E3%83%AB%E3%83%8D%E3%82%B5%E3%83%B3%E3%82%B9%E3%83%80%E3%83%A0)
+- [Civil and Environmental Engineering @MIT](https://cee.mit.edu/)
+- [Earth Science @MIT](https://eapsweb.mit.edu/)
+- [Political Science](https://politicalscience.stanford.edu/)
+- [ハマダラカ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%9E%E3%83%80%E3%83%A9%E3%82%AB)
+- [デング熱](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%82%B0%E7%86%B1)
+- [ジカ熱](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%AB%E7%86%B1)
+- undergrad ... 学部生
+- [世界銀行](https://www.worldbank.org/en/home)
+- [アジア開発銀行](https://www.adb.org/ja/offices/japan/main0
+- depression ... 鬱
+- 高校浪人 ... 留年じゃなかった...日本語だめだ...
 
 ## Editorial Notes
 - (noriko)
