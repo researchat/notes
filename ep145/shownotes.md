@@ -53,7 +53,7 @@ title: 145. XYZ
 - [ジカ熱](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%AB%E7%86%B1)
 - undergrad ... 学部生
 - [世界銀行](https://www.worldbank.org/en/home)
-- [アジア開発銀行](https://www.adb.org/ja/offices/japan/main0
+- [アジア開発銀行](https://www.adb.org/ja/offices/japan/main)
 - depression ... 鬱
 - 高校浪人 ... 留年じゃなかった...日本語だめだ...
 
