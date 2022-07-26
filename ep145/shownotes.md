@@ -56,6 +56,7 @@ title: 145. XYZ
 - [アジア開発銀行](https://www.adb.org/ja/offices/japan/main)
 - depression ... 鬱
 - 高校浪人 ... 留年じゃなかった...日本語だめだ...
+- [左沢線](https://ja.wikipedia.org/wiki/%E5%B7%A6%E6%B2%A2%E7%B7%9A)
 
 ## Editorial Notes
 - (noriko)
