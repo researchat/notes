@@ -57,6 +57,7 @@ title: 145. XYZ
 - depression ... 鬱
 - 高校浪人 ... 留年じゃなかった...日本語だめだ...
 - [左沢線](https://ja.wikipedia.org/wiki/%E5%B7%A6%E6%B2%A2%E7%B7%9A)
+- [COTEN RADIO](https://cotenradio.fm/) ... 遠藤さんが好きなポッドキャスト
 
 ## Editorial Notes
 - (noriko)
