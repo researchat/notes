@@ -8,7 +8,7 @@ date: 2022-07-31 22:00:00 +0900
 rec_date: 2022-07-10 17:00:00 -0500
 edit_by: tadasu
 description: XYZ
-duration: "02:13:09"
+duration: "02:13:33"
 layout: article
 tags:
   - ゲスト
