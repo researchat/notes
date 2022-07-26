@@ -16,15 +16,14 @@ title: 145. XYZ
 ---
 
 ## Shownotes
-- Noriko Endo
-- 山形東高校
-- 山辺町
-- MIT
-- Biobot
+- Noriko Endo ... 今回のゲスト。tadasuがこいつ強すぎるぜぇ...と思っている一人。今回は出演していただき光栄です。
+- [山形東高校](http://www.yamagatahigashi-h.ed.jp/htdocs/) ... 東北の名門
+- [山辺町](https://www.town.yamanobe.yamagata.jp/) ... 今の町長さんも遠藤さんだけどNorikoさんとは関係ないらしい。
+- [MIT](https://www.mit.edu/)
+- [Biobot](https://biobot.io/)
 - Biobotのランキング
-- オピオイド
-- オピオイドの怖さについてはこんにちは未来で話されています。
-- public health
+- [オピオイド](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%94%E3%82%AA%E3%82%A4%E3%83%89)
+- public health(公衆衛生学)
 - overdose
 - policy intervention
 - legal consecuency
@@ -34,7 +33,8 @@ title: 145. XYZ
 - waster water cambridge
 - 下水疫学
 - CDC
-- biobotの予測と実測値
+- [Biobotによる測定値](https://biobot.io/data/) ... 見るだけで楽しい。
+- Oct-Nov 2020 in Cambridge ... Cambridgeでは綺麗にBiobotの測定値が患者数のearly indicatorになっていたのだが、今となって見直すともう数が違いすぎて何が何だかわからない笑
 - 遠藤さんのD論
 - コカ貯水池
 - マラリア
@@ -55,4 +55,4 @@ title: 145. XYZ
 
 ## Editorial Notes
 - (noriko)
-- Noriko Endoさんにゲスト出演していただき感動です！2.5年ぶりに対面収録したのでtadasuの声がボエボエになってしまいました...遠藤さんの声は綺麗に撮れているから許してください。次回はもっと綺麗に取ります！(tadasu)
+- Noriko Endoさんにゲスト出演していただき感動です！2.5年ぶりに対面収録したのでtadasuの声がボエボエになってしまいました...遠藤さんの声は綺麗に撮れているから許してください。次回はもっと綺麗に撮れるようにがんばります！(tadasu)
