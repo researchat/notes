@@ -16,8 +16,8 @@ title: 143. XYZ
 ---
 
 ## Shownotes
-- [Synthetic mammalian signaling circuits for robust cell population control](https://pubmed.ncbi.nlm.nih.gov/35235768/)
-- [Quorum sensing](https://en.wikipedia.org/wiki/Quorum_sensing)
+- [Synthetic mammalian signaling circuits for robust cell population control - _Cell_ 2022](https://pubmed.ncbi.nlm.nih.gov/35235768/) ... 今回sohが紹介する論文です
+- [Quorum sensing (Wikipedia)](https://en.wikipedia.org/wiki/Quorum_sensing)
 - CART
 - UCART
 - AID
@@ -28,5 +28,5 @@ title: 143. XYZ
 - apoptosis
 
 ## Editorial Notes
-- (soh)
+- 随分と収録から公開の間が空いてしまいましたが引き続き論文を紹介していきます (soh)
 - Quorum sensingおもしろいなぁ(tadasu)
