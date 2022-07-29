@@ -12,7 +12,7 @@ duration: "01:32:39"
 layout: article
 tags:
   - 雑談
-title: 144. XYZ
+title: 144. Which hand did the sound come from?
 ---
 ## Shownotes
 - [ぷらんちゅ](https://novelgame.jp/games/show/6590) ... "君と植物を同定して紡ぐ恋愛物語。植物を同定して進める恋愛ゲームです！植物の同定に自信がない方も、問題なくプレイできますのでぜひぜひプレイしてみてください！勿論自信がある方も挑戦してみてくださいね！"
@@ -64,4 +64,4 @@ title: 144. XYZ
 
 ## Editorial Notes
 - (coela)
-- (tadasu)
+- 剣道強いリスナーの方もたくさんいると思うので今度一緒に稽古しましょう。(tadasu)
