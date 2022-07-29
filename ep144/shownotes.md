@@ -38,7 +38,10 @@ title: 144. XYZ
 - [警察剣道のルール](https://kendo-armor.com/kendo-tripped/) ... けたぐりじゃなくて足払い・足がらみですね、正確には。失礼しました。大昔のルールだったらOKだったので、tadasuが子供の頃には足がらみ・足払いしてくるおじいちゃん先生たくさんいました。
 - [皇宮警察](https://www.npa.go.jp/kougu/outline/index.html)
 - [伊藤くんの剣道](https://www.youtube.com/watch?v=yJt556fQbhk&ab_channel=%E5%85%AB%E7%8E%8B%E5%AD%90%E5%89%A3%E3%82%AD%E3%83%81) ... 推しの伊藤くん、貼っとくな。彼の剣道本当に好き。
-- 全日本剣道選手権
+- [全日本剣道選手権](https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%89%A3%E9%81%93%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A)
+- [戸田忠男先生](https://ja.wikipedia.org/wiki/%E6%88%B8%E7%94%B0%E5%BF%A0%E7%94%B7_(%E5%89%A3%E9%81%93%E5%AE%B6)) ... 今回話した話は、tadasuの経験談以外どこまで本当なのかは知らない...さすがにハエの話は創作だと思う。柏手の話は、[禅の公案である隻手の声](https://ja.wikipedia.org/wiki/%E9%9A%BB%E6%89%8B%E3%81%AE%E5%A3%B0)を引用したものな気がします。
+- [上段時代の戸田忠男先生の動画](https://www.youtube.com/watch?v=vCsr8iA0PAI&ab_channel=ittoOgami)
+- [二刀流時代の戸田忠男先生の動画](https://www.youtube.com/watch?v=SRxcR71GnEo&ab_channel=%E6%AD%A6%E3%81%AE%E9%AD%82%EF%BD%9E%E7%9C%9F%E5%89%A3%E9%81%93ch)
 - 高鍋、戸田忠雄、栄花、原田
 - 剣道八段
 - ハイスピードカメラ
