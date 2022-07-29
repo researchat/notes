@@ -36,7 +36,8 @@ title: 144. Which hand did the sound come from?
 - [梶谷彪雅一本集](https://www.youtube.com/watch?v=pjMV5gspFN8&ab_channel=%E6%A2%B6%E8%B0%B7%E5%BD%AA%E9%9B%85-%E5%89%A3%E9%81%93KENDO-) ... 本当に気持ち良い。
 - 剣道の技術革新 ... あまし技とか(抜き技の変形)？
 - 秋田面 ... 昔、秋田面という肩で抜く伝説の技一本で全国トップまで上り詰めた選手がいたという。秋田出身で東京教育大学で名を馳せたらしいが詳細不明。知っている人、ご連絡ください。
-- [おれは鉄平](https://www.amazon.co.jp/%E3%81%8A%E3%82%8C%E3%81%AF%E9%89%84%E5%85%B5-1-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%BC%AB%E7%94%BB%E6%96%87%E5%BA%AB-%E3%81%A1%E3%81%B0-%E3%81%A6%E3%81%A4%E3%82%84/dp/4063600068) ... tadasu(& coela?)のバイブル。本当に好き。
+- [おれは鉄平](https://www.amazon.co.jp/%E3%81%8A%E3%82%8C%E3%81%AF%E9%89%84%E5%85%B5-1-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%BC%AB%E7%94%BB%E6%96%87%E5%BA%AB-%E3%81%A1%E3%81%B0-%E3%81%A6%E3%81%A4%E3%82%84/dp/4063600068) ... tadasu(& coela?)のバイブル。本当に好き。風車だった気がする。
+- [巻技](https://youtu.be/sdQ-4cvku64) ... 竹刀飛ばすやつ。有名なのだとこの動画とかかな？
 - [警察剣道のルール](https://kendo-armor.com/kendo-tripped/) ... けたぐりじゃなくて足払い・足がらみですね、正確には。失礼しました。大昔のルールだったらOKだったので、tadasuが子供の頃には足がらみ・足払いしてくるおじいちゃん先生たくさんいました。
 - [皇宮警察](https://www.npa.go.jp/kougu/outline/index.html)
 - [伊藤くんの剣道](https://www.youtube.com/watch?v=yJt556fQbhk&ab_channel=%E5%85%AB%E7%8E%8B%E5%AD%90%E5%89%A3%E3%82%AD%E3%83%81) ... 推しの伊藤くん、貼っとくな。彼の剣道本当に好き。
