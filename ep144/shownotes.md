@@ -28,7 +28,7 @@ title: 144. XYZ
 - researchat.book ... 出ることのない幻の本
 - [ポ画ZINE](https://twitter.com/trickolo/status/1551511814592008192) ... ポ絵かきの同人誌が出る？
 - [ポ絵かき](https://twitter.com/hashtag/%E3%83%9D%E7%B5%B5%E3%81%8B%E3%81%8D?src=hashtag_click)
-- 剣道の動画　… 成田くん　遅野井さん
+- [https://www.youtube.com/watch?v=OEazmD2JCNs&ab_channel=sekikawaj.](https://www.youtube.com/watch?v=cEv1fOdS4O4&ab_channel=%E5%89%A3%E9%81%93%E7%B7%8F%E5%90%88%E3%82%B5%E3%82%A4%E3%83%88LET%27SKENDO) ... tadasuは小6の時に同級生の遅野井選手を2001年の正月に松山でみてちびったんだよ。まじで。こんなにつえーやついんの？って。撮影したビデオを本当に擦り切れるまで見返したんだよ。遅野井選手はIH優勝も輝かしいけれども、[魁星旗2005](https://plaza.rakuten.co.jp/kendouakita/diary/200504010000/)の決勝逆4タテはマジで痺れた。とかいいつつ、我々はこの動画の準優勝の成田選手率いる桐蔭学園にフルボッコに予選でされたわけですが笑 今同世代の筆頭といえば西村選手ですが、成田選手も本当にちびるぐらい強かったし、北海道の神童[村上選手](https://www.ouhs.jp/department/teacher/murakami_r/)もチームにいるし、田島選手、若松選手もいて、野口選手もいて、本当に当時の桐蔭学園は泣くほど強かった...
 - 剣道の動画　現在今の動画
 - 昔の剣道の動画
 - 剣道の技術革新
