@@ -28,6 +28,7 @@ title: 144. Which hand did the sound come from?
 - researchat.book ... 出ることのない幻の本
 - [ポ画ZINE](https://twitter.com/trickolo/status/1551511814592008192) ... ポ絵かきの同人誌が出る？
 - [ポ絵かき](https://twitter.com/hashtag/%E3%83%9D%E7%B5%B5%E3%81%8B%E3%81%8D?src=hashtag_click)
+- テスタメント
 - [2006年インターハイ剣道　水戸葵陵初優勝](https://www.youtube.com/watch?v=OEazmD2JCNs&ab_channel=sekikawaj.) ... tadasuは小6の時に同級生の遅野井選手を2001年の正月に松山でみてちびったんだよ。まじで。こんなにつえーやついんの？って。撮影したビデオを本当に擦り切れるまで見返したんだよ。遅野井選手はIH優勝も輝かしいけれども、[魁星旗2005](https://plaza.rakuten.co.jp/kendouakita/diary/200504010000/)の決勝逆4タテはマジで痺れた。とかいいつつ、我々はこの動画の準優勝の成田選手率いる桐蔭学園にフルボッコに予選でされたわけですが笑 今同世代の筆頭といえば西村選手ですが、成田選手も本当にちびるぐらい強かった。北海道の神童[村上選手](https://www.ouhs.jp/department/teacher/murakami_r/)もチームにいるし、東京出身の最強一年生田島選手、宮城の若松兄弟もいて、山形の野口選手もいて、本当に当時の桐蔭学園は泣くほど強かった...オールスターだった。
 - [1986年の高校剣道,伝説のPL学園鍋山選手](https://www.youtube.com/watch?v=jaEVsg5D4RI&ab_channel=%E9%81%93%E5%89%A3) ... だいぶ雰囲気違いますね。[鍋山選手](https://ja.wikipedia.org/wiki/%E9%8D%8B%E5%B1%B1%E9%9A%86%E5%BC%98)、そのあとの活躍も凄まじい。数少ない玉龍旗が関門海峡を渡った優勝のうちの一つ。
 - [梅ヶ谷選手の伝説のやつ](https://www.youtube.com/watch?v=ikEZyiCFYlU&ab_channel=dodaichi85) ... 東京ポッド許可局でもマキタ局員が熱く話していたあれ。
