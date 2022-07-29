@@ -67,4 +67,4 @@ title: 144. Which hand did the sound come from?
 
 ## Editorial Notes
 - (coela)
-- 剣道強いリスナーの方もたくさんいると思うので今度一緒に稽古しましょう。(tadasu)
+- 剣道強いリスナーの方もたくさんいると思うので今度一緒に稽古しましょう。聞き直すと結構話噛み合ってなかった気がする笑 頭が回ってない！笑(tadasu)
