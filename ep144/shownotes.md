@@ -40,17 +40,18 @@ title: 144. Which hand did the sound come from?
 - [巻技](https://youtu.be/sdQ-4cvku64) ... 竹刀飛ばすやつ。有名なのだとこの動画とかかな？
 - [警察剣道のルール](https://kendo-armor.com/kendo-tripped/) ... けたぐりじゃなくて足払い・足がらみですね、正確には。失礼しました。大昔のルールだったらOKだったので、tadasuが子供の頃には足がらみ・足払いしてくるおじいちゃん先生たくさんいました。
 - [皇宮警察](https://www.npa.go.jp/kougu/outline/index.html)
-- [伊藤くんの剣道](https://www.youtube.com/watch?v=yJt556fQbhk&ab_channel=%E5%85%AB%E7%8E%8B%E5%AD%90%E5%89%A3%E3%82%AD%E3%83%81) ... 推しの伊藤くん、貼っとくな。彼の剣道本当に好き。
+- [伊藤くんの剣道](https://www.youtube.com/watch?v=yJt556fQbhk&ab_channel=%E5%85%AB%E7%8E%8B%E5%AD%90%E5%89%A3%E3%82%AD%E3%83%81) ... 推しの伊藤くん、貼っとくな。彼の剣道本当に好き。これからの活躍にも期待したい。
 - [全日本剣道選手権](https://ja.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E5%89%A3%E9%81%93%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A)
 - [戸田忠男先生](https://ja.wikipedia.org/wiki/%E6%88%B8%E7%94%B0%E5%BF%A0%E7%94%B7_(%E5%89%A3%E9%81%93%E5%AE%B6)) ... 今回話した話は、tadasuの経験談以外どこまで本当なのかは知らない...さすがにハエの話は創作だと思う(宮本武蔵・宇野金太郎の逸話)。電話の話は本当っぽい。柏手の話は、[禅の公案である隻手の声](https://ja.wikipedia.org/wiki/%E9%9A%BB%E6%89%8B%E3%81%AE%E5%A3%B0)を引用したものな気がします。
 - [上段時代の戸田忠男先生の動画](https://www.youtube.com/watch?v=vCsr8iA0PAI&ab_channel=ittoOgami)
 - [二刀流時代の戸田忠男先生の動画](https://www.youtube.com/watch?v=SRxcR71GnEo&ab_channel=%E6%AD%A6%E3%81%AE%E9%AD%82%EF%BD%9E%E7%9C%9F%E5%89%A3%E9%81%93ch)
-- 高鍋、戸田忠雄、栄花、原田
-- 剣道八段
-- ハイスピードカメラ
+- [高鍋進先生](https://ja.wikipedia.org/wiki/%E9%AB%98%E9%8D%8B%E9%80%B2)
+- [剣道八段](https://www.kendo.or.jp/examination/kendo-8dan/) ... とりあえず合格率が1%を切ってる。
+- [ハイスピードカメラと剣道](https://www.youtube.com/watch?v=Wmeb6JFEZEw&ab_channel=himitsunosenshi) ... それまでは何が起こっているのかわからなかったのだよ。
 - フェデラー
 - ダーツのルール
-- ウメハラ　背水の逆転劇
+- [ウメハラ　背水の逆転劇](https://www.youtube.com/watch?v=fTyewgmEoGU&ab_channel=garanazin) ... いわゆるレッツゴージャスティン！
+- [EVO Moment37](https://en.wikipedia.org/wiki/Evo_Moment_37) ... いわゆる背水の逆転劇
 - ブロッキング
 - ウサインボルト
 - 馬渕監督　高嶋監督
