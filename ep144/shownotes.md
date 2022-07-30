@@ -51,20 +51,21 @@ title: 144. Which hand did the sound come from?
 - フェデラー
 - ダーツのルール
 - [ウメハラ　背水の逆転劇](https://www.youtube.com/watch?v=fTyewgmEoGU&ab_channel=garanazin) ... いわゆるレッツゴージャスティン！
-- [EVO Moment37](https://en.wikipedia.org/wiki/Evo_Moment_37) ... いわゆる背水の逆転劇
-- ブロッキング
-- ウサインボルト
-- 馬渕監督　高嶋監督
-- ヤン・ウェンリー
-- barbara mclintock
-- 90周年
-- mendeley
-- 統一方程式 … 教科書が薄くなる
-- 人類史上最高の研究とはとかにつながる、論文、実験
-- 誤配
-- listennote
-- 渡辺名人の動画
-- alphafold2
+- [背水の逆転劇](https://ja.wikipedia.org/wiki/%E8%83%8C%E6%B0%B4%E3%81%AE%E9%80%86%E8%BB%A2%E5%8A%87) ... wikipediaにプレイの解説がある！
+- [EVO Moment37](https://en.wikipedia.org/wiki/Evo_Moment_37) ... いわゆる背水の逆転劇。英語版は数字で呼ばれていてかっこいいなー。
+- [ブロッキング](https://kakuge.com/wiki/pages/%E3%83%96%E3%83%AD%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0)
+- [ウサイン・ボルト](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B5%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%9C%E3%83%AB%E3%83%88)
+- [「二人の出会い」 智弁学園和歌山高嶋監督と明徳義塾馬淵監督 スペシャルトーク Part.1](https://www.youtube.com/watch?v=CQfmcK29ntg&ab_channel=ABC%E3%83%86%E3%83%AC%E3%83%93%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91) ... 現代高校野球の名将といえば！
+- [ヤン・ウェンリー](https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%AA%E3%83%BC)
+- [Barbara McClintock](https://en.wikipedia.org/wiki/Barbara_McClintock)
+- [Mendeley](https://www.mendeley.com/)
+- 統一方程式 … 教科書が薄くなる。いい研究とは二種類しかない。教科書を薄くするか、新しい教科書を書くかだ。教科書を分厚くするのは良い研究とはいえない。by誰か
+- 人類史上最高の研究とはなにかにつながる。やはり分子細胞生物学であれば[Meselson and Stahl 1958](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC528642/)を推したい by tadasu
+- 誤配 ... やっぱり誤配なんですよ。
+- [Listen Notes](https://www.listennotes.com/)
+- [渡辺明名人の【作戦術】](https://www.youtube.com/watch?v=ax7scP3I4ic&ab_channel=%E6%88%B8%E8%BE%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB) ... AIの活用法
+- [渡辺明名人】将棋AIによる序盤研究とは？名人による将棋AI活用法【水匠/dlshogi】](https://www.youtube.com/watch?v=LFH4v0SokpI&ab_channel=%E9%9B%BB%E7%AB%9C%E6%88%A6%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB)
+- [AF2](https://www.deepmind.com/research/highlighted-research/alphafold)
 
 ## Editorial Notes
 - (coela)
