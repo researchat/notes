@@ -12,7 +12,7 @@ duration: "02:13:33"
 layout: article
 tags:
   - ゲスト
-title: 145. XYZ
+title: 145. Poop doesn't lie.
 ---
 
 ## Shownotes
@@ -30,12 +30,13 @@ title: 145. XYZ
 - policy intervention ... 政策介入
 - legal consequence ... 法的効果
 - [Duvallet et al. ACS EST Water (2022))](https://pubs.acs.org/doi/10.1021/acsestwater.1c00434) ... "Nationwide Trends in COVID-19 Cases and SARS-CoV-2 RNA Wastewater Concentrations in the United States": Biobot Analyticsのチームによる論文
-- [pepper mottle virus](https://www.nature.com/articles/s41545-018-0019-5)
+- [Pepper mild mottle virus(PMMV)](https://www.nature.com/articles/s41545-018-0019-5)
 - [Cambridge Covid19](https://www.cambridgema.gov/covid19)
 - [Weekly Municipal Wastewater Sampling Data](https://cityofcambridge.shinyapps.io/COVID19/)
 - 下水疫学 ... Wastewater-based epidemiology
 - [CDC(Centers for Disease Control and Prevention)](https://www.cdc.gov/)
 - [Biobot Analyticsによる測定値](https://biobot.io/data/) ... 見るだけで楽しい。
+- 下水シグナルとクリニカルシグナルのラグが14週間と言っている部分がありますが、14日間の間違いです。(by 遠藤さん)
 - Oct-Nov 2020 in Cambridge ... Cambridgeでは綺麗にBiobot Analyticsの測定値が患者数のearly indicatorになっていたのだが、今となって見直すともう数が違いすぎて何が何だかわからない笑
 - [Endo 2017](https://dspace.mit.edu/handle/1721.1/111433) ... 遠藤さんのD論:Malaria transmission around the Koka Reservoir in Ethiopia : field observations, model predictions, and strategies for prevention
 - [コカ貯水池](https://ja.upwiki.one/wiki/Koka_Reservoir)
@@ -60,5 +61,5 @@ title: 145. XYZ
 - [COTEN RADIO](https://cotenradio.fm/) ... 遠藤さんが好きなポッドキャスト
 
 ## Editorial Notes
-- (noriko)
-- Noriko Endoさんにゲスト出演していただき感動です！2.5年ぶりに対面収録したのでtadasuの声がボエボエになってしまいました...遠藤さんの声は綺麗に撮れているから許してください。次回はもっと綺麗に撮れるようにがんばります！(tadasu)
+- 話すのって難しいですね。複数での話すから必ずしも思い通りの章構成にならないし、書くときと違って文単位の校正できないし、そもそも日本語で話すことに慣れていない。聞きずらかったらすみません。今年1年日本で働くので精進します。(noriko)
+- 遠藤さんにゲスト出演していただき感動です！2.5年ぶりに対面収録したのでtadasuの声がボエボエになってしまいました...遠藤さんの声は綺麗に撮れているから許してください。次回はもっと綺麗に撮れるようにがんばります！そして最後のコメントまで成長の鬼だった...(tadasu)
