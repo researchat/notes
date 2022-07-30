@@ -34,6 +34,8 @@ title: 144. Which hand did the sound come from?
 - [1986年の高校剣道,伝説のPL学園鍋山選手](https://www.youtube.com/watch?v=jaEVsg5D4RI&ab_channel=%E9%81%93%E5%89%A3) ... だいぶ雰囲気違いますね。[鍋山選手](https://ja.wikipedia.org/wiki/%E9%8D%8B%E5%B1%B1%E9%9A%86%E5%BC%98)、そのあとの活躍も凄まじい。数少ない玉龍旗が関門海峡を渡った優勝のうちの一つ。
 - [梅ヶ谷選手の伝説のやつ](https://www.youtube.com/watch?v=ikEZyiCFYlU&ab_channel=dodaichi85) ... 東京ポッド許可局でもマキタ局員が熱く話していたあれ。
 - [梶谷彪雅一本集](https://www.youtube.com/watch?v=pjMV5gspFN8&ab_channel=%E6%A2%B6%E8%B0%B7%E5%BD%AA%E9%9B%85-%E5%89%A3%E9%81%93KENDO-) ... 本当に気持ち良い。
+- [第69回全日本選手権　一本集](https://www.youtube.com/watch?v=Z2f2u5GqULw&ab_channel=%E4%B8%8D%E5%8B%95%E5%BF%83)　... 本当に気持ち良い。
+- [高校剣道　一本集 8 - Highschool Kendo Ippons 8](https://www.youtube.com/watch?v=21DG9jt_Yks&ab_channel=dodaichi85) ... 動きが速すぎるんよ。どうなってるの？
 - 剣道の技術革新 ... あまし技とか(抜き技の変形)？
 - 秋田面 ... 昔、秋田面という肩で抜く伝説の技一本で全国トップまで上り詰めた選手がいたという。秋田出身で東京教育大学で名を馳せたらしいが詳細不明。知っている人、ご連絡ください。
 - [おれは鉄平](https://www.amazon.co.jp/%E3%81%8A%E3%82%8C%E3%81%AF%E9%89%84%E5%85%B5-1-%E8%AC%9B%E8%AB%87%E7%A4%BE%E6%BC%AB%E7%94%BB%E6%96%87%E5%BA%AB-%E3%81%A1%E3%81%B0-%E3%81%A6%E3%81%A4%E3%82%84/dp/4063600068) ... tadasu(& coela?)のバイブル。本当に好き。風車だった気がする。
