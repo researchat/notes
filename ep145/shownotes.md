@@ -7,7 +7,7 @@ audio_file_size: 99833206
 date: 2022-07-31 22:00:00 +0900
 rec_date: 2022-07-10 17:00:00 -0500
 edit_by: tadasu
-description: Noriko Endoさんをゲストに迎え、アメリカのスタートアップ(Biobot社)での仕事、下水疫学とCOVID-19、マラリア研究のためのエチオピアでのフィールドワークと大学院留学、自分を成長させる方法、故郷・山形への熱い思いと将来の目標について話しました。
+description: 遠藤礼子さんをゲストに迎え、アメリカのスタートアップ(Biobot Analytics)での仕事、下水疫学とCOVID-19、マラリア研究のためのエチオピアでのフィールドワークと大学院留学、自分を成長させる方法、故郷・山形への熱い思いと将来の目標について話しました。
 duration: "02:13:33"
 layout: article
 tags:
@@ -16,27 +16,27 @@ title: 145. XYZ
 ---
 
 ## Shownotes
-- Noriko Endo ... 今回のゲスト。tadasuがこいつ強すぎるぜぇ...と思っている一人。今回は出演していただき光栄です。
+- 遠藤礼子(Noriko Endo)さん ... 今回のゲスト。tadasuがこいつ強すぎるぜぇ...と思っている一人。今回は出演していただき光栄です。
 - [解答のない参考書 - 人生をデザインするための12人のインタビュー - #01遠藤礼子さん](https://note.com/ischool_jsic/n/n9f938bf6bb45) ... こちらに遠藤さんの経歴がまとめられています。
 - [山形東高校](http://www.yamagatahigashi-h.ed.jp/htdocs/) ... 東北の名門
-- [山辺町](https://www.town.yamanobe.yamagata.jp/) ... 今の町長さんも遠藤さんだけどNorikoさんとは関係ないらしい。
+- [山辺町](https://www.town.yamanobe.yamagata.jp/) ... 今の町長さんも遠藤さんだけど遠藤礼子さんとは関係ないらしい。
 - [MIT](https://www.mit.edu/)
-- [Biobot](https://biobot.io/)
-- [TIME100 MOST INFLUENTIAL COMPANIES OF 2022](https://time.com/collection/time100-companies-2022/6159393/biobot-analytics/) ... BiobotはTIME誌が選定したMOST INFLUENTIAL COMPANIES of 2022に選ばれました！
-- [The 10 most innovative biotechnology companies of 2021](https://www.fastcompany.com/90600141/biotech-most-innovative-companies-2021) ... これにもBiobotは選ばれています！
+- [Biobot Analytics](https://biobot.io/)
+- [TIME100 MOST INFLUENTIAL COMPANIES OF 2022](https://time.com/collection/time100-companies-2022/6159393/biobot-analytics/) ... Biobot AnalyticsはTIME誌が選定したMOST INFLUENTIAL COMPANIES of 2022に選ばれました！
+- [The 10 most innovative biotechnology companies of 2021](https://www.fastcompany.com/90600141/biotech-most-innovative-companies-2021) ... こちらにもBiobot Analyticsは選ばれています！
 - [オピオイド](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%94%E3%82%AA%E3%82%A4%E3%83%89)
 - [public health(公衆衛生)](https://ja.wikipedia.org/wiki/%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F)
 - overdose ...過剰摂取
 - policy intervention ... 政策介入
 - legal consequence ... 法的効果
-- [Duvallet et al. ACS EST Water (2022))](https://pubs.acs.org/doi/10.1021/acsestwater.1c00434) ... "Nationwide Trends in COVID-19 Cases and SARS-CoV-2 RNA Wastewater Concentrations in the United States": Biobot社の論文
+- [Duvallet et al. ACS EST Water (2022))](https://pubs.acs.org/doi/10.1021/acsestwater.1c00434) ... "Nationwide Trends in COVID-19 Cases and SARS-CoV-2 RNA Wastewater Concentrations in the United States": Biobot Analyticsのチームによる論文
 - [pepper mottle virus](https://www.nature.com/articles/s41545-018-0019-5)
 - [Cambridge Covid19](https://www.cambridgema.gov/covid19)
 - [Weekly Municipal Wastewater Sampling Data](https://cityofcambridge.shinyapps.io/COVID19/)
 - 下水疫学 ... Wastewater-based epidemiology
 - [CDC(Centers for Disease Control and Prevention)](https://www.cdc.gov/)
-- [Biobotによる測定値](https://biobot.io/data/) ... 見るだけで楽しい。
-- Oct-Nov 2020 in Cambridge ... Cambridgeでは綺麗にBiobotの測定値が患者数のearly indicatorになっていたのだが、今となって見直すともう数が違いすぎて何が何だかわからない笑
+- [Biobot Analyticsによる測定値](https://biobot.io/data/) ... 見るだけで楽しい。
+- Oct-Nov 2020 in Cambridge ... Cambridgeでは綺麗にBiobot Analyticsの測定値が患者数のearly indicatorになっていたのだが、今となって見直すともう数が違いすぎて何が何だかわからない笑
 - [Endo 2017](https://dspace.mit.edu/handle/1721.1/111433) ... 遠藤さんのD論:Malaria transmission around the Koka Reservoir in Ethiopia : field observations, model predictions, and strategies for prevention
 - [コカ貯水池](https://ja.upwiki.one/wiki/Koka_Reservoir)
 - [マラリア](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%AA%E3%82%A2)
