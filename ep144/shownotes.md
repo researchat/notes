@@ -28,7 +28,7 @@ title: 144. Which hand did the sound come from?
 - ポについて話した回
 - [ポ画ZINE](https://twitter.com/trickolo/status/1551511814592008192) ... ポ絵かきの同人誌が出る？PDF版もあるっぽい？
 - [ポ絵かき](https://twitter.com/hashtag/%E3%83%9D%E7%B5%B5%E3%81%8B%E3%81%8D?src=hashtag_click)
-- テスタメント
+- [テスタメント](https://www.guiltygear.com/ggst/jp/character/tst/)
 - 過去の攻略回
 - [2006年インターハイ剣道　水戸葵陵初優勝](https://www.youtube.com/watch?v=OEazmD2JCNs&ab_channel=sekikawaj.) ... tadasuは小6の時に同級生の遅野井選手を2001年の正月に松山でみてちびったんだよ。まじで。こんなにつえーやついんの？って。撮影したビデオを本当に擦り切れるまで見返したんだよ。遅野井選手はIH優勝も輝かしいけれども、[魁星旗2005](https://plaza.rakuten.co.jp/kendouakita/diary/200504010000/)の決勝逆4タテはマジで痺れた。とかいいつつ、我々はこの動画の準優勝の成田選手率いる桐蔭学園にフルボッコに予選でされたわけですが笑 今同世代の筆頭といえば西村選手ですが、成田選手も本当にちびるぐらい強かった。北海道の神童[村上選手](https://www.ouhs.jp/department/teacher/murakami_r/)もチームにいるし、東京出身の最強一年生田島選手、宮城の若松兄弟もいて、山形の野口選手もいて、本当に当時の桐蔭学園は泣くほど強かった...オールスターだった。
 - [1986年の高校剣道,伝説のPL学園鍋山選手](https://www.youtube.com/watch?v=jaEVsg5D4RI&ab_channel=%E9%81%93%E5%89%A3) ... だいぶ雰囲気違いますね。[鍋山選手](https://ja.wikipedia.org/wiki/%E9%8D%8B%E5%B1%B1%E9%9A%86%E5%BC%98)、そのあとの活躍も凄まじい。数少ない玉龍旗が関門海峡を渡った優勝のうちの一つ。
@@ -72,5 +72,5 @@ title: 144. Which hand did the sound come from?
 - [AF2](https://www.deepmind.com/research/highlighted-research/alphafold)
 
 ## Editorial Notes
-- (coela)
+- 数年間眠っていたネタを話せて嬉しかったです。格闘ゲームにも通ずることなのですが、きれいに整備されたチュートリアルが分野の発展には必要不可欠だと思います(coela)。
 - 剣道全然強くないので色々ドヤ顔で話してしまいイタいやつでしたね...はずかしい...(後輩たちが活躍しているのでOK!) けれども剣道のこと書く機会もないのでたくさん書きました。聞き直すと結構話噛み合ってなかった気がする... 頭が回ってない！笑 んー分野毎にそれぞれレビュー書いたりしてる人はいるけれども日本語だとそれを集積するところが必要という感じなのかな？んーわからん笑(tadasu)
