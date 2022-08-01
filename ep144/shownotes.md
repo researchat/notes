@@ -4,10 +4,10 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/144.mp3 
 audio_file_size: 78430894
-date: 2022-07-30 22:00:00 +0900
+date: 2022-08-01 09:03:00 +0900
 rec_date: 2022-07-02 22:00:00 -0500
 edit_by: tadasu
-description: XYZ
+description: 植物の名前がわからない問題、スポーツ・ゲームのいいプレイとは何かについて議論しました。
 duration: "01:32:39"
 layout: article
 tags:
@@ -25,11 +25,11 @@ title: 144. Which hand did the sound come from?
 - [Street Fighter 6](https://www.streetfighter.com/6/ja-jp/)
 - [弟切草](https://ja.wikipedia.org/wiki/%E5%BC%9F%E5%88%87%E8%8D%89_(%E3%82%B2%E3%83%BC%E3%83%A0)) ... 花言葉は、「復讐」。
 - researchat.book ... 出ることのない幻の本
-- ポについて話した回
+- [ポについて話した回](https://researchat.fm/episode/120)
 - [ポ画ZINE](https://twitter.com/trickolo/status/1551511814592008192) ... ポ絵かきの同人誌が出る？PDF版もあるっぽい？
 - [ポ絵かき](https://twitter.com/hashtag/%E3%83%9D%E7%B5%B5%E3%81%8B%E3%81%8D?src=hashtag_click)
 - [テスタメント](https://www.guiltygear.com/ggst/jp/character/tst/)
-- 過去の攻略回
+- 過去の攻略回　... [ep53](https://researchat.fm/episode/53) とか [ep109](https://researchat.fm/episode/109) とか
 - [2006年インターハイ剣道　水戸葵陵初優勝](https://www.youtube.com/watch?v=OEazmD2JCNs&ab_channel=sekikawaj.) ... tadasuは小6の時に同級生の遅野井選手を2001年の正月に松山でみてちびったんだよ。まじで。こんなにつえーやついんの？って。撮影したビデオを本当に擦り切れるまで見返したんだよ。遅野井選手はIH優勝も輝かしいけれども、[魁星旗2005](https://plaza.rakuten.co.jp/kendouakita/diary/200504010000/)の決勝逆4タテはマジで痺れた。とかいいつつ、我々はこの動画の準優勝の成田選手率いる桐蔭学園にフルボッコに予選でされたわけですが笑 今同世代の筆頭といえば西村選手ですが、成田選手も本当にちびるぐらい強かった。北海道の神童[村上選手](https://www.ouhs.jp/department/teacher/murakami_r/)もチームにいるし、東京出身の最強一年生田島選手、宮城の若松兄弟もいて、山形の野口選手もいて、本当に当時の桐蔭学園は泣くほど強かった...オールスターだった。
 - [1986年の高校剣道,伝説のPL学園鍋山選手](https://www.youtube.com/watch?v=jaEVsg5D4RI&ab_channel=%E9%81%93%E5%89%A3) ... だいぶ雰囲気違いますね。[鍋山選手](https://ja.wikipedia.org/wiki/%E9%8D%8B%E5%B1%B1%E9%9A%86%E5%BC%98)、そのあとの活躍も凄まじい。数少ない玉龍旗が関門海峡を渡った優勝のうちの一つ。
 - [梅ヶ谷選手の伝説のやつ](https://www.youtube.com/watch?v=ikEZyiCFYlU&ab_channel=dodaichi85) ... 東京ポッド許可局でもマキタ局員が熱く話していたあれ。
@@ -52,8 +52,8 @@ title: 144. Which hand did the sound come from?
 - [高鍋進先生](https://ja.wikipedia.org/wiki/%E9%AB%98%E9%8D%8B%E9%80%B2)
 - [剣道八段](https://www.kendo.or.jp/examination/kendo-8dan/) ... とりあえず合格率が1%を切ってる。
 - [ハイスピードカメラと剣道](https://www.youtube.com/watch?v=Wmeb6JFEZEw&ab_channel=himitsunosenshi) ... それまでは何が起こっているのかわからなかったのだよ。
-- フェデラー
-- ダーツのルール
+- [フェデラー](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A7%E3%83%87%E3%83%A9%E3%83%BC)
+- ダーツのルール ... よくわからん。
 - [ウメハラ　背水の逆転劇](https://www.youtube.com/watch?v=fTyewgmEoGU&ab_channel=garanazin) ... いわゆるレッツゴージャスティン！
 - [背水の逆転劇](https://ja.wikipedia.org/wiki/%E8%83%8C%E6%B0%B4%E3%81%AE%E9%80%86%E8%BB%A2%E5%8A%87) ... wikipediaにプレイの解説がある！
 - [EVO Moment37](https://en.wikipedia.org/wiki/Evo_Moment_37) ... いわゆる背水の逆転劇。英語版は数字で呼ばれていてかっこいいなー。
@@ -63,7 +63,7 @@ title: 144. Which hand did the sound come from?
 - [ヤン・ウェンリー](https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%AA%E3%83%BC)
 - [Barbara McClintock](https://en.wikipedia.org/wiki/Barbara_McClintock)
 - [Mendeley](https://www.mendeley.com/)
-- 統一方程式 … 教科書が薄くなる。いい研究とは二種類しかない。教科書を薄くするか、新しい教科書を書くかだ。教科書を分厚くするのは良い研究とはいえない。by誰か
+- 統一hogehoge … いい研究とは二種類しかない。教科書を薄くするか、新しい教科書を書くかだ。って昔だれかが言ってた（ようは教科書を分厚くするのではないってこと)
 - 人類史上最高の研究とはなにかにつながる。やはり分子細胞生物学であれば[Meselson and Stahl 1958](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC528642/)を推したい by tadasu
 - 誤配 ... やっぱり誤配なんですよ。
 - [Listen Notes](https://www.listennotes.com/)
