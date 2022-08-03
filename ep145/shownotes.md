@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/145.mp3 
 audio_file_size: 99833206
-date: 2022-07-31 22:00:00 +0900
+date: 2022-08-04 04:40:00 +0900
 rec_date: 2022-07-10 17:00:00 -0500
 edit_by: tadasu
 description: 遠藤礼子さんをゲストに迎え、アメリカのスタートアップ(Biobot Analytics)での仕事、下水疫学とCOVID-19、マラリア研究のためのエチオピアでのフィールドワークと大学院留学、自分を成長させる方法、故郷・山形への熱い思いと将来の目標について話しました。
