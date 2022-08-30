@@ -53,4 +53,4 @@ title: 146. The Black Triangle
 ## Editorial Notes
 - これは本当にありそうな夢の話です (soh)
 - (coela)
-- 夢が揃いすぎてびびりました。(tadasu)
+- 夢が揃いすぎてびびりました。アメリカはアメリカでビビるほどダメなシステムあります。(tadasu)
