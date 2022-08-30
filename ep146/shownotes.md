@@ -5,8 +5,8 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/146.mp3 
 audio_file_size: 74579698
-date: 2022-08-30 05:40:00 +0900
-rec_date: 2022-07-10 17:00:00 -0500
+date: 2022-08-31 05:25:00 +0900
+rec_date: 2022-07-22 22:00:00 -0500
 edit_by: tadasu
 description: 昔使っていたウェブブラウザ、使いにくいあのシステム、パスワードのふりがな、最先端のチェックテクノロジー、学振の黒三角形の思い出等について話しました。
 duration: "01:32:20"
