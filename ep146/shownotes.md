@@ -4,12 +4,12 @@ actor_ids:
   - coela
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/146.mp3 
-audio_file_size: 
+audio_file_size: 74579698
 date: 2022-08-30 05:40:00 +0900
 rec_date: 2022-07-10 17:00:00 -0500
 edit_by: tadasu
-description: 昔使っていたインターネットブラウザ、使いにくいあのシステムの謎、パスワードのふりがな、最先端のチェックテクノロジー、学振の黒三角形の思い出等について話しました。
-duration: "02:13:33"
+description: 昔使っていたウェブブラウザ、使いにくいあのシステムの謎、パスワードのふりがな、最先端のチェックテクノロジー、学振の黒三角形の思い出等について話しました。
+duration: "01:32:20"
 layout: article
 tags:
   - 雑談
@@ -17,17 +17,16 @@ title: 146. The Black Triangle
 ---
 
 ## Shownotes
-- opera
-- ie
-- slapnear
-- netscape
-- chrome
-- edge
-- firefox
-- safari
-- nakamura ep
-- ep1
-- infoseek
+- [opera](https://www.opera.com/)
+- [Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
+- [Sleipnir](https://ja.wikipedia.org/wiki/Sleipnir)
+- [Netscape](https://isp.netscape.com/)
+- [chrome](https://www.google.com/chrome/downloads/)
+- [edge](https://www.microsoft.com/en-us/edge)
+- [firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [safari](https://www.apple.com/safari/)
+- [1. 600 tabs in your browser (Researchat.fm)](https://researchat.fm/episode/1)
+- [infoseek](https://www.infoseek.co.jp/)) ... 今は楽天なのか...
 - ドリキャス
 - scam
 - pixel
