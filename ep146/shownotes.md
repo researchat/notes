@@ -27,13 +27,11 @@ title: 146. The Black Triangle
 - [safari](https://www.apple.com/safari/)
 - [1. 600 tabs in your browser (Researchat.fm)](https://researchat.fm/episode/1)
 - [infoseek](https://www.infoseek.co.jp/)) ... 今は楽天なのか...
-- ドリキャス
-- scam
-- pixel
+- [ドリームキャスト](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88)
+- scam ... 詐欺
+- [pixel](https://store.google.com/us/category/phones?pli=1&hl=en-US)
 - 例のイルカ
-- Dunkin’
-- フリーダイヤル
-- インセプション
+- [Dunkin’](https://www.dunkindonuts.com/en)
 - turbotax
 - 二段階にんしょう
 - docomo imode問題
