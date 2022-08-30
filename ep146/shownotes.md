@@ -26,14 +26,14 @@ title: 146. The Black Triangle
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - [Safari](https://www.apple.com/safari/)
 - [1. 600 tabs in your browser (Researchat.fm)](https://researchat.fm/episode/1)
-- [Infoseek](https://www.infoseek.co.jp/)) ... 今は楽天なのか...
+- [Infoseek](https://www.infoseek.co.jp/) ... 今は楽天なのか...
 - [ドリームキャスト](https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88)
 - scam ... 詐欺
 - [Google Pixel](https://store.google.com/us/category/phones?pli=1&hl=en-US)
 - 例のイルカ
 - [Dunkin’](https://www.dunkindonuts.com/en)
 - [TurboTax](https://turbotax.intuit.com/)
-- 2段階認証
+- [Multi-factor authentication (Wikipedia)](https://en.wikipedia.org/wiki/Multi-factor_authentication)
 - [携帯の解約問題 (Togetter)](https://togetter.com/li/1498784)
 - [沈黙 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%B2%88%E9%BB%99_(%E9%81%A0%E8%97%A4%E5%91%A8%E4%BD%9C))
 - [在ボストン日本国領事館](https://www.boston.us.emb-japan.go.jp/itprtop_ja/index.html) ... いつもお世話になっております。
