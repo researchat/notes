@@ -8,7 +8,7 @@ audio_file_size: 74579698
 date: 2022-08-30 05:40:00 +0900
 rec_date: 2022-07-10 17:00:00 -0500
 edit_by: tadasu
-description: 昔使っていたウェブブラウザ、使いにくいあのシステムの謎、パスワードのふりがな、最先端のチェックテクノロジー、学振の黒三角形の思い出等について話しました。
+description: 昔使っていたウェブブラウザ、使いにくいあのシステム、パスワードのふりがな、最先端のチェックテクノロジー、学振の黒三角形の思い出等について話しました。
 duration: "01:32:20"
 layout: article
 tags:
@@ -53,4 +53,4 @@ title: 146. The Black Triangle
 ## Editorial Notes
 - これは本当にありそうな夢の話です (soh)
 - (coela)
-- (tadasu)
+- 夢が揃いすぎてびびりました。(tadasu)
