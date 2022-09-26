@@ -17,29 +17,30 @@ title: 148. XYZ
 
 ## Shownotes
 - [Katsushi Kagaya](https://twitter.com/katzkagaya)
-- kagaya ep
+- [140. Recurrency (Researchat.fm)](https://researchat.fm/episode/140) ... "kagayaさんをゲストに迎え、アメリカザリガニの自発性行動開始の脳研究における単一ニューロンの膜電位活動の記録とその形態染色技術の話、超高速パンチをするシャコの研究、リカレントニューラルネットワークの機械学習フレームワークであるリザバーコンピューティングについてお話をうかがいました。 (w/ mazさん)"
 - kagayaさんのSOC論文
-- リザバー
-- スッテカー
+- リザバー ... リザバー・コンピューティング(recurrent neural networkの機械学習法のひとつ)
+- [Researchatfm sticker](https://twitter.com/researchat_fm/status/1519463611374182402)
 - リザバーハンドブック？	
 - リザバーのコード
-- R
-- Julia
-- Python
-- matlab
-- イェガー
+- [R](https://www.r-project.org/)
+- [Julia](https://julialang.org/)
+- [Python](https://www.python.org/)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- [Herbert Jaeger](https://scholar.google.de/citations?user=0uztVbMAAAAJ&hl=en)
 - かがやさんの文章
-- youtube ゆるふわ
+- [ゆるふわ生物学のシャコパンチ回](https://www.youtube.com/watch?v=u6gDoawF8pc&feature=youtu.be&ab_channel=%E3%82%86%E3%82%8B%E3%81%B5%E3%82%8F%E7%94%9F%E7%89%A9%E5%AD%A6)
 - シャコパンチ
-- Patek先生のTED
-- テラフォーマーズ
-- 海の牙
-- エビボクサー
-- mantis shrimp
-- ロイキャルどえる? ... シャコ回のゴッドファーザー
-- mazさんの回
-- ハイスピードカメラ
-- マルコンバローズ
+- [Sheila Patek](https://pateklab.biology.duke.edu/)
+- [The shrimp with a kick!](https://www.ted.com/talks/sheila_patek_the_shrimp_with_a_kick) ... Sheila Patek先生のTED
+- [テラフォーマーズ](https://www.amazon.co.jp/dp/B00C9DYZFC)
+- [海の牙](https://twitter.com/nobunagashinbo/status/1170327005616672768) ... 勝手に拝借失礼いたします。星野之宣先生の作品のようです。
+- [えびボクサー](https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%B3%E3%83%9C%E3%82%AF%E3%82%B5%E3%83%BC) ... "邦題は『えびボクサー』で公式ポスターにもエビが描かれているが、実際に登場するのはシャコである。"
+- Mantis shrimp ... シャコ
+- [Roy Caldwell](https://ucmp.berkeley.edu/arthropoda/crustacea/malacostraca/eumalacostraca/royslist/) ... シャコ回のゴッドファーザー
+- [133. The longest self-introduction](https://researchat.fm/episode/133) ... "mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさを話していただきました。"
+- [ハイスピードカメラ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%82%AB%E3%83%A1%E3%83%A9)
+- [Malcolm Burrows](https://www.zoo.cam.ac.uk/directory/malcolm-burrows
 - スピアラー
 - すまっしゃー
 - 自分の指が刺さっている論文
