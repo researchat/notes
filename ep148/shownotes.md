@@ -62,16 +62,14 @@ title: 148. XYZ
 - [Kagaya and Patek, J Exp Biol (2016)](https://journals.biologists.com/jeb/article/219/3/319/16771/Feed-forward-motor-control-of-ultrafast-ballistic) ... "Feed-forward motor control of ultrafast, ballistic movements"
 - [ダーウィンが来た！](https://www.nhk.jp/p/darwin/ts/8M52YNKXZ4/)
 - Patek lab BBC
-- EMG
+- EMG ... Electromyography
 - 混合分布モデル
 - 混合回帰モデル
-- R
-- stan
-- matlab
+- [stan](https://mc-stan.org/) ... "Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business."
 - ブラッシング
 - シャコの目　偏光が見える
 - シャコのロドプシン
-- kagaya 2011 abstract
+- [Kagaya and Takahata, Science (2011)](https://pubmed.ncbi.nlm.nih.gov/21493864/) ... "Sequential synaptic excitation and inhibition shape readiness discharge for voluntary behavior"
 - 定型文と電気消費量
 - さかさメガネ
 - 白眉プロジェクト
