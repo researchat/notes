@@ -49,19 +49,18 @@ title: 148. XYZ
 - スピアラーを測った論文
 - [キャビテーション](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - シャコパンチが光る動画
-- テッポウエビ
-- ヨコエビ
+- [テッポウエビ](https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%83%E3%83%9D%E3%82%A6%E3%82%A8%E3%83%93)
+- [ヨコエビ](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B3%E3%82%A8%E3%83%93)
 - テッポウエビの2000年の論文
 - テッポウエビの動画
 - Kaji-sanの論文
 - シャコの模型
-- リザバー
 - 筋肉の並列構造
-- シュミットニールセン　 animal biology	
-- ザリガニをサクリファイスしていた話
+- [Animal Physiology: Adaptation and Environment](https://www.amazon.com/Animal-Physiology-Environment-Knut-Schmidt-Nielsen/dp/0521570980)	
+- ザリガニをサクリファイスしていた話 ... Researchat.fm ep141でお聴きになれます。
 - probability of sucess = PV/T
-- kagaya and patek (2016)
-- ダーウィンがきた
+- [Kagaya and Patek, J Exp Biol (2016)](https://journals.biologists.com/jeb/article/219/3/319/16771/Feed-forward-motor-control-of-ultrafast-ballistic) ... "Feed-forward motor control of ultrafast, ballistic movements"
+- [ダーウィンが来た！](https://www.nhk.jp/p/darwin/ts/8M52YNKXZ4/)
 - Patek lab BBC
 - EMG
 - 混合分布モデル
