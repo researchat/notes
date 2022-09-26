@@ -7,7 +7,7 @@ audio_file_size: X
 date: 2022-0X-YZ 0A:BC:00 +0900
 rec_date: 2022-08-21 08:00:00 -0500
 edit_by: tadasu
-description: kagayaさんをゲストに迎え、XYZ
+description: kagayaさんをゲストに迎え、シャコパンチの話題を中心に色々話しました。
 duration: "02:13:13"
 layout: article
 tags:
@@ -40,14 +40,14 @@ title: 148. XYZ
 - [Roy Caldwell](https://ucmp.berkeley.edu/arthropoda/crustacea/malacostraca/eumalacostraca/royslist/) ... シャコ回のゴッドファーザー
 - [133. The longest self-introduction](https://researchat.fm/episode/133) ... "mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさを話していただきました。"
 - [ハイスピードカメラ](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%82%AB%E3%83%A1%E3%83%A9)
-- [Malcolm Burrows](https://www.zoo.cam.ac.uk/directory/malcolm-burrows
-- スピアラー
-- すまっしゃー
+- [Malcolm Burrows](https://www.zoo.cam.ac.uk/directory/malcolm-burrows)
+- スピアラー・スマッシャー
+- [水槽を割るスピアラー](https://twitter.com/katzkagaya/status/1275425399015526401)
 - 自分の指が刺さっている論文
-- 顎脚　... 
+- [顎脚](https://ja.wikipedia.org/wiki/%E9%A1%8E%E8%84%9A)
 - Patekさんの最初の論文
 - スピアラーを測った論文
-- キャビテーション
+- [キャビテーション](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 - シャコパンチが光る動画
 - テッポウエビ
 - ヨコエビ
