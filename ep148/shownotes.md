@@ -72,12 +72,12 @@ title: 148. XYZ
 - [Kagaya and Takahata, Science (2011)](https://pubmed.ncbi.nlm.nih.gov/21493864/) ... "Sequential synaptic excitation and inhibition shape readiness discharge for voluntary behavior"
 - 定型文と電気消費量
 - さかさメガネ
-- 白眉プロジェクト
-- 神経系はなぜ東なのか
-- 下沢楯夫
+- [白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp/)
+- [神経系はなぜ東なのか](https://researchmap.jp/read0118403/research_projects/24521497)
+- [下澤楯夫](https://researchmap.jp/read0166424)
 - 並列構造　… e.g., 神経の束、イオンチャネルなど
 - コオロギのセンサー
-- 浜ホト
+- [浜松ホトニクス](https://www.hamamatsu.com/jp/ja/)
 - ザリガニのジャイアントニューロンと逃避行動　（コマンド？)
 
 ## Editorial Notes
