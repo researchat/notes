@@ -29,7 +29,7 @@ title: 148. XYZ
 - シャコパンチ
 - [Sheila Patek](https://pateklab.biology.duke.edu/)
 - [The shrimp with a kick!](https://www.ted.com/talks/sheila_patek_the_shrimp_with_a_kick) ... Sheila Patek先生のTED
-- [テラフォーマーズ](https://www.amazon.co.jp/dp/B00C9DYZFC)
+- [テラフォーマーズ](https://www.amazon.co.jp/dp/B00C9DYZFC/?tag=researchatf04-22)
 - [海の牙](https://twitter.com/nobunagashinbo/status/1170327005616672768) ... 勝手に拝借失礼いたします。星野之宣先生の作品のようです。
 - [えびボクサー](https://ja.wikipedia.org/wiki/%E3%81%88%E3%81%B3%E3%83%9C%E3%82%AF%E3%82%B5%E3%83%BC) ... "邦題は『えびボクサー』で公式ポスターにもエビが描かれているが、実際に登場するのはシャコである。"
 - Mantis shrimp ... シャコ
