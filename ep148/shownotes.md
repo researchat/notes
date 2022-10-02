@@ -21,14 +21,10 @@ title: 148. XYZ
 - kagayaさんのSOC論文
 - リザバー ... リザバー・コンピューティング(recurrent neural networkの機械学習法のひとつ)
 - [Researchatfm sticker](https://twitter.com/researchat_fm/status/1519463611374182402)
-- リザバーハンドブック？	
-- リザバーのコード
-- [R](https://www.r-project.org/)
-- [Julia](https://julialang.org/)
-- [Python](https://www.python.org/)
-- [MATLAB](https://www.mathworks.com/products/matlab.html)
+- リザバーハンドブック ... [Hands-on reservoir computing: a tutorial for practical implementation](https://iopscience.iop.org/article/10.1088/2634-4386/ac7db7)	
+- リザバーのコード ... [Simple Echo State Network implementations](https://mantas.info/code/simple_esn/) で、Echo State Network のミニマルな実装が、[R](https://www.r-project.org/)、[Julia](https://julialang.org/)、[Python](https://www.python.org/)、[MATLAB](https://www.mathworks.com/products/matlab.html)のそれぞれの実装が公開されています。
 - [Herbert Jaeger](https://scholar.google.de/citations?user=0uztVbMAAAAJ&hl=en)
-- かがやさんの文章
+- かがやさんの文章 ... [超高速運動から個性そして多様性](https://researchmap.jp/kagaya/misc/37188150)
 - [ゆるふわ生物学のシャコパンチ回](https://www.youtube.com/watch?v=u6gDoawF8pc&feature=youtu.be&ab_channel=%E3%82%86%E3%82%8B%E3%81%B5%E3%82%8F%E7%94%9F%E7%89%A9%E5%AD%A6)
 - シャコパンチ
 - [Sheila Patek](https://pateklab.biology.duke.edu/)
@@ -43,17 +39,17 @@ title: 148. XYZ
 - [Malcolm Burrows](https://www.zoo.cam.ac.uk/directory/malcolm-burrows)
 - スピアラー・スマッシャー
 - [水槽を割るスピアラー](https://twitter.com/katzkagaya/status/1275425399015526401)
-- 自分の指が刺さっている論文
+- 自分の指が刺さっている論文 ... [The mechanics and neural control of the prey capture strike in the mantid shrimps Squilla and Hemisquilla](https://link.springer.com/article/10.1007/BF00299261)
 - [顎脚](https://ja.wikipedia.org/wiki/%E9%A1%8E%E8%84%9A)
-- Patekさんの最初の論文
-- スピアラーを測った論文
+- Patekさんの最初の論文 ... [Deadly strike mechanism of a mantis shrimp](https://www.nature.com/articles/428819a)
+- スピアラーを測った論文 ... [Strike mechanics of an ambush predator: the spearing mantis shrimp](https://doi.org/10.1242/jeb.075317)
 - [キャビテーション](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%93%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
-- シャコパンチが光る動画
+- シャコパンチが光る動画 ... https://twitter.com/DrAdrianSmith/status/1555615275126403072
 - [テッポウエビ](https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%83%E3%83%9D%E3%82%A6%E3%82%A8%E3%83%93)
 - [ヨコエビ](https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%B3%E3%82%A8%E3%83%93)
-- テッポウエビの2000年の論文
-- テッポウエビの動画
-- Kaji-sanの論文
+- テッポウエビの2000年の論文 ... [How Snapping Shrimp Snap: Through Cavitating Bubbles](https://doi.org/10.1126/science.289.5487.2114)
+- テッポウエビの動画 ... https://twitter.com/DrAdrianSmith/status/1554893650252861440
+- Kaji-sanの論文 ... 
 - シャコの模型
 - 筋肉の並列構造
 - [Animal Physiology: Adaptation and Environment](https://www.amazon.com/Animal-Physiology-Environment-Knut-Schmidt-Nielsen/dp/0521570980)	
