@@ -50,7 +50,7 @@ title: 148. XYZ
 - テッポウエビの2000年の論文 ... [How Snapping Shrimp Snap: Through Cavitating Bubbles](https://doi.org/10.1126/science.289.5487.2114)
 - テッポウエビの動画 ... https://twitter.com/DrAdrianSmith/status/1554893650252861440
 - Kaji-sanの論文 ... 
-- シャコの模型
+- [シャコパンチの4棒リンク機構モデル](https://twitter.com/katzkagaya/status/1358398122150359040)
 - 筋肉の並列構造
 - [Animal Physiology: Adaptation and Environment](https://www.amazon.com/Animal-Physiology-Environment-Knut-Schmidt-Nielsen/dp/0521570980)	
 - ザリガニをサクリファイスしていた話 ... Researchat.fm ep141でお聴きになれます。
@@ -75,4 +75,4 @@ title: 148. XYZ
 
 ## Editorial Notes
 - (kagaya)
-- (tadasu)
+- メチャクチャ楽しく聴けました。シャコ、今度日本に帰ったら食べます（違(tadasu)
