@@ -49,8 +49,8 @@ title: 151. XYZ
 - 全自動メダカ飼育装置
 - 宇宙メダカの論文？
 - 宇宙メダカ選抜テスト
-- 某ショット ... 人類は月に何年前に到達したんだ？
-- [/ケンタウルス座アルファ星](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%82%BF%E3%82%A6%E3%83%AB%E3%82%B9%E5%BA%A7%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E6%98%9F)
+- 某ショット ... 人類は月には何年前に到達したんだっけ？
+- [ケンタウルス座アルファ星](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%82%BF%E3%82%A6%E3%83%AB%E3%82%B9%E5%BA%A7%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E6%98%9F)
 - [ブレイクスルー財団](https://breakthroughprize.org/Board)
 - [鉛の板](https://www.env.go.jp/chemi/rhm/h28kisoshiryo/h28kiso-01-03-08.html)
 - [Yuri Milner](https://breakthroughprize.org/Yuri_Milner)
