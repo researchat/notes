@@ -35,13 +35,13 @@ title: 150. XYZ
 - [クマムシ?!―小さな怪物](https://www.amazon.co.jp/dp/4000074628/)
 - [AMES Research Center](https://www.nasa.gov/ames)
 - [クマムシさん](http://www.kumamushisan.net/about.html)
-- 腸内細菌
+- [腸内細菌](https://ja.wikipedia.org/wiki/%E8%85%B8%E5%86%85%E7%B4%B0%E8%8F%8C)
 - googler
-- リボソーム
-- 翻訳系
-- リボソームRNA
-- tRNA
-- アミノ酸
+- [リボソーム](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0) ... 高校生物IIでは習うはずです by tadasu
+- [翻訳](https://ja.wikipedia.org/wiki/%E7%BF%BB%E8%A8%B3_(%E7%94%9F%E7%89%A9%E5%AD%A6)
+- [リボソームRNA](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0RNA)
+- [tRNA](https://en.wikipedia.org/wiki/Transfer_RNA)
+- [アミノ酸](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%8E%E9%85%B8)
 - 分子生物学
 - スーパーサイエンスハイスクール
 - バイオサミット
