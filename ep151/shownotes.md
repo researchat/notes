@@ -60,21 +60,21 @@ title: 151. XYZ
 - [SpaceX](https://www.spacex.com/)
 - [The Martian](https://www.amazon.com/dp/0553418025) ... いわゆるオデッセイ
 - [Andy Weir](https://andyweirauthor.com/)
-- 過塩素酸
-- ビックソーダー湖？
+- [過塩素酸](https://ja.wikipedia.org/wiki/%E9%81%8E%E5%A1%A9%E7%B4%A0%E9%85%B8)
+- [Soda Lakes](https://en.wikipedia.org/wiki/Soda_Lakes)
 - 過塩素酸入り培地で育つ微生物
-- ATGCU
+- ATGCU ... DNA/RNAの塩基
 - 鏡像異性体の回
-- 鏡像異性体の糖は味がするのか？
-- ラセミ化
+- [鏡像異性体は味がするのか？](https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/12/3/12_3_189/_pdf)
+- [ラセミ化](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BB%E3%83%9F%E5%8C%96)
 - 深海の微生物にはラセマーゼが多い
-- ホモキラル
+- [ホモキラル](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%A2%E3%82%AD%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC)
 - ヘテロキラル
 - EBI
-- Joana Perela
+- [Joana Pereira](https://scholar.google.com/citations?user=OKpFtIUAAAAJ&hl=en)
 - タンパク質の配列空間
 - ふじしまさんが載っている写真
-- 宇宙飛行士選抜テスト
+- [宇宙飛行士選抜テスト](https://astro-mission.jaxa.jp/astro_selection/)
 - こまささん … 藤島さんのお友達
 - ふじしさんと大西宇宙飛行士との対談
 
