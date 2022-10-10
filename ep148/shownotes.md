@@ -57,13 +57,13 @@ title: 148. Syako Punch
 - 筋肉の並列構造　カニの筋肉の羽状配置　https://twitter.com/katzkagaya/status/1205804418282573824
 - [Animal Physiology: Adaptation and Environment](https://www.amazon.com/Animal-Physiology-Environment-Knut-Schmidt-Nielsen/dp/0521570980)	
 (休憩)
-- ザリガニをサクリファイスしていた話 ... [Researchat.fm ep140](https://researchat.fm/episode/140)でお聴きになれます。
-- (Probability of sucess)(Value)/Time = PV/T
+- ザリガニをサクリファイスしていた話 ... Researchat.fm ep141でお聴きになれます。
+- (Probability of success)(Value)/Time = PV/T
 - [Kagaya and Patek, J Exp Biol (2016)](https://journals.biologists.com/jeb/article/219/3/319/16771/Feed-forward-motor-control-of-ultrafast-ballistic) ... "Feed-forward motor control of ultrafast, ballistic movements"
 - [ダーウィンが来た！](https://www.nhk.jp/p/darwin/ts/8M52YNKXZ4/)
 - EMG ... electromyography 筋電図
 - 混合分布モデル 確率分布を混合した分布 ... 「モデルの中では」と言っていますが、データでモデルを学習する段階では5個体分かれているけど、予測のときには(全体の線をひくときには)分かれてないということを言うべきでした。[lme4](https://cran.r-project.org/web/packages/lme4/index.html)
-- [stan](https://mc-stan.org/) ... "Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business."
+- [Stan](https://mc-stan.org/) ... "Stan is a state-of-the-art platform for statistical modeling and high-performance statistical computation. Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business."
 - シャコのブラッシング、グルーミング ... https://twitter.com/katzkagaya/status/1347088187554811907
 - シャコの眼 ... 偏光が見える・感じられる　https://twitter.com/katzkagaya/status/1213017912325181440
 - [シャコの「驚異の色覚」は幻想だった？](https://www.natureasia.com/ja-jp/ndigest/v11/n4/%E3%82%B7%E3%83%A3%E3%82%B3%E3%81%AE%E3%80%8C%E9%A9%9A%E7%95%B0%E3%81%AE%E8%89%B2%E8%A6%9A%E3%80%8D%E3%81%AF%E5%B9%BB%E6%83%B3%E3%81%A0%E3%81%A3%E3%81%9F%EF%BC%9F/52559)
