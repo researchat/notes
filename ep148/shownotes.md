@@ -3,8 +3,8 @@ actor_ids:
   - kagaya
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/149.mp3 
-audio_file_size: X
-date: 2022-0X-YZ 0A:BC:00 +0900
+audio_file_size: 95423005
+date: 2022-10-11 05:00:00 +0900
 rec_date: 2022-08-21 08:00:00 -0500
 edit_by: tadasu
 description: kagayaさんをゲストに迎え、シャコパンチの話題を中心に色々話しました。
