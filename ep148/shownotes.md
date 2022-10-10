@@ -72,7 +72,6 @@ title: 148. Syako Punch
 - ritualized behavior ... [Contests with deadly weapons: Telson sparring in mantis shrimp (Stomatopoda)](https://www.researchgate.net/publication/282175977_Contests_with_deadly_weapons_Telson_sparring_in_mantis_shrimp_Stomatopoda)
 - meral spread ... [上の論文の図版](https://www.researchgate.net/publication/282175977_Contests_with_deadly_weapons_Telson_sparring_in_mantis_shrimp_Stomatopoda/figures)
 - [Kagaya and Takahata, Science (2011)](https://pubmed.ncbi.nlm.nih.gov/21493864/) ... "Sequential synaptic excitation and inhibition shape readiness discharge for voluntary behavior"
-- [Kagaya and Takahata, Science (2011)](https://pubmed.ncbi.nlm.nih.gov/21493864/) ... "Sequential synaptic excitation and inhibition shape readiness discharge for voluntary behavior"
 - [白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp/)
 - [神経系はなぜ東なのか](https://researchmap.jp/read0118403/research_projects/24521497)
 - [下澤楯夫](https://researchmap.jp/read0166424)
