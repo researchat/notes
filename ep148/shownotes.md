@@ -57,7 +57,7 @@ title: 148. Syako Punch
 - 筋肉の並列構造　カニの筋肉の羽状配置　https://twitter.com/katzkagaya/status/1205804418282573824
 - [Animal Physiology: Adaptation and Environment](https://www.amazon.com/Animal-Physiology-Environment-Knut-Schmidt-Nielsen/dp/0521570980)	
 (休憩)
-- ザリガニをサクリファイスしていた話 ... Researchat.fm ep141でお聴きになれます。
+- ザリガニをサクリファイスしていた話 ... [Researchat.fm ep140](https://researchat.fm/episode/140)でお聴きになれます。
 - (Probability of sucess)(Value)/Time = PV/T
 - [Kagaya and Patek, J Exp Biol (2016)](https://journals.biologists.com/jeb/article/219/3/319/16771/Feed-forward-motor-control-of-ultrafast-ballistic) ... "Feed-forward motor control of ultrafast, ballistic movements"
 - [ダーウィンが来た！](https://www.nhk.jp/p/darwin/ts/8M52YNKXZ4/)
