@@ -12,7 +12,7 @@ duration: "02:13:13"
 layout: article
 tags:
   - 研究
-title: 148. Syako Punch
+title: 14. Syako Punch
 ---
 
 ## Shownotes
