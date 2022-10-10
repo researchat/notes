@@ -3,8 +3,8 @@ actor_ids:
   - kagaya
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/149.mp3 
-audio_file_size: X
-date: 2022-0X-YZ 0A:BC:00 +0900
+audio_file_size: 95423005
+date: 2022-10-11 04:00:00 +0900
 rec_date: 2022-08-21 08:00:00 -0500
 edit_by: tadasu
 description: kagayaさんをゲストに迎え、シャコパンチの話題を中心に色々話しました。
@@ -72,7 +72,6 @@ title: 148. Syako Punch
 - ritualized behavior ... [Contests with deadly weapons: Telson sparring in mantis shrimp (Stomatopoda)](https://www.researchgate.net/publication/282175977_Contests_with_deadly_weapons_Telson_sparring_in_mantis_shrimp_Stomatopoda)
 - meral spread ... [上の論文の図版](https://www.researchgate.net/publication/282175977_Contests_with_deadly_weapons_Telson_sparring_in_mantis_shrimp_Stomatopoda/figures)
 - [Kagaya and Takahata, Science (2011)](https://pubmed.ncbi.nlm.nih.gov/21493864/) ... "Sequential synaptic excitation and inhibition shape readiness discharge for voluntary behavior"
-- [Kagaya and Takahata, Science (2011)](https://pubmed.ncbi.nlm.nih.gov/21493864/) ... "Sequential synaptic excitation and inhibition shape readiness discharge for voluntary behavior"
 - [白眉プロジェクト](https://www.hakubi.kyoto-u.ac.jp/)
 - [神経系はなぜ東なのか](https://researchmap.jp/read0118403/research_projects/24521497)
 - [下澤楯夫](https://researchmap.jp/read0166424)
@@ -81,7 +80,8 @@ title: 148. Syako Punch
 - ハマホト ... [浜松ホトニクス](https://www.hamamatsu.com/jp/ja/)
 - ザリガニのジャイアントニューロンと逃避行動　2本の腹髄の横断面をみると二対の巨大軸索が見える。外側と内側にそれぞれ lateral giant と　medial giant と言われるニューロンがある。それぞれ後方と前方からの脅威（水流刺激）に一発のスパイク応答を示して脅威から遠ざかる逃避遊泳を「司令」するため、コマンドニューロンとも言われた。コマンドという、ニューロン活動と行動が一対一に対応するという概念は感覚における「おばあさん細胞」のいわば運動版である。
 - [「神経系は東」タグ](https://twitter.com/search?q=%23%E7%A5%9E%E7%B5%8C%E7%B3%BB%E3%81%AF%E6%9D%B1&src=typed_query&f=top)
-- [mazpodfm](https://twitter.com/hashtag/mazpodfm?src=hashtag_click)
+- [mazpod.fm](https://twitter.com/hashtag/mazpodfm?src=hashtag_click)　... mazさんのポッドキャスト
+- [mazpod.fm](https://podcasts.apple.com/us/podcast/mazpod-fm/id1637276391
 
 ## Editorial Notes
 - こちらこそ楽しく自分のお話させていただいてありがたいです。シャコやカニを食べる時、その筋肉繊維の向きを見て思い出していただければ幸いです。(kagaya)
