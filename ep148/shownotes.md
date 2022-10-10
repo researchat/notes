@@ -81,7 +81,7 @@ title: 14. Syako Punch
 - ザリガニのジャイアントニューロンと逃避行動　2本の腹髄の横断面をみると二対の巨大軸索が見える。外側と内側にそれぞれ lateral giant と　medial giant と言われるニューロンがある。それぞれ後方と前方からの脅威（水流刺激）に一発のスパイク応答を示して脅威から遠ざかる逃避遊泳を「司令」するため、コマンドニューロンとも言われた。コマンドという、ニューロン活動と行動が一対一に対応するという概念は感覚における「おばあさん細胞」のいわば運動版である。
 - [「神経系は東」タグ](https://twitter.com/search?q=%23%E7%A5%9E%E7%B5%8C%E7%B3%BB%E3%81%AF%E6%9D%B1&src=typed_query&f=top)
 - [mazpod.fm](https://twitter.com/hashtag/mazpodfm?src=hashtag_click)　... mazさんのポッドキャスト
-- [mazpod.fm](https://podcasts.apple.com/us/podcast/mazpod-fm/id1637276391
+- [mazpod.fm](https://podcasts.apple.com/us/podcast/mazpod-fm/id1637276391)
 
 ## Editorial Notes
 - こちらこそ楽しく自分のお話させていただいてありがたいです。シャコやカニを食べる時、その筋肉繊維の向きを見て思い出していただければ幸いです。(kagaya)
