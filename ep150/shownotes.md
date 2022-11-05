@@ -25,9 +25,9 @@ title: 150. XYZ
 - [SFC](https://www.sfc.keio.ac.jp/) ... 慶應義塾大学湘南藤沢キャンパス
 - [冨田勝](https://ja.wikipedia.org/wiki/%E5%86%A8%E7%94%B0%E5%8B%9D)
 - [金井明夫](https://researchmap.jp/read0116105)
-- [アーキア(古細菌)](https://ja.wikipedia.org/wiki/%E5%8F%A4%E7%B4%B0%E8%8F%8C)
+- [アーキア(古細菌)](https://ja.wikipedia.org/wiki/%E5%8F%A4%E7%B4%B0%E8%8F%8C) 
 - [RNA](https://en.wikipedia.org/wiki/RNA)
-- 藤島さんのtri-split tRNAの論文
+- [藤島さんのtri-split tRNAの論文](https://www.pnas.org/doi/10.1073/pnas.0808246106) ... tRNAが別々に転写された3つのパーツから合体して機能する！！
 - [慶應義塾大学先端生命科学研究所](https://www.iab.keio.ac.jp/)
 - [海外学振](https://www.jsps.go.jp/j-ab/)
 - あのクマムシ博士 ... クマムシ博士、我々はいつでも出演していただけるのを待っております！(by Researchat.fm一同)
@@ -49,14 +49,14 @@ title: 150. XYZ
 - [ネアンデルタール人](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%A2%E3%83%B3%E3%83%87%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%AB%E4%BA%BA)　… ノーベル賞取った！
 - [シアノバクテリア](http://photosynthesis.c.u-tokyo.ac.jp/cyano.html)
 - [深海熱水噴出孔](https://ja.wikipedia.org/wiki/%E7%86%B1%E6%B0%B4%E5%99%B4%E5%87%BA%E5%AD%94)
-- バキ
-- 柳
-- [クローバーリーフ構造](http://www.ach.ehime-u.ac.jp/bchem/RNAmodification2.html)
+- [バキ](https://www.amazon.co.jp/dp/B0749QNGX7/?tag=researchatf04-22) ... 柳は第二部に登場
+- 柳龍光　... 「この地球上で最も強力な毒ガスとは何かわかるかね？」
+- [クローバーリーフ構造](http://www.ach.ehime-u.ac.jp/bchem/RNAmodification2.html) ... tRNAの取る二次構造
 - [コドン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%89%E3%83%B3)
 - 原始代謝系
 - グリシン　　
-- alpha helix
-- beta sheet
+- [Alpha helix](https://ja.wikipedia.org/wiki/%CE%91%E3%83%98%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9)
+- [Beta sheet](https://ja.wikipedia.org/wiki/%CE%92%E3%82%B7%E3%83%BC%E3%83%88)
 - [LUCA](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) ... Last universal common ancestor
 - [冥王代](https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E4%BB%A3)
 - [はやぶさ](https://www.isas.jaxa.jp/missions/spacecraft/past/hayabusa.html)
@@ -64,7 +64,7 @@ title: 150. XYZ
 - [ユーリー・ミラーの実験](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%9F%E3%83%A9%E3%83%BC%E3%81%AE%E5%AE%9F%E9%A8%93)
 - 液体の二酸化炭素
 - デカフェ
-- [ハーデース](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%B9)
+- [ハーデース](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%B9) ... ギリシャ神話は聖闘士星矢とFGOで勉強しました(coela)
 - 外惑星
 - 宇宙港
 - [JAXA](https://global.jaxa.jp/)
@@ -86,4 +86,4 @@ title: 150. XYZ
 
 ## Editorial Notes
 - (fujishi)
-- (coela)
+- 藤島さん出演ありがとうございます！！！ロマンがある話がたくさんできて楽しかったです。(coela)
