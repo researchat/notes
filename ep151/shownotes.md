@@ -19,7 +19,7 @@ title: 151. XYZ
 ## Shownotes
 - [Kosuke Fujishima](http://www.elsi.jp/en/members/researchers/kfujishima/)
 - [Fujishimaさんの一つ前のエピソード](https://researchat.fm/episode/150)
-- [テラフォーマーズ](https://www.amazon.co.jp/dp/408879270X)
+- [テラフォーマーズ](https://www.amazon.co.jp/dp/408879270X/?tag=researchatf04-22)
 - [冥王代](https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E4%BB%A3)
 - tri-split tRNA
 - [RNA world仮説](https://ja.wikipedia.org/wiki/RNA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89)
@@ -28,8 +28,8 @@ title: 151. XYZ
 - [藤島さんと貴家さんの対談](https://twitter.com/horikawad/status/520073754592829440)
 - [高井研 vs 貴家さん](https://twitter.com/nhk_switch/status/729211917017849858)
 - [減数分裂](https://ja.wikipedia.org/wiki/%E6%B8%9B%E6%95%B0%E5%88%86%E8%A3%82)
-- [東京喰種トーキョーグール](https://www.amazon.co.jp/dp/4088792726)
-- [レベルE](https://www.amazon.co.jp/dp/4088720717)
+- [東京喰種トーキョーグール](https://www.amazon.co.jp/dp/4088792726/?tag=researchatf04-22)
+- [レベルE](https://www.amazon.co.jp/dp/4088720717/?tag=researchatf04-22)
 - [44. XXXXXYYYYY (Researchat.fm)](https://researchat.fm/episode/48) ... レベルE解説エピソード
 - [Lynn J. Rothschild](https://www.nasa.gov/ames/spacescience-and-astrobiology/lynn-j-rothschild)
 - 火星のマグマは噴出するか？ … Nature Geo Science?
@@ -73,12 +73,12 @@ title: 151. XYZ
 - EBI
 - [Joana Pereira](https://scholar.google.com/citations?user=OKpFtIUAAAAJ&hl=en)
 - タンパク質の配列空間
-- ふじしまさんが載っている写真
+- [ふじしまさんが載っているJAXAの宇宙飛行士募集ページ](https://astro-mission.jaxa.jp/astro_selection/) ... 「宇宙飛行士に転職だ」
 - [宇宙飛行士選抜テスト](https://astro-mission.jaxa.jp/astro_selection/)
 - こまささん … 藤島さんのお友達
 - ふじしさんと大西宇宙飛行士との対談
 
 ## Editorial Notes
 - (fujishi)
-- (coela)
+- 実は今回は高校生の皆さんにリーチするという野望があったのですが、届いたのだろうか・・・(coela)
 - (tadasu)
