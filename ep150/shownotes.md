@@ -17,7 +17,7 @@ title: 150. XYZ
 
 ## Shownotes
 - [Kosuke Fujishima](http://www.elsi.jp/en/members/researchers/kfujishima/)
-- [Kosuke Fujishima@Twitter](https://twitter.com/ELSI_Fujishima)
+- [Kosuke Fujishima@Twitter](https://twitter.com/ELSI_Fujishima) 
 - アストロバイオロジー ... 宇宙生物学
 - [アストロバイオロジー　米国航空宇宙局（NASA）エクソバイオロジーとアストロバイオロジーの歴史](https://astrobiology.nasa.gov/uploads/filer_public/02/c5/02c5c11f-046a-4607-a5f4-44377c3e74e4/issue7japanesefirstedition_elsi_med.pdf) ... アストロバイオロジーの説明漫画
 - [NASA](https://www.nasa.gov/)
@@ -27,7 +27,7 @@ title: 150. XYZ
 - [金井明夫](https://researchmap.jp/read0116105)
 - [アーキア(古細菌)](https://ja.wikipedia.org/wiki/%E5%8F%A4%E7%B4%B0%E8%8F%8C) 
 - [RNA](https://en.wikipedia.org/wiki/RNA)
-- [藤島さんのtri-split tRNAの論文](https://www.pnas.org/doi/10.1073/pnas.0808246106) ... tRNAが別々に転写された3つのパーツから合体して機能する！！
+- [藤島さんのtri-split tRNAの論文](https://www.pnas.org/doi/10.1073/pnas.0808246106) ... 別々に転写された3つのパーツからｔRNAが合体して機能する！！
 - [慶應義塾大学先端生命科学研究所](https://www.iab.keio.ac.jp/)
 - [海外学振](https://www.jsps.go.jp/j-ab/)
 - あのクマムシ博士 ... クマムシ博士、我々はいつでも出演していただけるのを待っております！(by Researchat.fm一同)
@@ -38,7 +38,7 @@ title: 150. XYZ
 - [腸内細菌](https://ja.wikipedia.org/wiki/%E8%85%B8%E5%86%85%E7%B4%B0%E8%8F%8C)
 - googler
 - [リボソーム](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0) ... 高校生物IIでは習うはずです by tadasu
-- [翻訳](https://ja.wikipedia.org/wiki/%E7%BF%BB%E8%A8%B3_(%E7%94%9F%E7%89%A9%E5%AD%A6))
+- [翻訳](https://ja.wikipedia.org/wiki/%E7%BF%BB%E8%A8%B3_(%E7%94%9F%E7%89%A9%E5%AD%A6)) ... セントラルドグマの方のやつ
 - [リボソームRNA](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0RNA)
 - [tRNA](https://en.wikipedia.org/wiki/Transfer_RNA)
 - [アミノ酸](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%8E%E9%85%B8)
@@ -64,7 +64,7 @@ title: 150. XYZ
 - [ユーリー・ミラーの実験](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%9F%E3%83%A9%E3%83%BC%E3%81%AE%E5%AE%9F%E9%A8%93)
 - 液体の二酸化炭素
 - デカフェ
-- [ハーデース](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%B9) ... ギリシャ神話は聖闘士星矢とFGOで勉強しました(coela)
+- [ハーデース](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%B9) ... ギリシャ神話は聖闘士星矢とFGOで勉強しました by coela
 - 外惑星
 - 宇宙港
 - [JAXA](https://global.jaxa.jp/)
