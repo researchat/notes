@@ -38,7 +38,7 @@ title: 150. Not Just on Earth
 - [腸内細菌](https://ja.wikipedia.org/wiki/%E8%85%B8%E5%86%85%E7%B4%B0%E8%8F%8C)
 - [リボソーム](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0) ... 高校生物IIでは習うはずです by tadasu
 - [細胞はリボソームを作るマシーンである](https://twitter.com/researchat_fm/status/1508768471970205701)
-- RNA, アミノ酸、タンパク質、それぞれの構造の複雑さと組み合わせの複雑さ、そして粒度などなどを考えていく必要がある (by tadasu)
+- RNA, アミノ酸、タンパク質、それぞれの構造の複雑さと組み合わせの複雑さ、そして粒度などなどを考えていく必要がありますね (by tadasu)
 - [翻訳](https://ja.wikipedia.org/wiki/%E7%BF%BB%E8%A8%B3_(%E7%94%9F%E7%89%A9%E5%AD%A6)) ... セントラルドグマの方のやつ
 - [リボソームRNA](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0RNA)
 - [tRNA](https://en.wikipedia.org/wiki/Transfer_RNA)
@@ -49,7 +49,8 @@ title: 150. Not Just on Earth
 - [ミトコンドリア](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%88%E3%82%B3%E3%83%B3%E3%83%89%E3%83%AA%E3%82%A2)
 - [ネアンデルタール人](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%A2%E3%83%B3%E3%83%87%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%AB%E4%BA%BA)　… ノーベル賞取った！
 - [シアノバクテリア](http://photosynthesis.c.u-tokyo.ac.jp/cyano.html)
-- LUCA以前の話とネアンデルタール人、隕石とかの話はごちゃごちゃにするとわかりにくい気がする (by tadasu)
+- LUCA以前の話とネアンデルタール人、隕石とかの話はごちゃごちゃにするとわかりにくい気がする。そもそもその時代の選択圧とは。
+- [進化の特異事象](https://www.amazon.co.jp/dp/4903532054?tag=researchatf04-22) ... この本を再履修するか... (by tadasu)
 - [深海熱水噴出孔](https://ja.wikipedia.org/wiki/%E7%86%B1%E6%B0%B4%E5%99%B4%E5%87%BA%E5%AD%94)
 - [バキ](https://www.amazon.co.jp/dp/B0749QNGX7/?tag=researchatf04-22) ... 柳は第二部に登場
 - 柳龍光　... 「この地球上で最も強力な毒ガスとは何かわかるかね？」
@@ -64,11 +65,9 @@ title: 150. Not Just on Earth
 - [はやぶさ](https://www.isas.jaxa.jp/missions/spacecraft/past/hayabusa.html)
 - [pre-biotic chemistry](https://en.wikipedia.org/wiki/Abiogenesis)
 - [ユーリー・ミラーの実験](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%9F%E3%83%A9%E3%83%BC%E3%81%AE%E5%AE%9F%E9%A8%93)
-- 液体の二酸化炭素
 - [デカフェ](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%AB%E3%83%95%E3%82%A7)
 - [ハーデース](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%B9) ... ギリシャ神話は聖闘士星矢とFGOで勉強しました by coela
 - [外惑星](https://ja.wikipedia.org/wiki/%E5%A4%96%E6%83%91%E6%98%9F)
-- 宇宙港
 - [JAXA](https://global.jaxa.jp/)
 - [超臨界](https://ja.wikipedia.org/wiki/%E8%B6%85%E8%87%A8%E7%95%8C%E6%B5%81%E4%BD%93)
 - [JAMSTEC](https://www.jamstec.go.jp/e/)
@@ -82,6 +81,7 @@ title: 150. Not Just on Earth
 - [Mycoplasma laboratorium](https://en.wikipedia.org/wiki/Mycoplasma_laboratorium)
 - [Synthetic Biology](https://en.wikipedia.org/wiki/Synthetic_biology)
 - [アストロバイオロジーキャンプ](https://sites.google.com/view/keio-astrobiology-camp)
+-　たとえcoela氏が大学入学前に情報を持っていたとしても何もしていないんじゃないかなぁ by tadasu
 
 ## Editorial Notes
 - どんどん話題が移り変わっていく感じで自由に話すことができて非常に楽しかったです。若年リスナーの好奇心を少しでも刺激できているといいな。(fujishi)
