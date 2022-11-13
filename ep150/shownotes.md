@@ -4,11 +4,11 @@ actor_ids:
   - coela
 audio_file_path: https://traffic.libsyn.com/secure/researchat/150.mp3 
 audio_file_size: 60050081
-date: 2022-0X-YZ 0A:BC:00 +0900
+date: 2022-11-14 21:00:00 +0900
 rec_date: 2022-08-27 21:00:00 -0500
 edit_by: tadasu
 description: Kosuke Fujishimaさんをゲストに迎え、アストロバイオロジー、生命の起源などについて話しました。
-duration: "0X:YY:ZZ"
+duration: "01:28:07"
 layout: article
 tags:
   - 研究
