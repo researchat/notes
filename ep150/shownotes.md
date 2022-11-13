@@ -7,12 +7,12 @@ audio_file_size: 60050081
 date: 2022-0X-YZ 0A:BC:00 +0900
 rec_date: 2022-08-27 21:00:00 -0500
 edit_by: tadasu
-description: Kosuke Fujishimaさんをゲストに迎え、hogehogehogeについて話しました。
+description: Kosuke Fujishimaさんをゲストに迎え、アストロバイオロジー、生命の起源などについて話しました。
 duration: "0X:YY:ZZ"
 layout: article
 tags:
   - 研究
-title: 150. XYZ
+title: 150. Not Just on Earth
 ---
 
 ## Shownotes
@@ -85,5 +85,5 @@ title: 150. XYZ
 
 
 ## Editorial Notes
-- (fujishi)
+- どんどん話題が移り変わっていく感じで自由に話すことができて非常に楽しかったです。若年リスナーの好奇心を少しでも刺激できているといいな。(fujishi)
 - 藤島さん出演ありがとうございます！！！ロマンがある話がたくさんできて楽しかったです。(coela)
