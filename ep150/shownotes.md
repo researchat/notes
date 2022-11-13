@@ -27,7 +27,7 @@ title: 150. Not Just on Earth
 - [金井明夫](https://researchmap.jp/read0116105)
 - [アーキア(古細菌)](https://ja.wikipedia.org/wiki/%E5%8F%A4%E7%B4%B0%E8%8F%8C) 
 - [RNA](https://en.wikipedia.org/wiki/RNA)
-- [藤島さんのtri-split tRNAの論文](https://www.pnas.org/doi/10.1073/pnas.0808246106) ... 別々に転写された3つのパーツからｔRNAが合体して機能する！！
+- [藤島さんのtri-split tRNAの論文](https://www.pnas.org/doi/10.1073/pnas.0808246106) ... "Tri-split tRNA is a transfer RNA made from 3 transcripts that provides insight into the evolution of fragmented tRNAs in archaea" 別々に転写された3つのパーツからｔRNAが合体して機能する！！
 - [慶應義塾大学先端生命科学研究所](https://www.iab.keio.ac.jp/)
 - [海外学振](https://www.jsps.go.jp/j-ab/)
 - あのクマムシ博士 ... クマムシ博士、我々はいつでも出演していただけるのを待っております！(by Researchat.fm一同)
@@ -37,6 +37,8 @@ title: 150. Not Just on Earth
 - [クマムシさん](http://www.kumamushisan.net/about.html)
 - [腸内細菌](https://ja.wikipedia.org/wiki/%E8%85%B8%E5%86%85%E7%B4%B0%E8%8F%8C)
 - [リボソーム](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0) ... 高校生物IIでは習うはずです by tadasu
+- [細胞はリボソームを作るマシーンである](https://twitter.com/researchat_fm/status/1508768471970205701)
+- RNA, アミノ酸、タンパク質、それぞれの構造の複雑さと組み合わせの複雑さ、そして粒度などなどを考えていく必要がある (by tadasu)
 - [翻訳](https://ja.wikipedia.org/wiki/%E7%BF%BB%E8%A8%B3_(%E7%94%9F%E7%89%A9%E5%AD%A6)) ... セントラルドグマの方のやつ
 - [リボソームRNA](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0RNA)
 - [tRNA](https://en.wikipedia.org/wiki/Transfer_RNA)
@@ -47,6 +49,7 @@ title: 150. Not Just on Earth
 - [ミトコンドリア](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%88%E3%82%B3%E3%83%B3%E3%83%89%E3%83%AA%E3%82%A2)
 - [ネアンデルタール人](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%A2%E3%83%B3%E3%83%87%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%AB%E4%BA%BA)　… ノーベル賞取った！
 - [シアノバクテリア](http://photosynthesis.c.u-tokyo.ac.jp/cyano.html)
+- LUCA以前の話とネアンデルタール人、隕石とかの話はごちゃごちゃにするとわかりにくい気がする (by tadasu)
 - [深海熱水噴出孔](https://ja.wikipedia.org/wiki/%E7%86%B1%E6%B0%B4%E5%99%B4%E5%87%BA%E5%AD%94)
 - [バキ](https://www.amazon.co.jp/dp/B0749QNGX7/?tag=researchatf04-22) ... 柳は第二部に登場
 - 柳龍光　... 「この地球上で最も強力な毒ガスとは何かわかるかね？」
