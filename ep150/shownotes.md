@@ -36,7 +36,6 @@ title: 150. Not Just on Earth
 - [AMES Research Center](https://www.nasa.gov/ames)
 - [クマムシさん](http://www.kumamushisan.net/about.html)
 - [腸内細菌](https://ja.wikipedia.org/wiki/%E8%85%B8%E5%86%85%E7%B4%B0%E8%8F%8C)
-- googler
 - [リボソーム](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0) ... 高校生物IIでは習うはずです by tadasu
 - [翻訳](https://ja.wikipedia.org/wiki/%E7%BF%BB%E8%A8%B3_(%E7%94%9F%E7%89%A9%E5%AD%A6)) ... セントラルドグマの方のやつ
 - [リボソームRNA](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9C%E3%82%BD%E3%83%BC%E3%83%A0RNA)
@@ -53,36 +52,33 @@ title: 150. Not Just on Earth
 - 柳龍光　... 「この地球上で最も強力な毒ガスとは何かわかるかね？」
 - [クローバーリーフ構造](http://www.ach.ehime-u.ac.jp/bchem/RNAmodification2.html) ... tRNAの取る二次構造
 - [コドン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%89%E3%83%B3)
-- 原始代謝系
-- グリシン　　
+- [原始代謝系](https://www.elsi.jp/research/research_fields_and_topics_old/proto_metabolism_system/)
+- [グリシン](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%82%B7%E3%83%B3)　
 - [Alpha helix](https://ja.wikipedia.org/wiki/%CE%91%E3%83%98%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9)
 - [Beta sheet](https://ja.wikipedia.org/wiki/%CE%92%E3%82%B7%E3%83%BC%E3%83%88)
 - [LUCA](https://en.wikipedia.org/wiki/Last_universal_common_ancestor) ... Last universal common ancestor
 - [冥王代](https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E4%BB%A3)
 - [はやぶさ](https://www.isas.jaxa.jp/missions/spacecraft/past/hayabusa.html)
-- pre-biotic chemistry
+- [pre-biotic chemistry](https://en.wikipedia.org/wiki/Abiogenesis)
 - [ユーリー・ミラーの実験](https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%9F%E3%83%A9%E3%83%BC%E3%81%AE%E5%AE%9F%E9%A8%93)
 - 液体の二酸化炭素
-- デカフェ
+- [デカフェ](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%AB%E3%83%95%E3%82%A7)
 - [ハーデース](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%87%E3%83%BC%E3%82%B9) ... ギリシャ神話は聖闘士星矢とFGOで勉強しました by coela
-- 外惑星
+- [外惑星](https://ja.wikipedia.org/wiki/%E5%A4%96%E6%83%91%E6%98%9F)
 - 宇宙港
 - [JAXA](https://global.jaxa.jp/)
-- 超臨界
+- [超臨界](https://ja.wikipedia.org/wiki/%E8%B6%85%E8%87%A8%E7%95%8C%E6%B5%81%E4%BD%93)
 - [JAMSTEC](https://www.jamstec.go.jp/e/)
 - [しんかい6500](https://www.jamstec.go.jp/shinkai6500/)
 - [アスガルド古細菌](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%82%AC%E3%83%AB%E3%83%89%E5%8F%A4%E7%B4%B0%E8%8F%8C)
-- 井町さん
 - [高井研](https://ja.wikipedia.org/wiki/%E9%AB%98%E4%BA%95%E7%A0%94) ... 大尊敬する大先生
 - [ケプラーミッション](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%97%E3%83%A9%E3%83%BC_(%E6%8E%A2%E6%9F%BB%E6%A9%9F))
 - [ハッブル](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%83%96%E3%83%AB%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1)
 - [ウェッブ](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%83%E3%83%96%E5%AE%87%E5%AE%99%E6%9C%9B%E9%81%A0%E9%8F%A1)
 - [Craig Venter](https://www.jcvi.org/about/j-craig-venter)
 - [Mycoplasma laboratorium](https://en.wikipedia.org/wiki/Mycoplasma_laboratorium)
-- ファインマンの言葉
 - [Synthetic Biology](https://en.wikipedia.org/wiki/Synthetic_biology)
 - [アストロバイオロジーキャンプ](https://sites.google.com/view/keio-astrobiology-camp)
-
 
 ## Editorial Notes
 - どんどん話題が移り変わっていく感じで自由に話すことができて非常に楽しかったです。若年リスナーの好奇心を少しでも刺激できているといいな。(fujishi)
