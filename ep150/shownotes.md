@@ -4,7 +4,7 @@ actor_ids:
   - coela
 audio_file_path: https://traffic.libsyn.com/secure/researchat/150.mp3 
 audio_file_size: 60050081
-date: 2022-11-14 21:00:00 +0900
+date: 2022-11-15 04:08:00 +0900
 rec_date: 2022-08-27 21:00:00 -0500
 edit_by: tadasu
 description: Kosuke Fujishimaさんをゲストに迎え、アストロバイオロジー、生命の起源などについて話しました。
@@ -16,6 +16,7 @@ title: 150. Not Just on Earth
 ---
 
 ## Shownotes
+- このShownotesは藤島さんからのコメント・修正を受ける前です。またコメント・修正を受け取り次第更新いたしますのでご了承ください。 (by tadasu)
 - [Kosuke Fujishima](http://www.elsi.jp/en/members/researchers/kfujishima/)
 - [Kosuke Fujishima@Twitter](https://twitter.com/ELSI_Fujishima) 
 - アストロバイオロジー ... 宇宙生物学
