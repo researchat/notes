@@ -8,12 +8,12 @@ audio_file_size: X
 date: 2022-0X-YZ 0A:BC:00 +0900
 rec_date: 2022-08-21 08:00:00 -0500
 edit_by: tadasu
-description: Kosuke Fujishimaさんをゲストに迎え、hogehogehogeについて話しました。
+description: Kosuke Fujishimaさんをゲストに迎え、Fujishimaさんのこれまでの研究人生に触れながら雑談しました。
 duration: "0X:YY:ZZ"
 layout: article
 tags:
   - 研究
-title: 151. XYZ
+title: 151. Olympus Mons
 ---
 
 ## Shownotes
@@ -21,7 +21,7 @@ title: 151. XYZ
 - [Fujishimaさんの一つ前のエピソード](https://researchat.fm/episode/150)
 - [テラフォーマーズ](https://www.amazon.co.jp/dp/408879270X/?tag=researchatf04-22)
 - [冥王代](https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E4%BB%A3)
-- tri-split tRNA
+- [tri-split tRNA](https://www.pnas.org/doi/10.1073/pnas.0808246106)
 - [RNA world仮説](https://ja.wikipedia.org/wiki/RNA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89)
 - 目ブラスト
 - [貴家悠](https://ja.wikipedia.org/wiki/%E8%B2%B4%E5%AE%B6%E6%82%A0)
@@ -64,19 +64,19 @@ title: 151. XYZ
 - [Soda Lakes](https://en.wikipedia.org/wiki/Soda_Lakes)
 - 過塩素酸入り培地で育つ微生物
 - ATGCU ... DNA/RNAの塩基
-- 鏡像異性体の回
+- [111. Mirror Image Biology](https://researchat.fm/episode/111) ... 鏡像異性体の回
 - [鏡像異性体は味がするのか？](https://www.jstage.jst.go.jp/article/kagakutoseibutsu1962/12/3/12_3_189/_pdf)
 - [ラセミ化](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BB%E3%83%9F%E5%8C%96)
 - 深海の微生物にはラセマーゼが多い
 - [ホモキラル](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%A2%E3%82%AD%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC)
 - ヘテロキラル
-- EBI
+- [EBI](https://www.ebi.ac.uk/) ... European Bioinformatics Institute
 - [Joana Pereira](https://scholar.google.com/citations?user=OKpFtIUAAAAJ&hl=en)
-- タンパク質の配列空間
+- タンパク質の配列空間 ... よく使うフレーズなのですが、適切な名前が思い浮かばない (tamaki)
 - [ふじしまさんが載っているJAXAの宇宙飛行士募集ページ](https://astro-mission.jaxa.jp/astro_selection/) ... 「宇宙飛行士に転職だ」
 - [宇宙飛行士選抜テスト](https://astro-mission.jaxa.jp/astro_selection/)
 - こまささん … 藤島さんのお友達
-- ふじしさんと大西宇宙飛行士との対談
+- [「大西宇宙飛行士に、OB訪問だ。」JAXA宇宙飛行士候補者募集スペシャルムービー](https://www.youtube.com/watch?v=HvZJpVwKlK4) ... ふじしまさんがOB訪問という形で大西宇宙飛行士インタビューしています
 
 ## Editorial Notes
 - (fujishi)
