@@ -4,12 +4,12 @@ actor_ids:
   - coela
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/151.mp3 
-audio_file_size: X
-date: 2022-0X-YZ 0A:BC:00 +0900
+audio_file_size: 62027344
+date: 2022-12-06 10:10:00 +0900
 rec_date: 2022-08-21 08:00:00 -0500
 edit_by: tadasu
-description: Kosuke Fujishimaさんをゲストに迎え、Fujishimaさんのこれまでの研究人生に触れながら雑談しました。
-duration: "0X:YY:ZZ"
+description: Kosuke Fujishimaさんをゲストに迎え、これまでの研究人生に触れながら研究雑談しました。
+duration: "00:58:04"
 layout: article
 tags:
   - 研究
@@ -34,8 +34,7 @@ title: 151. Olympus Mons
 - [Lynn J. Rothschild](https://www.nasa.gov/ames/spacescience-and-astrobiology/lynn-j-rothschild)
 - 火星のマグマは噴出するか？ … Nature Geo Science?
 - 火星の海
-- mosaic organ?
-- テラフォーマーズ20巻
+- テラフォーマーズ20巻 ... どこに藤島さんいるのか正直特定できておりません...
 - [ロスチャイルド家](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B9%E3%83%81%E3%83%A3%E3%82%A4%E3%83%AB%E3%83%89%E5%AE%B6)
 - [エンケラドゥス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B1%E3%83%A9%E3%83%89%E3%82%A5%E3%82%B9_(%E8%A1%9B%E6%98%9F))
 - [質量分析](https://ja.wikipedia.org/wiki/%E8%B3%AA%E9%87%8F%E5%88%86%E6%9E%90%E6%B3%95)
@@ -47,14 +46,13 @@ title: 151. Olympus Mons
 - アストロバイオロジーの三大研究 … 生命の起源、生命の分布、人類の宇宙進出
 - 東大の工藤先生
 - 全自動メダカ飼育装置
-- 宇宙メダカの論文？
+- 宇宙メダカの論文
 - 宇宙メダカ選抜テスト
 - 某ショット ... 人類は月には何年前に到達したんだっけ？
 - [ケンタウルス座アルファ星](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%82%BF%E3%82%A6%E3%83%AB%E3%82%B9%E5%BA%A7%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E6%98%9F)
 - [ブレイクスルー財団](https://breakthroughprize.org/Board)
 - [鉛の板](https://www.env.go.jp/chemi/rhm/h28kisoshiryo/h28kiso-01-03-08.html)
 - [Yuri Milner](https://breakthroughprize.org/Yuri_Milner)
-- Pete Walden?
 - [ブレイクスルースターショット計画](https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%BC%E3%82%AF%E3%82%B9%E3%83%AB%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 - [イーロン・マスク](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AF)　... [ep19 Neuron Mask](https://researchat.fm/episode/19)を参照のこと
 - [SpaceX](https://www.spacex.com/)
@@ -81,4 +79,4 @@ title: 151. Olympus Mons
 ## Editorial Notes
 - (fujishi)
 - 実は今回は高校生の皆さんにリーチするという野望があったのですが、届いたのだろうか・・・(coela)
-- (tadasu)
+- おもしろすぎました。完全版shownotesはそのうちに(tadasu)
