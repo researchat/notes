@@ -17,6 +17,7 @@ title: 151. Olympus Mons
 ---
 
 ## Shownotes
+- このShownotesは藤島さんからのコメント・修正を受ける前です。またコメント・修正を受け取り次第更新いたしますのでご了承ください。 (by tadasu)
 - [Kosuke Fujishima](http://www.elsi.jp/en/members/researchers/kfujishima/)
 - [Fujishimaさんの一つ前のエピソード](https://researchat.fm/episode/150)
 - [テラフォーマーズ](https://www.amazon.co.jp/dp/408879270X/?tag=researchatf04-22)
