@@ -5,7 +5,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/151.mp3 
 audio_file_size: 62027344
-date: 2022-12-06 10:10:00 +0900
+date: 2022-12-15 06:45:00 +0900
 rec_date: 2022-08-21 08:00:00 -0500
 edit_by: tadasu
 description: Kosuke Fujishimaさんをゲストに迎え、これまでの研究人生に触れながら研究雑談しました。
@@ -68,7 +68,6 @@ title: 151. Olympus Mons
 - [ラセミ化](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%BB%E3%83%9F%E5%8C%96)
 - 深海の微生物にはラセマーゼが多い
 - [ホモキラル](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%A2%E3%82%AD%E3%83%A9%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC)
-- ヘテロキラル
 - [EBI](https://www.ebi.ac.uk/) ... European Bioinformatics Institute
 - [Joana Pereira](https://scholar.google.com/citations?user=OKpFtIUAAAAJ&hl=en)
 - タンパク質の配列空間 ... よく使うフレーズなのですが、適切な名前が思い浮かばない (tamaki)
