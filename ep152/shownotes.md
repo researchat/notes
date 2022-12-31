@@ -7,8 +7,8 @@ audio_file_size: 62027344
 date: 2022-12-31 12:200:00 +0900
 rec_date: 2022-11-05 22:00:00 -0500
 edit_by: tadasu
-description:
-duration: "00:58:04"
+description:いただいたお便りをベースにいろいろ話しました。
+duration: "01:34:21"
 layout: article
 tags:
   - 研究
@@ -16,30 +16,29 @@ title: 152. In defence of passion
 ---
 
 ## Shownotes
-- ASMR回　ep148
-- ネアンデルタール人の本
-- ステファンペーポ
-
-- Yeti
-- ZOOM H6
-- crazyboys
-- 福岡の屋台飯動画
-- 吉野家の牛丼を再現するレシピ
-- アメリカの吉牛
-- やよいけん
-- 大戸屋
-- さんとうか harvard square
-- oryza sativa japonica group
-- バーミキュラ
-- きょんちゃんの回
-- Andrew Murray … in defence of passion
-- 總持寺
-- 阿字観
-- バイオケモインフォマティクス
-- 荻上チキ
- 山越
-- 空手バカ一代
-- 丸尾
+- [148. The Mountain is Calling You (ASMR)(Researchat.fm)](https://researchat.fm/episode/148) ... ASMR回
+- [ネアンデルタール人は私たちと交配した](https://www.amazon.co.jp/dp/B00Y9HETV6/?tag=researchatf04-22) ... [Researchat.fm ep12](https://researchat.fm/episode/12)で紹介しました。
+- [スバンテ・ペーポ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%90%E3%83%B3%E3%83%86%E3%83%BB%E3%83%9A%E3%83%BC%E3%83%9C) ... 上記の本の著者。2022年ノーベル医学・生理学賞受賞！
+- [Blue Microphones Yeti USBマイク](https://www.amazon.co.jp/dp/B01JZ6H6VU/?tag=researchatf04-22)
+- [ZOOM H6](https://www.amazon.co.jp/dp/B0863BQ1ZW/?tag=researchatf04-22)
+- [福岡の屋台動画](https://www.youtube.com/watch?v=8i9SU1DSYJY&ab_channel=Japanesefoodcraftsman) ... わくわくする
+- [吉野家の牛丼を再現するレシピ](https://kumiko-jp.com/archives/75547.html)
+- [YOSHINOYA America](https://www.yoshinoyaamerica.com/) ... アメリカの吉牛
+- [YAYOI](https://www.yayoi-us.com/) ... YAYOI...ねぇ...
+- [Ootoya America](https://ootoya.us/) ... 西の人間優遇されすぎじゃね？
+- [Santouka](https://www.santouka.co.jp/en/shop-foreign/usa/foreign01-011) ... 初めて日本で食べた時は感動したのだが... 今は全く美味しいとは思えない。
+- [Oryza sativa Japonica group](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=info&id=39947)
+- [バーミキュラ](https://www.amazon.co.jp/dp/B076WBR6R2?tag=researchatf04-22) ... 噂の高級調理器具。土鍋の方が普通に美味しかったがいかに。
+- [69. Pro tips for tips (Researchat.fm)](https://researchat.fm/episode/69) ... kyonちゃんがきて飯テロした回
+- [In defence of passion (Andrew Murray)](https://www.cell.com/current-biology/pdf/S0960-9822(06)00127-8.pdf)) ... tadasuは大学院生時代、これをデスクに貼っていた。
+- [總持寺](https://www.sojiji.jp/)
+- [阿字観](https://www.itijyoin.or.jp/shukubou/ajikan.html) ... 消してリライトしない方。總持寺の瞑想は静、阿字観は動というような感じを受けた。ゴールは近くても方法論が全く異なるのがおもしろい。
+- [ケモインフォマティクス](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%A2%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9)
+- [山越うどん](https://yamagoeudon.com/) ... 釜玉を発明したといわれる名店。個人的には釜玉よりもかけの方が山越は美味しい気がする...
+- [うどんバカ一代](http://www.udonbakaichidai.co.jp/) ...　カルボナーラうどんとかが有名な店。ここも普通のうどんの方がおいしい気が...
+- 山越う
+- 山
+- 山越
 - 山越の醤油
 - 鎌田のだし醤油
 - コーレーグース
