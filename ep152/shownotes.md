@@ -7,7 +7,7 @@ audio_file_size: 62027344
 date: 2022-12-31 12:200:00 +0900
 rec_date: 2022-11-05 22:00:00 -0500
 edit_by: tadasu
-description:。
+description:
 duration: "00:58:04"
 layout: article
 tags:
