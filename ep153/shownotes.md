@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/153.mp3 
 audio_file_size: 26751476
-date: 2022-12-31 12:200:00 +0900
+date: 2022-12-31 20:45:00 +0900
 rec_date: 2022-12-03 18:00:00 +0900
 edit_by: tadasu
 description: Researchat.meetup vol0の閉会時に収録した音源です。
@@ -20,6 +20,6 @@ title: 153. Researchat.meetup vol.0
 
 ## Editorial Notes
 - (coela)
-- meetup vol.1を開催できる日が来るのを楽しみにしています。(tadasu)
+- Researchat.meetup vol.1を開催できる日が来るのを楽しみにしています。(tadasu)
 
 
