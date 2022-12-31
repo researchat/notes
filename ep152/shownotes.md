@@ -3,7 +3,7 @@ actor_ids:
   - soh
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/152.mp3 
-audio_file_size: 62027344
+audio_file_size: 75072081
 date: 2022-12-31 12:200:00 +0900
 rec_date: 2022-11-05 22:00:00 -0500
 edit_by: tadasu
