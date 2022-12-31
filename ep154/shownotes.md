@@ -13,18 +13,15 @@ duration: "00:11:09"
 layout: article
 tags:
   - 雑談
-title: 153. Researchat.meetup vol.0
+title: 154. X
 ---
 
 ## Shownotes
-- ep152
-- 残暑！
-- 前回のデュエル回
-- panpanya回
+- 残暑！ ... またやっちまった！
+- [126. The act of recommendation (Researchat.fm)](https://researchat.fm/episode/126) ... 前回のデュエル回
+- [121. Panpanya (Researchat.fm)](https://researchat.fm/episode/121) ... panpanya回
 - [中山功太](https://www.youtube.com/@user-li1oq4oz5n)
 - [とろサーモンのラジオ](https://www.youtube.com/watch?v=elSBCIuNBlE)
-- 中山功太の怪談
-- 中山功太+Aマッソ
 - [とろサーモン](https://www.youtube.com/@torosalmon)
 - [ジャック・ラカン](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A9%E3%82%AB%E3%83%B3)
 - [疾風怒濤精神分析入門:ジャック・ラカン的生き方のススメ](https://www.amazon.co.jp/%E7%96%BE%E9%A2%A8%E6%80%92%E6%BF%A4%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80-%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A9%E3%82%AB%E3%83%B3%E7%9A%84%E7%94%9F%E3%81%8D%E6%96%B9%E3%81%AE%E3%82%B9%E3%82%B9%E3%83%A1-%E7%89%87%E5%B2%A1-%E4%B8%80%E7%AB%B9/dp/4414416310?tag=researchatf04-22)…ジャック・ラカンの精神分析の入門書
@@ -65,29 +62,29 @@ title: 153. Researchat.meetup vol.0
 - [言葉の魂の哲学](https://www.amazon.co.jp/言葉の魂の哲学-講談社選書メチエ-古田徹也-ebook/dp/B07CG5LDTP/?tag=researchatf04-22)
 - あひるにもうさぎにもみえるあれ
 - [小笠原鳥類](http://tomo-dati.jugem.jp/)
-- CRISPR
-- エピジェネティクス
-- 後生遺伝学
+- [CRISPR](https://en.wikipedia.org/wiki/CRISPR) ... みんなご存知
+- [エピジェネティクス](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%94%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9) ... これを説明するのはかなり難しい。"DNAの一次配列の変化を伴わない後天的な修飾により行われる制御機構" と私の卒論に書いていますが、これはかなり一面的ですね。
+- 後成遺伝学 ... epi + geneticsの日本語訳
 - ブラックホールもダークマターもなんかかっこいいもんね
-- our father
-- 哲学読書会
-- ゆっくり
-- 俺の世界史
-- ゆっくりアドベンチャー
-- ゆっくり宇宙
-- ゆっくり武器
-- voice roid
-- 一人称のやつも違和感なくなった
-- audible
+- [Our Father](https://www.netflix.com/title/81227735)
+- 哲学読書会 ... dessanやyamakenさんがあつまってやっている怪しい会合
+- [ゆっくり解説](https://dic.nicovideo.jp/a/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E8%A7%A3%E8%AA%AC)
+- [俺の世界史Ch](https://www.youtube.com/c/%E4%BF%BA%E3%81%AE%E4%B8%96%E7%95%8C%E5%8F%B2ch?app=desktop) ... 世界史が学べるゆっくり。最高。
+- [第74位：ハンニバル　世界史上最強の戦術家　世界史に影響を与えた人物ランキング](https://www.youtube.com/watch?v=tmwFuCiL8AQ&list=WL&index=34&t=17s&ab_channel=%E4%BF%BA%E3%81%AE%E4%B8%96%E7%95%8C%E5%8F%B2ch) ... coelaさんの言いたいことがわかってきた！ハンニバル！
+- [ゆっくりアドベンチャー](https://www.youtube.com/channel/UCs9rMEbSbrbd6M0Huv6gpcQ)
+- [ゆっくりまうんてん](https://www.youtube.com/watch?v=4l3yowi-hu8&ab_channel=%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E3%81%BE%E3%81%86%E3%82%93%E3%81%A6%E3%82%93) ... 山岳まとめ最高！ニルマル・プルジャ最高！
+- [ゆっくり宇宙ハンター](https://www.youtube.com/@space-hunter)
+- voiceroid ... いろんなのがあるな
+- 一人称のやつも違和感なくなった (tadasuの感想) 解脱に向けていく必要がある。
+- [audible](https://www.amazon.co.jp/dp/B08J7D7915/?tag=researchatf04-22)
 - [宇宙やばいラジオ](https://www.youtube.com/playlist?list=PLTG8u3yt_KuZXjQ0diiVB_-3QabgF5GIp)
-- 声フォント
-- 赤江珠緒
-- 平山夢明
+- [Coefont](https://coefont.cloud/) ... 意外とすでにすごかった。ひろゆきさんに「リサーチャットがおもしろい？それ、あなたの感想ですよね。」って言わせてみてください。
+- [赤江珠緒](https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%B1%9F%E7%8F%A0%E7%B7%92) 
+- [平山夢明](https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%B1%B1%E5%A4%A2%E6%98%8E) ... 冨樫展の最後が夢さんのコメントでびびった。
 - [東京ガベージコレクション](https://ja.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E3%82%AC%E3%83%99%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)
-- よみあげくん
-- 大塚明夫
+- [よみあげくん](https://www.vector.co.jp/soft/win95/edu/se326037.html)
+- [大塚明夫](https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%A1%9A%E6%98%8E%E5%A4%AB)
 - [Planet Biology](https://ncode.syosetu.com/n2034dt/)…やまけんの初めて公開したSF小説
-
 
 ## Editorial Notes
 - 今回も音質悪くてすいません！マイク買います！ (dessan)
