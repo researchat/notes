@@ -91,6 +91,7 @@ title: 153. Researchat.meetup vol.0
 
 ## Editorial Notes
 - 今回も音質悪くてすいません！マイク買います！ (dessan)
+- お父さん、バイオ何してるかよくわからないマティシャンで食っていこうと思うんだ……。(yamaken)
 - 残暑すいませんでした！今回も暑すぎたぜ！(tadasu)
 
 
