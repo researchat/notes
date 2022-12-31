@@ -4,16 +4,16 @@ actor_ids:
   - yamaken
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/154.mp3 
-audio_file_size: X
+audio_file_size: 86431999
 date: 2022-12-31 20:45:00 +0900
 rec_date: 2022-09-11 07:00:00 +0900
 edit_by: tadasu
-description: Researchat.meetup vol0の閉会時に収録した音源です。
-duration: "00:11:09"
+description: 暑さがまだ残る季節に、アニメ版平家物語、清原なつの、言葉の魂の哲学、ゆっくり解説などについて話し合いました。
+duration: "02:01:41"
 layout: article
 tags:
   - 雑談
-title: 154. X
+title: 154. Declare the beginning of the duel
 ---
 
 ## Shownotes
