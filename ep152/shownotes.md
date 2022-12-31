@@ -49,18 +49,18 @@ title: 152. In defence of passion
 - [J1 two years rule](https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor.html)　... 結構大事なので気になる人はチェック
 - [133. The longest self-introduction (Researchat.fm)](https://researchat.fm/episode/133)) ... mazさん回 "mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさを話していただきました。"
 - [mazpod.fm](https://podcasts.apple.com/us/podcast/mazpod-fm/id1637276391) ... maz (@dynamicsoar) が淡々と論文を紹介していく podcast, になるかもしれません。専門からわりと近くないと難しいので、たぶん生物飛行やその周辺。ハッシュタグは #mazpodfm あたりがいいんじゃないでしょうか。
-- kenen ep73
-- タコ娘さん
-- タコ娘さんのゴミ屋敷
-- researchat ep1
-- ギャルと恐竜
-- チェンソーマン
-- 研究者たちが語る食欲
-- instagram
-- youtube
+- [#73 論文の未来を語ろう (🔬おすすめ回)](https://anchor.fm/ken-en-no-naka/episodes/73-e1d9uf5) ... 研エンの仲 まじおすすめです。というか今年収録した中ではトップにおもしろい回
+- [タコ娘さん](https://twitter.com/yahootakomusume)
+- [ざっかけないマンガたち (by タコ娘さん)](https://anchor.fm/u6e0bu8c37u7950u4ecb/episodes/ep-e1f570v) ... 『自治体による「ごみ屋敷」対策』序章 
+- [1. 600 tabs in your browser (Researchat.fm)](https://researchat.fm/episode/1) ... ゴミ屋敷やタブの話をしている回
+- [ギャルと恐竜](https://www.amazon.co.jp/dp/4065152038?tag=researchatf04-22)
+- [チェンソーマン](https://www.amazon.co.jp/gp/product/B09P3Y9JYK?tag=researchatf04-22)
+- [研究者たちが語る食欲](https://www.amazon.co.jp/dp/4763137921?tag=researchatf04-22) ... 気になるな
+- [Researchat.fmのinstagram](https://www.instagram.com/researchat.fm/) ... なにかそのうちに投稿します。
+- [Researchat.fmのyoutube](https://www.youtube.com/@researchatfm6398) ... 目指せ1000人。登録よろしくお願いします！
 
 
 ## Editorial Notes
 - (soh)
-- (tadasu)
+- 日本に行った感想回もすぐだします！みなさん2023年もよろしくお願いします。(tadasu)
 
