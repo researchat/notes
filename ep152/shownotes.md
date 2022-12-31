@@ -47,9 +47,8 @@ title: 152. In defence of passion
 - [残波](https://www.zanpa.co.jp/) ... 飲みやすすぎるのでまずはここから。
 - [大上先生の学振本](https://www.amazon.co.jp/dp/4065231078?tag=researchatf04-22) ... まずはここから。
 - [J1 two years rule](https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor.html)　... 結構大事なので気になる人はチェック
-
-- mazさん回
-- mazpod
+- [133. The longest self-introduction (Researchat.fm)](https://researchat.fm/episode/133)) ... mazさん回 "mazさんをゲストに迎え、自身の研究の変遷を軸に、バイオメカニクスのおもしろさを話していただきました。"
+- [mazpod.fm](https://podcasts.apple.com/us/podcast/mazpod-fm/id1637276391) ... maz (@dynamicsoar) が淡々と論文を紹介していく podcast, になるかもしれません。専門からわりと近くないと難しいので、たぶん生物飛行やその周辺。ハッシュタグは #mazpodfm あたりがいいんじゃないでしょうか。
 - kenen ep73
 - タコ娘さん
 - タコ娘さんのゴミ屋敷
