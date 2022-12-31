@@ -7,7 +7,7 @@ audio_file_size: 62027344
 date: 2022-12-31 12:200:00 +0900
 rec_date: 2022-11-05 22:00:00 -0500
 edit_by: tadasu
-description:いただいたお便りをベースにいろいろ話しました。
+description: いただいたお便りをベースにいろいろ話しました。
 duration: "01:34:21"
 layout: article
 tags:
@@ -36,20 +36,18 @@ title: 152. In defence of passion
 - [ケモインフォマティクス](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%A2%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9)
 - [山越うどん](https://yamagoeudon.com/) ... 釜玉を発明したといわれる名店。個人的には釜玉よりもかけの方が山越は美味しい気がする...
 - [うどんバカ一代](http://www.udonbakaichidai.co.jp/) ...　カルボナーラうどんとかが有名な店。ここも普通のうどんの方がおいしい気が...
-- 山越う
-- 山
-- 山越
-- 山越の醤油
-- 鎌田のだし醤油
-- コーレーグース
-- ソーキそば
-- 泡盛
-- OIST
-- まんざ
-- 残波
-- zakkaya
-- 大上先生の学振本
-- J1 two year’s rule
+- [丸尾の醤油](https://www.amazon.co.jp/dp/B00O0E9KEY?tag=researchatf04-22) ... 某うどん店でも外に山ほどここの醤油の段ボールが積んでいた。
+- [山越の醤油](https://www.amazon.co.jp/dp/B00B1ZHVQY?tag=researchatf04-22) ... 最高や！
+- [鎌田のだし醤油](https://www.amazon.co.jp/dp/B01AR4BJB2?tag=researchatf04-22) ... 鉄板
+- [コーレーグース](https://www.amazon.co.jp/dp/B0050HJQD0?tag=researchatf04-22) ... 最強の調味料。なんでみんな使わないの...人生変わるよ？
+- ソーキそば ... うまい
+- 泡盛　... 酒はもうこれだけでええ。
+- [OIST](https://www.oist.jp/) ... OISTで研究しながらソーキそば食べて泡盛飲むだけの生活したい。
+- [萬座](https://manza.jp/) ... 恩納村(OISTがあるところ)の泡盛。ここの一番普通のやつが臭くてコーレーグース用にちょうどいいと島唐辛子と泡盛が送られてきたのが色々の始まり。地元の人も敬遠すると聞いたが普通にうますぎる。鼻が壊れてるのかもしれない。
+- [残波](https://www.zanpa.co.jp/) ... 飲みやすすぎるのでまずはここから。
+- [大上先生の学振本](https://www.amazon.co.jp/dp/4065231078?tag=researchatf04-22) ... まずはここから。
+- [J1 two years rule](https://travel.state.gov/content/travel/en/us-visas/study/exchange/waiver-of-the-exchange-visitor.html)　... 結構大事なので気になる人はチェック
+
 - mazさん回
 - mazpod
 - kenen ep73
