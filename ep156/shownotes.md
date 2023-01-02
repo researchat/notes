@@ -8,7 +8,7 @@ audio_file_size: 59392403
 date: 2023-01-04 20:45:00 +0900
 rec_date: 2022-12-28 12:00:00 +0900
 edit_by: tadasu
-description: 
+description: 塊根植物の栽培とDIY温室、家庭菜園と害獣、クラシックなInstagramの使い方について話しました。
 duration: "00:52:57"
 layout: article
 tags:
