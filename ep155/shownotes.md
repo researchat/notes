@@ -28,6 +28,7 @@ title: 155. Theory of Meetup
 - [researchatLT vol1](https://www.youtube.com/watch?v=kKLt956ieSM) ... YouTubeへの登録もよろしくお願いします。
 - [researchatLT vol2](https://www.youtube.com/watch?v=8st6KoYsnP0)
 - [researchatfmのステッカー@東中野雑談](https://twitter.com/researchat_fm/status/1598828054419472384) ... researchatfmのステッカーを東中野雑談で手に入れることができます！
+- [Sticker Mule](https://www.stickermule.com/unlock?ref_id=4780242701&utm_medium=link&utm_source=invite) ... Researchat.fmのステッカーはここで作っています。日本に送れるかはよくわからない。
 
 ## Editorial Notes
 - (soh)
