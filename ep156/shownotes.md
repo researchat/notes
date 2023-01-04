@@ -58,7 +58,7 @@ title: 156. Plants as new media
 - CPAN
 
 ## Editorial Notes
-- (soh)
+- かつて無いほどにアライグマが嫌いになりました (soh)
 - (coela)
 - 植物に覆われていく...！(tadasu)
 
