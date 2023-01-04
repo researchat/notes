@@ -50,7 +50,7 @@ title: 156. Plants as new media
 - ガンダムのヒロインとトマト
 - フェノール入り -> フェノールフタレイン
 - ツインピークス
-- [Instagram (Wikipedia)](https://ja.wikipedia.org/wiki/Instagram) ... インスタグラムは2010/10/06らしいので本当に多分石黒は古参
+- [Instagram (Wikipedia)](https://ja.wikipedia.org/wiki/Instagram) ... インスタグラムは2010/10/06らしいので本当に多分石黒は古参とのことですが、確認したら最初のラーメン画像の投稿は、2011年3月21日でした。インスタの日本語サービスが2014年に始まる随分と前ですね。この頃はインスタ映えみたいな感じじゃなかったな。
 - yorufukuro
 - echofont
 - 中吊り広告 … old media
@@ -61,9 +61,3 @@ title: 156. Plants as new media
 - かつて無いほどにアライグマが嫌いになりました (soh)
 - (coela)
 - 植物に覆われていく...！(tadasu)
-
-
-
-
-
-
