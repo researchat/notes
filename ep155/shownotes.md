@@ -31,7 +31,7 @@ title: 155. Theory of Meetup
 - [Sticker Mule](https://www.stickermule.com/unlock?ref_id=4780242701&utm_medium=link&utm_source=invite) ... Researchat.fmのステッカーはここで作っています。日本に送れるかはよくわからない。
 
 ## Editorial Notes
-- (soh)
+- 第2回やります (soh)
 - まさか我が家に旗を飾れる日がくるとは・・・！(coela)
 - 次回のオフ会に期待！(tadasu)
 
