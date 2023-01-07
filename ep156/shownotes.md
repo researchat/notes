@@ -59,5 +59,5 @@ title: 156. Plants as new media
 
 ## Editorial Notes
 - かつて無いほどにアライグマが嫌いになりました (soh)
-- (coela)
+- いつまで続くか正直謎ですが、インスタグラムアカウントもよろしくおねがいします！！(coela)
 - 植物に覆われていく...！(tadasu)
