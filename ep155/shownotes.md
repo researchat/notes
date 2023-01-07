@@ -32,7 +32,7 @@ title: 155. Theory of Meetup
 
 ## Editorial Notes
 - (soh)
-- (coela)
+- まさか我が家に旗を飾れる日がくるとは・・・！(coela)
 - 次回のオフ会に期待！(tadasu)
 
 
