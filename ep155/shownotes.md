@@ -5,7 +5,7 @@ actor_ids:
   - coela
 audio_file_path: https://traffic.libsyn.com/secure/researchat/155.mp3 
 audio_file_size: 32827847
-date: 2023-01-03 20:45:00 +0900
+date: 2023-01-09 04:40:00 +0900
 rec_date: 2022-12-28 12:00:00 +0900
 edit_by: tadasu
 description: Researchat.meetup vol.0の感想とポッドキャストオフ会について話し合いました。
