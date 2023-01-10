@@ -19,7 +19,7 @@ title: 156. Plants as new media
 ## Shownotes
 - codex
 - [GORE-TEX](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%A2%E3%83%86%E3%83%83%E3%82%AF%E3%82%B9)
-- [塊根(かいこん)植物･コーデックスとは？特徴や育て方･代表的な種類も紹介します](https://plant-mag.com/2020/12/caudex-about.html
+- [塊根(かいこん)植物･コーデックスとは？特徴や育て方･代表的な種類も紹介します](https://plant-mag.com/2020/12/caudex-about.html)
 - [アデニウム](https://www.shuminoengei.jp/m-pc/a-page_p_detail/target_plant_code-983) … 学名：Adenium, その他の名前：砂漠のバラ 科名 / 属名：キョウチクトウ科 / アデニウム属 
 - [メガニウム](https://zukan.pokemon.co.jp/detail/154) ... チコリータの最終進化系。ポケモン第二世代で登場。
 - [ガジュマル](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B8%E3%83%A5%E3%83%9E%E3%83%AB)
