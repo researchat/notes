@@ -25,7 +25,7 @@ title: 156. Plants as new media
 - [ガジュマル](https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B8%E3%83%A5%E3%83%9E%E3%83%AB)
 - [貧者の薔薇(ミニチュアローズ)](https://w.atwiki.jp/aniwotawiki/pages/43406.html) ... 人間の底すらない悪意(進化)を！！
 - [ぷらんちゅ](https://novelgame.jp/games/show/6590) ... "植物を同定して進める恋愛ゲームです!" 是非プレイしてください。
-- [ぷらんちゅの配信 by Researchat.fm](https://www.youtube.com/watch?v=d4YMrm3OHfg&ab_channel=Researchatfm)
+- [ぷらんちゅの配信 by Researchat.fm](https://www.youtube.com/watch?v=d4YMrm3OHfg&ab_channel=Researchatfm) ... "分子生物学者がプレイする「植物同定恋愛ゲーム ぷらんちゅ」ぷらんちゅの作成者のまいんさんをお呼びし、ポッドキャスト番組Researchat.fmのメンバーで実況プレイしました。"
 - [レッドリスト](https://www.env.go.jp/nature/kisho/hozen/redlist/index.html)
 - [ワシントン条約](https://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/index.html)
 - オペルプリカリアパキプス
