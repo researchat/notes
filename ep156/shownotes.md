@@ -28,7 +28,7 @@ title: 156. Plants as new media
 - [ぷらんちゅの配信 by Researchat.fm](https://www.youtube.com/watch?v=d4YMrm3OHfg&ab_channel=Researchatfm) ... "分子生物学者がプレイする「植物同定恋愛ゲーム ぷらんちゅ」ぷらんちゅの作成者のまいんさんをお呼びし、ポッドキャスト番組Researchat.fmのメンバーで実況プレイしました。"
 - [レッドリスト](https://www.env.go.jp/nature/kisho/hozen/redlist/index.html)
 - [ワシントン条約](https://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/index.html)
-- [オペルプリカリア　パキプス](http://isladelpescado.com/item/succulents/caudex/operculicarya_pachypus.html)　... コーデックスの一種
+- [オペルプリカリア　パキプス](https://en.wikipedia.org/wiki/Operculicarya)　... コーデックスの一種
 - コーデックスの種 ... いくつか買って種から育ててみた。なお収録中に言及した、実生が実際にレッドリストに登録されている植物に与える影響はcoelaの独自見解です。
 - DIY温室 ... こちら(https://mkskblog.com/caudex-onsitu/)のサイトなどを参考に作成してみました
 - [SwitchBot　温湿度計](https://www.amazon.co.jp/dp/B07L4QNZVF/?tag=researchatf04-22)
