@@ -29,8 +29,8 @@ title: 156. Plants as new media
 - [レッドリスト](https://www.env.go.jp/nature/kisho/hozen/redlist/index.html)
 - [ワシントン条約](https://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/index.html)
 - [オペルプリカリア　パキプス](http://isladelpescado.com/item/succulents/caudex/operculicarya_pachypus.html)　... コーデックスの一種
-- パキプスの種 ... 買って種から育ててみた。なお収録中に言及した実生が実際にレッドリストに登録されている植物に与える影響はcoelaの独自見解です。
-- DIY温室 ... こちら(https://mkskblog.com/caudex-onsitu/)のサイトを参考に作成してみました
+- コーデックスの種 ... いくつか買って種から育ててみた。なお収録中に言及した、実生が実際にレッドリストに登録されている植物に与える影響はcoelaの独自見解です。
+- DIY温室 ... こちら(https://mkskblog.com/caudex-onsitu/)のサイトなどを参考に作成してみました
 - [SwitchBot　温湿度計](https://www.amazon.co.jp/dp/B07L4QNZVF/?tag=researchatf04-22)
 - [ドラセナ ドラコ](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%B1%E3%83%84%E3%82%B8%E3%83%A5) ... 樹液が赤いことから竜血樹とも呼ばれる。かっこいい。
 - [マンドラゴラ(マンドレイク)](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E3%83%89%E3%83%AC%E3%82%A4%E3%82%AF)
