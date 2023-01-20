@@ -56,30 +56,22 @@ title: 157. Litmus milk
 - [二倍体](https://kotobank.jp/word/%E4%BA%8C%E5%80%8D%E4%BD%93-592567) ... 倍数性の変化をしっかり理解しておこう。(T)
 - [半保存的複製](https://ja.wikipedia.org/wiki/%E5%8D%8A%E4%BF%9D%E5%AD%98%E7%9A%84%E8%A4%87%E8%A3%BD) 
 - [Meselson・Stahlの実験](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BB%E3%83%AB%E3%82%BD%E3%83%B3-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AB%E3%81%AE%E5%AE%9F%E9%A8%93)
-- 半保存的複製
-- 半保存的複製
-- [Messelson and Stahlの動画](https://www.youtube.com/watch?v=7-tnuAqEp9g)) ... もう
-- 半保存的複製sうき
+- [MeselsonとStahlのインタビュー動画](https://www.youtube.com/watch?v=7-tnuAqEp9g)) ... もう好きすぎて何十回かはみた。本当に良い(T)。
 - 3G bp x 2 = 6G bp
-- フローサイトメトリー
-- FACS
+- [フローサイトメトリー](https://www.cosmobio.co.jp/product/detail/Introduction-flow-cytometry.asp?entry_id=35004) ... あの細胞のラベルわけの図はよくみる。
 - EdUでラベルしよう
-- ユークロマチンとヘテロクロマチン
-- 細胞を同調させてイメージングする実験でひたすら起きていた日のことや午前二時に自転車で爆走してラボに来た日のこと（天体観測風) を思い出しました(e.g., Nozaki et al., 2017 Figure A)
-- リトマスミルク
-- リトマス苔
-- litmus milk
-- NK細胞
-- 弱酸性ビオレ
-- 免疫系
-- T細胞
-- B細胞
-- はたらく細胞
-- 窒素循環
-- 草じゃなくて葉っぱ
-- 年間における葉量の違いはボストンで暮らすと死ぬほど体感できるのでみた瞬間になんとなく分かったのだった。
-
-
+- ユークロマチンとヘテロクロマチン ... 転写が活性化している部位とそうではない部位。ユークロマチンから複製が始まるといわれているため、DNA標識する物質を入れるタイミングをかえることで染め分けられる。言い忘れましたが、短時間で標識するっていう文言も大事でしたね。(T)
+- 細胞を同調させてイメージングする実験でひたすら起きていた日のことや午前二時に自転車で爆走してラボに来た日のことを思い出しました(e.g., Nozaki et al., 2017 Figure 5AB, 天体観測風)
+- [リトマスミルク](https://kotobank.jp/word/%E3%83%AA%E3%83%88%E3%83%9E%E3%82%B9%E7%89%9B%E4%B9%B3-773898)
+- [リトマスゴケ](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%9E%E3%82%B9%E3%82%B4%E3%82%B1) ... え、リトマスってここから来てるの？(T)
+- [NK細胞](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%82%AD%E3%83%A9%E3%83%BC%E7%B4%B0%E8%83%9E)
+- [弱酸性ビオレ](https://www.kao.co.jp/bioreu/acidulous/)
+- [免疫系](https://ja.wikipedia.org/wiki/%E5%85%8D%E7%96%AB%E7%B3%BB)
+- [T細胞](https://kotobank.jp/word/T%E7%B4%B0%E8%83%9E-157669)
+- [B細胞](https://kotobank.jp/word/B%E7%B4%B0%E8%83%9E-157673)
+- [はたらく細胞](https://www.amazon.co.jp/dp/B07F9FMV1G/) ... 見たことないのであまり知らない(T)
+- [窒素循環](https://ja.wikipedia.org/wiki/%E7%AA%92%E7%B4%A0%E5%BE%AA%E7%92%B0) ... これからは窒素循環を感じていく。
+- 草じゃなくて葉っぱ ... 頭が茹っていた。年間における葉量の違いはボストンで暮らすと死ぬほど体感できるのでみた瞬間になんとなく分かったのだった。(T)
 - おおいなるかせつ
 - ジョンメイナードスミスの本
 - deDuve
