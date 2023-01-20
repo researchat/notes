@@ -74,18 +74,15 @@ title: 157. Litmus milk
 - [窒素循環](https://ja.wikipedia.org/wiki/%E7%AA%92%E7%B4%A0%E5%BE%AA%E7%92%B0) ... これからは窒素循環を感じていく。
 - 草じゃなくて葉っぱ ... 頭が茹っていた。年間における葉量の違いはボストンで暮らすと死ぬほど体感できるのでみた瞬間になんとなく分かったのだった。(T)
 
-- なんとなくtadasuが大学生(高校生)で読んだ本シリーズ
+- 以下、なんとなくtadasuが大学生(高校生)で読んだ本シリーズ
 - [生物進化を考える](https://www.amazon.co.jp/dp/B07YYYDM8G) ... 高校生の時に生物IIで読んだ木村資生先生の名前と中立説というのが気になって借りて読んだ本。進化のロマンを感じた。
 - [大いなる仮説](https://www.amazon.co.jp/dp/4946398678) ... 大野乾先生のこと知って大学で借りて読んだ本。
 - [進化する階層―生命の発生から言語の誕生まで](https://www.amazon.co.jp/dp/4431707379/) ... 大学生の時に読んだ大家ジョンメイナードスミスの本。他の本は数式だらけでわけわかめだったがこの本は読みやすくて色々考えた気がする（違ってたらすいません)
 - [進化の特異事象](https://www.amazon.co.jp/dp/4903532054) ... 大学生の時に読んだCristian deDuveの名著。進化について考える時にはこの本を読むとかなりガイドになると思う。高校生でも読める、とおもう。
 - [ワンダフルライフ](https://www.amazon.co.jp/dp/4150502366) ... グールドの本。古生物学にかなり興味が湧いた。
-- [A Genetic Switch](https://www.amazon.com/dp/0879697164) ... 転写制御の第一人者であるMark Ptashneが書いた本。1st Editionが良いと聞く。結構薄くて大学で初めてちゃんと読み切った洋書。
-- ドーキンス
-- tadasuが最近面白いと思っているmitosis, meiosis, mitchondria, sexの進化についての考察。meiosisはmitosisよりも起源が古いのか。mitochondriaはmeiosis, sexの誕生に必要なのか、それともvice versa。
-- researchat（知識とのかいごう)
-- [ぷらんちゅ](https://novelgame.jp/games/show/6590) ... "植物を同定して進める恋愛ゲームです!" 是非プレイしてください。
-- [ぷらんちゅの配信 by Researchat.fm](https://www.youtube.com/watch?v=d4YMrm3OHfg&ab_channel=Researchatfm) ... "分子生物学者がプレイする「植物同定恋愛ゲーム ぷらんちゅ」ぷらんちゅの作成者のまいんさんをお呼びし、ポッドキャスト番組Researchat.fmのメンバーで実況プレイしました。"
+- [A Genetic Switch](https://www.amazon.co.jp/dp/B001WAKRQE/) ... 転写制御の第一人者であるMark Ptashneが書いた本。1st Editionが良いと聞く。結構薄くて大学で初めてちゃんと読み切った洋書。
+- [利己的な遺伝子](https://www.amazon.co.jp/dp/B07HK2TDQ1/) ... ドーキンスの本。周りのみんなは結構読んでいたが実は大学院生ぐらいまで読んでいなかったのだった...
+- [Garg and Martin. GBE (2016)](https://academic.oup.com/gbe/article/8/6/1950/2574120) ... "Mitochondria, the Cell Cycle, and the Origin of Sex via a Syncytial Eukaryote Common Ancestor" tadasuが最近面白いと思っているmitosis, meiosis, mitchondria, sexの進化についての考察。meiosisはmitosisよりも起源が古いのか。mitochondriaはmeiosis, sexの誕生に必要なのか、それともvice versa。
 
 ## Editorial Notes
 - (まいん)
