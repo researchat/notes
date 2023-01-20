@@ -20,7 +20,8 @@ title: 157. Litmus milk
 - [2023年度大学入学共通テスト 生物基礎](https://edu.chunichi.co.jp/site_home/center/pdf/2023seibutsukiso_q.pdf)
 - [2023年度大学入学共通テスト 生物](https://edu.chunichi.co.jp/site_home/center/pdf/2023seibutsu_q.pdf)
 - 共通テストの目的（声明？)
-- [あいまいまいんの生物学](https://i-my-mine.hatenablog.com/archive)
+- [あいまいまいんの生物学](https://i-my-mine.hatenablog.com/archive) ... まいん先生のブログ
+- [2023年度大学入試共通テスト　生物基礎　所感 (あいまいまいんの生物学)](https://i-my-mine.hatenablog.com/entry/2023/01/16/2023%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88_%E7%94%9F%E7%89%A9%E5%9F%BA%E7%A4%8E_%E6%89%80%E6%84%9F) ... まいん先生による生物基礎解説
 - [ぷらんちゅ](https://novelgame.jp/games/show/6590) ... "植物を同定して進める恋愛ゲームです!" 是非プレイしてください。
 - [ぷらんちゅの配信 by Researchat.fm](https://www.youtube.com/watch?v=d4YMrm3OHfg&ab_channel=Researchatfm) ... "分子生物学者がプレイする「植物同定恋愛ゲーム ぷらんちゅ」ぷらんちゅの作成者のまいんさんをお呼びし、ポッドキャスト番組Researchat.fmのメンバーで実況プレイしました。" YouTubeフォローしてください...
 - 共通一次、 センター試験 ... 昭和・平成を感じる (T)
@@ -72,13 +73,15 @@ title: 157. Litmus milk
 - [はたらく細胞](https://www.amazon.co.jp/dp/B07F9FMV1G/) ... 見たことないのであまり知らない(T)
 - [窒素循環](https://ja.wikipedia.org/wiki/%E7%AA%92%E7%B4%A0%E5%BE%AA%E7%92%B0) ... これからは窒素循環を感じていく。
 - 草じゃなくて葉っぱ ... 頭が茹っていた。年間における葉量の違いはボストンで暮らすと死ぬほど体感できるのでみた瞬間になんとなく分かったのだった。(T)
-- おおいなるかせつ
-- ジョンメイナードスミスの本
-- deDuve
-- ワンダフルライフ
-- genetic switch
+
+- なんとなくtadasuが大学生(高校生)で読んだ本シリーズ
+- [生物進化を考える](https://www.amazon.co.jp/dp/B07YYYDM8G) ... 高校生の時に生物IIで読んだ木村資生先生の名前と中立説というのが気になって借りて読んだ本。進化のロマンを感じた。
+- [大いなる仮説](https://www.amazon.co.jp/dp/4946398678) ... 大野乾先生のこと知って大学で借りて読んだ本。
+- [進化する階層―生命の発生から言語の誕生まで](https://www.amazon.co.jp/dp/4431707379/) ... 大学生の時に読んだ大家ジョンメイナードスミスの本。他の本は数式だらけでわけわかめだったがこの本は読みやすくて色々考えた気がする（違ってたらすいません)
+- [進化の特異事象](https://www.amazon.co.jp/dp/4903532054) ... 大学生の時に読んだCristian deDuveの名著。進化について考える時にはこの本を読むとかなりガイドになると思う。高校生でも読める、とおもう。
+- [ワンダフルライフ](https://www.amazon.co.jp/dp/4150502366) ... グールドの本。古生物学にかなり興味が湧いた。
+- [A Genetic Switch](https://www.amazon.com/dp/0879697164) ... 転写制御の第一人者であるMark Ptashneが書いた本。1st Editionが良いと聞く。結構薄くて大学で初めてちゃんと読み切った洋書。
 - ドーキンス
-- 木村もとおの本
 - tadasuが最近面白いと思っているmitosis, meiosis, mitchondria, sexの進化についての考察。meiosisはmitosisよりも起源が古いのか。mitochondriaはmeiosis, sexの誕生に必要なのか、それともvice versa。
 - researchat（知識とのかいごう)
 - [ぷらんちゅ](https://novelgame.jp/games/show/6590) ... "植物を同定して進める恋愛ゲームです!" 是非プレイしてください。
