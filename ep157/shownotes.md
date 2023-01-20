@@ -55,11 +55,11 @@ title: 157. Litmus milk
 - [減数分裂](https://ja.wikipedia.org/wiki/%E6%B8%9B%E6%95%B0%E5%88%86%E8%A3%82) ... ワクワクするな！(T)
 - [二倍体](https://kotobank.jp/word/%E4%BA%8C%E5%80%8D%E4%BD%93-592567) ... 倍数性の変化をしっかり理解しておこう。(T)
 - [半保存的複製](https://ja.wikipedia.org/wiki/%E5%8D%8A%E4%BF%9D%E5%AD%98%E7%9A%84%E8%A4%87%E8%A3%BD) 
+- [Meselson・Stahlの実験](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BB%E3%83%AB%E3%82%BD%E3%83%B3-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AB%E3%81%AE%E5%AE%9F%E9%A8%93)
 - 半保存的複製
-- [Meselson・Stahlの](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BB%E3%83%AB%E3%82%BD%E3%83%B3-%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AB%E3%81%AE%E5%AE%9F%E9%A8%93)
-- 半保存的複製j一
 - 半保存的複製
-- Messelson and Stahlの動画
+- [Messelson and Stahlの動画](https://www.youtube.com/watch?v=7-tnuAqEp9g)) ... もう
+- 半保存的複製sうき
 - 3G bp x 2 = 6G bp
 - フローサイトメトリー
 - FACS
