@@ -41,7 +41,7 @@ title: 157. Litmus milk
 - [シアノバクテリア](http://photosynthesis.c.u-tokyo.ac.jp/cyano.html)
 - [パラサイトイブ](https://www.amazon.co.jp/dp/B0099FE77Y?tag=researchatf04-22) ... これ読んだらミトコンドリアにワクワクすること必至(T)
 - ミトコンドリアや葉緑体の一部の遺伝子が核内ゲノムに移行している（移行中）なのを知った時はちびったよね。マジで感動した (T)。
-- [遺伝子](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90) ... DNAとゲノム、遺伝子、染色体の違いを説明せよ(R5 researchat.fm)
+- [遺伝子](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90) ... DNAとゲノム、遺伝子、染色体の違いを説明せよ(R5 researchat.fm)みたいなのはまとめておくと便利。
 - G1, S, G2, M ... 覚えていくしかない...
 - 間期 (interphase), 分裂期 (mitosis)
 - meiosis ... 減数分裂　真核生物のロマン(T)
@@ -60,7 +60,7 @@ title: 157. Litmus milk
 - [フローサイトメトリー](https://www.cosmobio.co.jp/product/detail/Introduction-flow-cytometry.asp?entry_id=35004) ... あの細胞のラベルわけの図はよくみる。
 - EdUでラベルしよう
 - ユークロマチンとヘテロクロマチン ... 転写が活性化している部位とそうではない部位。ユークロマチンから複製が始まるといわれているため、DNA標識する物質を入れるタイミングをかえることで染め分けられる。言い忘れましたが、短時間で標識するっていう文言も大事でしたね。(T)
-- 細胞を同調させてイメージングする実験でひたすら起きていた日のことや午前二時に自転車で爆走してラボに来た日のことを思い出しまして涙出ました(e.g., Nozaki et al., 2017 Figure 5AB, 天体観測風)
+- 細胞を同調させてイメージングする実験でひたすら起きていた日のことや午前二時に自転車で爆走してラボに来た日のことを思い出しまして涙出ました(e.g., Nozaki et al., 2017 Figure 5AB)
 - [リトマスミルク](https://kotobank.jp/word/%E3%83%AA%E3%83%88%E3%83%9E%E3%82%B9%E7%89%9B%E4%B9%B3-773898)
 - [リトマスゴケ](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%88%E3%83%9E%E3%82%B9%E3%82%B4%E3%82%B1) ... え、リトマスってここから来てるの？(T)
 - [NK細胞](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%81%E3%83%A5%E3%83%A9%E3%83%AB%E3%82%AD%E3%83%A9%E3%83%BC%E7%B4%B0%E8%83%9E)
