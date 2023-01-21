@@ -25,8 +25,11 @@ title: 157. Litmus milk
 - [ぷらんちゅ](https://novelgame.jp/games/show/6590) ... "植物を同定して進める恋愛ゲームです!" 是非プレイしてください。
 - [ぷらんちゅの配信 by Researchat.fm](https://www.youtube.com/watch?v=d4YMrm3OHfg&ab_channel=Researchatfm) ... "分子生物学者がプレイする「植物同定恋愛ゲーム ぷらんちゅ」ぷらんちゅの作成者のまいんさんをお呼びし、ポッドキャスト番組Researchat.fmのメンバーで実況プレイしました。" YouTubeフォローしてください...
 - 共通一次、 センター試験 ... 昭和・平成を感じる (T)
-- 令和5年度共通テスト出題方針
-- [Molecular Biology of the Cell](https://www.amazon.co.jp/dp/0393884856/?tag=researchatf04-22) ... 通称Cell イキって買うも持て余すか、ディスプレーの高さ調整台になるか、ダンベルになるか、鈍器になるか、君の血肉になるかは君次第(T)
+- [令和５年度大学入学者選抜に係る大学入学共通テスト出題教科・科目の出題方法等及び問題作成方針](https://www.dnc.ac.jp/albums/abm.php?d=31&f=abm00000288.pdf&n=%E4%BB%A4%E5%92%8C%EF%BC%95%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%AD%A6%E5%85%A5%E5%AD%A6%E8%80%85%E9%81%B8%E6%8A%9C%E3%81%AB%E4%BF%82%E3%82%8B%E5%A4%A7%E5%AD%A6%E5%85%A5%E5%AD%A6%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88%E5%87%BA%E9%A1%8C%E6%95%99%E7%A7%91%E3%83%BB%E7%A7%91%E7%9B%AE%E3%81%AE%E5%87%BA%E9%A1%8C%E6%96%B9%E6%B3%95%E7%AD%89%E5%8F%8A%E3%81%B3%E5%95%8F%E9%A1%8C%E4%BD%9C%E6%88%90%E6%96%B9%E9%87%9D.pdf)
+- [共通テストの役割](https://www.dnc.ac.jp/kyotsu/shiken_gaiyou/yakuwari.html)
+- [大学入学共通テスト実施方針策定に当たっての考え方](https://www.mext.go.jp/component/a_menu/education/micro_detail/__icsFiles/afieldfile/2017/10/24/1397731_002.pdf)
+- [大学入学共通テスト：実施の趣旨 - 文部科学省](https://www.mext.go.jp/content/20200422-mxt_daigakuc02-000006583_4.pdf)
+- [Molecular Biology of the Cell](https://www.amazon.co.jp/dp/0393884856/?tag=researchatf04-22) ... 通称Cell。買っても持て余すか、ディスプレーの高さ調整台になるか、ダンベルになるか、鈍器になるか、君の血肉になるかは君次第(T)
 - [Essential Cell Biology](https://www.amazon.co.jp/dp/0393680398/?tag=researchatf04-22) ... 上記の本を薄くしたやつ。それでもきっつい... (T)
 - 以下ネタバレ注意
 - [真核生物](https://ja.wikipedia.org/wiki/%E7%9C%9F%E6%A0%B8%E7%94%9F%E7%89%A9)
@@ -83,5 +86,5 @@ title: 157. Litmus milk
 - [Garg and Martin. GBE (2016)](https://academic.oup.com/gbe/article/8/6/1950/2574120) ... "Mitochondria, the Cell Cycle, and the Origin of Sex via a Syncytial Eukaryote Common Ancestor" tadasuが最近面白いと思っているmitosis, meiosis, mitchondria, sexの進化についての考察。meiosisはmitosisよりも起源が古いのか。mitochondriaはmeiosis, sexの誕生に必要なのか、それともvice versa。
 
 ## Editorial Notes
-- (まいん)
+- Researchatに出してもらうなんて光栄すぎて改めて感謝です。ただの趣味で問題解いてる人間なので間違った説明などしてたらごめんなさい。共通テストは楽しいぞ！！！(まいん)
 - 高校生マジですごい。自分が高校生だった時だったら絶対に解けない。受験生のみなさん勉強がんばって！問題見ながら話すの以上につかれました...後半ガス欠。まいん先生ありがとう！(tadasu)
