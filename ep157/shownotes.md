@@ -49,6 +49,7 @@ title: 157. Litmus milk
 - 間期 (interphase), 分裂期 (mitosis)
 - meiosis ... 減数分裂　真核生物のロマン(T)
 - 生物I・II ... 平成
+- 生物基礎・生物に変わったのは平成24年～26年くらい？らしいです（指導要領上では24）
 - コオロギとキリギリスの見極め方　... 働き者じゃないのがキリギリス (T)
 - [ヌクレオソーム](https://ja.wikipedia.org/wiki/%E3%83%8C%E3%82%AF%E3%83%AC%E3%82%AA%E3%82%BD%E3%83%BC%E3%83%A0)
 - [30nmクロマチン線維は存在しない！](https://www.jstage.jst.go.jp/article/kagakutoseibutsu/51/3/51_177/_pdf)
