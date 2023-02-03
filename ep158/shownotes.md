@@ -2,7 +2,7 @@
 actor_ids:
   - mine
   - tadasu
-audio_file_path: https://traffic.libsyn.com/secure/researchat/157.mp3 
+audio_file_path: https://traffic.libsyn.com/secure/researchat/158.mp3 
 audio_file_size: x
 date: 2023-01-21 21:45:00 +0900
 rec_date: 2023-01-20 21:00:00 +0900
