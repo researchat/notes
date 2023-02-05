@@ -57,29 +57,26 @@ title: 158. ABC
 - [Muller’s rachet](https://en.wikipedia.org/wiki/Muller%27s_ratchet) … マラーだね。
 - [ノドジロオマキザル](https://pz-garden.stardust31.com/reichou-moku/omakizaru-ka/nodojiro-omakizaru.html) … 新世界ザル
 - [X inactivation](https://en.wikipedia.org/wiki/X-inactivation)
-- ep48
+- [48. XXXXXYYYYY(Researchat.fm)](https://researchat.fm/episode/48) ... "レベルEのサキ王女編からスタートし、アメフラシ、ボネリムシ 、半倍数性、ヴォルバキアによる破壊、ゾウリムシ、カモノハシ、オスの三毛猫など、真核生物における多様な性決定システムと性染色体について話しました。"
 - [遺伝子重複](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8D%E8%A4%87) … 遺伝子重複自体はかなり古くからアイデアがあったらしいがOhno (1970)で有名になった、とのことらしい。（要調査)
 - 犬と色覚 … モノクロではなく二色？
 - [遺伝子座](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E5%BA%A7)
 - [対立遺伝子](https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%AB%8B%E9%81%BA%E4%BC%9D%E5%AD%90)
 - [gene drive](https://en.wikipedia.org/wiki/Gene_drive)
 - [遺伝的浮動(genetic drift) ](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E7%9A%84%E6%B5%AE%E5%8B%95)
-- 嗅球
-- ROS
-- アクチン
-- 488 nm
-- 561 nm
-- 405 nm
-- 多湖あきら 
+- [嗅球](https://ja.wikipedia.org/wiki/%E5%97%85%E7%90%83)
+- [ROS](https://en.wikipedia.org/wiki/Reactive_oxygen_species)
+- [アクチン](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%81%E3%83%B3)
+- [多湖輝](https://ja.wikipedia.org/wiki/%E5%A4%9A%E6%B9%96%E8%BC%9D) ... リサチャリスナーなら必読の頭の体操の筆者。頭の体操の中で作者が試験官をしたテストを読みだけで解いていく話が掲載されている。受験テクニックではない笑
+- [頭の体操](https://www.amazon.co.jp/dp/B00H3FG5HW/?tag=researchatf04-22) ... え？読んだことない？今すぐ読みなさい。
 - プルテウス幼生
-- 追試
-- 鈴木貫太郎先生のブル場の本
--  数学オリンピック
-- 駿台の生物
-- 追試
-
-
+- [大学入試数学　不朽の名問１００　大人のための“数学腕試し” (ブルーバックス)](https://www.amazon.co.jp/dp/B0928R1PV2/?tag=researchatf04-22) ... 鈴木貫太郎先生のブルーバックスの本。円周率のあれとかああいうのが載ってる本。1/3ぐらいは解いた(T)。楽しい問題が多い。
+- [ピーター・フランクルの中学生でも分かる大学生にも解けない数学問題集](https://www.amazon.co.jp/gp/product/4535782628/?tag=researchatf04-22) ... ピーターフランクル先生の本。一問目が中学生の時に解けず、いまだに一問目でスタックしております（15年以上経過)。昔の本は平太通信みたいなのが載っていて、そこに載っていた生物学者になったけれども早逝された研究者の方の話が記憶に残っている。なお問題はまだ解けないし、なんなら本はボストンに持ってきている。なお解けない(T)。
+- [数学オリンピック問題にみる現代数学](https://www.amazon.co.jp/dp/4062570548/?tag=researchatf04-22) ... これの生物オリンピック版頼む！素数が無限にあることを証明せよ、みたいな問題だけ覚えている。
+- [生物新・考える問題100選 (駿台受験シリーズ)](https://www.amazon.co.jp/dp/4796117636?tag=researchatf04-22) ... 新じゃないやつを解いていた記憶
+- まいん先生とたどる伝説の大学入試問題100選、まいん先生とたどる生物オリンピックにみる現代分子細胞生物学、出版希望
+- むしろ海外大学入試の伝説の一問とかみたい。北京大学2023とか。
 
 ## Editorial Notes
-- (まいん)
+- 2日連続で共通テストのアツい気持ちをtadasuさんとシェアできて楽しかったです！もし皆さんのイチオシシビれ問題があればぜひ教えてください。お待ちしております。(まいん)
 - (tadasu)
