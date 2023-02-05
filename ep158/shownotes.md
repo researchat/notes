@@ -38,7 +38,7 @@ title: 158. ABC
 - [シャジクモ](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%B8%E3%82%AF%E3%83%A2)
 - [二次共生](https://modia.chitose-bio.com/articles/origin_of_algae_2/)
 - [マトリョーシカ](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%83%BC%E3%82%B7%E3%82%AB%E4%BA%BA%E5%BD%A2) ...　関係ないけれどもマトリョーシカの起源が日本にある問題って本当なの？ "19世紀末、神奈川県箱根町にあったロシア正教会の避暑館にやってきたロシア人修道士が、本国への土産に持ち帰った箱根細工の七福神の入れ子人形がマトリョーシカの元になったという説。"
-- [葉緑体から描ける系統樹とゲノムから描く系統樹の違い](https://twitter.com/suisetz/status/1615699093573234688) ... Suisetzさんから拝借させていただきました。
+- [葉緑体から描ける系統樹と核ゲノムから描く系統樹の違い](https://twitter.com/suisetz/status/1615699093573234688) ... Suisetzさんから拝借させていただきました。
 - [盗タンパク質](https://www.jst.go.jp/pr/announce/20200109-2/index.html)
 - [Manabu Bessho-Uehara先生](https://besshomanabulumi.wixsite.com/manabuhome) … すいません！BeppuではなくBesshoさんです…
 - さすがにミトコンドリアと真核生物の系統を見るに、シアノバクテリアが共生して葉緑体になる段階では真核細胞になっていたというべきか… ただそのプロセスは結構気になる。ミトコンドリアと葉緑体間におけるgene transferとかも起こっているのかな？（学生の時に調べた気はする….（要調査)
