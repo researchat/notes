@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/158.mp3 
 audio_file_size: 89702323
-date: 2023-01-21 21:45:00 +0900
+date: 2023-02-05 04:45:00 +0900
 rec_date: 2023-01-20 21:00:00 +0900
 edit_by: tadasu
 description: ゲストにまいんさんを迎え、共通テスト生物(2023)を解いてみての感想と解説、そしてどのような力が問われているのかについて議論しました。
