@@ -29,7 +29,7 @@ title: 158. ABC
 - [得点調整について](https://www.dnc.ac.jp/kyotsu/shiken_jouhou/r5/#anchor13)
 - [オペロン](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
 - ジャコブとモノー ... オペロン説の提唱により、1965年のノーベル生理学・医学賞を共同受賞
-- A genetic switch
+- [A Genetic Switch](https://www.amazon.co.jp/dp/B001WAKRQE/?tag=researchatf04-22) ... 転写制御の第一人者であるMark Ptashneが書いた本。1st Editionが良いと聞く。結構薄くて大学で初めてちゃんと読み切った洋書。
 - [ラクトースオペロン](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%88%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
 - [アラビノースオペロン](https://ja.wikipedia.org/wiki/L-%E3%82%A2%E3%83%A9%E3%83%93%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
 - [RNA polymerase II](https://en.wikipedia.org/wiki/RNA_polymerase_II) ...　「真核生物」で一般的な転写に用いられているRNA polymerase。他にもIとIIIがある。原核生物では一個しかないのでそもそも数に反応してしまった私が悪い…すぐ真核で考えちゃう…
@@ -51,19 +51,19 @@ title: 158. ABC
 - アーキアだとcell fusionしてrecombinationする例はあるらしいが、どのくらいまでやるの？？？もちろんRecAホモログはあるわけだが、染色体全体での相同組換えはしないよね？（要調査)
 - sex … 基本的には配偶子がfusion(mating)して相同染色体間組換えを行うシステムを持つことをsexと言っていいようだが、もう少し調べていく必要がある。（要調査)
 - a/alphaは酵母とかの真核生物で使われる。バクテリアだとF+, F-とかのイメージだが他にも色々あるのだろうか。
-- Meselsonの動画 ... 性について興味あるっていってます。
-- Meselsonの論文　… 最新のやつ
-- 赤の女王仮説
-- Muller’s rachet … マラーだね。
-- ノドジロオマキザル … 新世界ザル
-- X inactivation
+- [Meselsonの動画](https://youtu.be/M3ydkf1ihHQ) ... 最高の動画。Meselson and Stahlの実験から、mRNA、制限酵素の発見、そして政治の話まで幅広いインタビュー。インタビューをしているのは上で書いたGenetic Switchの著者であるMark Ptashne。現在は性やgene conversionについて興味あるっていってます。
+- [Laine, Sackton, Meselson. Genetics (2022)](https://academic.oup.com/genetics/article/220/2/iyab221/6458333) ... "Genomic signature of sexual reproduction in the bdelloid rotifer Macrotrachella quadricornifera" Meselsonの最新論文。Bdelloid rotifers（ヒルガタワムシの仲間)は長年無性であると考えられてきたがどのようにしてその種を保ち続けているのか。
+- [赤の女王仮説](https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%AE%E5%A5%B3%E7%8E%8B%E4%BB%AE%E8%AA%AC)
+- [Muller’s rachet](https://en.wikipedia.org/wiki/Muller%27s_ratchet) … マラーだね。
+- [ノドジロオマキザル](https://pz-garden.stardust31.com/reichou-moku/omakizaru-ka/nodojiro-omakizaru.html) … 新世界ザル
+- [X inactivation](https://en.wikipedia.org/wiki/X-inactivation)
 - ep48
-- 遺伝子重複　… 遺伝子重複自体はかなり古くからアイデアがあったらしいがOhno (1970)で有名になった、とのことらしい。
+- [遺伝子重複](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8D%E8%A4%87) … 遺伝子重複自体はかなり古くからアイデアがあったらしいがOhno (1970)で有名になった、とのことらしい。（要調査)
 - 犬と色覚 … モノクロではなく二色？
-- 遺伝子座
-- 対立遺伝子
-- gene drive
-- 遺伝的浮動(genetic drift) 
+- [遺伝子座](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E5%BA%A7)
+- [対立遺伝子](https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%AB%8B%E9%81%BA%E4%BC%9D%E5%AD%90)
+- [gene drive](https://en.wikipedia.org/wiki/Gene_drive)
+- [遺伝的浮動(genetic drift) ](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E7%9A%84%E6%B5%AE%E5%8B%95)
 - 嗅球
 - ROS
 - アクチン
