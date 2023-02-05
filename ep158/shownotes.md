@@ -12,7 +12,7 @@ duration: "02:27:54"
 layout: article
 tags:
   - テスト
-title: 158. Cebus capucinus
+title: 158. A gradient of difficulty
 ---
 
 ## Shownotes
