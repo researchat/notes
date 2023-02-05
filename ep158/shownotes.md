@@ -32,12 +32,12 @@ title: 158. ABC
 - A genetic switch
 - [ラクトースオペロン](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%88%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
 - [アラビノースオペロン](https://ja.wikipedia.org/wiki/L-%E3%82%A2%E3%83%A9%E3%83%93%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
-- RNA polymerase II ..,　「真核生物」で一般的な転写に用いられているRNA polymerase。他にもIとIIIがある。原核生物では一個しかないのでそもそも数に反応してしまった私が悪い…すぐ真核で考えちゃう…
-- 核
+- [RNA polymerase II](https://en.wikipedia.org/wiki/RNA_polymerase_II) ...　「真核生物」で一般的な転写に用いられているRNA polymerase。他にもIとIIIがある。原核生物では一個しかないのでそもそも数に反応してしまった私が悪い…すぐ真核で考えちゃう…
+- [細胞核](https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%83%9E%E6%A0%B8)
 - overexpression … 過剰に発現
-- シャジクモ
-- 二次共生
-- マトリョーシカ
+- [シャジクモ](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%B8%E3%82%AF%E3%83%A2)
+- [二次共生](https://modia.chitose-bio.com/articles/origin_of_algae_2/)
+- [マトリョーシカ](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%88%E3%83%AA%E3%83%A7%E3%83%BC%E3%82%B7%E3%82%AB%E4%BA%BA%E5%BD%A2) ...　関係ないけれどもマトリョーシカの起源が日本にある問題って本当なの？ "19世紀末、神奈川県箱根町にあったロシア正教会の避暑館にやってきたロシア人修道士が、本国への土産に持ち帰った箱根細工の七福神の入れ子人形がマトリョーシカの元になったという説。"
 - 葉緑体から描ける系統樹とゲノムから描く系統樹の違い
 - 盗タンパク質
 - Uehara-Bessho先生 … すいません！BeppuではなくBesshoさんです…
