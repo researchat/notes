@@ -46,7 +46,7 @@ title: 158. ABC
 - [LECA](https://www.pnas.org/doi/10.1073/pnas.0604985103) … LECA(The last eukaryotic common ancestor)の議論… ちょっと全然追えてないです… 
 - [LECAとFECA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4292153/) ... 元気な時にでも読みます…
 - eukaryote = archea + bacteria説もまだ一説(だよね？)（要調査)
-- Garg and Martin
+- [Garg and Martin. GBE (2016)](https://academic.oup.com/gbe/article/8/6/1950/2574120) ... "Mitochondria, the Cell Cycle, and the Origin of Sex via a Syncytial Eukaryote Common Ancestor" tadasuが最近面白いと思っているmitosis, meiosis, mitchondria, sexの進化についての考察。meiosisはmitosisよりも起源が古いのか。mitochondriaはmeiosis, sexの誕生に必要なのか、それともvice versa。
 - 接合 ... eukaryoteだとmating, bacteriaだとbacterrial conjugationかな。アーキアはわからん...（要調査)
 - アーキアだとcell fusionしてrecombinationする例はあるらしいが、どのくらいまでやるの？？？もちろんRecAホモログはあるわけだが、染色体全体での相同組換えはしないよね？（要調査)
 - sex … 基本的には配偶子がfusion(mating)して相同染色体間組換えを行うシステムを持つことをsexと言っていいようだが、もう少し調べていく必要がある。（要調査)
@@ -79,4 +79,4 @@ title: 158. ABC
 
 ## Editorial Notes
 - 2日連続で共通テストのアツい気持ちをtadasuさんとシェアできて楽しかったです！もし皆さんのイチオシシビれ問題があればぜひ教えてください。お待ちしております。(まいん)
-- (tadasu)
+- 頭パンパンでした。特にさっと振られた疑問、特に進化周りやsex周りは自分の中でちゃんともう一度組み立てておく必要があるなと感じました。アーキア周りも全然わからん。あやふやになっているままのところが非常によくわかったのでそう言う意味では超いい問題だなと思いました。シンプルゆえに強い。まいん先生の問題集きぼんぬ(tadasu)
