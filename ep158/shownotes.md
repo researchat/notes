@@ -67,7 +67,7 @@ title: 158. Cebus capucinus
 - [嗅球](https://ja.wikipedia.org/wiki/%E5%97%85%E7%90%83)
 - [ROS](https://en.wikipedia.org/wiki/Reactive_oxygen_species)
 - [アクチン](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%81%E3%83%B3)
-- 母性・父性遺伝 ... ミトコンドリアの母性遺伝が有名
+- 母性・父性遺伝 ... ミトコンドリアの母性遺伝を思い浮かべるんだけれども今回のような母性因子の遺伝に関してはちょっと枠組みが違うかも。
 - [多湖輝](https://ja.wikipedia.org/wiki/%E5%A4%9A%E6%B9%96%E8%BC%9D) ... リサチャリスナーなら必読の頭の体操の筆者。頭の体操の中で作者が試験官をしたテストを読みだけで解いていく話が掲載されている。受験テクニックではない笑
 - [頭の体操](https://www.amazon.co.jp/dp/B00H3FG5HW/?tag=researchatf04-22) ... え？読んだことない？今すぐ読みなさい。
 - プルテウス幼生
