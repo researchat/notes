@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/158.mp3 
 audio_file_size: 89702323
-date: 2023-02-05 04:45:00 +0900
+date: 2023-02-06 05:45:00 +0900
 rec_date: 2023-01-20 21:00:00 +0900
 edit_by: tadasu
 description: ゲストにまいんさんを迎え、共通テスト生物(2023)を解いてみての感想と解説、そしてどのような力が問われているのかについて議論しました。
@@ -12,7 +12,7 @@ duration: "02:27:56"
 layout: article
 tags:
   - テスト
-title: 158. ABC
+title: 158. Cebus capucinus
 ---
 
 ## Shownotes
@@ -55,7 +55,7 @@ title: 158. ABC
 - [Laine, Sackton, Meselson. Genetics (2022)](https://academic.oup.com/genetics/article/220/2/iyab221/6458333) ... "Genomic signature of sexual reproduction in the bdelloid rotifer Macrotrachella quadricornifera" Meselsonの最新論文。Bdelloid rotifers（ヒルガタワムシの仲間)は長年無性であると考えられてきたがどのようにしてその種を保ち続けているのか。
 - [赤の女王仮説](https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%AE%E5%A5%B3%E7%8E%8B%E4%BB%AE%E8%AA%AC)
 - [Muller’s rachet](https://en.wikipedia.org/wiki/Muller%27s_ratchet) … マラーだね。
-- [ノドジロオマキザル](https://pz-garden.stardust31.com/reichou-moku/omakizaru-ka/nodojiro-omakizaru.html) … 新世界ザル
+- [ノドジロオマキザル](https://pz-garden.stardust31.com/reichou-moku/omakizaru-ka/nodojiro-omakizaru.html) … Cebus capucinus, 新世界ザル
 - [X inactivation](https://en.wikipedia.org/wiki/X-inactivation)
 - [48. XXXXXYYYYY(Researchat.fm)](https://researchat.fm/episode/48) ... "レベルEのサキ王女編からスタートし、アメフラシ、ボネリムシ 、半倍数性、ヴォルバキアによる破壊、ゾウリムシ、カモノハシ、オスの三毛猫など、真核生物における多様な性決定システムと性染色体について話しました。"
 - [遺伝子重複](https://ja.wikipedia.org/wiki/%E9%81%BA%E4%BC%9D%E5%AD%90%E9%87%8D%E8%A4%87) … 遺伝子重複自体はかなり古くからアイデアがあったらしいがOhno (1970)で有名になった、とのことらしい。（要調査)
