@@ -3,12 +3,12 @@ actor_ids:
   - mine
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/158.mp3 
-audio_file_size: x
+audio_file_size: 89702323
 date: 2023-01-21 21:45:00 +0900
 rec_date: 2023-01-20 21:00:00 +0900
 edit_by: tadasu
 description: ゲストにまいんさんを迎え、共通テスト生物(2023)を解いてみての感想と解説、そしてどのような力が問われているのかについて議論しました。
-duration: "02:2A:BC"
+duration: "02:27:56"
 layout: article
 tags:
   - テスト
@@ -20,22 +20,18 @@ title: 158. ABC
 - [まいんさん](https://twitter.com/ArmnieBIO)
 - [2023年度大学入学共通テスト 生物基礎](https://edu.chunichi.co.jp/site_home/center/pdf/2023seibutsukiso_q.pdf)
 - [2023年度大学入学共通テスト 生物](https://edu.chunichi.co.jp/site_home/center/pdf/2023seibutsu_q.pdf)
-- [2023年度大学入学共通テスト 生物基礎追試]()
-- [2023年度大学入学共通テスト 生物追試]()
+- [2023年度大学入学共通テスト 追試](https://www.minyu-net.com/nie/d-tsuisai.php)
 - [あいまいまいんの生物学](https://i-my-mine.hatenablog.com/archive) ... まいん先生のブログ
 - [2023年度大学入試共通テスト　生物基礎　所感 (あいまいまいんの生物学)](https://i-my-mine.hatenablog.com/entry/2023/01/16/2023%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88_%E7%94%9F%E7%89%A9%E5%9F%BA%E7%A4%8E_%E6%89%80%E6%84%9F) ... まいん先生による生物基礎解説
 - [ぷらんちゅ](https://novelgame.jp/games/show/6590) ... "植物を同定して進める恋愛ゲームです!" 是非プレイしてください。
 - [ぷらんちゅの配信 by Researchat.fm](https://www.youtube.com/watch?v=d4YMrm3OHfg&ab_channel=Researchatfm) ... "分子生物学者がプレイする「植物同定恋愛ゲーム ぷらんちゅ」ぷらんちゅの作成者のまいんさんをお呼びし、ポッドキャスト番組Researchat.fmのメンバーで実況プレイしました。" YouTubeフォローしてください...
-- 生物基礎回
-- 生物基礎
-- 生物
-- 得点調整
-- オペロン
-- オペロン説
-- ジャコブとモノー
+- [中間集計（最高得点に関する話)](https://www.dnc.ac.jp/albums/abm.php?d=31&f=abm00003366.pdf&n=%E4%BB%A4%E5%92%8C%EF%BC%95%E5%B9%B4%E5%BA%A6%E5%A4%A7%E5%AD%A6%E5%85%A5%E5%AD%A6%E5%85%B1%E9%80%9A%E3%83%86%E3%82%B9%E3%83%88%EF%BC%88%E6%9C%AC%E8%A9%A6%E9%A8%93%EF%BC%89%E5%B9%B3%E5%9D%87%E7%82%B9%E7%AD%89%E4%B8%80%E8%A6%A7%EF%BC%88%E4%B8%AD%E9%96%93%E9%9B%86%E8%A8%88%E3%81%9D%E3%81%AE%EF%BC%92%EF%BC%89.pdf)
+- [得点調整について](https://www.dnc.ac.jp/kyotsu/shiken_jouhou/r5/#anchor13)
+- [オペロン](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
+- ジャコブとモノー ... オペロン説の提唱により、1965年のノーベル生理学・医学賞を共同受賞
 - A genetic switch
-- ラクトースオペロン
-- アラビノースオペロン
+- [ラクトースオペロン](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%83%88%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
+- [アラビノースオペロン](https://ja.wikipedia.org/wiki/L-%E3%82%A2%E3%83%A9%E3%83%93%E3%83%8E%E3%83%BC%E3%82%B9%E3%82%AA%E3%83%9A%E3%83%AD%E3%83%B3)
 - RNA polymerase II ..,　「真核生物」で一般的な転写に用いられているRNA polymerase。他にもIとIIIがある。原核生物では一個しかないのでそもそも数に反応してしまった私が悪い…すぐ真核で考えちゃう…
 - 核
 - overexpression … 過剰に発現
