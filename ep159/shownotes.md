@@ -37,7 +37,7 @@ title: 159. Gordian Knot
 - Hideo Kuze (久世) ... イケメソ。
 - 草迷宮 affection ... せっかちなのねぇ
 - 片手でおり鶴　... 久世がやっていたやつ。素子も義体になれるためにやっていた気がしたけどどうなんだっけ？片手ではないか。みんな憧れて練習したよね？
-- MAJORの夢島 ... MAJORの中で最高潮におもしろい。
+- [MAJOR](https://www.amazon.co.jp/dp/B009JZGIJ4/?tag=researchatf04-22)の夢島 ... MAJORの中で最高潮におもしろい。
 - [一円玉の上に一円玉　たぬ](https://www.buzzfeed.com/jp/eimiyamamitsu/tower-of-coins) ... あこがれのたぬ先生。いみわっかんねーーー！すごすぎる。
 - [一円玉の上に一円玉 by researchat](https://twitter.com/researchat_fm/status/1624545027610509312) ... 2枚はすぐできる。再現性ある。
 - [10. The endgame keyboard (Researchat.fm)](https://researchat.fm/episode/10) ... 自作キーボードの話 "記念すべき第10回のエピソードは、キーボードを自作する楽しみ、研究における道具や技術を自作するか問題、ゲームコントローラーの改造、Hit Box、超解像顕微鏡の設計と組み立て、マンガについて話しました。"
