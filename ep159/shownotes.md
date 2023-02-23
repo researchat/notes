@@ -21,7 +21,7 @@ title: 159. Gordian Knot
 - [Researchatのインスタ](https://www.instagram.com/researchat.fm/) ... Researchatfmのインスタグラム、フォローよろしくお願いします。
 - [Agave(竜舌蘭)](https://en.wikipedia.org/wiki/Agave)
 - [サボテン](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9C%E3%83%86%E3%83%B3)
-- [BRUTUS(ブルータス) 2019年7/15号No.896[新・珍奇植物]](https://www.amazon.co.jp/dp/B07T6S1CDH) ... 多肉植物の特集。これをボケーと見ながらなんか欲しいなと思っていた(tadasu)
+- [BRUTUS(ブルータス) 2019年7/15号No.896[新・珍奇植物]](https://www.amazon.co.jp/dp/B07T6S1CDH?tag=researchatf04-22) ... 多肉植物の特集。これをボケーと見ながらなんか欲しいなと思っていた(tadasu)
 - [氷で作られた顕微鏡](https://twitter.com/researchat_fm/status/1624519365445173251) ... Researchatfmのツイッターもフォローよろしくお願いします。
 - [142. Is Aye-aye a monkey? (Researchatfm)](https://researchat.fm/episode/142) ... 博物館に行った後の収録回 "研エンの仲の二人(ryohei, ayaka)が大学に訪問されたので記念収録しました。(w/ miyawaki)"
 - [食虫植物](https://en.wikipedia.org/wiki/Carnivorous_plant)
@@ -33,7 +33,7 @@ title: 159. Gordian Knot
 - 斜めになってるチューブ立て ... どれ？
 - [やかんで培地をつくる](https://twitter.com/researchat_fm/status/1416150009163169795)
 - 人馬一体　
-- [攻殻機動隊 S.A.C 2nd GIG](https://www.amazon.co.jp/dp/B01JMDCIE6) ... 見てないやつおらんよな？ん？
+- [攻殻機動隊 S.A.C 2nd GIG](https://www.amazon.co.jp/dp/B01JMDCIE6?tag=researchatf04-22) ... 見てないやつおらんよな？ん？
 - Hideo Kuze (久世) ... イケメソ。
 - 草迷宮 affection ... せっかちなのねぇ
 - 片手でおり鶴　... 久世がやっていたやつ。素子も義体になれるためにやっていた気がしたけどどうなんだっけ？片手ではないか。みんな憧れて練習したよね？
@@ -48,10 +48,10 @@ title: 159. Gordian Knot
 ](https://www.youtube.com/watch?v=jkoch8XIFQI&ab_channel=%E3%81%A8%E3%81%8D%E3%81%A9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%2FTokido) ... アレマイ選手のアケコン解説
 - [カプコンカップ2022](https://sf.esports.capcom.com/sp/cpt/ccix/)
 - [ウメハラさんがちょうどレバーレスコントローラーを使い始めたのがep10あたり](https://automaton-media.com/articles/newsjp/20190528-93027/)
-- [のりりん](https://www.amazon.co.jp/dp/B00A2MD0SA/)
-- [ぼくらの](https://www.amazon.co.jp/dp/B009JZH94C/)
-- [なるたる](https://www.amazon.co.jp/dp/4063141861) ... 友人がおすすめしてきたのだが、その友人の趣味を考えれば...!!!だった。
-- [エルフェンリート](https://www.amazon.co.jp/dp/B00ECT85R0/) ... ノノノノのファンだったからこれ読んじゃったのよ... 冨樫先生が勧めていたところで気づくべきだった。
+- [のりりん](https://www.amazon.co.jp/dp/B00A2MD0SA/?tag=researchatf04-22)
+- [ぼくらの](https://www.amazon.co.jp/dp/B009JZH94C/?tag=researchatf04-22)
+- [なるたる](https://www.amazon.co.jp/dp/4063141861/?tag=researchatf04-22) ... 友人がおすすめしてきたのだが、その友人の趣味を考えれば...!!!だった。
+- [エルフェンリート](https://www.amazon.co.jp/dp/B00ECT85R0/?tag=researchatf04-22) ... ノノノノのファンだったからこれ読んじゃったのよ... 冨樫先生が勧めていたところで気づくべきだった。
 - [M-1](https://www.m-1gp.com/)
 - [笑い飯](https://ja.wikipedia.org/wiki/%E7%AC%91%E3%81%84%E9%A3%AF) ... 笑い飯はもちろん2010のチャンピオンですが、それ以前から売れていたということです。
 - [奈良民族歴史博物館](https://www.pref.nara.jp/1508.htm) ... あの人形展示見に行きたい。
@@ -60,11 +60,11 @@ title: 159. Gordian Knot
 - [芦ヶ原伸之](https://ja.wikipedia.org/wiki/%E8%8A%A6%E3%83%B6%E5%8E%9F%E4%BC%B8%E4%B9%8B) ... 本当にどのようにして数々のパズルを創作していたのか気になる。
 - [マジカル頭脳パワー](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%82%AB%E3%83%AB%E9%A0%AD%E8%84%B3%E3%83%91%E3%83%AF%E3%83%BC!!)
 - 知恵の輪 ... 誰が命名したのだろう...
-- [キャストパズル](https://www.amazon.co.jp/%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%83%91%E3%82%BA%E3%83%AB/s?k=%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%83%91%E3%82%BA%E3%83%AB)
+- [キャストパズル](https://www.amazon.co.jp/%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%83%91%E3%82%BA%E3%83%AB/s?k=%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%83%91%E3%82%BA%E3%83%AB?tag=researchatf04-22)
 - [多湖輝](https://ja.wikipedia.org/wiki/%E5%A4%9A%E6%B9%96%E8%BC%9D) ... 頭の体操の作者
-- [頭の体操](https://www.amazon.co.jp/dp/B00H3FG5HW/) ... 頭の体操を通ってしまったせいで考え方がある意味あれになってしまった... 副作用が強い本。
-- [The T (T字パズル)](https://www.amazon.co.jp/dp/B00B0QPSP0) … 小学生の時は全くできなかったが、中学生3年生になったらできるようになってた。とりあえずTを作ればそこからの変形でほぼ作れる。
-- [超々難問数理パズル―解けるものなら解いてごらん (ブルーバックス)](https://www.amazon.co.jp/dp/4062573776/) … 芦ヶ原伸之先生のブルーバックス本。記憶違いしているかもしれない。
+- [頭の体操](https://www.amazon.co.jp/dp/B00H3FG5HW/?tag=researchatf04-22) ... 頭の体操を通ってしまったせいで考え方がある意味あれになってしまった... 副作用が強い本。
+- [The T (T字パズル)](https://www.amazon.co.jp/dp/B00B0QPSP0?tag=researchatf04-22) … 小学生の時は全くできなかったが、中学生3年生になったらできるようになってた。とりあえずTを作ればそこからの変形でほぼ作れる。
+- [超々難問数理パズル―解けるものなら解いてごらん (ブルーバックス)](https://www.amazon.co.jp/dp/4062573776/?tag=researchatf04-22) … 芦ヶ原伸之先生のブルーバックス本。記憶違いしているかもしれない。
 - [芦ヶ原伸之先生のパズルの例](http://www.edu.city.fukuyama.hiroshima.jp/chu-hitotsu/oshirase/ichimon/0520_question.pdf)
 - ５円玉　木の矢
 - [コカコーラと木の矢](http://koffbeat.cocolog-nifty.com/blog/2013/03/post-fa07.html) ... 5円玉バージョンもある。
@@ -84,15 +84,15 @@ title: 159. Gordian Knot
 - [もやいむすび](https://camphack.nap-camp.com/4301)
 - [ひとひねり](https://idokichi.exblog.jp/13964302/)
 - [ガチャガチャの森](https://www.gachagachanomori.com/)
-- [Homraku 木製バランスゲーム ボードゲーム 立体パズル 石の形ブロック 積み木 ](https://www.amazon.co.jp/dp/B0B3WVH2H6) ... バランス石積みゲーム。tadasuがやったのがこれなのかはわからないがとりあえずこれ系はめちゃ面白い。
-- [スピードキューブ](https://www.amazon.co.jp/dp/B09J4ZPJ5K/)) ... かしゃかしゃが気持ちいいルービックキューブ
+- [Homraku 木製バランスゲーム ボードゲーム 立体パズル 石の形ブロック 積み木 ](https://www.amazon.co.jp/dp/B0B3WVH2H6?tag=researchatf04-22) ... バランス石積みゲーム。tadasuがやったのがこれなのかはわからないがとりあえずこれ系はめちゃ面白い。
+- [スピードキューブ](https://www.amazon.co.jp/dp/B09J4ZPJ5K/?tag=researchatf04-22) ... かしゃかしゃが気持ちいいルービックキューブ
 - ルービックキューブの論文 ... 探していない。どこかにある。
 - [tik tac toh](https://www.google.com/search?sxsrf=AJOqlzX-9M2W2Cmfp4fTQDnxtM38_-U1sQ:1677184775255&q=tic+tac+toe&spell=1&sa=X&ved=2ahUKEwiJjIGWwKz9AhWUFVkFHUr2C14QBSgAegQICBAB&biw=1440&bih=764&dpr=2)
 - numbersの必勝法 … microsoftの入社問題（といわれていたもの）に似たような（形は全く違う）ものがあったので非常に印象に残っている。
 - 指導教官の学生時代の自由研究　… 彼が行ったパズルの研究の話は非常に興味深く、研究論に通ずるところがあるので今度もしゲストに来ていただくことがあれば話をお聞きしたい。というか、今回パズルネタだったのでもう少し話せばよかった…orz
 - [ルービックキューブの早ときのnetflix](https://www.netflix.com/title/81092143) ... 意味がわからん。どうなってるの？
 - [宮本哲也](https://en.wikipedia.org/wiki/Tetsuya_Miyamoto)
-- [宮本算数教室の教材-賢くなるパズル―入門編-宮本-哲也](https://www.amazon.co.jp/dp/4053023904) ... 自分がやったのはもう10年近く前なのでどれかわからない... アメリカではKenKenと呼ばれている。
+- [宮本算数教室の教材-賢くなるパズル―入門編-宮本-哲也](https://www.amazon.co.jp/dp/4053023904?tag=researchatf04-22) ... 自分がやったのはもう10年近く前なのでどれかわからない... アメリカではKenKenと呼ばれている。
 - [Are KenKen Puzzles the Future of Logic-Based Games? | The New Yorker Documentary](https://www.youtube.com/watch?v=PKWcc5uHkls) ... 宮本先生のドキュメンタリー。New York TimesじゃなくてThe New Yorkerだった。
 - [影廊 -Shadow Corridor-](https://store.steampowered.com/app/1025250/Shadow_Corridor/?l=schinese)　な気がするけれども違うかも
 - [Larry Nichols](https://en.wikipedia.org/wiki/Larry_D._Nichols) ... 2x2x2のルービックキューブをルービックよりも先に作っていた人。
@@ -100,4 +100,4 @@ title: 159. Gordian Knot
 
 ## Editorial Notes
 - 良い実験のノウハウがあったら教えて下さい！(coela)
-- (tadasu)
+- DNAパズルつくりたい。おもしろいアナグラムできたら教えてください。(tadasu)
