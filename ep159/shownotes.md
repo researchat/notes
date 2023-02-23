@@ -11,7 +11,7 @@ description: パキポディウムの育て方、実験の手技のサチり具�
 duration: "01:XY:ZZ"
 layout: article
 tags:
-  - ゲスト
+  - 雑談
 title: 159. Gordian Knot
 ---
 
