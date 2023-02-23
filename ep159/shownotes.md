@@ -36,6 +36,7 @@ title: 159. Gordian Knot
 - [攻殻機動隊 S.A.C 2nd GIG](https://www.amazon.co.jp/dp/B01JMDCIE6) ... 見てないやつおらんよな？ん？
 - [Hideo Kuze (久世)] ... イケメソ。
 - 草迷宮 affection ... せっかちなのねぇ
+- 片手でおり鶴　... 久世がやっていたやつ。素子も義体になれるためにやっていた気がしたけどどうなんだっけ？片手ではないか。みんな憧れて練習したよね？
 - MAJORの夢島 ... MAJORの中で最高潮におもしろい。
 - 一円玉の上に一円玉　たぬ
 - researchatのツイート
