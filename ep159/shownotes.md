@@ -72,10 +72,10 @@ title: 159. Gordian Knot
 - 小町算
 - good dance
 - researchatfmのアナグラム
--- Free Mac Trash
--- Cheaters Farm
--- Teachers Farm
--- AR Chef Master
+  - Free Mac Trash
+  - Cheaters Farm
+  - Teachers Farm
+  -AR Chef Master
 - puzzle old and new
 - 千年パズル ... 遊戯王のあれ
 - [ビンの中でナットを締める　探偵ナイトスクープ](https://www.nanigoto.net/entry/2018/01/20/082036) ... これのオリジナル放送またみたい。
