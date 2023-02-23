@@ -3,12 +3,12 @@ actor_ids:
   - coela
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/159.mp3 
-audio_file_size: X
-date: 2023-02-24 05:45:00 +0900
+audio_file_size: 79863404
+date: 2023-02-24 06:04:00 +0900
 rec_date: 2023-02-18 22:00:00 -0500
 edit_by: tadasu
 description: パキポディウムの育て方、実験の手技のサチり具合、手の器用さをよくする方法、T字パズルとあるなしクイズ、アナグラムの作り方、知恵の輪、ゲームの必勝法について話しました。
-duration: "01:XY:ZZ"
+duration: "01:42:54"
 layout: article
 tags:
   - 雑談
