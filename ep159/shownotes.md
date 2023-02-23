@@ -92,7 +92,7 @@ title: 159. Gordian Knot
 - 指導教官の学生時代の自由研究　… 彼が行ったパズルの研究の話は非常に興味深く、研究論に通ずるところがあるので今度もしゲストに来ていただくことがあれば話をお聞きしたい。というか、今回パズルネタだったのでもう少し話せばよかった…orz
 - [ルービックキューブの早ときのnetflix](https://www.netflix.com/title/81092143) ... 意味がわからん。どうなってるの？
 - [宮本哲也](https://en.wikipedia.org/wiki/Tetsuya_Miyamoto)
-- [賢くなるパズル] ... アメリカではKenKenと呼ばれている。
+- [宮本算数教室の教材-賢くなるパズル―入門編-宮本-哲也](https://www.amazon.co.jp/dp/4053023904) ... 自分がやったのはもう10年近く前なのでどれかわからない... アメリカではKenKenと呼ばれている。
 - [Are KenKen Puzzles the Future of Logic-Based Games? | The New Yorker Documentary](https://www.youtube.com/watch?v=PKWcc5uHkls) ... 宮本先生のドキュメンタリー。New York TimesじゃなくてThe New Yorkerだった。
 - [影廊 -Shadow Corridor-](https://store.steampowered.com/app/1025250/Shadow_Corridor/?l=schinese)　な気がするけれども違うかも
 - [Larry Nichols](https://en.wikipedia.org/wiki/Larry_D._Nichols) ... 2x2x2のルービックキューブをルービックよりも先に作っていた人。
