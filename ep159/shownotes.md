@@ -38,14 +38,14 @@ title: 159. Gordian Knot
 - 草迷宮 affection ... せっかちなのねぇ
 - 片手でおり鶴　... 久世がやっていたやつ。素子も義体になれるためにやっていた気がしたけどどうなんだっけ？片手ではないか。みんな憧れて練習したよね？
 - MAJORの夢島 ... MAJORの中で最高潮におもしろい。
-- 一円玉の上に一円玉　たぬ
-- researchatのツイート
+- [一円玉の上に一円玉　たぬ](https://www.buzzfeed.com/jp/eimiyamamitsu/tower-of-coins) ... あこがれのたぬ先生。いみわっかんねーーー！すごすぎる。
+- [一円玉の上に一円玉 by researchat](https://twitter.com/researchat_fm/status/1624545027610509312) ... 2枚はすぐできる。再現性ある。
 - [10. The endgame keyboard (Researchat.fm)](https://researchat.fm/episode/10) ... 自作キーボードの話 "記念すべき第10回のエピソードは、キーボードを自作する楽しみ、研究における道具や技術を自作するか問題、ゲームコントローラーの改造、Hit Box、超解像顕微鏡の設計と組み立て、マンガについて話しました。"
 - 小指と薬指をゴムで巻く … 中指薬指もやってた
 - 烈海王 ... 説明の必要なし
-- GDQ
-- Alex Myersのアケコン
-- ときどさんの動画
+- [Alex Myers選手のアケコン](https://twitter.com/AlexMyersFGC/status/1625010200402079744)
+- [格ゲー研究室出張編！ 謎のコントローラー「Ergobox（ErgoArcade）」の使い手Alex Myers選手を直撃！【海外インタビューシリーズ】
+](https://www.youtube.com/watch?v=jkoch8XIFQI&ab_channel=%E3%81%A8%E3%81%8D%E3%81%A9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%2FTokido) ... アレマイ選手のアケコン解説
 - [カプコンカップ2022](https://sf.esports.capcom.com/sp/cpt/ccix/)
 - [ウメハラさんがちょうどレバーレスコントローラーを使い始めたのがep10あたり](https://automaton-media.com/articles/newsjp/20190528-93027/)
 - [のりりん](https://www.amazon.co.jp/dp/B00A2MD0SA/)
@@ -65,18 +65,18 @@ title: 159. Gordian Knot
 - [頭の体操](https://www.amazon.co.jp/dp/B00H3FG5HW/) ... 頭の体操を通ってしまったせいで考え方がある意味あれになってしまった... 副作用が強い本。
 - [The T (T字パズル)](https://www.amazon.co.jp/dp/B00B0QPSP0) … 小学生の時は全くできなかったが、中学生3年生になったらできるようになってた。とりあえずTを作ればそこからの変形でほぼ作れる。
 - [超々難問数理パズル―解けるものなら解いてごらん (ブルーバックス)](https://www.amazon.co.jp/dp/4062573776/) … 芦ヶ原伸之先生のブルーバックス本。記憶違いしているかもしれない。
-- のぶ先生のパズル
+- [芦ヶ原伸之先生のパズルの例](http://www.edu.city.fukuyama.hiroshima.jp/chu-hitotsu/oshirase/ichimon/0520_question.pdf)
 - ５円玉　木の矢
-- コカコーラ　木の矢
+- [コカコーラと木の矢](http://koffbeat.cocolog-nifty.com/blog/2013/03/post-fa07.html) ... 5円玉バージョンもある。
 - ハンターハンター　オークション編 ... 大好き
-- 小町算
+- [小町算](https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%94%BA%E7%AE%97)
 - good dance ... dodecagon のアナグラム
 - researchatfmのアナグラム
   - Free Mac Trash
   - Cheaters Farm
   - Teachers Farm
   - AR Chef Master
-- puzzle old and new
+- [Puzzles Old and New: How to Make and Solve Them](https://www.amazon.com/Puzzles-Old-New-Make-Solve/dp/0295965797)
 - 千年パズル ... 遊戯王のあれ
 - [ビンの中でナットを締める　探偵ナイトスクープ](https://www.nanigoto.net/entry/2018/01/20/082036) ... これのオリジナル放送またみたい。
 - [ゴルディアスの結び目](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B9%E3%81%AE%E7%B5%90%E3%81%B3%E7%9B%AE)
@@ -84,19 +84,19 @@ title: 159. Gordian Knot
 - [もやいむすび](https://camphack.nap-camp.com/4301)
 - [ひとひねり](https://idokichi.exblog.jp/13964302/)
 - [ガチャガチャの森](https://www.gachagachanomori.com/)
-- バランス石ゲーム
-- 競技用のルービックキューブ？
+- [Homraku 木製バランスゲーム ボードゲーム 立体パズル 石の形ブロック 積み木 ](https://www.amazon.co.jp/dp/B0B3WVH2H6) ... バランス石積みゲーム。tadasuがやったのがこれなのかはわからないがとりあえずこれ系はめちゃ面白い。
+- [スピードキューブ](https://www.amazon.co.jp/dp/B09J4ZPJ5K/)) ... かしゃかしゃが気持ちいいルービックキューブ
 - ルービックキューブの論文 ... 探していない。どこかにある。
-- tik tak toh
+- [tik tac toh](https://www.google.com/search?sxsrf=AJOqlzX-9M2W2Cmfp4fTQDnxtM38_-U1sQ:1677184775255&q=tic+tac+toe&spell=1&sa=X&ved=2ahUKEwiJjIGWwKz9AhWUFVkFHUr2C14QBSgAegQICBAB&biw=1440&bih=764&dpr=2)
 - numbersの必勝法 … microsoftの入社問題（といわれていたもの）に似たような（形は全く違う）ものがあったので非常に印象に残っている。
 - 指導教官の学生時代の自由研究　… 彼が行ったパズルの研究の話は非常に興味深く、研究論に通ずるところがあるので今度もしゲストに来ていただくことがあれば話をお聞きしたい。というか、今回パズルネタだったのでもう少し話せばよかった…orz
 - [ルービックキューブの早ときのnetflix](https://www.netflix.com/title/81092143) ... 意味がわからん。どうなってるの？
 - [宮本哲也](https://en.wikipedia.org/wiki/Tetsuya_Miyamoto)
 - [賢くなるパズル] ... アメリカではKenKenと呼ばれている。
-- 動画
-- 影廊 -Shadow Corridor-　な気がするけれども違うかも
-- ルービックキューブより前の人
-- 目玉の体操
+- [Are KenKen Puzzles the Future of Logic-Based Games? | The New Yorker Documentary](https://www.youtube.com/watch?v=PKWcc5uHkls) ... 宮本先生のドキュメンタリー。New York TimesじゃなくてThe New Yorkerだった。
+- [影廊 -Shadow Corridor-](https://store.steampowered.com/app/1025250/Shadow_Corridor/?l=schinese)　な気がするけれども違うかも
+- [Larry Nichols](https://en.wikipedia.org/wiki/Larry_D._Nichols) ... 2x2x2のルービックキューブをルービックよりも先に作っていた人。
+- 目玉の体操 ... 3D迷路の本
 
 ## Editorial Notes
 - 良い実験のノウハウがあったら教えて下さい！(coela)
