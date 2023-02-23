@@ -31,21 +31,21 @@ title: 159. Gordian Knot
 - [69. Pro tips for tips (Researchatfm)](https://researchat.fm/episode/69) ... pipettingについて話しています。"kyonさんをゲストに迎え、実験道具のこだわりと誤差、おすすめの餃子、無水料理や料理の楽しみなどについて話しました。"
 - 実験リカバリー … dessanも興味があるって言ってた気がする。
 - 斜めになってるチューブ立て ... どれ？
-- やかんばいち
+- [やかんで培地をつくる](https://twitter.com/researchat_fm/status/1416150009163169795)
 - 人馬一体　
-- 攻殻機動隊 SAC 2nd gig
-- 久世
-- majorの夢島
+- [攻殻機動隊 S.A.C 2nd GIG](https://www.amazon.co.jp/dp/B01JMDCIE6) ... 見てないやつおらんよな？ん？
+- [Hideo Kuze (久世)] ... イケメソ。
+- 草迷宮 affection ... せっかちなのねぇ
+- MAJORの夢島 ... MAJORの中で最高潮におもしろい。
 - 一円玉の上に一円玉　たぬ
 - researchatのツイート
-- 自作キーボードの話
+- [10. The endgame keyboard (Researchat.fm)](https://researchat.fm/episode/10) ... 自作キーボードの話 "記念すべき第10回のエピソードは、キーボードを自作する楽しみ、研究における道具や技術を自作するか問題、ゲームコントローラーの改造、Hit Box、超解像顕微鏡の設計と組み立て、マンガについて話しました。"
 - 小指と薬指をゴムで巻く … 中指薬指もやってた
-- 烈海王
+- 烈海王 ... 説明の必要なし
 - GDQ
 - Alex Myersのアケコン
-- ep10
 - ときどさんの動画
-- カプコン
+- [カプコンカップ2022](https://sf.esports.capcom.com/sp/cpt/ccix/)
 - [ウメハラさんがちょうどレバーレスコントローラーを使い始めたのがep10あたり](https://automaton-media.com/articles/newsjp/20190528-93027/)
 - [のりりん]
 - ぼくらの
