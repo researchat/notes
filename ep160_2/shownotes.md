@@ -30,6 +30,10 @@ title: 160. 600 tabs in your mobile web browser
 - ボルダリング ... 楽しい
 - rope climbing -> rock climbing
 - [雷獣](https://www.youtube.com/channel/UCIqbDFiFM-wHHmqdNlV5AEw) ... かしこい人たちの話を聞く番組。"灘中・灘高の卒業生4人でやってます。(ベテランち・かべ・今井チャンネル・永遠)"
+- [雷獣 w/ 令和ロマン](https://www.youtube.com/watch?v=UlGSINz8p_M&ab_channel=%E9%9B%B7%E7%8D%A3)
+- [【morgenコラボ】第一回•雷獣たばこ感想文コンクール✏️](https://www.youtube.com/watch?v=uCBbCb-wUG4&t=1s&ab_channel=%E9%9B%B7%E7%8D%A3) ... 
+- [雷獣 w/ 令和ロマン](https://www.youtube.com/watch?v=UlGSINz8p_M&ab_channel=%E9%9B%B7%E7%8D%A3)
+- [雷獣](https://www.youtube.com/channel/UCIqbDFiFM-wHHmqdNlV5AEw) ... かしこい人たちの話を聞く番組。"灘中・灘高の卒業生4人でやってます。(ベテランち・かべ・今井チャンネル・永遠)"
 - 雷獣　何個か動画
 - 読書感想文
 - morgenさん
