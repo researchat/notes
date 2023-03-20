@@ -5,7 +5,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/161.mp3 
 audio_file_size: 65176042
-date: 2023-03-21 05:45:00 +0900
+date: 2023-03-21 05:15:00 +0900
 rec_date: 202-03-04 22:00:00 +0900
 edit_by: tadasu
 description: ChatGPTの使い方、研究者の異名・二つ名クイズ、細胞農業にかわるキラキラネームについて話し合いました。
@@ -52,4 +52,4 @@ title: 161. Cell Transformation (CX)
 ## Editorial Notes
 - GPT-4試したい (soh)
 - ChatGPT超便利ですね！！カスタマーエクスペリエンス(CX）さんには申し訳ない。(coela)
-- CXは正直強すぎる。meat plantsとかもちょっと考えた。(tadasu)
+- CXは正直強すぎる。meat plantsとかもちょっと考えた。言葉遣いを綺麗にしていく！(tadasu)
