@@ -22,6 +22,7 @@ title: 161. Cell Transformation (CX)
 - chatgptによるレビュー ... 話の元になったツイートは、実際に使ってレビューしたのか、つかってみようという趣旨だったのか忘れました。
 - AIによるレビュー ... ただ最近はレビューワー不足も如実ですので、人2+AI1ぐらいの補助レビューワーとして導入されていく例は増えていくと予想します。
 - nature, scienceによるChatGPTによる規約
+- [ChatGPTはMBAの入試問題が解けるか](https://mackinstitute.wharton.upenn.edu/wp-content/uploads/2023/01/Christian-Terwiesch-Chat-GTP-1.24.pdf)
 - 存在しない論文を出してくる
 - 中国語の部屋
 - alphafold2
