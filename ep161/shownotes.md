@@ -8,7 +8,7 @@ audio_file_size: 65176042
 date: 2023-03-21 05:45:00 +0900
 rec_date: 2022-03-04 22:00:00 +0900
 edit_by: tadasu
-description: ChatGPTの使い方、研究者の異名・二つ名クイズ、細胞農業に変わるキラキラネームについて話し合いました。
+description: ChatGPTの使い方、研究者の異名・二つ名クイズ、細胞農業にかわるキラキラネームについて話し合いました。
 duration: "00:59:45"
 layout: article
 tags:
