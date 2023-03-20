@@ -89,5 +89,5 @@ title: 160. A lab doormat
 
 ## Editorial Notes
 - (ayane)
-- (coela)
+- ayaneさんありがとうございます！！動物のお医者さんはぜひみんな読んでほしい。(coela)
 - (tadasu)
