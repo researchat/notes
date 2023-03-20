@@ -27,7 +27,7 @@ title: 160. 600 tabs in your mobile web browser
 - ポッドキャストのリメイク
 - ディスカッソン(discuthon) ... 名前だけ
 - 4年間を圧縮すれば30min ... もちろん、ゲスト回はのぞきます。
-- ボルダリング ... 楽しい
+- ボルダリング ... 楽しい。というかなぜボルダリングにハマっているかはそのうちすでに収録済みの音源が出るはず...
 - rope climbing -> rock climbing
 - [雷獣](https://www.youtube.com/channel/UCIqbDFiFM-wHHmqdNlV5AEw) ... かしこい人たちの話を聞く番組。"灘中・灘高の卒業生4人でやってます。(ベテランち・かべ・今井チャンネル・永遠)"
 - [雷獣 w/ 令和ロマン](https://www.youtube.com/watch?v=UlGSINz8p_M&ab_channel=%E9%9B%B7%E7%8D%A3)
@@ -36,12 +36,12 @@ title: 160. 600 tabs in your mobile web browser
 - [#ポッドキャん想文](https://twitter.com/search?q=%23%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%93%E6%83%B3%E6%96%87&src=typed_query) ... どしどしよろしくお願いします。
 - researchat.book ... まぼろしの作品。出なすぎて[0g.さんの同人誌 ポ画ZINE](https://twitter.com/sai_enlightened/status/1578698896770879489)に寄稿しました。
 - [ガイアの夜明け](https://www.tv-tokyo.co.jp/gaia/program/)
-- [限りなく透明に近いブルー](https://www.amazon.co.jp/dp/4062763478)
-- [半島を出よ](https://www.amazon.co.jp/dp/4344410009)
-- [五分後の世界](https://www.amazon.co.jp/dp/4877284443)
+- [限りなく透明に近いブルー](https://www.amazon.co.jp/dp/4062763478?tag=researchatf04-22)
+- [半島を出よ](https://www.amazon.co.jp/dp/4344410009?tag=researchatf04-22)
+- [五分後の世界](https://www.amazon.co.jp/dp/4877284443?tag=researchatf04-22)
  
 
 ## Editorial Notes
-- (soh)
-- (coela)
+- fugafugafuga(soh)
+- hogehogehoge(coela)
 - ボルダリング、お笑い、ヒップホップ、研究、ゆっくりの動画レコメンドが基本。聴き直すと最近日本語が汚くなっていて問題...不快に思われた方は申し訳ないです。ちょっとずつ修正していきます。 (tadasu)
