@@ -50,5 +50,5 @@ title: 161. Cell Transformation (CX)
 
 ## Editorial Notes
 - GPT-4試したい (soh)
-- (coela)
+- ChatGPT超便利ですね！！カスタマーエクスペリエンス(CX）さんには申し訳ない。(coela)
 - CXは正直強すぎる。meat plantsとかもちょっと考えた。(tadasu)
