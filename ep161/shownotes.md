@@ -17,20 +17,20 @@ title: 161. Cell Transformation (CX)
 ---
 
 ## Shownotes
-- ChatGPT ... 今回の話はGPT4が出る前の話です。どれぐらい変わったのだろうか。
-- grammarly
-- chatgptによるレビュー ... 話の元になったツイートは、実際に使ってレビューしたのか、つかってみようという趣旨だったのか忘れました。
-- AIによるレビュー ... ただ最近はレビューワー不足も如実ですので、人2+AI1ぐらいの補助レビューワーとして導入されていく例は増えていくと予想します。
-- nature, scienceによるChatGPTによる規約
+- [ChatGPT](https://openai.com/blog/chatgpt) ... 今回の話はGPT4が出る前の話です。どれぐらい変わったのだろうか。
+- [Grammarly](https://www.grammarly.com/)
+- ChatGPTによるレビュー ... 話の元になったツイートは、実際に使ってレビューしたのか、つかってみようという趣旨だったのか忘れました。私は使っていません。
+- [AIによるレビュー](https://twitter.com/DonIngber/status/1636184027274027012) ... ただ最近はレビューワー不足も如実ですので、人2+AI1ぐらいの補助レビューワーとして導入されていく例は増えていくと予想します。
+- nature, scienceによるChatGPTによる規約 ... 流れていった... どこかに書いてある。
 - [ChatGPTはMBAの入試問題が解けるか](https://mackinstitute.wharton.upenn.edu/wp-content/uploads/2023/01/Christian-Terwiesch-Chat-GTP-1.24.pdf)
-- 存在しない論文を出してくる
-- 中国語の部屋
-- alphafold2
-- ep44
-- ep60
+- [ChatGPTは存在しない論文を出してくる](https://twitter.com/nhinshirhi/status/1635919444164902912)
+- [中国語の部屋](https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E8%AA%9E%E3%81%AE%E9%83%A8%E5%B1%8B)
+- [AlphaFold](https://alphafold.ebi.ac.uk/) ... なんとかFoldはもうちょっと抑えたい。そしていいネーミングだよね。
 - 研究者の異名・二つ名 ... 面白いものがあればぜひ教えてください。
-- 細胞農業 ... 細胞農業をプッシュされている皆様、乱暴な言葉遣いをしてしまい、申し訳ありませんでした。なお官僚の方々がこの言葉を推しているという論拠はございません。大変申し訳ございません。ただ、かっこいい名前がいいなぁ、とおもっただけ、それだけなんです。
-- cellular agriculture
+- [44. Tabasheer (Researchat.fm)](https://researchat.fm/episode/44) ... "1800年代後半、Natureに投稿した日本人研究者(杉浦重剛、小藤文次郎、関谷清景、伊藤篤太郎、南方熊楠)について話しました。"
+- [60. Lab meating (Researchat.fm)](https://researchat.fm/episode/60) ... "動物の体外で培養された細胞により作られた培養肉、さらに植物性の代替肉や代替卵について話しました。"
+- [細胞農業](https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%83%9E%E8%BE%B2%E6%A5%AD) ... 細胞農業をプッシュされている皆様、乱暴な言葉遣いをしてしまい、申し訳ありませんでした。なお官僚の方々がこの言葉を推しているという論拠はございません。大変申し訳ございません。ただ、かっこいい名前がいいなぁ、とおもっただけ、それだけなんです。
+- [cellular agriculture](https://new-harvest.org/what-is-cellular-agriculture/)
 - in vitro ... 試験管で、、みたいな意味
 - meatX 
 - alpha meat
