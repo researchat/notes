@@ -47,6 +47,6 @@ title: 161. Cell Transformation (CX)
 - omega meat
 
 ## Editorial Notes
-- (soh)
+- GPT-4試したい (soh)
 - (coela)
 - CXは正直強すぎる(tadasu)
