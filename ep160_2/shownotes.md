@@ -6,7 +6,7 @@ actor_ids:
 audio_file_path: https://traffic.libsyn.com/secure/researchat/160.mp3 
 audio_file_size: 66824992
 date: 2023-03-21 05:45:00 +0900
-rec_date: 2022-03-04 22:00:00 +0900
+rec_date: 2023-03-04 22:00:00 +0900
 edit_by: tadasu
 description: ポッドキャストを初めてからの4年間、ポッドキャストエピソードのセルフリメイク、ポッドキャん想文、飽き性について話しました。
 duration: "01:01:15"
