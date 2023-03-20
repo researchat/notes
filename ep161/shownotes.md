@@ -31,22 +31,23 @@ title: 161. Cell Transformation (CX)
 - 研究者の異名・二つ名 ... 面白いものがあればぜひ教えてください。
 - 細胞農業 ... 細胞農業をプッシュされている皆様、乱暴な言葉遣いをしてしまい、申し訳ありませんでした。なお官僚の方々がこの言葉を推しているという論拠はございません。大変申し訳ございません。ただ、かっこいい名前がいいなぁ、とおもっただけ、それだけなんです。
 - cellular agriculture
-- in vitro
-- meat-x
+- in vitro ... 試験管で、、みたいな意味
+- meatX 
 - alpha meat
-- 細胞SDGs
-- バイオSDGs
-- Meat-DX
-- DX
-- BX
-- CX
-- AX
-- Ex
-- Fx
-- Systems Biology
-- Mx meat experience
-- トランスフォーメーション … 形質転換
-- omega meat
+- 細胞SDGs ... 結構好き
+- バイオSDGs ... これも好き
+- Meat-DX ... 何がないやら。以下羅列。
+- DX ... Digital Transformation 誰がつけたか知らないがぶっ飛びすぎてる。英語圏でもつかわれているっぽい。
+- BX ... Bio Transformation / Biological Transformation
+- CX ... Cell Transformation / Cellular Transformation
+- AX ... Agriculture Transformation / Agicultural Transformation
+- Ex ... Energy Transformation / Energetic Transformation
+- Fx ... Foreign Exchange
+- [Systems Biology](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%94%9F%E7%89%A9%E5%AD%A6) ... 北野先生が提唱したのかと思っていたけれどもどうなんでしょうか（もちろん概念的には昔からあったとは思いますが)
+- Mx ... Meat Experience
+- トランスフォーメーション … 形質転換じゃないか... CXは紛らわしいかな？笑
+- Omega Meat ... もうなんでもあり
+- New (µ) Meat
 
 ## Editorial Notes
 - GPT-4試したい (soh)
