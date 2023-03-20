@@ -29,7 +29,7 @@ title: 161. Cell Transformation (CX)
 - ep44
 - ep60
 - 研究者の異名・二つ名 ... 面白いものがあればぜひ教えてください。
-- 細胞農業
+- 細胞農業 ... 細胞農業をプッシュされている皆様、乱暴な言葉遣いをしてしまい、申し訳ありませんでした。なお官僚の方々がこの言葉を推しているという論拠はございません。大変申し訳ございません。ただ、かっこいい名前がいいなぁ、とおもっただけ、それだけなんです。
 - cellular agriculture
 - in vitro
 - meat-x
@@ -51,4 +51,4 @@ title: 161. Cell Transformation (CX)
 ## Editorial Notes
 - GPT-4試したい (soh)
 - (coela)
-- CXは正直強すぎる(tadasu)
+- CXは正直強すぎる。meat plantsとかもちょっと考えた。(tadasu)
