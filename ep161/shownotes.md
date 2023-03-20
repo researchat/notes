@@ -30,6 +30,7 @@ title: 161. Cell Transformation (CX)
 - ep60
 - 研究者の異名・二つ名 ... 面白いものがあればぜひ教えてください。
 - 細胞農業
+- cellular agriculture
 - in vitro
 - meat-x
 - alpha meat
