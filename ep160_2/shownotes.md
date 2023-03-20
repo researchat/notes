@@ -32,18 +32,13 @@ title: 160. 600 tabs in your mobile web browser
 - [雷獣](https://www.youtube.com/channel/UCIqbDFiFM-wHHmqdNlV5AEw) ... かしこい人たちの話を聞く番組。"灘中・灘高の卒業生4人でやってます。(ベテランち・かべ・今井チャンネル・永遠)"
 - [雷獣 w/ 令和ロマン](https://www.youtube.com/watch?v=UlGSINz8p_M&ab_channel=%E9%9B%B7%E7%8D%A3)
 - [【morgenコラボ】第一回•雷獣たばこ感想文コンクール✏️](https://www.youtube.com/watch?v=uCBbCb-wUG4&t=1s&ab_channel=%E9%9B%B7%E7%8D%A3) ... 
-- [雷獣 w/ 令和ロマン](https://www.youtube.com/watch?v=UlGSINz8p_M&ab_channel=%E9%9B%B7%E7%8D%A3)
-- [雷獣](https://www.youtube.com/channel/UCIqbDFiFM-wHHmqdNlV5AEw) ... かしこい人たちの話を聞く番組。"灘中・灘高の卒業生4人でやってます。(ベテランち・かべ・今井チャンネル・永遠)"
-- 雷獣　何個か動画
-- 読書感想文
-- morgenさん
+- [【神童】かべ、灘中合格への軌跡を全て語ります【英才教育】](https://www.youtube.com/watch?v=XwNveevIlng&ab_channel=%E9%9B%B7%E7%8D%A3)　... 雷獣メンバーかべさんの中学受験紀。親御さんの教育法が興味深かった、と同時に中学受験エグすぎるやろ...って思いました。
 - [#ポッドキャん想文](https://twitter.com/search?q=%23%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%93%E6%83%B3%E6%96%87&src=typed_query) ... どしどしよろしくお願いします。
 - researchat.book ... まぼろしの作品。出なすぎて[0g.さんの同人誌 ポ画ZINE](https://twitter.com/sai_enlightened/status/1578698896770879489)に寄稿しました。
 - [ガイアの夜明け](https://www.tv-tokyo.co.jp/gaia/program/)
-- 限りなく透明に近いブルー
-- 半島を出よ
-- 5分後の世界
-- ストリートファイター6
+- [限りなく透明に近いブルー](https://www.amazon.co.jp/dp/4062763478)
+- [半島を出よ](https://www.amazon.co.jp/dp/4344410009)
+- [五分後の世界](https://www.amazon.co.jp/dp/4877284443)
  
 
 ## Editorial Notes
