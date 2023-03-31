@@ -25,22 +25,17 @@ title: 160. A lab doormat
 - サイエンスコミックライター … Sicenceをテーマに描く漫画家としてAyaneが作った造語
 - VTuber … アバターと通してYouTubeで発信活動を行うバーチャルYouTuberのこと。
 - [ラジオ リスパンネコラジオ](http://fm.kahoku.net/)…「FMかほく」にて毎週水曜日「リスパンネコラジオ」放送中！
-- ポッドキャスト…リスパンネコラジオ、AnchorとSpotifyにアーカイブがあります。
-https://open.spotify.com/show/340ngxFJMerJPKKc2qNNdp
-- researchatLT vol1
-- researchatLT vol2
-- ウーパールーパーのゲノムサイズ
-- ウーロンの背表紙
-- 深夜冷蔵庫うぉんうぉん
-https://twitter.com/yuruyuru777/status/1234857440665047040?s=20
-https://science-manabi-lab.com/topics/c-article03/
+- [ポッドキャスト リスパンネコラジオ]https://open.spotify.com/show/340ngxFJMerJPKKc2qNNdp) … リスパンネコラジオ、AnchorとSpotifyにアーカイブがあります。
+- [researchatLT vol1](https://www.youtube.com/watch?v=kKLt956ieSM) ... 最高のイベント。今後のイベントのためにもResearchatのYouTube登録お願いします！
+- [researchatLT vol2](https://www.youtube.com/watch?v=8st6KoYsnP0&ab_channel=Researchatfm) ... 今年はvol3やろうな...
+- ウーパールーパーのゲノムサイズ ... [もっと大きいの読まれたよ！](https://twitter.com/researchat_fm/status/1631684866982162433)
+- ウーロンの背表紙 ... ヤジロベーだったわ... 悟空も二回でてくるよね。42巻だけ分厚くて好きだった。
+- [深夜冷蔵庫うぉんうぉん](https://twitter.com/yuruyuru777/status/1234857440665047040?s=20)
+- [深夜まで実験](https://science-manabi-lab.com/topics/c-article03/)
 - ピペットのとりかた
-- 発注しないやーつ
-https://twitter.com/yuruyuru777/status/1137733238565113859?s=20
-- ナノドロップとUSB
-https://twitter.com/yuruyuru777/status/1232679261711958016?s=20
-- チューブのやつ
-https://twitter.com/yuruyuru777/status/1229057487652835328?s=20
+- [発注しないやーつ](https://twitter.com/yuruyuru777/status/1137733238565113859?s=20)
+- [ナノドロップとUSB](https://twitter.com/yuruyuru777/status/1232679261711958016?s=20)
+- [チューブの霊圧...](https://twitter.com/yuruyuru777/status/1229057487652835328?s=20)
 - チャッキーくん
 - 小さき人
 https://twitter.com/i/events/1511830120021266435
