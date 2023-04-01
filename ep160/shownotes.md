@@ -24,6 +24,7 @@ title: 160. A lab doormat
 - [AyaneさんのBooth](https://ayane999.booth.pm/)
 - サイエンスコミックライター … Sicenceをテーマに描く漫画家としてAyaneが作った造語 (自分を示すための職業を作るのが大事って偉い人が言ってた tadasu)
 - VTuber … アバターと通してYouTubeで発信活動を行うバーチャルYouTuberのこと。
+- RPNP … リスパンダネコパンディング
 - [ラジオ リスパンネコラジオ](http://fm.kahoku.net/)…「FMかほく」にて毎週水曜日「リスパンネコラジオ」放送中！
 - [ポッドキャスト リスパンネコラジオ](https://open.spotify.com/show/340ngxFJMerJPKKc2qNNdp) … リスパンネコラジオ、AnchorとSpotifyにアーカイブがあります。
 - [researchatLT vol1](https://www.youtube.com/watch?v=kKLt956ieSM) ... 最高のイベント。今後のイベントのためにもResearchatのYouTube登録お願いします！
@@ -53,7 +54,7 @@ title: 160. A lab doormat
 - [日本ジェネティクス様](https://www.n-genetics.com/)
 - 好きな実験機器を聞く ... 何に書いてたんでしたっけ...
 - カタログを読む ... [ep72](https://researchat.fm/episode/72)で話しました。またやりたいなぁ。
-- 実験医学の怖い話
+- 実験医学の怖い話　... 実験医学さんが出している本、どれだっけ...すいません...
 - ラボ百景　... まじでこの企画楽しみ！
 - バイオマーフィー … Ayaneが2022年にだした同人誌。バイオ系実験・研究あるあるをマーフィーの法則風に漫画でまとめた。TadasuさんとのTwitterでのやりとりが執筆の発端。
 - バイオマーフィー ... 色々な事例を集めていけば必読本になる予感（ラボでの危険行動予測もかねて)
@@ -65,39 +66,31 @@ title: 160. A lab doormat
 - [らのぼのーと！](https://science-manabi-lab.com/topics/c-article01/) …サイエンス学びラボ様にてサイエンス＆ラボライフ漫画「らぼのーと！」を連載中！
 - [#ポ絵かき](https://twitter.com/search?q=%23%E3%83%9D%E7%B5%B5%E3%81%8B%E3%81%8D&src=typed_query&f=top)
 - [研究室紹介漫画](https://twitter.com/Since20220401/status/1592829597842034689)…中央大学 高瀬研究室の研究室紹介漫画を担当
-- 動物のお医者さん
-- clip stadio…イラスト、漫画制作ソフト。愛用。
+- [動物のお医者さん](https://www.amazon.co.jp/dp/459221708X/)
+- [clip stadio](https://www.clipstudio.net/en/) …イラスト、漫画制作ソフト。愛用。
 - [リサちゃん](https://twitter.com/yuruyuru777/status/1334882720300691457?s=20)
 - [リサちゃん2](https://twitter.com/yuruyuru777/status/1349373354189279232?s=20)
 - [リサちゃん3](https://twitter.com/yuruyuru777/status/1329943009127919616?s=20)
-- WACOM
-- 植物回
-- [実験医学オピニオン](https://www.yodosha.co.jp/jikkenigaku/opinion/vol39n13.html)
-- 石黒案件
-- ポッドキャストアワード
-- まいんさん
+- WACOM ... 何の話だっけ...
+- [156. Plants as new media (Researchat.fm)](https://researchat.fm/episode/156) ... 植物回 塊根植物の栽培とDIY温室、家庭菜園と害獣、クラシックなInstagramの使い方について話しました。"
+- [実験医学オピニオン](https://www.yodosha.co.jp/jikkenigaku/opinion/vol39n13.html) ... 第134回　サイエンスの裾野から漫画で叫ぶ (Ayaneさん回)
+- [実験医学オピニオン](https://www.yodosha.co.jp/jikkenigaku/opinion/vol38n14.html) ... 第123回　ポッドキャストで語るサイエンスとその魅力 (soh回)
+- [ポッドキャストアワード](https://www.japanpodcastawards.com/)
+- [まいんさん](https://twitter.com/ArmnieBIO) ... まいん先生のゲスト回 [ep157](https://researchat.fm/episode/157)
 - [YouTube登録してください](https://www.youtube.com/channel/UCLg9wRlnTFwaCi3xvFm_TNg)
-- 四年目
 - 今年はゲスト… 2022年のことです。
 - RPNP … リスパンダネコパンディング
-- FMかほく …　水曜日に放送中
-- リスパンネコラジオ
-- spotify
-- anchor
-- 白亜マウル
-- 弁護士
-- Scienceアゴラ　隣り合う未来
-- ハイアンドロー
-- コミケ
-- 技術書典
-- researchat.book vol.1 
-- OL進化論
-- 瑠璃の宝石
-- デュエルイベント
-- デュエリスト
+- [FMかほく](https://fm.kahoku.net/) …　水曜日に放送中 ネットで聞ける
+- [Scienceアゴラ　隣り合う未来](https://www.jst.go.jp/sis/scienceagora/2022/online/20-a19.html)
+- researchat.book vol.1  ... まぼろしの本。もっている人は超レアだよ！
+- [OL進化論](https://www.amazon.co.jp/dp/B08L8P49X6/)
+- [瑠璃の宝石](https://www.amazon.co.jp/dp/4047362670)
+- デュエルイベント ... [ep154](https://researchat.fm/episode/154)などを参照
+- デュエリスト ... 随時募集中
 
 
 ## Editorial Notes
 - (ayane)
-- ayaneさんありがとうございます！！動物のお医者さんはぜひみんな読んでほしい。(coela)
-- (tadasu)
+- ayaneさんありがとうございます！！動物のお医者さんはぜひみんな読んでほしい。瑠璃の宝石めっちゃ面白い(coela)
+- 公開が遅れてすいませんでした！あまりにも楽しい話ができてよかったです。そしてクリエイターとしても勉強になりました。次回のデュエルに期待！(tadasu)
+
