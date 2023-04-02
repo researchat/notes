@@ -4,12 +4,12 @@ actor_ids:
   - coela
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/162.mp3 
-audio_file_size: X
-date: 2023-04-01 05:45:00 +0900
+audio_file_size: 80010648
+date: 2023-04-03 05:45:00 +0900
 rec_date: 2022-10-02 22:00:00 +0900
 edit_by: tadasu
 description: ゲストにAyaneさんを迎え、サイエンスコミックライター、生命科学系ラボあるある、VTuberとしての活動、これからの展開について話し合いました。
-duration: "01:XY:ZZ"
+duration: "01:43:40"
 layout: article
 tags:
   - ゲスト
