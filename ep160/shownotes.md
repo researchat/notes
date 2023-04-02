@@ -17,14 +17,16 @@ title: 160. A lab doormat
 ---
 
 ## Shownotes
-- [Ayaneさん@yuruyuru777](https://twitter.com/yuruyuru777)
+- [Ayaneさん Twitterアカウント@yuruyuru777](https://twitter.com/yuruyuru777)
+- [AyaneさんのInstagram](https://www.instagram.com/ayane_chiisakihito)
+- [AyaneさんのYouTube](https://www.youtube.com/channel/UCLg9wRlnTFwaCi3xvFm_TNg)
 - [Ayaneさんの公式お仕事情報](https://twitter.com/i/events/1312948066090008576)
 - [バイオ系テクニシャンの独り言まとめ](https://twitter.com/i/events/1155746999687233538)
 - [バイオ系テクニシャンの独り言まとめ2](https://twitter.com/i/events/1292632289575223296)
 - [AyaneさんのBooth](https://ayane999.booth.pm/)
 - サイエンスコミックライター … Sicenceをテーマに描く漫画家としてAyaneが作った造語 (自分を示すための職業を作るのが大事って偉い人が言ってた tadasu)
 - VTuber … アバターと通してYouTubeで発信活動を行うバーチャルYouTuberのこと。
-- RPNP … リスパンダネコパンディング
+- RPNP … リスパンネコパンデミック
 - [ラジオ リスパンネコラジオ](http://fm.kahoku.net/)…「FMかほく」にて毎週水曜日「リスパンネコラジオ」放送中！
 - [ポッドキャスト リスパンネコラジオ](https://open.spotify.com/show/340ngxFJMerJPKKc2qNNdp) … リスパンネコラジオ、AnchorとSpotifyにアーカイブがあります。
 - [researchatLT vol1](https://www.youtube.com/watch?v=kKLt956ieSM) ... 最高のイベント。今後のイベントのためにもResearchatのYouTube登録お願いします！
@@ -71,7 +73,7 @@ title: 160. A lab doormat
 - [リサちゃん](https://twitter.com/yuruyuru777/status/1334882720300691457?s=20)
 - [リサちゃん2](https://twitter.com/yuruyuru777/status/1349373354189279232?s=20)
 - [リサちゃん3](https://twitter.com/yuruyuru777/status/1329943009127919616?s=20)
-- WACOM ... 何の話だっけ...
+- WACOM ... 何の話だっけ... (WACOMの話はペンタブの話だと思います！ by Ayaneさん)
 - [156. Plants as new media (Researchat.fm)](https://researchat.fm/episode/156) ... 植物回 塊根植物の栽培とDIY温室、家庭菜園と害獣、クラシックなInstagramの使い方について話しました。"
 - [実験医学オピニオン](https://www.yodosha.co.jp/jikkenigaku/opinion/vol39n13.html) ... 第134回　サイエンスの裾野から漫画で叫ぶ (Ayaneさん回)
 - [実験医学オピニオン](https://www.yodosha.co.jp/jikkenigaku/opinion/vol38n14.html) ... 第123回　ポッドキャストで語るサイエンスとその魅力 (soh回)
@@ -79,9 +81,8 @@ title: 160. A lab doormat
 - [まいんさん](https://twitter.com/ArmnieBIO) ... まいん先生のゲスト回 [ep157](https://researchat.fm/episode/157)
 - [YouTube登録してください](https://www.youtube.com/channel/UCLg9wRlnTFwaCi3xvFm_TNg)
 - 今年はゲスト… 2022年のことです。
-- RPNP … リスパンダネコパンディング
 - [FMかほく](https://fm.kahoku.net/) …　水曜日に放送中 ネットで聞ける
-- [Scienceアゴラ　隣り合う未来](https://www.jst.go.jp/sis/scienceagora/2022/online/20-a19.html)
+- [サイエンスアゴラ 隣り合う未来〜市民と科学者の垣根を超えて〜](https://www.jst.go.jp/sis/scienceagora/2022/online/20-a19.html)
 - researchat.book vol.1  ... まぼろしの本。もっている人は超レアだよ！
 - [OL進化論](https://www.amazon.co.jp/dp/B08L8P49X6/)
 - [瑠璃の宝石](https://www.amazon.co.jp/dp/4047362670)
@@ -90,7 +91,7 @@ title: 160. A lab doormat
 
 
 ## Editorial Notes
-- (ayane)
+- インフルエンザで39度の熱を出して朦朧としながら初めて聞いたResearchatに出演できたのが、熱に浮かされた夢のようで本当に嬉しかったです！また次のデュエルを楽しみにしてますー！(ayane)
 - ayaneさんありがとうございます！！動物のお医者さんはぜひみんな読んでほしい。瑠璃の宝石めっちゃ面白い(coela)
 - 公開が遅れてすいませんでした！あまりにも楽しい話ができてよかったです。そしてクリエイターとしても勉強になりました。次回のデュエルに期待！(tadasu)
 
