@@ -7,10 +7,10 @@ audio_file_size: 53029482
 date: 2023-05-30 23:15:00 +0900
 rec_date: 2023-05-15 05:00:00 +0900
 edit_by: tadasu
-description:
+description: ボストン周辺の美術館・博物館に行った感想、北斎展、大学とQOLと街とハッピーアワーについて話しました。
 duration: "00:50:43"
 layout: article
-tags:ボストン周辺の美術館・博物館に行った感想、北斎展、大学とQOLと街とハッピーアワーについて話しました。
+tags:
   - 雑談
 title: 163. Researchers on the hill
 ---
