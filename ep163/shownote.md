@@ -4,7 +4,7 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/163.mp3 
 audio_file_size: 53029482
-date: 2023-05-30 23:15:00 +0900
+date: 2023-05-29 23:42:00 +0900
 rec_date: 2023-05-15 05:00:00 +0900
 edit_by: tadasu
 description: ボストン周辺の美術館・博物館に行った感想、北斎展、大学とQOLと街とハッピーアワーについて話しました。
