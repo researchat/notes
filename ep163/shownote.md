@@ -69,7 +69,7 @@ title: 163. Researchers on the hill
 - [スタンフォード　(1891年創立)](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E5%A4%A7%E5%AD%A6)
 - [Caltech (1891年創立)](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6)
 - [MIT (1861年創立)](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B5%E3%83%81%E3%83%A5%E3%83%BC%E3%82%BB%E3%83%83%E3%83%84%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6　)
-- [慶應義塾大学(1858創立)][https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6] ... MITと大体同じぐらいか
+- [慶應義塾大学(1858創立)](https://ja.wikipedia.org/wiki/%E6%85%B6%E6%87%89%E7%BE%A9%E5%A1%BE%E5%A4%A7%E5%AD%A6) ... MITと大体同じぐらいか
 - 遺伝研　... 坂下とかそういう名前のバス停が手前にあるところは怪しい。坂があるだけで今日はちょっと行くのやだなーってなる、よね？
 - [金沢大学の坂](https://ja.wikipedia.org/wiki/%E8%A7%92%E9%96%93%E5%9D%82)
 - [広大の朝食](https://www.hiroshima-u.ac.jp/news/73208) ...　学生だけへの提供。でもとりあえず普通でも安い。
