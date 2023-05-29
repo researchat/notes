@@ -12,7 +12,7 @@ duration: "00:50:43"
 layout: article
 tags:
   - 雑談
-title: 163. Researchers on the hill
+title: 163. The College on the Hill
 ---
 
 ## Shownotes
