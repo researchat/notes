@@ -3,12 +3,12 @@ actor_ids:
   - coela
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/165.mp3 
-audio_file_size: X
+audio_file_size: 80030633
 date: 2023-08-04 23:42:00 +0900
 rec_date: 2023-06-17 22:00:00 +0900
 edit_by: tadasu
 description: ノートと万年筆、ホドロフスキーのDUNE、流・式・発・国産について、パズルとボルダリング、帯状疱疹とurgent care、SF6観戦のすすめについて話しました。
-duration: "00:XX:XX"
+duration: "01:41:44"
 layout: article
 tags:
   - 雑談
