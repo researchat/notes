@@ -20,7 +20,7 @@ title: 165. Spiritual Warrior
 - [Notion](https://www.notion.so/)
 - [ピクシブでのNotionのつかいかた](https://inside.pixiv.blog/2021/05/20/120000)
 - [TAIYAKI NYC](https://taiyakinyc.com/) ... なんというあられもない姿
-- ノート回
+- [66. Weaving a web of ideas (Researchat.fm)](https://researchat.fm/episode/66) ... "アイデアとノートの取り方、ノートの変遷、Zettelkasten (ノート作成方法)について話しました。"
 - [Moleskin](https://www.amazon.co.jp/dp/B07DL7XSBX/?tag=researchatf04-22)
 - [ロイヒトトゥルム1917](https://www.amazon.co.jp/dp/B08SCJSCQJ/?tag=researchatf04-22) ...Moleskinもこれも値段上がりすぎじゃないか...???
 - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
@@ -40,7 +40,7 @@ title: 165. Spiritual Warrior
 - [示現流](https://ja.wikipedia.org/wiki/%E7%A4%BA%E7%8F%BE%E6%B5%81) ... 六三四の剣で日高に憧れたのは私だけではないはず
 - [モンテッソーリー](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%83%83%E3%82%BD%E3%83%BC%E3%83%AA%E6%95%99%E8%82%B2) ... みんな大好きなやつ。
 - [国産CRISPR](https://www.ims.u-tokyo.ac.jp/imsut/jp/about/press/page_00191.html)
-- パズル回
+- [159. Gordian Knot (Researchat.fm)](https://researchat.fm/episode/159) ... パズル回
 - [パズルの話半分](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hMjk1NWRlYy9wb2RjYXN0L3Jzcw) ... パズルの話を堪能しまくれる最高のポッドキャスト
 - ダイアゴナル ... キョン、フラッギング、ヒールフック、などなどを覚えながら地味にやっている。行っているジムだとV1は大体できるようになって、V2に挑戦中。
 - [Boston Bouldering Project](https://bostonboulderingproject.com/) ... 最高
@@ -55,8 +55,8 @@ title: 165. Spiritual Warrior
 - ずんだもん ... 関係ないが、ずんだもんにもはまっている...
 - [Redbull Kumite 2023](https://www.redbull.com/us-en/events/red-bull-kumite)
 - [背水の逆転劇](https://www.youtube.com/watch?v=fTyewgmEoGU&ab_channel=garanazin) ... Let's GO! Justin!
-- 千列脚 -> 鳳翼扇
-- ep3
+- 千裂脚 -> 鳳翼扇
+- [3. Here Comes A New Challenger!(Researchat.fm)](https://researchat.fm/episode/3) ... "eスポーツ、EVO JAPAN 2019、パキスタン勢とArslan Ash、eスポーツと渡航ビザ問題、格ゲー動画勢の楽しみ方、eスポーツの解説とサイエンスコミュニケーション、ウメハラの攻略法、サムライスピリッツの新作、おすすめのマンガ情報について話しました."
 - [Arslan Ash](https://liquipedia.net/fighters/Arslan_Ash)
 - サウジの大会
 - 鉄拳はArslan Ash率いるパキスタンの優勝
