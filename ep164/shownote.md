@@ -4,8 +4,8 @@ actor_ids:
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/164.mp3 
 audio_file_size: X
-date: 2023-04-23 23:42:00 +0900
-rec_date: 2023-05-20 22:00:00 +0900
+date: 2023-08-04 23:42:00 +0900
+rec_date: 2023-04-23 22:00:00 +0900
 edit_by: tadasu
 description: アメリカの花粉とアレルギー、大谷選手を観戦する意義、ゲームのオンラインコミュニティー、学習のサイクル・方法について話しました。
 duration: "00:XX:XX"
