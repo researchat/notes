@@ -32,22 +32,23 @@ title: 164. Road to Grand Master
 - Road to Diamond
 - グランドマスター ... マジですごい。
 - [メナト](https://game.capcom.com/cfn/sfv/character/menat)
-- ローズ
-- ファン
-- ゆうきあおい
-- SF6
-- 剛健
-- 電刃
-- 昇竜コマンド
-- モダン
-- マリーザ　... 歴史
-- ジェイミー
-- レバーレスアケコン
+- [ローズ](https://game.capcom.com/cfn/sfv/character/rose)
+- [F.A.N.G](https://game.capcom.com/cfn/sfv/character/fang)
+- [悠木碧](https://ja.wikipedia.org/wiki/%E6%82%A0%E6%9C%A8%E7%A2%A7)
+- [SF6](https://www.streetfighter.com/6) ... 過去最高傑作との呼び声も高い。
+- [剛健](https://game.capcom.com/cfn/sfv/column/100925) ... "リュウとケンの師匠！"
+- 電刀波動拳
+- [昇竜コマンド](https://gamer2.jp/post/syouryuucommand/) ... 623+P
+- [モダンタイプ](https://jp.ign.com/street-fighter-6/60067/news/6) ... 革命
+- [マリーザ](https://www.streetfighter.com/6/ja-jp/character/marisa)　... 歴史
+- [赤見かるびさんのマリーザ](https://www.youtube.com/watch?v=0XWrzw5S7nQ&ab_channel=%E8%B5%A4%E8%A6%8B%E3%81%8B%E3%82%8B%E3%81%B3%2FKarubiAkami)
+- [ジェイミー](https://www.streetfighter.com/6/ja-jp/character/jamie)
+- [レバーレスアケコン](https://goziline.com/archives/47667)
 - fusion360
 - instagram
-- Nuckledu
+- [Nuckledu](https://liquipedia.net/fighters/NuckleDu)
 - ゲーム攻略回
-- 男木島
+- [男木島](https://www.my-kagawa.jp/shimatabi/feature/shimatabi/ogijima)
 - 島の話の回
 - マリオの映画
 - Your Story
