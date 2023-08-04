@@ -45,23 +45,23 @@ title: 165. Spiritual Warrior
 - ダイアゴナル ... キョン、フラッギング、ヒールフック、などなどを覚えながら地味にやっている。行っているジムだとV1は大体できるようになって、V2に挑戦中。
 - [Boston Bouldering Project](https://bostonboulderingproject.com/) ... 最高
 - [帯状疱疹](https://taijouhoushin-yobou.jp/) ... みんな気をつけよう。
-- SF6
-- 愛しさと切なさと心強さと
-- SF6は過去最高傑作 by Daigo Umehara
+- [SF6](https://www.streetfighter.com/6) ... 過去最高傑作との呼び声も高い。
+- [篠原涼子 with t.komuro / 恋しさと せつなさと 心強さと 2023](https://www.youtube.com/watch?v=oBE4lGvGUVg&ab_channel=avex)
 - researchat Dojo
-- Reject FIgthing gamers
-- REJECT ... ときど選手加入！
-- CR cup
-- 赤身カルビ
-- Redbull kumite
-- 背水の逆転劇
-- 千列脚 -> ほうよくせん
+- [Reject Fight Night](https://www.youtube.com/playlist?list=PLi7rMQL9QEIEwOVzJRjtuLr048wri8oF-)
+- [REJECT](https://reject.jp/2023/07/07/%E3%80%90%E6%A0%BC%E9%97%98%E3%82%B2%E3%83%BC%E3%83%A0%E3%80%91%E3%81%A8%E3%81%8D%E3%81%A9%E9%81%B8%E6%89%8B%E5%8A%A0%E5%85%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/) ... ときど選手加入！
+- [Crazy Raccoon Cup Street Fighter 6](https://www.youtube.com/watch?v=uEsqqxlFd2o&ab_channel=DaigotheBeasTV) ... この大会は盛り上がりすぎてやばかったですね。最後のウメハラ選手の締め方も最高でした。
+- [赤見かるび](https://www.twitch.tv/akamikarubi) ... 正直にいってハマっている。
+- ずんだもん ... 関係ないが、ずんだもんにもはまっている...
+- [Redbull Kumite 2023](https://www.redbull.com/us-en/events/red-bull-kumite)
+- [背水の逆転劇](https://www.youtube.com/watch?v=fTyewgmEoGU&ab_channel=garanazin) ... Let's GO! Justin!
+- 千列脚 -> 鳳翼扇
 - ep3
-- Arslan Ash
+- [Arslan Ash](https://liquipedia.net/fighters/Arslan_Ash)
 - サウジの大会
 - 鉄拳はArslan Ash率いるパキスタンの優勝
-- evo
-- capcom cup
+- [evo2023](https://www.evo.gg/)
+- [cpt](https://sf.esports.capcom.com/cpt/)
 - SFL
 - モダン入力
 - クラシック入力
