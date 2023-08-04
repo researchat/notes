@@ -16,39 +16,35 @@ title: 165. Spiritual Warrior
 ---
 
 ## Shownotes
-- amazonのアジェンダ
-- notion
-- pixivによるnotionの使い方
-- taiyaki in NY instagram
+- [amazonのミーティング](https://business.nikkei.com/atcl/gen/19/00280/040900001/)
+- [Notion](https://www.notion.so/)
+- [ピクシブでのNotionのつかいかた](https://inside.pixiv.blog/2021/05/20/120000)
+- [TAIYAKI NYC](https://taiyakinyc.com/) ... なんというあられもない姿
 - ノート回
-- moleskin
-- ルイヒトトゥルム
-- ゼトロカステン
-- notionとzettlekasten
-- 新しいデジタルノート術で第二の脳を作ろう　... notionに限らずデジタルノートの扱い方について。zettelkastenについても言及があります。
-- LAMYのsafari
+- [Moleskin](https://www.amazon.co.jp/dp/B07DL7XSBX/?tag=researchatf04-22)
+- [ロイヒトトゥルム1917](https://www.amazon.co.jp/dp/B08SCJSCQJ/?tag=researchatf04-22) ...Moleskinもこれも値段上がりすぎじゃないか...???
+- [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten)
+- [新しいデジタルノート術で第二の脳を作ろう](https://booth.pm/ja/items/3122086)　... notionに限らずデジタルノートの扱い方について。zettelkastenについても言及があります。
+- [LAMYのsafari](https://www.amazon.co.jp/dp/B09RJVDJJZ/?tag=researchatf04-22)
 - 万年筆のインク
-- かべこ
-- waterman
-- smith-waterman
+- [カヴェコ](https://www.amazon.co.jp/dp/B006CQSVIY/?tag=researchatf04-22)
+- [WATERMANの万年筆](https://www.amazon.co.jpdp/B000J3TZBS/?tag=researchatf04-22) ... 高い...!!!
+- [Smith-Waterman algorithm](https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm) ... DNAをアラインメントするアルゴリズム
 - さざびー
 - ノート
-- アイデアフロウ
-- 使えるアイデアを無限に生み出す方法
-- ホドロフスキーのdune
+- [スタンフォードの人気教授が教える 「使える」アイデアを「無限に」生み出す方法](https://www.amazon.co.jp/dp/4046062002/?tag=researchatf04-22) ... この激烈に惹かれないタイトル
+- [ホドロフスキーのDUNE](https://www.amazon.co.jp/dp/B07WRSNMRL/?tag=researchatf04-22)
 - 魂の戦士
 - ロットリング600
-- 北辰一刀流
-- 示現流
-- モンテッソーリー
-- 国産CRISPR
-- キャメルクラッチ
+- [北辰一刀流](https://origin-production.wikiwand.com/zh-cn/%E5%8C%97%E8%BE%B0%E4%B8%80%E5%88%80%E6%B5%81)
+- [示現流](https://ja.wikipedia.org/wiki/%E7%A4%BA%E7%8F%BE%E6%B5%81) ... 六三四の剣で日高に憧れたのは私だけではないはず
+- [モンテッソーリー](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%83%83%E3%82%BD%E3%83%BC%E3%83%AA%E6%95%99%E8%82%B2) ... みんな大好きなやつ。
+- [国産CRISPR](https://www.ims.u-tokyo.ac.jp/imsut/jp/about/press/page_00191.html)
 - パズル回
-- パズルの話半分
-- ダイアゴナル
-- boston bouldering project
-- 帯状疱疹
-- 帯状疱疹と神経痛
+- [パズルの話半分](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9hMjk1NWRlYy9wb2RjYXN0L3Jzcw) ... パズルの話を堪能しまくれる最高のポッドキャスト
+- ダイアゴナル ... キョン、フラッギング、ヒールフック、などなどを覚えながら地味にやっている。行っているジムだとV1は大体できるようになって、V2に挑戦中。
+- [Boston Bouldering Project](https://bostonboulderingproject.com/) ... 最高
+- [帯状疱疹](https://taijouhoushin-yobou.jp/) ... みんな気をつけよう。
 - SF6
 - 愛しさと切なさと心強さと
 - SF6は過去最高傑作 by Daigo Umehara
