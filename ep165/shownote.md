@@ -45,6 +45,7 @@ title: 165. Spiritual Warrior
 - ダイアゴナル ... キョン、フラッギング、ヒールフック、などなどを覚えながら地味にやっている。行っているジムだとV1は大体できるようになって、V2に挑戦中。
 - [Boston Bouldering Project](https://bostonboulderingproject.com/) ... 最高
 - [帯状疱疹](https://taijouhoushin-yobou.jp/) ... みんな気をつけよう。
+- 緊急 ... ER, 緊急じゃなくて救急
 - [SF6](https://www.streetfighter.com/6) ... 過去最高傑作との呼び声も高い。
 - [篠原涼子 with t.komuro / 恋しさと せつなさと 心強さと 2023](https://www.youtube.com/watch?v=oBE4lGvGUVg&ab_channel=avex)
 - researchat Dojo
