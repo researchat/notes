@@ -63,6 +63,7 @@ title: 165. Spiritual Warrior
 - [evo2023](https://www.evo.gg/)
 - [cpt](https://sf.esports.capcom.com/cpt/)
 - SFL
+- 東大式小パン
 - モダン入力
 - クラシック入力
 - daigo umehara
