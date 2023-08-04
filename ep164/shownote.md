@@ -28,8 +28,8 @@ title: 164. Road to Grand Master
 - [EVO JAPAN](https://www.evojapan.gg/?lng=en)
 - [ヌキ](https://twitter.com/nuki2)
 - [ハイタニ](https://twitter.com/hai090)
-- researchatfm ep3
-- Road to Diamond
+- [3. Here Comes A New Challenger! (Researchat.fm)](https://researchat.fm/episode/3)
+- [85. Road to Diamond (Researchat.fm)](https://researchat.fm/episode/85)  ... Road to Diamond
 - グランドマスター ... マジですごい。
 - [メナト](https://game.capcom.com/cfn/sfv/character/menat)
 - [ローズ](https://game.capcom.com/cfn/sfv/character/rose)
@@ -44,14 +44,14 @@ title: 164. Road to Grand Master
 - [赤見かるびさんのマリーザ](https://www.youtube.com/watch?v=0XWrzw5S7nQ&ab_channel=%E8%B5%A4%E8%A6%8B%E3%81%8B%E3%82%8B%E3%81%B3%2FKarubiAkami)
 - [ジェイミー](https://www.streetfighter.com/6/ja-jp/character/jamie)
 - [レバーレスアケコン](https://goziline.com/archives/47667)
-- fusion360
-- instagram
+- [Fusion360](https://www.autodesk.com/products/fusion-360/overview)
+- [Researchat.fmのinstagram](https://www.instagram.com/researchat.fm/)
 - [Nuckledu](https://liquipedia.net/fighters/NuckleDu)
-- ゲーム攻略回
+- [109. Большая победа! (Researchat.fm)](https://researchat.fm/episode/109) ... "説明書を読むのが難しい問題、実験プロトコルの記述、ゲームのキャラクターセレクトと実験テーマ選定の類似性について話しました。"
 - [男木島](https://www.my-kagawa.jp/shimatabi/feature/shimatabi/ogijima)
-- 島の話の回
-- マリオの映画
-- Your Story
+- [20. Seen/unseen Known/unknown (Researchat.fm)](https://researchat.fm/episode/20) ... "瀬戸内海の島々（直島・女木島・男木島・豊島・犬島)、高松市をめぐる旅とアート、建築の魅力についてたっぷり話しました。"
+- [マリオの映画](https://www.nintendo.co.jp/smbmovie/)
+- [Your Story](https://en.wikipedia.org/wiki/Dragon_Quest:_Your_Story)
 
 ## Editorial Notes
 - (coela)
