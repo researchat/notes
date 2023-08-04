@@ -3,12 +3,12 @@ actor_ids:
   - coela
   - tadasu
 audio_file_path: https://traffic.libsyn.com/secure/researchat/164.mp3 
-audio_file_size: 85093010
+audio_file_size: 84929180
 date: 2023-08-04 23:42:00 +0900
 rec_date: 2023-04-22 22:00:00 +0900
 edit_by: tadasu
 description: アメリカの花粉とアレルギー、大谷選手を観戦する意義、SFVでグランドマスターに到達、ゲームのオンラインコミュニティー、学習のサイクル・方法について話しました。
-duration: "01:17:36"
+duration: "01:17:30"
 layout: article
 tags:
   - 雑談
