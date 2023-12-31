@@ -31,7 +31,7 @@ title: 166. Time-wasters
 - [ホーリーランド](https://www.amazon.co.jp/dp/B00DMULE78/)
 - [火中天津甘栗拳](https://dic.pixiv.net/a/%E7%81%AB%E4%B8%AD%E5%A4%A9%E6%B4%A5%E7%94%98%E6%A0%97%E6%8B%B3)
 - [琉球空手上地流](https://www.youtube.com/watch?v=WRAy-HqDKCk&ab_channel=MJ)
-- スターバックスは体験を売る
+- [スターバックスは体験を売る](https://medium.com/@mikethecoffeeguy/starbucks-is-not-selling-coffee-87f3ae087c5b) ... 原典どこ？
 - [163. The College on the Hill](https://researchat.fm/episode/163) ... "ボストン周辺の美術館・博物館に行った感想、北斎展、大学とQOLと街とハッピーアワーについて話しました。"
 - ルービックキューブ
 - ボルダリング
