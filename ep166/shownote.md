@@ -40,7 +40,7 @@ title: 166. Time-wasters
 - [バーバラ・マクリントック](https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88%E3%83%83%E3%82%AF)
 - スト6twitter
 - [Gilson](https://www.gilson.com/)
-- [HHK](https://www.amazon.co.jp/dp/B082TSZ27D/)
+- [HHKB](https://www.amazon.co.jp/dp/B082TSZ27D/)
 - [和田先生](https://happyhackingkb.com/jp/special/dr_wada/)
 - [馬の鞍](https://happyhackingkb.com/jp/special/dr_wada/) ...　くらでした　"アメリカ西部のカウボーイたちは、馬が死ぬと馬はそこに残していくが、どんなに砂漠を歩こうとも、鞍は自分で担いで往く。馬は消耗品であり、鞍は自分の体に馴染んだインタフェースだからだ。 いまやパソコンは消耗品であり、キーボードは大切な、生涯使えるインタフェースであることを忘れてはいけない。"
 - [あぶみ](https://ja.wikipedia.org/wiki/%E9%90%99)
