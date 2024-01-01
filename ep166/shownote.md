@@ -7,7 +7,7 @@ audio_file_size: 98619342
 date: 2024-01-01 09:00:00 +0900
 rec_date: 2023-07-02 12:00:00 +0900
 edit_by: tadasu
-description: 時間泥棒がいるとしか思えない、熱中感、K-1の思い出、スターバックスはコーヒーを売っているのではない論、　
+description: 時間泥棒がいるとしか思えない、K-1の思い出、スターバックスはコーヒーを売っているのではない論、熱中感とパチプロ演出と報酬系、献体に関する事件と人骨の売買、ミイラについて話しました。
 duration: "01:33:39"
 layout: article
 tags:
@@ -42,7 +42,8 @@ title: 166. Time-wasters
 - [和田先生](https://happyhackingkb.com/jp/special/dr_wada/)
 - [馬の鞍](https://happyhackingkb.com/jp/special/dr_wada/) ...　くらでした　"アメリカ西部のカウボーイたちは、馬が死ぬと馬はそこに残していくが、どんなに砂漠を歩こうとも、鞍は自分で担いで往く。馬は消耗品であり、鞍は自分の体に馴染んだインタフェースだからだ。 いまやパソコンは消耗品であり、キーボードは大切な、生涯使えるインタフェースであることを忘れてはいけない。"
 - [あぶみ](https://ja.wikipedia.org/wiki/%E9%90%99)
-- H大の問題
+- パチンキフィケーション
+- H大の問題 ... ご自分でご検索ください。
 - [Salem City](https://en.wikipedia.org/wiki/Salem,_Massachusetts)
 - [Peabody Essex Museum](https://www.pem.org/)
 - [モース](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BBS%E3%83%BB%E3%83%A2%E3%83%BC%E3%82%B9)
