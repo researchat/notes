@@ -61,4 +61,4 @@ title: 166. Time-wasters
 
 ## Editorial Notes
 - (coela)
-- 師走まで飛ばされてました。大晦日。(tadasu)
+- 師走まで飛ばされてました。大晦日。うー日本語めちゃくちゃ...(tadasu)
