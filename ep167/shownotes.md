@@ -5,8 +5,8 @@ actor_ids:
   - soh
 audio_file_path: https://traffic.libsyn.com/secure/researchat/167.mp3 
 audio_file_size: 53197631
-date: 2024-01-01 09:00:00 +0900
-rec_date: 2023-07-02 12:00:00 +0900
+date: 2025-02-06 09:00:00 +0900
+rec_date: 2023-01-06 12:00:00 +0900
 edit_by: tadasu
 description: 「去年」買ってよかったものについて話し合いました。
 duration: "00:56:42"
