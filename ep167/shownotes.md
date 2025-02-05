@@ -23,9 +23,9 @@ title: 167. As expected
 - 「去年」... 2022年
 - [あらBさんの記事](https://note.com/arkb/n/ne7eb81e2aa27 ) ... 最新の編集ソフトを教えてください！
 - 食洗機のいいところ ... 適当なこと言ってます。多分、熱湯使える方がでかいかも。　
-- ファイナルカレー　... 
+- [ファイナルカレー](https://negineesan.hatenablog.com/entry/2017/09/28/210531)
 - [ミキサー餅](https://cookpad.com/jp/recipes/19399894-%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC%E3%81%A8%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E7%B0%A1%E5%8D%98%E3%81%8A%E9%A4%85) ... 近いレシピがこれ。海外勢には必須のレシピ。
-OBD2 code scanner ... 
+- [OBDII code scanner](https://www.amazon.co.jp/dp/B071D57S5H) ... これか？
 - [ボルダリング] ... 下手くそだが、まだ続いている。あっさいボルダリングとクライミングの話してすいません...結局年パスも買ったし、靴も買ったし、ギアも買ったし。週3-4で行っている時期もあった。今はちょっと気合が低迷している。
 - [Jimmy Chen]
 - [Free Solo]
@@ -36,7 +36,7 @@ OBD2 code scanner ...
 - 魔封波
 - オートクレーブ
 - アケコンケース VFケース
-- アルティメットニッパー
+- [アルティメットニッパー](https://www.amazon.co.jp/dp/B0CWRYDHM2) ... ゴッドハンド！
 - Figure魂　姫ブレンド　
 - チャクラXテンション
 - トルクレンチ
