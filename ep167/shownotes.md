@@ -4,16 +4,16 @@ actor_ids:
   - tadasu
   - soh
 audio_file_path: https://traffic.libsyn.com/secure/researchat/167.mp3 
-audio_file_size: 53197631
+audio_file_size: 53027203
 date: 2025-02-06 09:00:00 +0900
 rec_date: 2023-01-06 12:00:00 +0900
 edit_by: tadasu
 description: 「去年」買ってよかったものについて話し合いました。
-duration: "00:56:42"
+duration: "00:56:03"
 layout: article
 tags:
   - 雑談
-title: 167. As expected
+title: 167. Piccolo in the instant pot
 ---
 
 ## Shownotes
