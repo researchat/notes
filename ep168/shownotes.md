@@ -5,7 +5,7 @@ actor_ids:
   - soh
 audio_file_path: https://traffic.libsyn.com/secure/researchat/168.mp3 
 audio_file_size: 36280177
-date: 2025-02-08 10:00:00 +0900
+date: 2025-02-10 10:00:00 +0900
 rec_date: 2023-01-06 13:00:00 +0900
 edit_by: tadasu
 description: 「今年」のポッドキャストの抱負について話しました。
@@ -17,12 +17,12 @@ title: 168. 4 hours podcast
 ---
 
 ## Shownotes
-- fujishimaさん
+- [Researchat.fm ep150: fujishimaさんゲスト回](https://researchat.fm/episode/150)
 - 2022年 ... だと？？？
 - 2023年の目標 ... そんなものは忘れた
-- 如意棒
-- 磁力
-- まんまるの細胞のクオラムセンシング
+- [Researchat.fm ep122: 如意棒論文紹介回](https://researchat.fm/episode/122)
+- [Researchat.fm ep141: 磁力で染色体を動かす論文紹介回](https://researchat.fm/episode/141)
+- [Researchat.fm ep143: ヒト細胞の人工クオラムセンシング](https://researchat.fm/episode/143)
 - ゲノム編集のレコーディング
 - リボザイム
 - 一年早い　... 何年遅くなったんだ...
