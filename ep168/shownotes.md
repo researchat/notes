@@ -35,28 +35,28 @@ title: 168. 4 hours podcast
 - [Researchat.fm ep72: NEBのカタログを読む回](https://researchat.fm/episode/72)
 - [EcoSal](https://www.amazon.co.jp/dp/1555810845/?tag=researchatf04-22) ... Ecoli and Salmonella 昔はこれを読み切らんと入れんラボがあったんじゃぁ
 - 教科書読んだ自慢 ... 読み切るのはすごい！興奮するのもわかるが、自慢やマウントはほどほどにしような！でも読んだのはすごいぞ！
-- 雑談さん
-- これ聞いている(2023年以前からでもOK)
-- ときど
-- ep53. Road to Rome
-- instagram
-- 質問 ...  送っていただいても答えるのは3年後です。
-- 30 episodes ... 11 episodesでした
-- いやなんかさー　...  多い(tadasu)
-- 銀魂
-- 4 hours podcast
+- [雑談さん](https://zatsudan.co.jp/)
+- これを聞いている高校生(2023年以前からでもOK)
+- [ときど](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%8D%E3%81%A9) ... 絶好調ですね！
+- [Researchat.fm ep53. ロードマップと攻略、学習回](https://researchat.fm/episode/53) ... すごいいい回なので音質なおしたい...
+- [researchatのinstagram](https://www.instagram.com/researchat.fm/)
+- [質問](https://researchat.fm/form.html) ...  送っていただいても答えるのは3年後です。それでもよければよろしくお願いします。
+- 30 episodes ... 11 episodesでした。まだでてないやつもある。
+- いやなんかさー/いや、でも　...  多い(tadasu)
+- [銀魂](https://www.amazon.co.jp/gp/product/B07J4FHWXR/?tag=researchatf04-22) ... 読んでみたい
+- 4 hours podcast ... やるんか？
 - 話したいことリスト　... え？どこにあるの？
-- LT
+- [Researchat.fm LT](https://www.youtube.com/watch?v=kKLt956ieSM&ab_channel=Researchatfm) ... できれば復活させたい。
 - スパイスカレー　... 一回も作ってない
 - メチクロさん ... ビールあざます！
 - 出し惜しみした企画 ...  どこにあるの、それ？
-- 一人エピソード
-- nakamura
+- 一人エピソード ... やってない。
+- [Researchat.fm ep136: nakamura guest回](https://researchat.fm/episode/136) ... 蜘蛛糸になぜかくわしい人
 - ヨーロッパ ... え？行ってないぞ！
 - バンクーバー ... まだ行ってない(2025)
-- YouTubeチャンネル ... 登録してください
-- ぷらんちゅ(2022)
-- 間違い探し
+- [YouTubeチャンネル](https://www.youtube.com/channel/UC2bDx3CfYJwqBKQHF-9j3FA) ... 登録してください。よろしくおねがいします。
+- [ぷらんちゅプレイ by Researchat.fm](https://www.youtube.com/watch?v=d4YMrm3OHfg) ... 2022年だと...???
+- [8番出口プレイ by Researchat.fm](https://www.youtube.com/watch?v=b0lpvIf97Kc) ... クリスマスが...!!!(いつの？？？
 - 2023(再掲)
 
 ## Editorial Notes
