@@ -20,11 +20,11 @@ title: 168. 4 hours podcast
 - [Researchat.fm ep150: fujishimaさんゲスト回](https://researchat.fm/episode/150)
 - 2022年 ... だと？？？
 - 2023年の目標 ... そんなものは忘れた
-- [Researchat.fm ep122: 如意棒論文紹介回](https://researchat.fm/episode/122)
-- [Researchat.fm ep141: 磁力で染色体を動かす論文紹介回](https://researchat.fm/episode/141)
-- [Researchat.fm ep143: ヒト細胞の人工クオラムセンシング](https://researchat.fm/episode/143)
-- ゲノム編集のレコーディング
-- リボザイム
+- [Researchat.fm ep122: 如意棒論文紹介回](https://researchat.fm/episode/122) ... 如意棒論文はNature Biotechにでた。
+- [Researchat.fm ep141: 磁力で染色体を動かす論文紹介回](https://researchat.fm/episode/141) ... 磁力で動かす染色体論文はScienceにでた。
+- [Researchat.fm ep143: ヒト細胞の人工クオラムセンシング論文紹介回](https://researchat.fm/episode/143)
+- [Researchat.fm ep123: ゲノム編集のレコーディング論文紹介回](https://researchat.fm/episode/123) ... 2022/01/01に公開したエピソード。最終的には論文は2024年にNatureに出たようだ。[こちら](https://www.nature.com/articles/s41586-024-07706-4)
+- [Researchat.fm ep135: リボザイム論文紹介回](https://researchat.fm/episode/135) ... 2023年にNature Communicationsにでた。[こちら](https://www.nature.com/articles/s41467-023-36073-3)
 - 一年早い　... 何年遅くなったんだ...
 - ミートアップ
 - 研究者以外の人
