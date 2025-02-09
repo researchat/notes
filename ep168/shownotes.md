@@ -29,12 +29,12 @@ title: 168. 4 hours podcast
 - [Researchat.fm ep153: Researchat.meetup vol.0](https://researchat.fm/episode/153)
 - 研究者以外の人 ... お話しましょう！
 - アウトリーチ ... それでやってみたのが[共通テスト](https://researchat.fm/episode/157)
-- [molecular biology of the cell (通称 The Cell)](https://www.amazon.co.jp/dp/0393884856) ... もちろんみんな読んでるよね?(震え声)
+- [molecular biology of the cell (通称 The Cell)](https://www.amazon.co.jp/dp/0393884856/?tag=researchatf04-22) ... もちろんみんな読んでるよね?(震え声)
 - [The Cellの読み方](https://x.com/researchat_fm/status/1240694813076291585) ... 私の周りの人はチャプターごとに裁断して読んでいた人が何人かいた。
 - [The Cellの使い方](https://x.com/researchat_fm/status/1491041805684850691) ... The Cellの原著はディスプレイの高さを調整するために、主に用いられます。
-- NEBのカタログ
-- EcoSal
-- 教科書読んだ自慢
+- [Researchat.fm ep72: NEBのカタログを読む回](https://researchat.fm/episode/72)
+- [EcoSal](https://www.amazon.co.jp/dp/1555810845/?tag=researchatf04-22) ... Ecoli and Salmonella 昔はこれを読み切らんと入れんラボがあったんじゃぁ
+- 教科書読んだ自慢 ... 読み切るのはすごい！興奮するのもわかるが、自慢やマウントはほどほどにしような！でも読んだのはすごいぞ！
 - 雑談さん
 - これ聞いている(2023年以前からでもOK)
 - ときど
