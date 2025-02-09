@@ -26,7 +26,7 @@ title: 167. Knapsack problem
 - [ファイナルカレー](https://negineesan.hatenablog.com/entry/2017/09/28/210531) ... これなんだろうか？作ってみたい。
 - [ミキサー餅](https://cookpad.com/jp/recipes/19399894-%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC%E3%81%A8%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%A7%E7%B0%A1%E5%8D%98%E3%81%8A%E9%A4%85) ... 近いレシピがこれ。海外勢には必須のレシピ。
 - [OBDII code scanner](https://www.amazon.co.jp/dp/B071D57S5H/?tag=researchatf04-22) ... これか？
-- [ボルダリング] ... 下手くそだが、まだ続いている。あっさいボルダリングとクライミングの話してすいません...結局年パスも買ったし、靴も買ったし、ギアも買ったし。週3-4で行っている時期もあった。今はちょっと気合が低迷している。
+- ボルダリング ... 下手くそだが、まだ続いている。あっさいボルダリングとクライミングの話してすいません...結局年パスも買ったし、靴も買ったし、ギアも買ったし。週3-4で行っている時期もあった。今はちょっと気合が低迷している。
 - [Jimmy Chin](https://en.wikipedia.org/wiki/Jimmy_Chin)
 - [Free Solo](https://films.nationalgeographic.com/free-solo) ... どこかのエピソードで話したような
 - [ボルネード](https://www.amazon.co.jp/dp/B00D7VIY5M/?tag=researchatf04-22) ... いや、すごい値段だな...
