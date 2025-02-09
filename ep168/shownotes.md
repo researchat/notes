@@ -26,11 +26,12 @@ title: 168. 4 hours podcast
 - [Researchat.fm ep123: ゲノム編集のレコーディング論文紹介回](https://researchat.fm/episode/123) ... 2022/01/01に公開したエピソード。最終的には論文は2024年にNatureに出たようだ。[こちら](https://www.nature.com/articles/s41586-024-07706-4)
 - [Researchat.fm ep135: リボザイム論文紹介回](https://researchat.fm/episode/135) ... 2023年にNature Communicationsにでた。[こちら](https://www.nature.com/articles/s41467-023-36073-3)
 - 一年早い　... 何年遅くなったんだ...
-- ミートアップ
-- 研究者以外の人
-- アウトリーチ ... それでやってみたのが共通テスト
-- molecular biology of the cell
-- THE CELL
+- [Researchat.fm ep153: Researchat.meetup vol.0](https://researchat.fm/episode/153)
+- 研究者以外の人 ... お話しましょう！
+- アウトリーチ ... それでやってみたのが[共通テスト](https://researchat.fm/episode/157)
+- [molecular biology of the cell (通称 The Cell)](https://www.amazon.co.jp/dp/0393884856) ... もちろんみんな読んでるよね?(震え声)
+- [The Cellの読み方](https://x.com/researchat_fm/status/1240694813076291585) ... 私の周りの人はチャプターごとに裁断して読んでいた人が何人かいた。
+- [The Cellの使い方](https://x.com/researchat_fm/status/1491041805684850691) ... The Cellの原著はディスプレイの高さを調整するために、主に用いられます。
 - NEBのカタログ
 - EcoSal
 - 教科書読んだ自慢
