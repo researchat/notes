@@ -5,7 +5,7 @@ actor_ids:
   - soh
 audio_file_path: https://traffic.libsyn.com/secure/researchat/168.mp3 
 audio_file_size: 36280177
-date: 2025-02-10 10:00:00 +0900
+date: 2025-02-17 05:57:00 +0900
 rec_date: 2023-01-06 13:00:00 +0900
 edit_by: tadasu
 description: 「今年」のポッドキャストの抱負について話しました。
@@ -35,9 +35,11 @@ title: 168. 4 hours podcast
 - [Researchat.fm ep72: NEBのカタログを読む回](https://researchat.fm/episode/72)
 - [EcoSal](https://www.amazon.co.jp/dp/1555810845/?tag=researchatf04-22) ... Ecoli and Salmonella 昔はこれを読み切らんと入れんラボがあったんじゃぁ
 - 教科書読んだ自慢 ... 読み切るのはすごい！興奮するのもわかるが、自慢やマウントはほどほどにしような！でも読んだのはすごいぞ！
-- [雑談さん](https://zatsudan.co.jp/)
-- これを聞いている高校生(2023年以前からでもOK)
-- [ときど](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%8D%E3%81%A9) ... 絶好調ですね！
+- [雑談](https://zatsudan.co.jp/)
+- [#6 SESSION from雑談](https://open.spotify.com/episode/0zajfbxetmvG7oUAUZ2yqW) … “雑談が発信するポッドキャスト”#from雑談”<最新話配信> 今回のSESSIONでは #Researchatfm (Tadasu / Coela) & Side by Side Radio(#sxsradio) 西園良太さんとの雑談をお届けします。"
+- [#74 | SPOTLIGHTS「お薦めポッドキャスト”日本語JoZUですね！with Mickey and Nelson /よい夜を聴いている / Researchat.fm”を語る60min」Selector:TAKANA](https://open.spotify.com/episode/5JqZVdR7J6gH6MYFDCRP0i) ... Researchat.fmをとりあげていただきありがとうございます。
+- これを聞いている高校生
+- [ときど選手](https://ja.wikipedia.org/wiki/%E3%81%A8%E3%81%8D%E3%81%A9) ... カプコンカップ全力応援！
 - [Researchat.fm ep53. ロードマップと攻略、学習回](https://researchat.fm/episode/53) ... すごいいい回なので音質なおしたい...
 - [researchatのinstagram](https://www.instagram.com/researchat.fm/)
 - [質問](https://researchat.fm/form.html) ...  送っていただいても答えるのは3年後です。それでもよければよろしくお願いします。
