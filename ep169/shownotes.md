@@ -5,20 +5,20 @@ actor_ids:
   - soh
 audio_file_path: https://traffic.libsyn.com/secure/researchat/169.mp3 
 audio_file_size: 36280177
-date: 2025-02-23 05:57:00 +0900
+date: 2025-02-23 06:05:00 +0900
 rec_date: 2024-12-15 12:00:00 +0900
 edit_by: tadasu
-description: 「今年」のポッドキャストの抱負について話しました。
+description: 2024年あたりの話をしました。
 duration: "00:34:33"
 layout: article
 tags:
   - 雑談
-title: 169. 4 hours podcast
+title: 169. Bella Coola 
 ---
 
 ## Shownotes
-- 玉木さんが予言通り音源飛ばしたので、YouTubeから音源をサルベージしました。なので音質めちゃくちゃですがすいません。
-PCが飛んだので最後は会話の途中で終わっています。
+- 玉木さんが予言通り音源飛ばしたので、YouTubeから音源をサルベージしました。なので音質めちゃくちゃですがすいません。PCが飛んだので最後は会話の途中で終わっています。
+- そのお詫びではないですが、最初の部分をカットせずに出しました。
 - [今回のエピソードは以前YouTubeで配信したものです](https://www.youtube.com/channel/UC2bDx3CfYJwqBKQHF-9j3FA) ... フォローよろしくお願いします。
 - ポッドキャストマナー ... とは一体？
 - 社会的地位 ... 以前と比べて
