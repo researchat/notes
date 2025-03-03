@@ -8,7 +8,7 @@ audio_file_size: 73188506
 date: 2025-03-04 06:05:00 +0900
 rec_date: 2024-12-15 13:00:00 +0900
 edit_by: tadasu
-description: 2024年あたりの話をしました。
+description: 最近飲んでいるコーヒー、中国への渡航、最近の趣味、納豆、実験ノートの電子化について話しました。
 duration: "01:29:12"
 layout: article
 tags:
