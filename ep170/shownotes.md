@@ -17,15 +17,14 @@ title: 170. Researnatto
 ---
 
 ## Shownotes
-- ep169 ... なんとか
-- Bella Coola ... 
-- ナイスカットミル ...
-- hario
-- ジャコウネコ
-- ゲイシャ　
-- hario v60
-- chemex
-- ジョウロ
+- [ep169](https://researchat.fm/episode/169) ... なんとか
+- Bella Coola ... 秘境。二人分の音源はあるから出せなくはない。とても短いけど。 
+- [ナイスカットミル](https://www.amazon.co.jp/dp/B08BTSNJZH)
+- [HARIO(ハリオ) コーヒーミル](https://www.amazon.co.jp/dp/B0CSD4FZ6D) ... 手でゴリゴリするやつ
+- [コピ・ルアク](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%94%E3%83%BB%E3%83%AB%E3%82%A2%E3%82%AF)
+- [ゲイシャ](https://www.keycoffee.co.jp/shallwedrip/coffeeknowledge/about-geisha-coffee/)
+- [HARIO(ハリオ) V60](https://www.amazon.co.jp/dp/B0CW124PLT)
+- [CHEMEX](https://www.amazon.co.jp/dp/B01JAO343Q) ... ケメックスこんなに高かったか...???
 - 昔のエピソード
 - ブルーバックス
 - Teaポット
