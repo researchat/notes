@@ -37,7 +37,8 @@ title: 170. Researnatto
 - [Afineur](https://www.afineur.com/) ... コピルアクにインスピレーションをうけ、バクテリアによってコーヒーを発酵させるこで新時代のコーヒーを作るスタートアップ。
 - [60. Lab meating (Researchat.fm)](https://researchat.fm/episode/60) ... "動物の体外で培養された細胞により作られた培養肉、さらに植物性の代替肉や代替卵について話しました。"
 - 人工ダイヤモンド ... デビアスの話は二回している。[12. Open Source Cola (researchat.fm)](https://researchat.fm/episode/12) [83. Nice round number (researchat.fm)](https://researchat.fm/episode/83)
-- chatgpt ... よろしく！
+- [薄れゆく天然ダイヤの「永遠の輝き」　人工ダイヤが急速にシェア拡大](https://forbesjapan.com/articles/detail/74267)
+- 2024年10月のchatgptね
 - notarize/notary ... city hallに行って$1
 - [中国ビザ無し渡航](https://www.cn.emb-japan.go.jp/itpr_ja/00_001345.html)
 - [HKST Guangzhou](https://www.hkust-gz.edu.cn/)
