@@ -19,18 +19,18 @@ title: 170. Researnatto
 ## Shownotes
 - [ep169](https://researchat.fm/episode/169) ... なんとか
 - Bella Coola ... 秘境。二人分の音源はあるから出せなくはない。とても短いけど。 
-- [ナイスカットミル](https://www.amazon.co.jp/dp/B08BTSNJZH)
-- [HARIO(ハリオ) コーヒーミル](https://www.amazon.co.jp/dp/B0CSD4FZ6D) ... 手でゴリゴリするやつ
+- [ナイスカットミル](https://www.amazon.co.jp/dp/B08BTSNJZH?tag=researchatf04-22)
+- [HARIO(ハリオ) コーヒーミル](https://www.amazon.co.jp/dp/B0CSD4FZ6D?tag=researchatf04-22) ... 手でゴリゴリするやつ
 - [コピ・ルアク](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%94%E3%83%BB%E3%83%AB%E3%82%A2%E3%82%AF)
 - [ゲイシャ](https://www.keycoffee.co.jp/shallwedrip/coffeeknowledge/about-geisha-coffee/)
-- [HARIO(ハリオ) V60](https://www.amazon.co.jp/dp/B0CW124PLT)
-- [CHEMEX](https://www.amazon.co.jp/dp/B01JAO343Q) ... ケメックスこんなに高かったか...???
+- [HARIO(ハリオ) V60](https://www.amazon.co.jp/dp/B0CW124PLT?tag=researchatf04-22)
+- [CHEMEX](https://www.amazon.co.jp/dp/B01JAO343Q?tag=researchatf04-22) ... ケメックスこんなに高かったか...???
 - [昔のエピソード](https://researchat.fm/episode/12) ... コーヒーの話何回かした気がする。
-- [ブルーバックス](https://www.amazon.co.jp/dp/B01C3P4G8G) ... この辺り読んでおきましょうや
-- [曙産業 軽くて割れない ティーポット](https://www.amazon.co.jp/dp/B01MTFMVUD) ... 持ち運びも便利で重宝してます。
+- [ブルーバックス](https://www.amazon.co.jp/dp/B01C3P4G8G?tag=researchatf04-22) ... この辺り読んでおきましょうや
+- [曙産業 軽くて割れない ティーポット](https://www.amazon.co.jp/dp/B01MTFMVUD?tag=researchatf04-22) ... 持ち運びも便利で重宝してます。
 - [飲茶のマナー](https://togetter.com/li/1130804)　... ジョジョにあった気がする
 - 365日　... それは言い過ぎ。盛りました。
-- [オキシクリーン](https://www.amazon.co.jp/dp/B09GWB7PYC)
+- [オキシクリーン](https://www.amazon.co.jp/dp/B09GWB7PYC?tag=researchatf04-22)
 - [シングルオリジン](https://www.thecoffeeshop.jp/magazine/brewguide/%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E3%81%AF%E3%81%AA%E3%81%AB%E3%81%8B/)
 - インスタントコーヒー ... みんな言うことが...
 - [Darwin's cafe](https://www.thecrimson.com/article/2022/11/15/darwins-ltd-close-all-locations/) ... ありがとう。
@@ -48,7 +48,7 @@ title: 170. Researnatto
 - 生納豆 ... 生納豆ではなかったっぽい。何か言い方があってそれを調べるとたくさんレシピが出たはず。コンタミの危険が高いから野生納豆はおすすめできない。
 - [そのへんの枯れ草で納豆を作る（デジタルリマスター版）](https://dailyportalz.jp/kiji/180302202208) ... デイリーポータル
 - [高野秀行](https://ja.wikipedia.org/wiki/%E9%AB%98%E9%87%8E%E7%A7%80%E8%A1%8C_(%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E4%BD%9C%E5%AE%B6)) ... 高野先生の納豆本おもしろい。
-- [謎のアジア納豆: そして帰ってきた〈日本納豆〉謎のアジア納豆: そして帰ってきた〈日本納豆〉](https://www.amazon.co.jp/dp/4103400714) ... 高野先生の著作。おもしろかった。結構いろいろなところで納豆が食べられているのはもやしもんにも書いてあった気がする。
+- [謎のアジア納豆: そして帰ってきた〈日本納豆〉謎のアジア納豆: そして帰ってきた〈日本納豆〉](https://www.amazon.co.jp/dp/4103400714?tag=researchatf04-22) ... 高野先生の著作。おもしろかった。結構いろいろなところで納豆が食べられているのはもやしもんにも書いてあった気がする。
 - [Aya’s Culture Kitchen](https://ayasculture.com/) ... ボストン納豆
 - 納豆のタレ ... これがなかったら食べられない
 - researchat.cook
@@ -64,7 +64,7 @@ title: 170. Researnatto
 - 盆栽genetics/genomics
 - 物作れるつーことは車組めることだよね ... 昔言われた気がする
 - 光学系のzの距離難しい ... [Egner and Hill](https://link.springer.com/chapter/10.1007/978-0-387-45524-2_20)
-- [Gilson](https://www.amazon.co.jp/dp/B09KMTMGR5) ... ピペットマン。amazonで買えるのか。
+- [Gilson](https://www.amazon.co.jp/dp/B09KMTMGR5?tag=researchatf04-22) ... ピペットマン。amazonで買えるのか。
 - 釣り　
 - 実験ノート電子化 ... 課題
 - [Docker](https://www.docker.com/)
