@@ -39,6 +39,8 @@ title: 170. Researnatto
 - 人工ダイヤモンド ... デビアスの話は二回している。[12. Open Source Cola (researchat.fm)](https://researchat.fm/episode/12) [83. Nice round number (researchat.fm)](https://researchat.fm/episode/83)
 - [薄れゆく天然ダイヤの「永遠の輝き」　人工ダイヤが急速にシェア拡大](https://forbesjapan.com/articles/detail/74267)
 - 2024年10月のchatgptね
+- 出生証明書 ... 実は日本の領事館で英語版が取れます（と言うことがわかった)
+- ビザ会社 ... 必要書類とパスポートを送れば、ビザスタンプを代わりにもらってきてくれる会社
 - notarize/notary ... city hallに行って$1
 - [中国ビザ無し渡航](https://www.cn.emb-japan.go.jp/itpr_ja/00_001345.html)
 - [HKST Guangzhou](https://www.hkust-gz.edu.cn/)
