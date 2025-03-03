@@ -73,16 +73,15 @@ title: 170. Researnatto
 - [Singularity](https://docs.sylabs.io/guides/3.0/user-guide/build_a_container.html)
 - [Weights and Biases](https://wandb.ai/site/)
 - [Notion](https://www.notion.com/)
-- labnotebook
+- [56. Readable lab notebook](https://researchat.fm/episode/56) ... "クモについて詳しいゲストを迎え、フリーハンドで丸と直線を描くトレーニング、メールで進むかまいたちの夜、自作PC、論文管理の難しさ、趣味としてのポッドキャスト、コーディング環境とWet/Dryのデータ管理について話しました。"
 - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) ... ツェッテルカステン/ゼトロカステン
 - [66. Weaving a web of ideas (Researchat.fm)](https://researchat.fm/episode/66) ... "アイデアとノートの取り方、ノートの変遷、Zettelkasten (ノート作成方法)について話しました。"
 - [Benchling](https://www.benchling.com/)
-- neuroradio
-- yorufukuro 
-- biostation
-- pocketcast
-- alphafold
-- eLife
+- [NeuroRadio](https://neuroradio.tokyo/) ... "欧州・米国在住の研究者が神経科学に関して議論するポッドキャスト"
+- [バイオステーションポッドキャスト Biostation Podcast](https://open.spotify.com/show/6K4x1QCF1FqXM3o9kFB6rE) ... "バイオステーションポッドキャストは研究やキャリア選択の裏側を可視化することを目指します。"
+- [Pocket Casts](https://pocketcasts.com/)
+- [alphafold](https://alphafold.ebi.ac.uk/)
+- [eLife](https://elifesciences.org/)
 - DEI ... トランプ政権以降もっと変わってる。
 
 ## Editorial Notes
