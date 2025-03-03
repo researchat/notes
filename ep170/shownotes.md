@@ -42,7 +42,7 @@ title: 170. Researnatto
 - 出生証明書 ... 実は日本の領事館で英語版が取れます（と言うことがわかった)
 - ビザ会社 ... 必要書類とパスポートを送れば、ビザスタンプを代わりにもらってきてくれる会社
 - notarize/notary ... city hallに行って$1
-- [中国ビザ無し渡航](https://www.cn.emb-japan.go.jp/itpr_ja/00_001345.html)
+- [中国ビザ無し渡航](https://www.cn.emb-japan.go.jp/itpr_ja/00_001345.html) ... "11月22日、中国政府は日本に対し、一般旅券保持者のビザ免除措置を適用する旨発表しました。期間は11月30日（北京時間0時）から2025年12月31日（北京時間24時）までで、ビザ免除となる滞在期間は30日以内としています。" ええ、私は12/4から渡航しました...
 - [HKST Guangzhou](https://www.hkust-gz.edu.cn/)
 - [深圳](https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%9C%B3%E5%B8%82) ... 写真たくさんある
 - BYD 
