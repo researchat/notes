@@ -35,12 +35,12 @@ title: 170. Researnatto
 - インスタントコーヒー ... みんな言うことが...
 - [Darwin's cafe](https://www.thecrimson.com/article/2022/11/15/darwins-ltd-close-all-locations/) ... ありがとう。
 - [Afineur](https://www.afineur.com/) ... コピルアクにインスピレーションをうけ、バクテリアによってコーヒーを発酵させるこで新時代のコーヒーを作るスタートアップ。
-- [60. Lab meating (Researchat.fm)] ... "動物の体外で培養された細胞により作られた培養肉、さらに植物性の代替肉や代替卵について話しました。"
+- [60. Lab meating (Researchat.fm)](https://researchat.fm/episode/60) ... "動物の体外で培養された細胞により作られた培養肉、さらに植物性の代替肉や代替卵について話しました。"
 - 人工ダイヤモンド ... デビアスの話は二回している。[12. Open Source Cola (researchat.fm)](https://researchat.fm/episode/12) [83. Nice round number (researchat.fm)](https://researchat.fm/episode/83)
 - chatgpt ... よろしく！
 - notarize/notary ... city hallに行って$1
 - [中国ビザ無し渡航](https://www.cn.emb-japan.go.jp/itpr_ja/00_001345.html)
-- [HKST Guangzhou](https://www.hkust-gz.edu.cn/0
+- [HKST Guangzhou](https://www.hkust-gz.edu.cn/)
 - [深圳](https://ja.wikipedia.org/wiki/%E6%B7%B1%E5%9C%B3%E5%B8%82) ... 写真たくさんある
 - BYD 
 - Xiaomi
@@ -60,23 +60,23 @@ title: 170. Researnatto
 - Bonsai
 - 高松 ... 盆栽
 - 樹齢 ... AIがいくら進んでも樹齢は進められないからなぁ...
-- 中国盆栽
+- 中国盆栽 ... 盆景
 - 盆栽genetics/genomics
 - 物作れるつーことは車組めることだよね ... 昔言われた気がする
-- zの距離難しい ... 
-- Gilson
+- 光学系のzの距離難しい ... [Egner and Hill](https://link.springer.com/chapter/10.1007/978-0-387-45524-2_20)
+- [Gilson](https://www.amazon.co.jp/dp/B09KMTMGR5) ... ピペットマン。amazonで買えるのか。
 - 釣り　
-- 実験ノート電子化
-- Docker
-- Conda
-- Jupiter notebook
-- Singularity https://docs.sylabs.io/guides/3.0/user-guide/build_a_container.html
-- weights and bias
-- notion
+- 実験ノート電子化 ... 課題
+- [Docker](https://www.docker.com/)
+- [Conda](https://anaconda.org/anaconda/conda)
+- [Jupyter notebook](https://jupyter.org/)
+- [Singularity](https://docs.sylabs.io/guides/3.0/user-guide/build_a_container.html)
+- [Weights and Biases](https://wandb.ai/site/)
+- [Notion](https://www.notion.com/)
 - labnotebook
 - [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) ... ツェッテルカステン/ゼトロカステン
-- weaving web of ideas
-- benchling
+- [66. Weaving a web of ideas (Researchat.fm)](https://researchat.fm/episode/66) ... "アイデアとノートの取り方、ノートの変遷、Zettelkasten (ノート作成方法)について話しました。"
+- [Benchling](https://www.benchling.com/)
 - neuroradio
 - yorufukuro 
 - biostation
