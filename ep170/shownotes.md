@@ -5,7 +5,7 @@ actor_ids:
   - soh
 audio_file_path: https://traffic.libsyn.com/secure/researchat/170.mp3 
 audio_file_size: 73188506
-date: 2025-03-04 06:05:00 +0900
+date: 2025-03-04 22:45:00 +0900
 rec_date: 2024-12-15 13:00:00 +0900
 edit_by: tadasu
 description: 最近飲んでいるコーヒー、中国への渡航、最近の趣味、納豆、実験ノートの電子化について話しました。
@@ -87,6 +87,7 @@ title: 170. Researnatto
 - [alphafold](https://alphafold.ebi.ac.uk/)
 - [eLife](https://elifesciences.org/)
 - DEI ... トランプ政権以降もっと変わってる。
+- 2024/2025年度版 ... 2024/2025年版
 
 ## Editorial Notes
 - blrblrblr(coela)
